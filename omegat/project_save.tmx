@@ -78,6 +78,38 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>###### 1. DESCRIBE WHAT YOU WANT TO DO, AND HOW YOU DO IT.</seg>
+      </tuv>
+      <tuv lang="uk" changeid="darkmentat" changedate="20220516T235657Z" creationid="darkmentat" creationdate="20220516T235657Z">
+        <seg>###### 1. ОПИШІТЬ ЩО ВИ ХОЧЕТЕ ДОСЯГТИ І ЯКИМ ЧИНОМ</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>###### 2. PICK THE MOST APPROPRIATE OF THE FOUR ATTRIBUTES.</seg>
+      </tuv>
+      <tuv lang="uk" changeid="darkmentat" changedate="20220516T235722Z" creationid="darkmentat" creationdate="20220516T235705Z">
+        <seg>###### 2. ВИБЕРІТЬ НАЙБІЛЬШ ПІДХОДЯЩИЙ З ЧОТИРЬОХ АТРИБУТІВ</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>###### 3. TALK ABOUT THE POTENTIAL OUTCOMES.</seg>
+      </tuv>
+      <tuv lang="uk" changeid="darkmentat" changedate="20220516T235732Z" creationid="darkmentat" creationdate="20220516T235732Z">
+        <seg>###### 3. ОГОВОРІТЬ МОЖЛИВІ НАСЛІДКИ</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>###### 4. ROLL THE DICE!</seg>
+      </tuv>
+      <tuv lang="uk" changeid="darkmentat" changedate="20220516T235741Z" creationid="darkmentat" creationdate="20220516T235741Z">
+        <seg>###### 4. КИДАЙТЕ КУБИ!</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>###### CREDIT DUE</seg>
       </tuv>
       <tuv lang="uk" changeid="darkmentat" changedate="20220516T235154Z" creationid="darkmentat" creationdate="20220516T235154Z">
@@ -205,11 +237,54 @@ health.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>If the GM decides that it is risky or
+uncertain enough to warrant a roll, go
+to step 2. Otherwise, the GM will tell
+you what happens.</seg>
+      </tuv>
+      <tuv lang="uk" changeid="darkmentat" changedate="20220516T235701Z" creationid="darkmentat" creationdate="20220516T235701Z">
+        <seg>Якщо майстер вирішить, що це може бути ризиково чи успіхи досить сумнівні, щоб кидати куби, то перейдіть до кроку 2. Інашке майстер опише що сталось далі.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>If you play Offworlders, please let me know what
 you think! Talk to me on Twitter at @chrisperry wolf.</seg>
       </tuv>
       <tuv lang="uk" changeid="darkmentat" changedate="20220516T235214Z" creationid="darkmentat" creationdate="20220516T235214Z">
         <seg>Якщо ви граєте в Offworlders, то поділіться своїми враженнями! Напишіть мені в Twitter: @chrisperry_wolf.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>ON A 10 OR HIGHER: Success. You
+get what you want.</seg>
+      </tuv>
+      <tuv lang="uk" changeid="darkmentat" changedate="20220516T235750Z" creationid="darkmentat" creationdate="20220516T235750Z">
+        <seg>ПРИ 10 АБО ВИЩЕ: Успіх. Ви добились чого хотіли.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>ON A 6-, A miss. You probably don’t
+get what you want, and the GM will
+make your life more complicated.
+They’ll tell you exactly what happens.
+The good news is you earn 1 XP.</seg>
+      </tuv>
+      <tuv lang="uk" changeid="darkmentat" changedate="20220516T235758Z" creationid="darkmentat" creationdate="20220516T235758Z">
+        <seg>ПРИ 6-: Провал. Ви ймавірно не тільки не добились бажаного, але майстер ще й ускладнить ваше життя якимось чином. Але є і добрі новини, ви отримаєте 1 досвід!</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>ON A 7-9: Complication. You get what
+you want, but at some cost, reduced
+effect, difficult choice, or harm. The
+GM will tell you what.</seg>
+      </tuv>
+      <tuv lang="uk" changeid="darkmentat" changedate="20220516T235753Z" creationid="darkmentat" creationdate="20220516T235753Z">
+        <seg>ПРИ 7-9: Ускладнення. Загалом ви добились бажаного, проте нелегкою ціною, в недостатній мірі, ставши перед важким вибором чи отримавши ушкодження. Майстер визначить перед чим саме.</seg>
       </tuv>
     </tu>
     <tu>
@@ -243,6 +318,16 @@ ia Gulin, David Kenyon, and Steve Kilian</seg>
       </tuv>
       <tuv lang="uk" changeid="darkmentat" changedate="20220516T235220Z" creationid="darkmentat" creationdate="20220516T235220Z">
         <seg>Плейтестери: Chris Darden, Cameron Farrell, Olivia Gulin, David Kenyon, and Steve Kilian.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Roll **2D6** , add them together, and add
+the relevant attribute. Use the total to
+determine how successful you are.</seg>
+      </tuv>
+      <tuv lang="uk" changeid="darkmentat" changedate="20220516T235744Z" creationid="darkmentat" creationdate="20220516T235744Z">
+        <seg>Киньте **2к6**, складіть випавші значення та додайте підходящий атрибут. Сумарний результат визначить наскільки сприятливою буде розвитой ситуації.</seg>
       </tuv>
     </tu>
     <tu>
@@ -319,6 +404,31 @@ else to speak up.</seg>
       </tuv>
       <tuv lang="uk" changeid="darkmentat" changedate="20220516T235317Z" creationid="darkmentat" creationdate="20220516T235317Z">
         <seg>На відміну багатьох інших ігор, тут не потрібно робити формальних ходів в чіткому порядку. Гра має йти природньо і нехай той, хто в центрі подій опише дії свого персонажа, а якщо він занадто довго в центрі уваги, то хай гравець передасть слово іншому.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Usually it will be obvious, but if it isn’t,
+the GM makes the final call.</seg>
+      </tuv>
+      <tuv lang="uk" changeid="darkmentat" changedate="20220516T235713Z" creationid="darkmentat" creationdate="20220516T235713Z">
+        <seg>Зазвичай це рішення очевидне, але якщо ні — останнє слово за майстром.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>What might happen if you fail? What
+are some potential complications? If
+you want to turn back now, or try a
+different strategy, you may. The GM
+doesn’t have to say exactly what will
+happen, but should always be honest
+about potential consequences before-
+hand so the player knows what they
+are facing.</seg>
+      </tuv>
+      <tuv lang="uk" changeid="darkmentat" changedate="20220516T235737Z" creationid="darkmentat" creationdate="20220516T235737Z">
+        <seg>Що станеться у випадку провалу? Якими можуть бути ускладнення? Тут за бажанням ви можете відступити чи обрати іншу стратегію. Майстер не зобов'язаний сказати що саме може далі трапитись, але він має бути чесним про маштаб можливих наслідків, щоб гравці розуміли серйозність ситуації.</seg>
       </tuv>
     </tu>
     <tu>
