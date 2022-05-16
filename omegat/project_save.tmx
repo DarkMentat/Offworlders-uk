@@ -14,10 +14,34 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>### PLAYING THE GAME</seg>
+      </tuv>
+      <tuv lang="uk" changeid="darkmentat" changedate="20220516T235232Z" creationid="darkmentat" creationdate="20220516T235232Z">
+        <seg>### ПРАВИЛА ГРИ</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>### WELCOME TO OFFWORLDERS</seg>
       </tuv>
       <tuv lang="uk" changeid="darkmentat" changedate="20220516T235042Z" creationid="darkmentat" creationdate="20220516T235042Z">
         <seg>### ВІТАННЯ КРАЄХОДЦЯМ</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>#### THE CONVERSATION</seg>
+      </tuv>
+      <tuv lang="uk" changeid="darkmentat" changedate="20220516T235256Z" creationid="darkmentat" creationdate="20220516T235256Z">
+        <seg>#### РОЗМОВА</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>#### WHAT YOU NEED</seg>
+      </tuv>
+      <tuv lang="uk" changeid="darkmentat" changedate="20220516T235236Z" creationid="darkmentat" creationdate="20220516T235236Z">
+        <seg>#### ЩО НЕОБХІДНО ДЛЯ ГРИ</seg>
       </tuv>
     </tu>
     <tu>
@@ -38,6 +62,56 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>###### CREDIT DUE</seg>
+      </tuv>
+      <tuv lang="uk" changeid="darkmentat" changedate="20220516T235154Z" creationid="darkmentat" creationdate="20220516T235154Z">
+        <seg>###### ПОДЯКА</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>- These rules
+- Two to four other people
+- Some six-sided dice. You can play with just two, but two or three per player is best.
+- Pencils and paper
+- An Offworlders character sheet for each player, and one ship sheet. You can get these at **chrispwolf.com/offworlders**</seg>
+      </tuv>
+      <tuv lang="uk" changeid="darkmentat" changedate="20220516T235249Z" creationid="darkmentat" creationdate="20220516T235249Z">
+        <seg>- Ці правила
+- Від двух до чотирьох друзів
+- Декілька шестигранних кубиків. Досить буде двух, але краще, щоб у кожного гравця було по парі.
+- Олівці та папір
+- По листу персонажа для кожного гравця, а також один лист корабля. Ви можете знайти їх тут: **chrispwolf.com/offworlders***</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>A game of _Offworlders_ is a conversation.
+The game master will describe the
+scene around the player characters,
+populating it with details and peo-
+ple. The players will respond to that
+world, describing how their characters
+interact with it, asking the GM about
+details, and saying what their charac-
+ters say to each other and the NPC’s.</seg>
+      </tuv>
+      <tuv lang="uk" changeid="darkmentat" changedate="20220516T235301Z" creationid="darkmentat" creationdate="20220516T235301Z">
+        <seg>Гра в Краєходцях — це перш за все розмова. Майстер гри описує ситуацію навколо персонажа гравця та наповнює її людьми та деталями. Гравці ж у відповідь описують як діють їх персонажі, можливо уточнюють в майстра деталі, а також озвучують, що їх персонажі кажуть іншим персонажам.
+</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>If you play Offworlders, please let me know what
+you think! Talk to me on Twitter at @chrisperry wolf.</seg>
+      </tuv>
+      <tuv lang="uk" changeid="darkmentat" changedate="20220516T235214Z" creationid="darkmentat" creationdate="20220516T235214Z">
+        <seg>Якщо ви граєте в Offworlders, то поділіться своїми враженнями! Напишіть мені в Twitter: @chrisperry_wolf.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Offworlders is a science fiction roleplaying game about adventurers, outlaws,
 and guns-for-hire making their fortune on the rough end of the galaxy. It is
 designed to be straightforward enough to pick up and be ready to play in just a
@@ -46,6 +120,15 @@ as well.</seg>
       </tuv>
       <tuv lang="uk" changeid="darkmentat" changedate="20220516T235048Z" creationid="darkmentat" creationdate="20220516T235048Z">
         <seg>Краєходці — це науково-фантастична рольова гра про шукачів пригод, найманців та вигнанців, що намагаються розбагатіти в найжорсткіших окраїнах галактики. Гра задумана так, щоб в неї легко можна було зіграти одну зустріч з мінімальною підготовкою, але в той же час вона могла потягнути і невеличку кампанію..</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Playtesters: Chris Darden, Cameron Farrell, Oliv-
+ia Gulin, David Kenyon, and Steve Kilian</seg>
+      </tuv>
+      <tuv lang="uk" changeid="darkmentat" changedate="20220516T235220Z" creationid="darkmentat" creationdate="20220516T235220Z">
+        <seg>Плейтестери: Chris Darden, Cameron Farrell, Olivia Gulin, David Kenyon, and Steve Kilian.</seg>
       </tuv>
     </tu>
     <tu>
@@ -71,6 +154,29 @@ verse, completing profitable jobs and overcoming dangers.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>To play Offworlders you’ll need:</seg>
+      </tuv>
+      <tuv lang="uk" changeid="darkmentat" changedate="20220516T235243Z" creationid="darkmentat" creationdate="20220516T235243Z">
+        <seg>Для гри в Краєходців вам потрібно:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Unlike many other games, you’ll
+never split up into a specific order to
+take formal turns. Just let things flow
+naturally, and let whoever the action
+is centered on describe what their
+character does. If you’ve been in the
+spotlight for a while, invite someone
+else to speak up.</seg>
+      </tuv>
+      <tuv lang="uk" changeid="darkmentat" changedate="20220516T235317Z" creationid="darkmentat" creationdate="20220516T235317Z">
+        <seg>На відміну багатьох інших ігор, тут не потрібно робити формальних ходів в чіткому порядку. Гра має йти природньо і нехай той, хто в центрі подій опише дії свого персонажа, а якщо він занадто довго в центрі уваги, то хай гравець передасть слово іншому.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>You’ll fly between planets, taking on the dangerous work that no one else wants.
 You’ll fight ruthless pirates, explore drifting derelicts, and go toe-to-toe with
 weird alien monsters, just to make enough credits to keep your ship flying.
@@ -80,6 +186,50 @@ other and grow together.</seg>
       </tuv>
       <tuv lang="uk" changeid="darkmentat" changedate="20220516T235103Z" creationid="darkmentat" creationdate="20220516T235103Z">
         <seg>Ви будете подорожувати планетами та братись за роботу, за яку інші не візьмуться. Ви будете битись з безжальними піратами, досліджувати покинуті станції та зіткнитесь віч на віч з химерними позапланетними істотами. І все заради того, щоб мати достатньо коштів на наступну подорож. Ви будете долати незгоди тримаючись на волоску від смерті, але зрештою ставати все сильнішими. В довгих подорожах ваші персонажі будуть пізнавати один одного і зростати разом.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>You’ll take turns, but you’ll take turns
+like you do in a conversation. Sometimes
+you’ll speak for longer to get something
+done, and often you’ll step back to let
+someone else have the spotlight.</seg>
+      </tuv>
+      <tuv lang="uk" changeid="darkmentat" changedate="20220516T235308Z" creationid="darkmentat" creationdate="20220516T235308Z">
+        <seg>Ви будете діяти по-черзі, в тій же мірі як в розмові ви висловлюєтесь по-черзі. Часом хтось буде говорити довше, а часом потрібно буде відступити і дати слово іншому.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>_Offworlders_ is a game by Chris Wolf.
+Illustrations &amp; book design by Olivia Gulin.</seg>
+      </tuv>
+      <tuv lang="uk" changeid="darkmentat" changedate="20220516T235159Z" creationid="darkmentat" creationdate="20220516T235159Z">
+        <seg>_Offworlders_ — гра за авторством Кріса Вульфа. Ілюстрації та дизайн книги виконані Олівією Гулін.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>_Offworlders_ is inspired by _World of Dungeons_ by
+John Harper. It also owes inspiration to _Dungeon
+World_ by Sage Latorra and Adam Koebel, as well
+as _Traveller_ by Marc Miller and _Stars Without Num-
+ber_ by Kevin Crawford.</seg>
+      </tuv>
+      <tuv lang="uk" changeid="darkmentat" changedate="20220516T235205Z" creationid="darkmentat" creationdate="20220516T235205Z">
+        <seg>На розробку _Offworlders_ надихнула гра _World of Dungeons_ Джона Харпера. Також серед джерел надхнення варто зазначити _Dungeon World_ Сейжа Латорра та Адама Кєбеля, а також _Traveller_ Марка Міллера та _Stars Without Number_ Кевіка Кроуфорда.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>_Offworlders_ is licensed under a Creative Commons
+Attribution License:
+https://creativecommons.org/licenses/by/3.0/us/
+legalcode</seg>
+      </tuv>
+      <tuv lang="uk" changeid="darkmentat" changedate="20220516T235227Z" creationid="darkmentat" creationdate="20220516T235227Z">
+        <seg>_Offworlders_ is licensed under a Creative Commons Attribution License: https://creativecommons.org/licenses/by/3.0/us/</seg>
       </tuv>
     </tu>
 <!-- Alternative translations -->
