@@ -30,6 +30,22 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>#### BASIC TERMS</seg>
+      </tuv>
+      <tuv lang="uk" changeid="darkmentat" changedate="20220516T235347Z" creationid="darkmentat" creationdate="20220516T235347Z">
+        <seg>#### ОСНОВНІ ТЕРМІНИ</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>#### ROLLING THE DICE</seg>
+      </tuv>
+      <tuv lang="uk" changeid="darkmentat" changedate="20220516T235525Z" creationid="darkmentat" creationdate="20220516T235525Z">
+        <seg>#### КИДАЄМО КУБИКИ</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>#### THE CONVERSATION</seg>
       </tuv>
       <tuv lang="uk" changeid="darkmentat" changedate="20220516T235256Z" creationid="darkmentat" creationdate="20220516T235256Z">
@@ -70,6 +86,49 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>**Character:** Any fictional person in the
+story, either a PC or an NPC.</seg>
+      </tuv>
+      <tuv lang="uk" changeid="darkmentat" changedate="20220516T235418Z" creationid="darkmentat" creationdate="20220516T235418Z">
+        <seg>**Персонаж:** Будь-яка вигадана особа у грі, під контролем гравця чи майстра.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>**Game Master, or GM:** The player who
+takes on the role of the game world
+and everyone in it who isn’t a Player
+Character.</seg>
+      </tuv>
+      <tuv lang="uk" changeid="darkmentat" changedate="20220516T235412Z" creationid="darkmentat" creationdate="20220516T235412Z">
+        <seg>**Майстер гри, або просто майстер:** Гравець, що відповідає за ігровий світ та тих персонажів, що не контролюються іншими гравцями.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>**Non-Player Characters, or NPC's:**
+Characters controlled by the GM. The
+allies and enemies of the PC’s, as well
+as the civilians and other tertiary
+characters of the world.</seg>
+      </tuv>
+      <tuv lang="uk" changeid="darkmentat" changedate="20220516T235424Z" creationid="darkmentat" creationdate="20220516T235424Z">
+        <seg>**Персонажі майстра:**
+Персонажі під контролем майстра. Союзники та вороги персонажів гравців, а також всі неважливі цивіли та другорядні персонажі світу.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>**Player:** One of the people at the table,
+playing the game. This includes the
+Game Master.</seg>
+      </tuv>
+      <tuv lang="uk" changeid="darkmentat" changedate="20220516T235405Z" creationid="darkmentat" creationdate="20220516T235405Z">
+        <seg>**Гравець:** Один з тих, хто грає в гру, включаючи майстра гри.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>- These rules
 - Two to four other people
 - Some six-sided dice. You can play with just two, but two or three per player is best.
@@ -103,6 +162,49 @@ ters say to each other and the NPC’s.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Ability: A special action or stunt that a
+PC can perform. Each PC begins with
+two abilities.</seg>
+      </tuv>
+      <tuv lang="uk" changeid="darkmentat" changedate="20220516T235458Z" creationid="darkmentat" creationdate="20220516T235458Z">
+        <seg>**Талант:** Спеціальна дія чи трюк, котрі може виконати пероснаж. Кожен персонаж гравця починає з двума талантами.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Attribute: A number, usually between
+-1 and +3, that describes a PC’s raw
+talent in a broad area. There are four
+attributes, detailed later.</seg>
+      </tuv>
+      <tuv lang="uk" changeid="darkmentat" changedate="20220516T235438Z" creationid="darkmentat" creationdate="20220516T235438Z">
+        <seg>**Атрибут:** Число, зазвичай від -1 до +3, що визначає загальні вміння персонажа гравця в деякій обсласті. В грі є чотири атрибута, про них трохи згодом.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>D6: A single, 6-sided die. Usually you’ll
+roll two of these and add them togeth-
+er, along with an attribute. Sometimes
+you’ll roll just one.</seg>
+      </tuv>
+      <tuv lang="uk" changeid="darkmentat" changedate="20220516T235513Z" creationid="darkmentat" creationdate="20220516T235513Z">
+        <seg>**К6:** Один шестигранний кубик. Зазвичай вам потрібно буде кинути два таких і до сумми додати атрибут. Іноді потрібно буде кинути тільки один.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Health: A number representing how
+physically resilient a PC is. When a PC
+takes damage, it reduces their current
+health.</seg>
+      </tuv>
+      <tuv lang="uk" changeid="darkmentat" changedate="20220516T235450Z" creationid="darkmentat" creationdate="20220516T235450Z">
+        <seg>**Здоров'я:** Число, що відображає фізичну стійкість персонажа гравця. Коли персонаж отримує пошкодження, його значення здоров'я зменшується.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>If you play Offworlders, please let me know what
 you think! Talk to me on Twitter at @chrisperry wolf.</seg>
       </tuv>
@@ -124,11 +226,47 @@ as well.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Player Characters, or PC’s: The pro-
+tagonists of Offworlders. Each player
+besides the game master controls one
+Player Character, describing that char-
+acter’s actions and thoughts.</seg>
+      </tuv>
+      <tuv lang="uk" changeid="darkmentat" changedate="20220516T235430Z" creationid="darkmentat" creationdate="20220516T235430Z">
+        <seg>**Персонажі гравців:** Головні герої гри. Кожен гравець контролює свого персонажа та описує їх роздуми, слова та дії.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Playtesters: Chris Darden, Cameron Farrell, Oliv-
 ia Gulin, David Kenyon, and Steve Kilian</seg>
       </tuv>
       <tuv lang="uk" changeid="darkmentat" changedate="20220516T235220Z" creationid="darkmentat" creationdate="20220516T235220Z">
         <seg>Плейтестери: Chris Darden, Cameron Farrell, Olivia Gulin, David Kenyon, and Steve Kilian.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Rolling The Dice: When a PC does
+something dangerous, contested, or
+uncertain, their player must Roll the
+Dice, as described below. The GM nev-
+er has to Roll the Dice.</seg>
+      </tuv>
+      <tuv lang="uk" changeid="darkmentat" changedate="20220516T235507Z" creationid="darkmentat" creationdate="20220516T235507Z">
+        <seg>**Кидок кубів:** Коли персонаж гравця має здійснити щось небеспечне, змагається з кимось чи результат загалом непевний, гравець має здійснити кидок кубів, як описано нижче.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Skill: One of the skills in the game,
+which a PC either has or does not.
+Skills represent training in specific
+areas of expertise. Each PC begins
+with two skills.</seg>
+      </tuv>
+      <tuv lang="uk" changeid="darkmentat" changedate="20220516T235444Z" creationid="darkmentat" creationdate="20220516T235444Z">
+        <seg>**Вміння:** Одне з тих вмінь у грі, котрими можуть володіти чи не володіти пероснажі гравців. Вони відображають кваліфікації в деякій вузькій області експертизи. Персонажі гравців починають з двума вміннями.</seg>
       </tuv>
     </tu>
     <tu>
@@ -140,6 +278,14 @@ sion or as a campaign.</seg>
       </tuv>
       <tuv lang="uk" changeid="darkmentat" changedate="20220516T235113Z" creationid="darkmentat" creationdate="20220516T235113Z">
         <seg>Перша частина книжки опише загальні правила, котрим має слідувати кожен. Друга частина адресована тільки майстру гри та містить правила та настанови щодо гри як для одиночної зустрічі, так і для кампанії.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>The following terms mean specific things within the game, and will be used throughout the rules.</seg>
+      </tuv>
+      <tuv lang="uk" changeid="darkmentat" changedate="20220516T235354Z" creationid="darkmentat" creationdate="20220516T235354Z">
+        <seg>Наступні терміни мають своє значення в грі і будуть використовуватись протягом опису правил.</seg>
       </tuv>
     </tu>
     <tu>
@@ -173,6 +319,27 @@ else to speak up.</seg>
       </tuv>
       <tuv lang="uk" changeid="darkmentat" changedate="20220516T235317Z" creationid="darkmentat" creationdate="20220516T235317Z">
         <seg>На відміну багатьох інших ігор, тут не потрібно робити формальних ходів в чіткому порядку. Гра має йти природньо і нехай той, хто в центрі подій опише дії свого персонажа, а якщо він занадто довго в центрі уваги, то хай гравець передасть слово іншому.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>When a player character does something dangerous, uncertain, or contested, use the dice to find out how
+well it goes. You’ll roll the dice and add one of your attributes to get a final result, then use that result to
+figure out what happens next.</seg>
+      </tuv>
+      <tuv lang="uk" changeid="darkmentat" changedate="20220516T235534Z" creationid="darkmentat" creationdate="20220516T235534Z">
+        <seg>Коли персонаж гравця займається чимось небезпечний, коли він змагається з кимось чи результат дій непевен, зверніться до ігрових кубиків щоб дізнатись як добре йдуть справи. Потрібно буде кинути кості, додати до сумарного результата значення підходящого атрибуту і використати результат, щоб визначити що станеться далі.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>XP: Experience Points. Characters
+earn XP during play, and can spend XP
+to gain new abilities, and to increase
+their attributes.</seg>
+      </tuv>
+      <tuv lang="uk" changeid="darkmentat" changedate="20220516T235518Z" creationid="darkmentat" creationdate="20220516T235518Z">
+        <seg>**ПД:** Пункти досвіду. Протягом гри персонажі будуть заробляти пункти досвіду, щоб потратити їх на нові таланти чи щоб покращити атрибути.</seg>
       </tuv>
     </tu>
     <tu>
