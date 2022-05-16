@@ -1,0 +1,15 @@
+OFFWORLDERS	КРАЄХОДЦІ
+Offworlders	Краєходці
+player	гравець
+Game Master	Майстер гри
+GM	майстер
+Character	Персонаж
+PC	персонаж гравця
+NPC	персонаж майстра
+Non-Player Character	персонаж майстра
+Player Character	персонаж гравця
+Attribute	Атрибут
+Skill	Вміння
+Health	Здоров'я
+Ability	Талант
+Success	Успіх
