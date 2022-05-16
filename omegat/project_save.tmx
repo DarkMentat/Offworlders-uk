@@ -20,6 +20,14 @@
         <seg>##### КРІС ВУЛЬФ</seg>
       </tuv>
     </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>##### OLIVIA GULIN</seg>
+      </tuv>
+      <tuv lang="uk" changeid="darkmentat" changedate="20220516T234846Z" creationid="darkmentat" creationdate="20220516T234846Z">
+        <seg>##### ОЛІВІЯ ГУЛІН</seg>
+      </tuv>
+    </tu>
 <!-- Alternative translations -->
   </body>
 </tmx>
