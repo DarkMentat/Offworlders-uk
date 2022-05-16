@@ -14,6 +14,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>### WELCOME TO OFFWORLDERS</seg>
+      </tuv>
+      <tuv lang="uk" changeid="darkmentat" changedate="20220516T235042Z" creationid="darkmentat" creationdate="20220516T235042Z">
+        <seg>### ВІТАННЯ КРАЄХОДЦЯМ</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>##### CHRIS P. WOLF</seg>
       </tuv>
       <tuv lang="uk" changeid="darkmentat" changedate="20220516T233908Z" creationid="darkmentat" creationdate="20220516T233908Z">
@@ -26,6 +34,52 @@
       </tuv>
       <tuv lang="uk" changeid="darkmentat" changedate="20220516T234846Z" creationid="darkmentat" creationdate="20220516T234846Z">
         <seg>##### ОЛІВІЯ ГУЛІН</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Offworlders is a science fiction roleplaying game about adventurers, outlaws,
+and guns-for-hire making their fortune on the rough end of the galaxy. It is
+designed to be straightforward enough to pick up and be ready to play in just a
+few minutes as a one-off game, but with enough meat to play a short campaign
+as well.</seg>
+      </tuv>
+      <tuv lang="uk" changeid="darkmentat" changedate="20220516T235048Z" creationid="darkmentat" creationdate="20220516T235048Z">
+        <seg>Краєходці — це науково-фантастична рольова гра про шукачів пригод, найманців та вигнанців, що намагаються розбагатіти в найжорсткіших окраїнах галактики. Гра задумана так, щоб в неї легко можна було зіграти одну зустріч з мінімальною підготовкою, але в той же час вона могла потягнути і невеличку кампанію..</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>The first part of this book describes the general rules that everyone at the table
+will use to play. The second part is addressed directly to the game master, and
+contains rules and guidelines for running Offworlders, either as a single ses-
+sion or as a campaign.</seg>
+      </tuv>
+      <tuv lang="uk" changeid="darkmentat" changedate="20220516T235113Z" creationid="darkmentat" creationdate="20220516T235113Z">
+        <seg>Перша частина книжки опише загальні правила, котрим має слідувати кожен. Друга частина адресована тільки майстру гри та містить правила та настанови щодо гри як для одиночної зустрічі, так і для кампанії.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>The player characters in Offworlders are the owners of a small starship in a
+time when humans have spread to many worlds. Together, they explore the uni-
+verse, completing profitable jobs and overcoming dangers.</seg>
+      </tuv>
+      <tuv lang="uk" changeid="darkmentat" changedate="20220516T235057Z" creationid="darkmentat" creationdate="20220516T235057Z">
+        <seg>Персонажі гравців в Краєходцях володіють невеликим зорельотом в часи, коли людство розселилось велитенською кількістю світів. Разом вони досліджують всесвіт, виконують вигідні замовлення та долають небезпеки.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>You’ll fly between planets, taking on the dangerous work that no one else wants.
+You’ll fight ruthless pirates, explore drifting derelicts, and go toe-to-toe with
+weird alien monsters, just to make enough credits to keep your ship flying.
+You’ll overcome these challenges by the skin of your teeth and come out stron-
+ger on the other side. On long voyages, your characters will learn about each
+other and grow together.</seg>
+      </tuv>
+      <tuv lang="uk" changeid="darkmentat" changedate="20220516T235103Z" creationid="darkmentat" creationdate="20220516T235103Z">
+        <seg>Ви будете подорожувати планетами та братись за роботу, за яку інші не візьмуться. Ви будете битись з безжальними піратами, досліджувати покинуті станції та зіткнитесь віч на віч з химерними позапланетними істотами. І все заради того, щоб мати достатньо коштів на наступну подорож. Ви будете долати незгоди тримаючись на волоску від смерті, але зрештою ставати все сильнішими. В довгих подорожах ваші персонажі будуть пізнавати один одного і зростати разом.</seg>
       </tuv>
     </tu>
 <!-- Alternative translations -->
