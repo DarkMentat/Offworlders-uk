@@ -237,6 +237,18 @@ health.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>IF BOTH DICE COME UP WITH 6’S,
+Critical Success! You get what you
+want, and something extra. You and
+the GM should come up with an appro-
+priate bonus or extra effect.</seg>
+      </tuv>
+      <tuv lang="uk" changeid="darkmentat" changedate="20220517T002313Z" creationid="darkmentat" creationdate="20220517T002313Z">
+        <seg>ЯКЩО ВИПАЛИ ДВІ ШІСТКИ, це означає критичний успіх. Ви отримуєте що хотіли, а також щось понад те! Вам з майстром варто обговорити якийсь слушний бонус чи додатковий ефект.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>If the GM decides that it is risky or
 uncertain enough to warrant a roll, go
 to step 2. Otherwise, the GM will tell
