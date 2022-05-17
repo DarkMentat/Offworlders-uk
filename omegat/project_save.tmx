@@ -260,6 +260,18 @@ you what happens.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>If you have a skill relevant to the
+current situation, you may choose
+to reroll one of the dice, but you must
+take the second roll. Use the new total
+for your result.</seg>
+      </tuv>
+      <tuv lang="uk" changeid="darkmentat" changedate="20220517T002759Z" creationid="darkmentat" creationdate="20220517T002759Z">
+        <seg>Якщо у вас є підходяще вміння....</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>If you play Offworlders, please let me know what
 you think! Talk to me on Twitter at @chrisperry wolf.</seg>
       </tuv>
