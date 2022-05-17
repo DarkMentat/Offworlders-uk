@@ -107,7 +107,7 @@ _Offworlders_ is licensed under a Creative Commons Attribution License: https://
 
 ЯКЩО ВИПАЛИ ДВІ ШІСТКИ, це означає критичний успіх. Ви отримуєте що хотіли, а також щось понад те! Вам з майстром варто обговорити якийсь слушний бонус чи додатковий ефект.
 
-Якщо у вас є підходяще вміння....
+Якщо у вас є підходяще вміння, ви можете перекинути один кубик.
 
 The Game Master never rolls the dice.
 The players are always the ones that
