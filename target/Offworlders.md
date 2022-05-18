@@ -1,232 +1,115 @@
-## OFFWORLDERS
+## КРАЄХОДЦІ
 
-##### CHRIS P. WOLF
+##### КРІС ВУЛЬФ
 
-##### OLIVIA GULIN
+##### ОЛІВІЯ ГУЛІН
 
 ##### chrispwolf.com/offworlders
 
-### WELCOME TO OFFWORLDERS
+### ВІТАННЯ КРАЄХОДЦЯМ
 
-Offworlders is a science fiction roleplaying game about adventurers, outlaws,
-and guns-for-hire making their fortune on the rough end of the galaxy. It is
-designed to be straightforward enough to pick up and be ready to play in just a
-few minutes as a one-off game, but with enough meat to play a short campaign
-as well.
+Краєходці — це науково-фантастична рольова гра про шукачів пригод, найманців та вигнанців, що намагаються розбагатіти в найжорсткіших окраїнах галактики. Гра задумана так, щоб в неї легко можна було зіграти одну зустріч з мінімальною підготовкою, але в той же час вона могла потягнути і невеличку кампанію..
 
-The player characters in Offworlders are the owners of a small starship in a
-time when humans have spread to many worlds. Together, they explore the uni-
-verse, completing profitable jobs and overcoming dangers.
+Персонажі гравців в Краєходцях володіють невеликим зорельотом в часи, коли людство розселилось велитенською кількістю світів. Разом вони досліджують всесвіт, виконують вигідні замовлення та долають небезпеки.
 
-You’ll fly between planets, taking on the dangerous work that no one else wants.
-You’ll fight ruthless pirates, explore drifting derelicts, and go toe-to-toe with
-weird alien monsters, just to make enough credits to keep your ship flying.
-You’ll overcome these challenges by the skin of your teeth and come out stron-
-ger on the other side. On long voyages, your characters will learn about each
-other and grow together.
+Ви будете подорожувати планетами та братись за роботу, за яку інші не візьмуться. Ви будете битись з безжальними піратами, досліджувати покинуті станції та зіткнитесь віч на віч з химерними позапланетними істотами. І все заради того, щоб мати достатньо коштів на наступну подорож. Ви будете долати незгоди тримаючись на волоску від смерті, але зрештою ставати все сильнішими. В довгих подорожах ваші персонажі будуть пізнавати один одного і зростати разом.
 
-The first part of this book describes the general rules that everyone at the table
-will use to play. The second part is addressed directly to the game master, and
-contains rules and guidelines for running Offworlders, either as a single ses-
-sion or as a campaign.
+Перша частина книжки опише загальні правила, котрим має слідувати кожен. Друга частина адресована тільки майстру гри та містить правила та настанови щодо гри як для одиночної зустрічі, так і для кампанії.
 
-###### CREDIT DUE
+###### ПОДЯКА
 
-_Offworlders_ is a game by Chris Wolf.
-Illustrations & book design by Olivia Gulin.
+_Offworlders_ — гра за авторством Кріса Вульфа. Ілюстрації та дизайн книги виконані Олівією Гулін.
 
-_Offworlders_ is inspired by _World of Dungeons_ by
-John Harper. It also owes inspiration to _Dungeon
-World_ by Sage Latorra and Adam Koebel, as well
-as _Traveller_ by Marc Miller and _Stars Without Num-
-ber_ by Kevin Crawford.
+На розробку _Offworlders_ надихнула гра _World of Dungeons_ Джона Харпера. Також серед джерел надхнення варто зазначити _Dungeon World_ Сейжа Латорра та Адама Кєбеля, а також _Traveller_ Марка Міллера та _Stars Without Number_ Кевіка Кроуфорда.
 
-If you play Offworlders, please let me know what
-you think! Talk to me on Twitter at @chrisperry wolf.
+Якщо ви граєте в Offworlders, то поділіться своїми враженнями! Напишіть мені в Twitter: @chrisperry_wolf.
 
-Playtesters: Chris Darden, Cameron Farrell, Oliv-
-ia Gulin, David Kenyon, and Steve Kilian
+Плейтестери: Chris Darden, Cameron Farrell, Olivia Gulin, David Kenyon, and Steve Kilian.
 
-_Offworlders_ is licensed under a Creative Commons
-Attribution License:
-https://creativecommons.org/licenses/by/3.0/us/
-legalcode
+_Offworlders_ is licensed under a Creative Commons Attribution License: https://creativecommons.org/licenses/by/3.0/us/
 
 
-### PLAYING THE GAME
+### ПРАВИЛА ГРИ
 
-#### WHAT YOU NEED
+#### ЩО НЕОБХІДНО ДЛЯ ГРИ
 
-To play Offworlders you’ll need:
+Для гри в Краєходців вам потрібно:
 
-- These rules
-- Two to four other people
-- Some six-sided dice. You can play with just two, but two or three per player is best.
-- Pencils and paper
-- An Offworlders character sheet for each player, and one ship sheet. You can get these at **chrispwolf.com/offworlders**
+- Ці правила
+- Від двух до чотирьох друзів
+- Декілька шестигранних кубиків. Досить буде двух, але краще, щоб у кожного гравця було по парі.
+- Олівці та папір
+- По листу персонажа для кожного гравця, а також один лист корабля. Ви можете знайти їх тут: **chrispwolf.com/offworlders***
 
-#### THE CONVERSATION
+#### РОЗМОВА
 
-A game of _Offworlders_ is a conversation.
-The game master will describe the
-scene around the player characters,
-populating it with details and peo-
-ple. The players will respond to that
-world, describing how their characters
-interact with it, asking the GM about
-details, and saying what their charac-
-ters say to each other and the NPC’s.
+Гра в Краєходцях — це перш за все розмова. Майстер гри описує ситуацію навколо персонажа гравця та наповнює її людьми та деталями. Гравці ж у відповідь описують як діють їх персонажі, можливо уточнюють в майстра деталі, а також озвучують, що їх персонажі кажуть іншим персонажам.
 
-You’ll take turns, but you’ll take turns
-like you do in a conversation. Sometimes
-you’ll speak for longer to get something
-done, and often you’ll step back to let
-someone else have the spotlight.
 
-Unlike many other games, you’ll
-never split up into a specific order to
-take formal turns. Just let things flow
-naturally, and let whoever the action
-is centered on describe what their
-character does. If you’ve been in the
-spotlight for a while, invite someone
-else to speak up.
+Ви будете діяти по-черзі, в тій же мірі як в розмові ви висловлюєтесь по-черзі. Часом хтось буде говорити довше, а часом потрібно буде відступити і дати слово іншому.
 
-#### BASIC TERMS
+На відміну багатьох інших ігор, тут не потрібно робити формальних ходів в чіткому порядку. Гра має йти природньо і нехай той, хто в центрі подій опише дії свого персонажа, а якщо він занадто довго в центрі уваги, то хай гравець передасть слово іншому.
 
-The following terms mean specific things within the game, and will be used throughout the rules.
+#### ОСНОВНІ ТЕРМІНИ
 
-**Player:** One of the people at the table,
-playing the game. This includes the
-Game Master.
+Наступні терміни мають своє значення в грі і будуть використовуватись протягом опису правил.
 
-**Game Master, or GM:** The player who
-takes on the role of the game world
-and everyone in it who isn’t a Player
-Character.
+**Гравець:** Один з тих, хто грає в гру, включаючи майстра гри.
 
-**Character:** Any fictional person in the
-story, either a PC or an NPC.
+**Майстер гри, або просто майстер:** Гравець, що відповідає за ігровий світ та тих персонажів, що не контролюються іншими гравцями.
 
-**Non-Player Characters, or NPC's:**
-Characters controlled by the GM. The
-allies and enemies of the PC’s, as well
-as the civilians and other tertiary
-characters of the world.
+**Персонаж:** Будь-яка вигадана особа у грі, під контролем гравця чи майстра.
 
-Player Characters, or PC’s: The pro-
-tagonists of Offworlders. Each player
-besides the game master controls one
-Player Character, describing that char-
-acter’s actions and thoughts.
+**Персонажі майстра:**
+Персонажі під контролем майстра. Союзники та вороги персонажів гравців, а також всі неважливі цивіли та другорядні персонажі світу.
 
-Attribute: A number, usually between
--1 and +3, that describes a PC’s raw
-talent in a broad area. There are four
-attributes, detailed later.
+**Персонажі гравців:** Головні герої гри. Кожен гравець контролює свого персонажа та описує їх роздуми, слова та дії.
 
-Skill: One of the skills in the game,
-which a PC either has or does not.
-Skills represent training in specific
-areas of expertise. Each PC begins
-with two skills.
+**Атрибут:** Число, зазвичай від -1 до +3, що визначає загальні вміння персонажа гравця в деякій обсласті. В грі є чотири атрибута, про них трохи згодом.
 
-Health: A number representing how
-physically resilient a PC is. When a PC
-takes damage, it reduces their current
-health.
+**Вміння:** Одне з тих вмінь у грі, котрими можуть володіти чи не володіти пероснажі гравців. Вони відображають кваліфікації в деякій вузькій області експертизи. Персонажі гравців починають з двума вміннями.
 
-Ability: A special action or stunt that a
-PC can perform. Each PC begins with
-two abilities.
+**Здоров'я:** Число, що відображає фізичну стійкість персонажа гравця. Коли персонаж отримує пошкодження, його значення здоров'я зменшується.
 
-Rolling The Dice: When a PC does
-something dangerous, contested, or
-uncertain, their player must Roll the
-Dice, as described below. The GM nev-
-er has to Roll the Dice.
+**Талант:** Спеціальна дія чи трюк, котрі може виконати пероснаж. Кожен персонаж гравця починає з двума талантами.
 
-D6: A single, 6-sided die. Usually you’ll
-roll two of these and add them togeth-
-er, along with an attribute. Sometimes
-you’ll roll just one.
+**Кидок кубів:** Коли персонаж гравця має здійснити щось небеспечне, змагається з кимось чи результат загалом непевний, гравець має здійснити кидок кубів, як описано нижче.
 
-XP: Experience Points. Characters
-earn XP during play, and can spend XP
-to gain new abilities, and to increase
-their attributes.
+**К6:** Один шестигранний кубик. Зазвичай вам потрібно буде кинути два таких і до сумми додати атрибут. Іноді потрібно буде кинути тільки один.
 
-#### ROLLING THE DICE
+**ПД:** Пункти досвіду. Протягом гри персонажі будуть заробляти пункти досвіду, щоб потратити їх на нові таланти чи щоб покращити атрибути.
 
-When a player character does something dangerous, uncertain, or contested, use the dice to find out how
-well it goes. You’ll roll the dice and add one of your attributes to get a final result, then use that result to
-figure out what happens next.
+#### КИДАЄМО КУБИКИ
 
-###### 1. DESCRIBE WHAT YOU WANT TO DO, AND HOW YOU DO IT.
+Коли персонаж гравця займається чимось небезпечний, коли він змагається з кимось чи результат дій непевен, зверніться до ігрових кубиків щоб дізнатись як добре йдуть справи. Потрібно буде кинути кості, додати до сумарного результата значення підходящого атрибуту і використати результат, щоб визначити що станеться далі.
 
-If the GM decides that it is risky or
-uncertain enough to warrant a roll, go
-to step 2. Otherwise, the GM will tell
-you what happens.
+###### 1. ОПИШІТЬ ЩО ВИ ХОЧЕТЕ ДОСЯГТИ І ЯКИМ ЧИНОМ
 
-###### 2. PICK THE MOST APPROPRIATE OF THE FOUR ATTRIBUTES.
+Якщо майстер вирішить, що це може бути ризиково чи успіхи досить сумнівні, щоб кидати куби, то перейдіть до кроку 2. Інашке майстер опише що сталось далі.
 
-Usually it will be obvious, but if it isn’t,
-the GM makes the final call.
+###### 2. ВИБЕРІТЬ НАЙБІЛЬШ ПІДХОДЯЩИЙ З ЧОТИРЬОХ АТРИБУТІВ
 
-###### 3. TALK ABOUT THE POTENTIAL OUTCOMES.
+Зазвичай це рішення очевидне, але якщо ні — останнє слово за майстром.
 
-What might happen if you fail? What
-are some potential complications? If
-you want to turn back now, or try a
-different strategy, you may. The GM
-doesn’t have to say exactly what will
-happen, but should always be honest
-about potential consequences before-
-hand so the player knows what they
-are facing.
+###### 3. ОГОВОРІТЬ МОЖЛИВІ НАСЛІДКИ
 
-###### 4. ROLL THE DICE!
+Що станеться у випадку провалу? Якими можуть бути ускладнення? Тут за бажанням ви можете відступити чи обрати іншу стратегію. Майстер не зобов'язаний сказати що саме може далі трапитись, але він має бути чесним про маштаб можливих наслідків, щоб гравці розуміли серйозність ситуації.
 
-Roll **2D6** , add them together, and add
-the relevant attribute. Use the total to
-determine how successful you are.
+###### 4. КИДАЙТЕ КУБИ!
 
-ON A 10 OR HIGHER: Success. You
-get what you want.
+Киньте **2к6**, складіть випавші значення та додайте підходящий атрибут. Сумарний результат визначить наскільки сприятливою буде розвитой ситуації.
 
-ON A 7-9: Complication. You get what
-you want, but at some cost, reduced
-effect, difficult choice, or harm. The
-GM will tell you what.
+ПРИ 10 АБО ВИЩЕ: Успіх. Ви добились чого хотіли.
 
-ON A 6-, A miss. You probably don’t
-get what you want, and the GM will
-make your life more complicated.
-They’ll tell you exactly what happens.
-The good news is you earn 1 XP.
+ПРИ 7-9: Ускладнення. Загалом ви добились бажаного, проте нелегкою ціною, в недостатній мірі, ставши перед важким вибором чи отримавши ушкодження. Майстер визначить перед чим саме.
 
-IF BOTH DICE COME UP WITH 6’S,
-Critical Success! You get what you
-want, and something extra. You and
-the GM should come up with an appro-
-priate bonus or extra effect.
+ПРИ 6-: Провал. Ви ймавірно не тільки не добились бажаного, але майстер ще й ускладнить ваше життя якимось чином. Але є і добрі новини, ви отримаєте 1 досвід!
 
-If you have a skill relevant to the
-current situation, you may choose
-to reroll one of the dice, but you must
-take the second roll. Use the new total
-for your result.
+ЯКЩО ВИПАЛИ ДВІ ШІСТКИ, це означає критичний успіх. Ви отримуєте що хотіли, а також щось понад те! Вам з майстром варто обговорити якийсь слушний бонус чи додатковий ефект.
 
-The Game Master never rolls the dice.
-The players are always the ones that
-roll. The game is about them and the
-risks that they take. If an NPC attacks a
-player, the player is the one that rolls,
-either to avoid, counterattack, or some-
-thing else. If a player takes damage, it
-is usually because they Rolled the Dice
-and got a complication or a miss.
+Якщо у вас є підходяще вміння, ви можете перекинути один кубик, але ти маєш використати останній кидок.  
+
+Майстер гри не має здійснювати кидки. Гравець - з завжди кидає. 
 
 Only Roll When It’s Interesting.
 Don’t ever roll when a character does
