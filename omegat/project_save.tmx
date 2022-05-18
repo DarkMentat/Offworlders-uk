@@ -246,8 +246,8 @@ want, and something extra. You and
 the GM should come up with an appro-
 priate bonus or extra effect.</seg>
       </tuv>
-      <tuv lang="uk" changeid="darkmentat" changedate="20220517T002313Z" creationid="darkmentat" creationdate="20220517T002313Z">
-        <seg>ЯКЩО ВИПАЛИ ДВІ ШІСТКИ, це означає критичний успіх. Ви отримуєте що хотіли, а також щось понад те! Вам з майстром варто обговорити якийсь слушний бонус чи додатковий ефект.</seg>
+      <tuv lang="uk" changeid="darkmentat" changedate="20220518T141328Z" creationid="darkmentat" creationdate="20220517T002313Z">
+        <seg>**ЯКЩО ВИПАЛИ ДВІ ШІСТКИ**, це означає критичний успіх. Ви отримуєте що хотіли, а також щось понад те! Вам з майстром варто обговорити якийсь слушний бонус чи додатковий ефект.</seg>
       </tuv>
     </tu>
     <tu>
@@ -299,8 +299,8 @@ make your life more complicated.
 They’ll tell you exactly what happens.
 The good news is you earn 1 XP.</seg>
       </tuv>
-      <tuv lang="uk" changeid="darkmentat" changedate="20220516T235758Z" creationid="darkmentat" creationdate="20220516T235758Z">
-        <seg>ПРИ 6-: Провал. Ви ймавірно не тільки не добились бажаного, але майстер ще й ускладнить ваше життя якимось чином. Але є і добрі новини, ви отримаєте 1 досвід!</seg>
+      <tuv lang="uk" changeid="darkmentat" changedate="20220518T141322Z" creationid="darkmentat" creationdate="20220516T235758Z">
+        <seg>**ПРИ 6-:** Провал. Ви ймавірно не тільки не добились бажаного, але майстер ще й ускладнить ваше життя якимось чином. Але є і добрі новини, ви отримаєте 1 досвід!</seg>
       </tuv>
     </tu>
     <tu>
@@ -310,8 +310,8 @@ you want, but at some cost, reduced
 effect, difficult choice, or harm. The
 GM will tell you what.</seg>
       </tuv>
-      <tuv lang="uk" changeid="darkmentat" changedate="20220516T235753Z" creationid="darkmentat" creationdate="20220516T235753Z">
-        <seg>ПРИ 7-9: Ускладнення. Загалом ви добились бажаного, проте нелегкою ціною, в недостатній мірі, ставши перед важким вибором чи отримавши ушкодження. Майстер визначить перед чим саме.</seg>
+      <tuv lang="uk" changeid="darkmentat" changedate="20220518T141320Z" creationid="darkmentat" creationdate="20220516T235753Z">
+        <seg>**ПРИ 7-9:** Ускладнення. Загалом ви добились бажаного, проте нелегкою ціною, в недостатній мірі, ставши перед важким вибором чи отримавши ушкодження. Майстер визначить перед чим саме.</seg>
       </tuv>
     </tu>
     <tu>
