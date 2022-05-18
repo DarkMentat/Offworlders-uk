@@ -383,6 +383,22 @@ with two skills.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>The Game Master never rolls the dice.
+The players are always the ones that
+roll. The game is about them and the
+risks that they take. If an NPC attacks a
+player, the player is the one that rolls,
+either to avoid, counterattack, or some-
+thing else. If a player takes damage, it
+is usually because they Rolled the Dice
+and got a complication or a miss.</seg>
+      </tuv>
+      <tuv lang="uk" changeid="IrynaDobro" changedate="20220518T140203Z" creationid="IrynaDobro" creationdate="20220518T140203Z">
+        <seg>Майстер гри не має здійснювати кидки. Гравець - з завжди кидає. </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>The first part of this book describes the general rules that everyone at the table
 will use to play. The second part is addressed directly to the game master, and
 contains rules and guidelines for running Offworlders, either as a single ses-
