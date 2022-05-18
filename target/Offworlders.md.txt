@@ -107,17 +107,9 @@ _Offworlders_ is licensed under a Creative Commons Attribution License: https://
 
 ЯКЩО ВИПАЛИ ДВІ ШІСТКИ, це означає критичний успіх. Ви отримуєте що хотіли, а також щось понад те! Вам з майстром варто обговорити якийсь слушний бонус чи додатковий ефект.
 
-Якщо у вас є підходяще вміння, ви можете перекинути один кубик.
+Якщо у вас є підходяще вміння, ви можете перекинути один кубик, але ти маєш використати останній кидок.  
 
-The Game Master never rolls the dice.
-The players are always the ones that
-roll. The game is about them and the
-risks that they take. If an NPC attacks a
-player, the player is the one that rolls,
-either to avoid, counterattack, or some-
-thing else. If a player takes damage, it
-is usually because they Rolled the Dice
-and got a complication or a miss.
+Майстер гри не має здійснювати кидки. Гравець - з завжди кидає. 
 
 Only Roll When It’s Interesting.
 Don’t ever roll when a character does
