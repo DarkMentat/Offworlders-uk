@@ -1,3 +1,4 @@
+# Glossary in tab-separated format -*- coding: utf-8 -*-
 OFFWORLDERS	КРАЄХОДЦІ
 Offworlders	Краєходці
 player	гравець
@@ -13,3 +14,5 @@ Skill	Вміння
 Health	Здоров'я
 Ability	Талант
 Success	Успіх
+Complication	Ускладнення
+miss	провал
