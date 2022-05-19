@@ -393,8 +393,8 @@ thing else. If a player takes damage, it
 is usually because they Rolled the Dice
 and got a complication or a miss.</seg>
       </tuv>
-      <tuv lang="uk" changeid="IrynaDobro" changedate="20220518T140203Z" creationid="IrynaDobro" creationdate="20220518T140203Z">
-        <seg>Майстер гри не має здійснювати кидки. Гравець - з завжди кидає. </seg>
+      <tuv lang="uk" changeid="darkmentat" changedate="20220519T193342Z" creationid="IrynaDobro" creationdate="20220518T140203Z">
+        <seg>Майстер гри не має здійснювати кидки, вони тільки для гравців, тому що гра про них та про ризики, на які вони йдуть. Якщо персонаж майстра атакує гравця, то це він має кинути куби, щоб уникнути удару, контратакувати чи відреагувати якось інакше. Якщо гравець отримав ушкодження, то скоріше за все через те, що на кубах у нього випали ускладнення чи провал.</seg>
       </tuv>
     </tu>
     <tu>
