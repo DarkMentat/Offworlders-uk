@@ -513,6 +513,14 @@ er has to Roll the Dice.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Science: Biolog y, physics, chemistry, etc.</seg>
+      </tuv>
+      <tuv lang="uk" changeid="darkmentat" changedate="20220519T201907Z" creationid="darkmentat" creationdate="20220519T201907Z">
+        <seg>**Наука:** Біологія, фізика, хімія і т. д.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Skill: One of the skills in the game,
 which a PC either has or does not.
 Skills represent training in specific
@@ -521,6 +529,22 @@ with two skills.</seg>
       </tuv>
       <tuv lang="uk" changeid="darkmentat" changedate="20220516T235444Z" creationid="darkmentat" creationdate="20220516T235444Z">
         <seg>**Вміння:** Одне з тих вмінь у грі, котрими можуть володіти чи не володіти пероснажі гравців. Вони відображають кваліфікації в деякій вузькій області експертизи. Персонажі гравців починають з двума вміннями.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Sneak: Passing unseen, sleight of hand, picking pockets.</seg>
+      </tuv>
+      <tuv lang="uk" changeid="darkmentat" changedate="20220519T202109Z" creationid="darkmentat" creationdate="20220519T202109Z">
+        <seg>**Скритність:** Підкрастись непоміченим, вдіяти щось непомітно чи просто обчистити чиїсь кишені.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Survival: Finding food, air, shelter, directions, etc. in hostile environments.</seg>
+      </tuv>
+      <tuv lang="uk" changeid="darkmentat" changedate="20220519T202211Z" creationid="darkmentat" creationdate="20220519T202211Z">
+        <seg>**Виживання:** Вміння знайти їжу, повітря, притулок, зорієнтуватись в небезпечному середовищі.</seg>
       </tuv>
     </tu>
     <tu>
