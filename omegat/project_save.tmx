@@ -153,6 +153,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>###### 3.ASSIGN YOUR ATTRIBUTES</seg>
+      </tuv>
+      <tuv lang="uk" changeid="darkmentat" changedate="20220519T203046Z" creationid="darkmentat" creationdate="20220519T203046Z">
+        <seg>###### 3. РОЗПОДІЛІТЬ АТРИБУТИ</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>###### 4. ROLL THE DICE!</seg>
       </tuv>
       <tuv lang="uk" changeid="darkmentat" changedate="20220516T235741Z" creationid="darkmentat" creationdate="20220516T235741Z">
@@ -317,6 +325,21 @@ two abilities.</seg>
       </tuv>
       <tuv lang="uk" changeid="darkmentat" changedate="20220516T235458Z" creationid="darkmentat" creationdate="20220516T235458Z">
         <seg>**Талант:** Спеціальна дія чи трюк, котрі може виконати пероснаж. Кожен персонаж гравця починає з двума талантами.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Assign each of these numbers to one
+of your attributes, in any order you
+wish: **+2** , **+1** , **0** , and **-1**. Think about
+your class, and what kind of things
+your character is likely to be doing as
+a guideline for which attributes you
+want to make high, and which you can
+afford to make lower.</seg>
+      </tuv>
+      <tuv lang="uk" changeid="darkmentat" changedate="20220519T203345Z" creationid="darkmentat" creationdate="20220519T203345Z">
+        <seg>Призначте кожному атрибут одне з числа **+2**, **+1**, **0** та **-1** в будь-якому порядку. Врахуйте ваш клас та подумайте, чим скоріш за все буде займатись ваш персонаж, щоб зорієнтуватись який атрибут зробити високим, а який можна дозволити лишити низьким.</seg>
       </tuv>
     </tu>
     <tu>
