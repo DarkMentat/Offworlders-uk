@@ -260,12 +260,9 @@ ing, breaking things, and fighting in
 melee. Strength also determines how
 much punishment a PC can take.
 
-**A gility:** Reaction time, control and
-coordination. Useful for balancing
-
-on narrow beams, flying starships
-through asteroid fields, and shooting
-rifles.
+**Agility:** Reaction time, control and coordination. 
+Useful for balancing on narrow beams, flying 
+starships through asteroid fields, and shooting rifles.
 
 Intelligence: Perception, logic and
 knowledge. Useful for analysis, mess-
@@ -285,30 +282,21 @@ Each skill represents an area of trained expertise. Unlike attributes, skills do
 You either have a skill or you don’t. When you roll the dice and have an applicable skill, you may re-roll one
 of the dice. You must accept the second result.
 
-**Athletics:** Running, climbing, jump-
-ing, swimming etc.
+**Athletics:** Running, climbing, jumping, swimming etc.
 
-**Culture:** Knowledge of people, places,
-etiquette, and history across many worlds.
+**Culture:** Knowledge of people, places, etiquette, and history across many worlds.
 
-**Manipulation:** Getting others to do
-what you want, through lying, charm
-or coercion.
+**Manipulation:** Getting others to do what you want, through lying, charm or coercion.
 
-Pilot: Controlling vehicles, from
-starships and speeders to motorboats
-and bicycles.
+Pilot: Controlling vehicles, from starships and speeders to motorboats and bicycles.
 
 Science: Biolog y, physics, chemistry, etc.
 
-Sneak: Passing unseen, sleight of
-hand, picking pockets.
+Sneak: Passing unseen, sleight of hand, picking pockets.
 
-Survival: Finding food, air, shelter, di-
-rections, etc. in hostile environments.
+Survival: Finding food, air, shelter, directions, etc. in hostile environments.
 
-Tech: Computer software and complex
-engineering.
+Tech: Computer software and complex engineering.
 
 #### ABILITIES
 
