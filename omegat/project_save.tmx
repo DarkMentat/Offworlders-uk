@@ -193,6 +193,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>###### ALIENS</seg>
+      </tuv>
+      <tuv lang="uk" changeid="darkmentat" changedate="20220519T204615Z" creationid="darkmentat" creationdate="20220519T204615Z">
+        <seg>###### ПРИБУЛЬЦІ</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>###### CREDIT DUE</seg>
       </tuv>
       <tuv lang="uk" changeid="darkmentat" changedate="20220516T235154Z" creationid="darkmentat" creationdate="20220516T235154Z">
@@ -608,6 +616,25 @@ GM will tell you what.</seg>
       </tuv>
       <tuv lang="uk" changeid="darkmentat" changedate="20220518T141320Z" creationid="darkmentat" creationdate="20220516T235753Z">
         <seg>**ПРИ 7-9:** Ускладнення. Загалом ви добились бажаного, проте нелегкою ціною, в недостатній мірі, ставши перед важким вибором чи отримавши ушкодження. Майстер визначить перед чим саме.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Offworlders doesn’t have specific rules
+for alien species. As a group, you
+should decide amongst yourselves if
+intelligent aliens exist in your uni-
+verse. If a player really wants to be an
+alien, let them. Maybe all Psychics are
+from the same species, or the Warrior
+learned their skills because they are a
+member of a clannish, warlike species.
+Often, humanoid aliens in science fic-
+tion are fundamentally just people that
+fit into specific tropes and archetypes.</seg>
+      </tuv>
+      <tuv lang="uk" changeid="darkmentat" changedate="20220519T205138Z" creationid="darkmentat" creationdate="20220519T205138Z">
+        <seg>В Краєходцях немє особливих правил для інопланетних видів. Як ігровій групі вам варто домовитись, чи існують розумні інопланетні види в ігровому всесвіті. Якщо так і гравець хоче грати за прибульця — то дозвольте йому, але це ніяк не вплине на механіку гри. Можливо всі Псіоніки являються представником одного виду, чи Вояка отримав свої вміння як уродженець клану войовничого виду. Часто гуманоїди в фантастиці — це по-факту просто ті самі люди, що заточені під якись конкретний троп чи архетип </seg>
       </tuv>
     </tu>
     <tu>
