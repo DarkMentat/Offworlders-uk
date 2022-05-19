@@ -328,6 +328,23 @@ as well.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Only Roll When It’s Interesting.
+Don’t ever roll when a character does
+something that they could reasonably
+accomplish without trouble, or if there
+are no interesting consequences for
+failure. Conversely, don’t roll if a char-
+acter attempts something impossible.
+It just doesn’t work. The sweet spot is
+when it’s something the character could
+potentially do, but it’s going to be tricky.</seg>
+      </tuv>
+      <tuv lang="uk" changeid="darkmentat" changedate="20220519T194224Z" creationid="darkmentat" creationdate="20220519T194224Z">
+        <seg>Робіть кидки тільки коли результат може бути цікавим. Не кидайте куби, коли персонаж робить щось, з чим він ймовірно справиться без жодних проблем, або якщо немає жодних цікавих наслідків провалу. Та навпаки, не кидайте куби, коли персонаж хоче здійснити щось неможливе. Це просто не спрацює. Найкраще для кидків, коли у персонажа була можливість досягти задуманого, але це було досить непросто</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Player Characters, or PC’s: The pro-
 tagonists of Offworlders. Each player
 besides the game master controls one
