@@ -173,6 +173,14 @@ story, either a PC or an NPC.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>**Culture:** Knowledge of people, places, etiquette, and history across many worlds.</seg>
+      </tuv>
+      <tuv lang="uk" changeid="darkmentat" changedate="20220519T201603Z" creationid="darkmentat" creationdate="20220519T201603Z">
+        <seg>**Культура:** Знання потрібних людей і міць, звичаїв та історії багатьох населених світів.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>**Game Master, or GM:** The player who
 takes on the role of the game world
 and everyone in it who isn’t a Player
@@ -180,6 +188,14 @@ Character.</seg>
       </tuv>
       <tuv lang="uk" changeid="darkmentat" changedate="20220516T235412Z" creationid="darkmentat" creationdate="20220516T235412Z">
         <seg>**Майстер гри, або просто майстер:** Гравець, що відповідає за ігровий світ та тих персонажів, що не контролюються іншими гравцями.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>**Manipulation:** Getting others to do what you want, through lying, charm or coercion.</seg>
+      </tuv>
+      <tuv lang="uk" changeid="darkmentat" changedate="20220519T201714Z" creationid="darkmentat" creationdate="20220519T201714Z">
+        <seg>**Маніпуляції:** Вміння міняти поведінку інших людей, брехнею, харизмою чи примусом.</seg>
       </tuv>
     </tu>
     <tu>
@@ -442,6 +458,14 @@ potentially do, but it’s going to be tricky.</seg>
       </tuv>
       <tuv lang="uk" changeid="darkmentat" changedate="20220519T194354Z" creationid="darkmentat" creationdate="20220519T194224Z">
         <seg>Робіть кидки тільки коли результат може бути цікавим. Не кидайте куби, коли персонаж робить щось, з чим він ймовірно справиться без жодних проблем, або якщо немає жодних цікавих наслідків провалу. Та навпаки, не кидайте куби, коли персонаж хоче здійснити щось неможливе. Це просто не спрацює. Найкраще для кидків, щоб у персонажа були шанси досягти задуманого, але ситуація була непроста й ненадійна.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Pilot: Controlling vehicles, from starships and speeders to motorboats and bicycles.</seg>
+      </tuv>
+      <tuv lang="uk" changeid="darkmentat" changedate="20220519T201853Z" creationid="darkmentat" creationdate="20220519T201853Z">
+        <seg>**Кермування:** Керування різними апаратамо, від зорельотів і спідерів, що катерів чи велосипедів.  </seg>
       </tuv>
     </tu>
     <tu>
