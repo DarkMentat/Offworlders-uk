@@ -578,6 +578,19 @@ figure out what happens next.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Willpower: Force of personality,
+charisma and determination. Use it to
+bark orders and manipulate people,
+and resist the manipulations of enemy
+psychics. Willpower also might just
+keep you alive when all else is lost.</seg>
+      </tuv>
+      <tuv lang="uk" changeid="darkmentat" changedate="20220519T200621Z" creationid="darkmentat" creationdate="20220519T200621Z">
+        <seg>**Воля:** Сила особистості, харизма та впертість. Використовується щоб віддавати жорсткі накази, керувати людьми та пручатись ментальним маніпуляціям ворожих псіоніків. Воля також може втримати ваше життя, коли все інше втрачено. </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>XP: Experience Points. Characters
 earn XP during play, and can spend XP
 to gain new abilities, and to increase
