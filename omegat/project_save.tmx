@@ -33,6 +33,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>#### ATTRIBUTES</seg>
+      </tuv>
+      <tuv lang="uk" changeid="darkmentat" changedate="20220519T194651Z" creationid="darkmentat" creationdate="20220519T194651Z">
+        <seg>Атрибути</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>#### BASIC TERMS</seg>
       </tuv>
       <tuv lang="uk" changeid="darkmentat" changedate="20220516T235347Z" creationid="darkmentat" creationdate="20220516T235347Z">
@@ -225,6 +233,16 @@ you’ll roll just one.</seg>
       </tuv>
       <tuv lang="uk" changeid="darkmentat" changedate="20220516T235513Z" creationid="darkmentat" creationdate="20220516T235513Z">
         <seg>**К6:** Один шестигранний кубик. Зазвичай вам потрібно буде кинути два таких і до сумми додати атрибут. Іноді потрібно буде кинути тільки один.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Every PC has four attributes, representing different ways they might address challenges. Each attribute has
+a rating between -1 and +3. The higher the rating, the more likely the character is to succeed when using it.
+You’ll use these attributes when you roll the dice. The four attributes are:</seg>
+      </tuv>
+      <tuv lang="uk" changeid="darkmentat" changedate="20220519T195032Z" creationid="darkmentat" creationdate="20220519T195032Z">
+        <seg>У кожного персонажа гравця є чотири атрибути, що зображають різні шляхи вирішення проблем. У кожного атрибута є значення від -1 до +3. Чим вище це значення, тим більш ймовірно, щоб гравець використовуючи цей атрибут досяг успіху, вони завжди використовуються при кидках кубів. Ці чотири атрибути наступні: </seg>
       </tuv>
     </tu>
     <tu>
