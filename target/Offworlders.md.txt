@@ -109,58 +109,23 @@ _Offworlders_ is licensed under a Creative Commons Attribution License: https://
 
 Якщо у вас є підходяще вміння, ви можете перекинути один кубик, але ти маєш використати останній кидок.  
 
-Майстер гри не має здійснювати кидки. Гравець - з завжди кидає. 
+Майстер гри не має здійснювати кидки, вони тільки для гравців, тому що гра про них та про ризики, на які вони йдуть. Якщо персонаж майстра атакує гравця, то це він має кинути куби, щоб уникнути удару, контратакувати чи відреагувати якось інакше. Якщо гравець отримав ушкодження, то скоріше за все через те, що на кубах у нього випали ускладнення чи провал.
 
-Only Roll When It’s Interesting.
-Don’t ever roll when a character does
-something that they could reasonably
-accomplish without trouble, or if there
-are no interesting consequences for
-failure. Conversely, don’t roll if a char-
-acter attempts something impossible.
-It just doesn’t work. The sweet spot is
-when it’s something the character could
-potentially do, but it’s going to be tricky.
+Робіть кидки тільки коли результат може бути цікавим. Не кидайте куби, коли персонаж робить щось, з чим він ймовірно справиться без жодних проблем, або якщо немає жодних цікавих наслідків провалу. Та навпаки, не кидайте куби, коли персонаж хоче здійснити щось неможливе. Це просто не спрацює. Найкраще для кидків, щоб у персонажа були шанси досягти задуманого, але ситуація була непроста й ненадійна.
 
-Nothing Never Happens. No matter
-what the outcome is, rolling the dice
-always changes the fictional situation.
-On a success, the PC accomplishes
-their goal and the game moves for-
-ward. On a complication or a miss, the
-situation escalates and becomes more
-interesting.
+Завжди щось трапляється. Не залежно від результату, кидок кубів завжди змінює описану ситуацію. При успіху персонаж гравця досягає своїх цілей та продовжує рухати гру далі, а при ускладненнях чи провалах ситуація загострюється та стає ще цікавішою.
 
-#### ATTRIBUTES
+Атрибути
 
-Every PC has four attributes, representing different ways they might address challenges. Each attribute has
-a rating between -1 and +3. The higher the rating, the more likely the character is to succeed when using it.
-You’ll use these attributes when you roll the dice. The four attributes are:
+У кожного персонажа гравця є чотири атрибути, що зображають різні шляхи вирішення проблем. У кожного атрибута є значення від -1 до +3. Чим вище це значення, тим більш ймовірно, щоб гравець використовуючи цей атрибут досяг успіху, вони завжди використовуються при кидках кубів. Ці чотири атрибути наступні: 
 
-**Strength:** Raw power, speed and ag-
-gression. Useful for climbing, sprint-
-ing, breaking things, and fighting in
-melee. Strength also determines how
-much punishment a PC can take.
+**Сила:** Чиста міць, швидкість та агресія. Корисна при лазанні, погонях, руйнуванні речей та битвах в ближньому бою. Сила також визначає як багато пошкоджень може витримати персонаж.
 
-**A gility:** Reaction time, control and
-coordination. Useful for balancing
+**Спритність**: Час реакції, моторика й координація. Корисна при балансуванні на вузьких балках, при маневрах на зорольоті посеред поля астероїдів та при стрільбі з рушниць. 
 
-on narrow beams, flying starships
-through asteroid fields, and shooting
-rifles.
+**Інтелект:** Сприйняття, логіка й знання. Корисно при аналізі, возні зі складними технологіями чи при пошуку потрібних фактів.
 
-Intelligence: Perception, logic and
-knowledge. Useful for analysis, mess-
-ing with technology, and knowing
-pertinent facts.
-
-Willpower: Force of personality,
-charisma and determination. Use it to
-bark orders and manipulate people,
-and resist the manipulations of enemy
-psychics. Willpower also might just
-keep you alive when all else is lost.
+**Воля:** Сила особистості, харизма та впертість. Використовується щоб віддавати жорсткі накази, керувати людьми та пручатись ментальним маніпуляціям ворожих псіоніків. Воля також може втримати ваше життя, коли все інше втрачено. 
 
 #### SKILLS
 
@@ -168,30 +133,21 @@ Each skill represents an area of trained expertise. Unlike attributes, skills do
 You either have a skill or you don’t. When you roll the dice and have an applicable skill, you may re-roll one
 of the dice. You must accept the second result.
 
-**Athletics:** Running, climbing, jump-
-ing, swimming etc.
+**Athletics:** Running, climbing, jumping, swimming etc.
 
-**Culture:** Knowledge of people, places,
-etiquette, and history across many worlds.
+**Culture:** Knowledge of people, places, etiquette, and history across many worlds.
 
-**Manipulation:** Getting others to do
-what you want, through lying, charm
-or coercion.
+**Manipulation:** Getting others to do what you want, through lying, charm or coercion.
 
-Pilot: Controlling vehicles, from
-starships and speeders to motorboats
-and bicycles.
+Pilot: Controlling vehicles, from starships and speeders to motorboats and bicycles.
 
 Science: Biolog y, physics, chemistry, etc.
 
-Sneak: Passing unseen, sleight of
-hand, picking pockets.
+Sneak: Passing unseen, sleight of hand, picking pockets.
 
-Survival: Finding food, air, shelter, di-
-rections, etc. in hostile environments.
+Survival: Finding food, air, shelter, directions, etc. in hostile environments.
 
-Tech: Computer software and complex
-engineering.
+Tech: Computer software and complex engineering.
 
 #### ABILITIES
 
