@@ -172,6 +172,18 @@ Game Master.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>**Strength:** Raw power, speed and ag-
+gression. Useful for climbing, sprint-
+ing, breaking things, and fighting in
+melee. Strength also determines how
+much punishment a PC can take.</seg>
+      </tuv>
+      <tuv lang="uk" changeid="darkmentat" changedate="20220519T195358Z" creationid="darkmentat" creationdate="20220519T195358Z">
+        <seg>**Сила:** Чиста міць, швидкість та агресія. Корисна при лазанні, погонях, руйнуванні речей та битвах в ближньому бою. Сила також визначає як багато пошкоджень може витримати персонаж.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>- These rules
 - Two to four other people
 - Some six-sided dice. You can play with just two, but two or three per player is best.
