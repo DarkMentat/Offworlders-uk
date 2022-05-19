@@ -109,13 +109,13 @@ _Offworlders_ is licensed under a Creative Commons Attribution License: https://
 
 Якщо у вас є підходяще вміння, ви можете перекинути один кубик, але ти маєш використати останній кидок.  
 
-Майстер гри не має здійснювати кидки, вони тільки для гравців, тому що гра про них та про ризики, на які вони йдуть. Якщо персонаж майстра атакує гравця, то це він має кинути куби, щоб уникнути удару, контратакувати чи відреагувати якось інакше. Якщо гравець отримав ушкодження, то скоріше за все через те, що на кубах у нього випали ускладнення чи провал.
+Майстер гри не має здійснювати кидки, вони тільки для гравців. Все ж вся гра про них та про ризики, на які вони йдуть. Якщо персонаж майстра атакує гравця, то це він має кинути куби, щоб уникнути удару, контратакувати чи відреагувати якось інакше. Якщо гравець отримав ушкодження, то скоріше за все через те, що на кубах у нього випали ускладнення чи провал.
 
 Робіть кидки тільки коли результат може бути цікавим. Не кидайте куби, коли персонаж робить щось, з чим він ймовірно справиться без жодних проблем, або якщо немає жодних цікавих наслідків провалу. Та навпаки, не кидайте куби, коли персонаж хоче здійснити щось неможливе. Це просто не спрацює. Найкраще для кидків, щоб у персонажа були шанси досягти задуманого, але ситуація була непроста й ненадійна.
 
 Завжди щось трапляється. Не залежно від результату, кидок кубів завжди змінює описану ситуацію. При успіху персонаж гравця досягає своїх цілей та продовжує рухати гру далі, а при ускладненнях чи провалах ситуація загострюється та стає ще цікавішою.
 
-Атрибути
+#### Атрибути
 
 У кожного персонажа гравця є чотири атрибути, що зображають різні шляхи вирішення проблем. У кожного атрибута є значення від -1 до +3. Чим вище це значення, тим більш ймовірно, щоб гравець використовуючи цей атрибут досяг успіху, вони завжди використовуються при кидках кубів. Ці чотири атрибути наступні: 
 
@@ -127,127 +127,76 @@ _Offworlders_ is licensed under a Creative Commons Attribution License: https://
 
 **Воля:** Сила особистості, харизма та впертість. Використовується щоб віддавати жорсткі накази, керувати людьми та пручатись ментальним маніпуляціям ворожих псіоніків. Воля також може втримати ваше життя, коли все інше втрачено. 
 
-#### SKILLS
+#### ВМІННЯ
 
-Each skill represents an area of trained expertise. Unlike attributes, skills do not have an associated number.
-You either have a skill or you don’t. When you roll the dice and have an applicable skill, you may re-roll one
-of the dice. You must accept the second result.
+Кожне вміння відображає деяку набуту область експертизи. На відмінну від атрибутів, вміння не мають числове значення, ви просто або маєте його, або ні. Коли ви здійснюєте кидок і у вас є підхоже вміння, ви можете перекинути один кубик і взяти новий результат.
 
-**Athletics:** Running, climbing, jumping, swimming etc.
+**Атлетика:** Біг, лазання, стрибки, плавання, тощо.
 
-**Culture:** Knowledge of people, places, etiquette, and history across many worlds.
+**Культура:** Знання потрібних людей і міць, звичаїв та історії багатьох населених світів.
 
-**Manipulation:** Getting others to do what you want, through lying, charm or coercion.
+**Маніпуляції:** Вміння міняти поведінку інших людей, брехнею, харизмою чи примусом.
 
-Pilot: Controlling vehicles, from starships and speeders to motorboats and bicycles.
+**Кермування:** Керування різними апаратамо, від зорельотів і спідерів, що катерів чи велосипедів.  
 
-Science: Biolog y, physics, chemistry, etc.
+**Наука:** Біологія, фізика, хімія і т. д.
 
-Sneak: Passing unseen, sleight of hand, picking pockets.
+**Скритність:** Підкрастись непоміченим, вдіяти щось непомітно чи просто обчистити чиїсь кишені.
 
-Survival: Finding food, air, shelter, directions, etc. in hostile environments.
+**Виживання:** Вміння знайти їжу, повітря, притулок, зорієнтуватись в небезпечному середовищі.
 
-Tech: Computer software and complex engineering.
+**Техніка:** Робота з програмним забезпеченням і складними системами.
 
-#### ABILITIES
+#### ТАЛАНТИ
 
-A player character in Offworlders starts with two abilities, and may get more as time goes on. An ability
-is a special trick, stunt, or talent that allows the PC to do something special or bend the rules. Each ability
-describes how and when it is applicable. The abilities are divided into four character classes, described in
-Making an Offworlder, on the next page.
+Персонаж гравця в Краєходцях починає з двума талантами і з часом може отримати більше. Кожен талант описує якись особливий трюк, фокус чи здібність, щоб здійснити щось незвичайне чи зробити виняток в правилах. Для кожного таланта є опис як він працює і коли його можна застосувати. Всі вони описані далі в чотирьох класах персонажів, описаних в наступному розділі. 
 
-Some powerful abilities require the player to roll the dice to be used successfully.
+Деякі особливо потужні таланти потребують, щоб гравець кинув куби для того, щоб успішно їх використати.
 
-#### MAKING AN OFFWORLDER
+#### СТВОРЕННЯ КРАЄХОДЦЯ 
 
-Follow this process to create your PC:
+Для того, щоб створити вашого персонажа, слідуйте наступним крокам:
 
-###### 1.PICK A CLASS
+###### 1. ВИБЕРІТЬ КЛАС
 
-There are four classes: **Warrior** , **Out-
-law, Geek** , and **Psychic**. Pick one.
+В грі є чотири класи: **Вояка**, **Пройдисвіт**, **Технар** і **Псіонік**. Виберіть собі один.
 
-Your class gives you a few unique **abil-
-ities** to choose from. Pick any two.
+Кожен клас може запропонувати вам декілька **талантів**, виберіть будь-які два.
 
-###### 2.CHOOSE YOUR SKILLS
+###### 2. ВИБЕРІТЬ СОБІ ВМІННЯ
 
-Choose any **two skills** for your character.
+Виберіть будь-які **два вміння** вашому персонажу.
 
-###### 3.ASSIGN YOUR ATTRIBUTES
+###### 3. РОЗПОДІЛІТЬ АТРИБУТИ
 
-Assign each of these numbers to one
-of your attributes, in any order you
-wish: **+2** , **+1** , **0** , and **-1**. Think about
-your class, and what kind of things
-your character is likely to be doing as
-a guideline for which attributes you
-want to make high, and which you can
-afford to make lower.
+Призначте кожному атрибут одне з числа **+2**, **+1**, **0** та **-1** в будь-якому порядку. Врахуйте ваш клас та подумайте, чим скоріш за все буде займатись ваш персонаж, щоб зорієнтуватись який атрибут зробити високим, а який можна дозволити лишити низьким.
 
-###### 4.RECORD YOUR HEALTH
+###### 4. ЗАПИШІТЬ ВАШЕ ЗДОРОВ'Я
 
-Each PC has maximum Health equal
-to **12** plus their **Streng th** and **A gilit y**
-attributes. For example, a PC with **+
-Strength** and **+1 A g ility** has **15 Health**.
-A PC with **0 Strength** and **-1 A g ilit y**
-has **11 Health.**
+Здоров'я кожно персонажа гравця дорівнює **12** плюс **Сила** плюс **Спритність**. Наприклад, у пероснажа з **Силою +1** та **Спритністю +2** буде **15 Здоров'я**. А для персонажа з **Силою 0** та **Спритністю -1** здоров'я буде **11**.
 
-###### 5.GET YOUR GEAR
+###### 5. ВИБЕРІТЬ СПОРЯДЖЕННЯ
 
-You start with 3 Supply. Supply is an
-abstract amount, representing any items
-you might be carrying. Gear is explained
-in Money, Weapons and Gear, on page 11.
+Ви починаєте з 3-ма __припасами__. **Припаси** — це абстрактне число, що відображає будь-які предмети, що персонаж може мати з собою. Механіка припасів детальніше описана в розділі __Money, Weapons and Gear__ на сторінці ХХ.
 
-- You start with **3 Credits**
-- You start with one **light weapon**.
-    Describe it.
-Then choose either:
-- An additional **7 credits**
-    **OR**
-- **Light Armor** worth 1-armor and a
-    second weapon of any type.
+- Ви починаєте з **3 припасами**
+- Ви починаєте з однією **легкою зброєю**, опишіть її.
+Далі візьміть на вибір:
+- Додаткові **7 кредитів**
+**АБО**
+- **Легка броня** з __захистом-1__ та ще одну зброю будь-якого типу. 
 
-###### 6. NAME AND DESCRIBE YOUR CHARACTER
+###### 6. ДАЙТЕ ІМ'Я ПЕРСОНАЖУ ТА ОПИШІТЬ ЙОГО
 
-Come up with a name for your charac-
-ter, and share it with the other players.
-Also come up with at least one distinct
-visual detail that describes them. It
-can be a clothing item, or something
-about their body or possessions.
-Anything that will help everyone start
-getting a picture of your character in
-their imagination.
+Вигадайте ім'я пероснажу та озвучте його іншим гравцям. Також придумайте якусь виразну особливість перосанажа та опишіть її. Це може бути щось щодо одягу, чи зовнішнього вигляди, чи виразна звичка, що завгодно, щоб у кожного був чіткий образ персонажа в своїй уяві.
 
-###### CUSTOMIZING CLASSES
+###### МОДИФІКАЦІЯ КЛАСІВ
 
-Experienced players may want more
-flexibility when it comes to mak-
-ing a character. If everyone agrees,
-players may ignore the listed class-
-es entirely, and make a character
-simply by choosing any two skills,
-and any two special abilities. Play-
-ers should communicate to make
-sure they don’t overlap too much.
+Досвідчені гравці можуть забажати більшої гнучкості при створенні персонажа. Якщо всі згодні, гравець може проігнорувати описані класи повністю та створити персонажа просто вибравши два вміння та два будь-яких таланти. В цьому випадку гравцям варто домовитись, щоб їх сильні сторони не надто пересікались.
 
-###### ALIENS
+###### ПРИБУЛЬЦІ
 
-Offworlders doesn’t have specific rules
-for alien species. As a group, you
-should decide amongst yourselves if
-intelligent aliens exist in your uni-
-verse. If a player really wants to be an
-alien, let them. Maybe all Psychics are
-from the same species, or the Warrior
-learned their skills because they are a
-member of a clannish, warlike species.
-Often, humanoid aliens in science fic-
-tion are fundamentally just people that
-fit into specific tropes and archetypes.
+В Краєходцях немє особливих правил для інопланетних видів. Як ігровій групі вам варто домовитись, чи існують розумні інопланетні види в ігровому всесвіті. Якщо так і гравець хоче грати за прибульця — то дозвольте йому, але це ніяк не вплине на механіку гри. Можливо всі Псіоніки являються представником одного виду, чи Вояка отримав свої вміння як уродженець клану войовничого виду. Часто гуманоїди в фантастиці — це по-факту просто ті самі люди, що заточені під якись конкретний троп чи архетип 
 
 ###### PLAYER CHARACTERS: THE CREW OF THE QUICHE LORRAINE
 
