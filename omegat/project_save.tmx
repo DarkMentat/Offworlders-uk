@@ -201,6 +201,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>###### CUSTOMIZING CLASSES</seg>
+      </tuv>
+      <tuv lang="uk" changeid="darkmentat" changedate="20220519T204407Z" creationid="darkmentat" creationdate="20220519T204407Z">
+        <seg>###### МОДИФІКАЦІЯ КЛАСІВ</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>**A gility:** Reaction time, control and
 coordination. Useful for balancing</seg>
       </tuv>
@@ -463,6 +471,22 @@ You’ll use these attributes when you roll the dice. The four attributes are:</
       </tuv>
       <tuv lang="uk" changeid="darkmentat" changedate="20220519T195032Z" creationid="darkmentat" creationdate="20220519T195032Z">
         <seg>У кожного персонажа гравця є чотири атрибути, що зображають різні шляхи вирішення проблем. У кожного атрибута є значення від -1 до +3. Чим вище це значення, тим більш ймовірно, щоб гравець використовуючи цей атрибут досяг успіху, вони завжди використовуються при кидках кубів. Ці чотири атрибути наступні: </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Experienced players may want more
+flexibility when it comes to mak-
+ing a character. If everyone agrees,
+players may ignore the listed class-
+es entirely, and make a character
+simply by choosing any two skills,
+and any two special abilities. Play-
+ers should communicate to make
+sure they don’t overlap too much.</seg>
+      </tuv>
+      <tuv lang="uk" changeid="darkmentat" changedate="20220519T204555Z" creationid="darkmentat" creationdate="20220519T204555Z">
+        <seg>Досвідчені гравці можуть забажати більшої гнучкості при створенні персонажа. Якщо всі згодні, гравець може проігнорувати описані класи повністю та створити персонажа просто вибравши два вміння та два будь-яких таланти. В цьому випадку гравцям варто домовитись, щоб їх сильні сторони не надто пересікались.</seg>
       </tuv>
     </tu>
     <tu>
