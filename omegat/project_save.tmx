@@ -59,8 +59,8 @@
       <tuv lang="en-US">
         <seg>#### MAKING AN OFFWORLDER</seg>
       </tuv>
-      <tuv lang="uk" changeid="darkmentat" changedate="20220519T202729Z" creationid="darkmentat" creationdate="20220519T202729Z">
-        <seg>#### </seg>
+      <tuv lang="uk" changeid="darkmentat" changedate="20220519T202742Z" creationid="darkmentat" creationdate="20220519T202729Z">
+        <seg>#### СТВОРЕННЯ КРАЄХОДЦЯ </seg>
       </tuv>
     </tu>
     <tu>
@@ -121,10 +121,26 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>###### 1.PICK A CLASS</seg>
+      </tuv>
+      <tuv lang="uk" changeid="darkmentat" changedate="20220519T202813Z" creationid="darkmentat" creationdate="20220519T202813Z">
+        <seg>###### 1. ВИБЕРІТЬ КЛАС</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>###### 2. PICK THE MOST APPROPRIATE OF THE FOUR ATTRIBUTES.</seg>
       </tuv>
       <tuv lang="uk" changeid="darkmentat" changedate="20220516T235722Z" creationid="darkmentat" creationdate="20220516T235705Z">
         <seg>###### 2. ВИБЕРІТЬ НАЙБІЛЬШ ПІДХОДЯЩИЙ З ЧОТИРЬОХ АТРИБУТІВ</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>###### 2.CHOOSE YOUR SKILLS</seg>
+      </tuv>
+      <tuv lang="uk" changeid="darkmentat" changedate="20220519T203015Z" creationid="darkmentat" creationdate="20220519T203015Z">
+        <seg>###### 2. ВИБЕРІТЬ СОБІ ВМІННЯ</seg>
       </tuv>
     </tu>
     <tu>
@@ -316,6 +332,14 @@ attributes, detailed later.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Choose any **two skills** for your character.</seg>
+      </tuv>
+      <tuv lang="uk" changeid="darkmentat" changedate="20220519T203035Z" creationid="darkmentat" creationdate="20220519T203035Z">
+        <seg>Виберіть будь-які **два вміння** вашому персонажу.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>D6: A single, 6-sided die. Usually you’ll
 roll two of these and add them togeth-
 er, along with an attribute. Sometimes
@@ -343,6 +367,14 @@ You’ll use these attributes when you roll the dice. The four attributes are:</
       </tuv>
       <tuv lang="uk" changeid="darkmentat" changedate="20220519T195032Z" creationid="darkmentat" creationdate="20220519T195032Z">
         <seg>У кожного персонажа гравця є чотири атрибути, що зображають різні шляхи вирішення проблем. У кожного атрибута є значення від -1 до +3. Чим вище це значення, тим більш ймовірно, щоб гравець використовуючи цей атрибут досяг успіху, вони завжди використовуються при кидках кубів. Ці чотири атрибути наступні: </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Follow this process to create your PC:</seg>
+      </tuv>
+      <tuv lang="uk" changeid="darkmentat" changedate="20220519T202803Z" creationid="darkmentat" creationdate="20220519T202803Z">
+        <seg>Для того, щоб створити вашого персонажа, слідуйте наступним крокам:</seg>
       </tuv>
     </tu>
     <tu>
@@ -637,6 +669,15 @@ verse, completing profitable jobs and overcoming dangers.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>There are four classes: **Warrior** , **Out-
+law, Geek** , and **Psychic**. Pick one.</seg>
+      </tuv>
+      <tuv lang="uk" changeid="darkmentat" changedate="20220519T202926Z" creationid="darkmentat" creationdate="20220519T202926Z">
+        <seg>В грі є чотири класи: **Вояка**, **Пройдисвіт**, **Технар** і **Псіонік**. Виберіть собі один.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>To play Offworlders you’ll need:</seg>
       </tuv>
       <tuv lang="uk" changeid="darkmentat" changedate="20220516T235243Z" creationid="darkmentat" creationdate="20220516T235243Z">
@@ -715,6 +756,15 @@ their attributes.</seg>
       </tuv>
       <tuv lang="uk" changeid="darkmentat" changedate="20220516T235518Z" creationid="darkmentat" creationdate="20220516T235518Z">
         <seg>**ПД:** Пункти досвіду. Протягом гри персонажі будуть заробляти пункти досвіду, щоб потратити їх на нові таланти чи щоб покращити атрибути.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Your class gives you a few unique **abil-
+ities** to choose from. Pick any two.</seg>
+      </tuv>
+      <tuv lang="uk" changeid="darkmentat" changedate="20220519T202959Z" creationid="darkmentat" creationdate="20220519T202959Z">
+        <seg>Кожен клас може запропонувати вам декілька **талантів**, виберіть будь-які два.</seg>
       </tuv>
     </tu>
     <tu>
