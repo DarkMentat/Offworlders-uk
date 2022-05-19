@@ -169,6 +169,22 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>###### 4.RECORD YOUR HEALTH</seg>
+      </tuv>
+      <tuv lang="uk" changeid="darkmentat" changedate="20220519T203357Z" creationid="darkmentat" creationdate="20220519T203357Z">
+        <seg>###### 4. ЗАПИШІТЬ ВАШЕ ЗДОРОВ'Я</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>###### 5.GET YOUR GEAR</seg>
+      </tuv>
+      <tuv lang="uk" changeid="darkmentat" changedate="20220519T203659Z" creationid="darkmentat" creationdate="20220519T203659Z">
+        <seg>###### 5. ВИБЕРІТЬ СПОРЯДЖЕННЯ</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>###### CREDIT DUE</seg>
       </tuv>
       <tuv lang="uk" changeid="darkmentat" changedate="20220516T235154Z" creationid="darkmentat" creationdate="20220516T235154Z">
@@ -370,6 +386,19 @@ you’ll roll just one.</seg>
       </tuv>
       <tuv lang="uk" changeid="darkmentat" changedate="20220516T235513Z" creationid="darkmentat" creationdate="20220516T235513Z">
         <seg>**К6:** Один шестигранний кубик. Зазвичай вам потрібно буде кинути два таких і до сумми додати атрибут. Іноді потрібно буде кинути тільки один.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Each PC has maximum Health equal
+to **12** plus their **Streng th** and **A gilit y**
+attributes. For example, a PC with **+
+Strength** and **+1 A g ility** has **15 Health**.
+A PC with **0 Strength** and **-1 A g ilit y**
+has **11 Health.**</seg>
+      </tuv>
+      <tuv lang="uk" changeid="darkmentat" changedate="20220519T203630Z" creationid="darkmentat" creationdate="20220519T203630Z">
+        <seg>Здоров'я кожно персонажа гравця дорівнює **12** плюс **Сила** плюс **Спритність**. Наприклад, у пероснажа з **Силою +1** та **Спритністю +2** буде **15 Здоров'я**. А для персонажа з **Силою 0** та **Спритністю -1** здоров'я буде **11**.</seg>
       </tuv>
     </tu>
     <tu>
