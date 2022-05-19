@@ -33,6 +33,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>#### ABILITIES</seg>
+      </tuv>
+      <tuv lang="uk" changeid="darkmentat" changedate="20220519T202251Z" creationid="darkmentat" creationdate="20220519T202251Z">
+        <seg>#### ТАЛАНТИ</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>#### ATTRIBUTES</seg>
       </tuv>
       <tuv lang="uk" changeid="darkmentat" changedate="20220519T200750Z" creationid="darkmentat" creationdate="20220519T194651Z">
@@ -264,6 +272,17 @@ ters say to each other and the NPC’s.</seg>
       <tuv lang="uk" changeid="darkmentat" changedate="20220516T235301Z" creationid="darkmentat" creationdate="20220516T235301Z">
         <seg>Гра в Краєходцях — це перш за все розмова. Майстер гри описує ситуацію навколо персонажа гравця та наповнює її людьми та деталями. Гравці ж у відповідь описують як діють їх персонажі, можливо уточнюють в майстра деталі, а також озвучують, що їх персонажі кажуть іншим персонажам.
 </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>A player character in Offworlders starts with two abilities, and may get more as time goes on. An ability
+is a special trick, stunt, or talent that allows the PC to do something special or bend the rules. Each ability
+describes how and when it is applicable. The abilities are divided into four character classes, described in
+Making an Offworlder, on the next page.</seg>
+      </tuv>
+      <tuv lang="uk" changeid="darkmentat" changedate="20220519T202651Z" creationid="darkmentat" creationdate="20220519T202651Z">
+        <seg>Персонаж гравця в Краєходцях починає з двума талантами і з часом може отримати більше. Кожен талант описує якись особливий трюк, фокус чи здібність, щоб здійснити щось незвичайне чи зробити виняток в правилах. Для кожного таланта є опис як він працює і коли його можна застосувати. Всі вони описані далі в чотирьох класах персонажів, описаних в наступному розділі. </seg>
       </tuv>
     </tu>
     <tu>
@@ -545,6 +564,14 @@ with two skills.</seg>
       </tuv>
       <tuv lang="uk" changeid="darkmentat" changedate="20220519T202211Z" creationid="darkmentat" creationdate="20220519T202211Z">
         <seg>**Виживання:** Вміння знайти їжу, повітря, притулок, зорієнтуватись в небезпечному середовищі.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Tech: Computer software and complex engineering.</seg>
+      </tuv>
+      <tuv lang="uk" changeid="darkmentat" changedate="20220519T202235Z" creationid="darkmentat" creationdate="20220519T202235Z">
+        <seg>**Техніка:** Робота з програмним забезпеченням і складними системами.</seg>
       </tuv>
     </tu>
     <tu>
