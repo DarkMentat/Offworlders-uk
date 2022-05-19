@@ -129,6 +129,15 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>**A gility:** Reaction time, control and
+coordination. Useful for balancing</seg>
+      </tuv>
+      <tuv lang="uk" changeid="darkmentat" changedate="20220519T195438Z" creationid="darkmentat" creationdate="20220519T195438Z">
+        <seg>**Спритність** Час реакції, моторика й координація. </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>**Character:** Any fictional person in the
 story, either a PC or an NPC.</seg>
       </tuv>
