@@ -185,6 +185,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>###### 6. NAME AND DESCRIBE YOUR CHARACTER</seg>
+      </tuv>
+      <tuv lang="uk" changeid="darkmentat" changedate="20220519T204120Z" creationid="darkmentat" creationdate="20220519T204120Z">
+        <seg>###### 6. ДАЙТЕ ІМ'Я ПЕРСОНАЖУ ТА ОПИШІТЬ ЙОГО</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>###### CREDIT DUE</seg>
       </tuv>
       <tuv lang="uk" changeid="darkmentat" changedate="20220516T235154Z" creationid="darkmentat" creationdate="20220516T235154Z">
@@ -395,6 +403,22 @@ attributes, detailed later.</seg>
       </tuv>
       <tuv lang="uk" changeid="darkmentat" changedate="20220519T203035Z" creationid="darkmentat" creationdate="20220519T203035Z">
         <seg>Виберіть будь-які **два вміння** вашому персонажу.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Come up with a name for your charac-
+ter, and share it with the other players.
+Also come up with at least one distinct
+visual detail that describes them. It
+can be a clothing item, or something
+about their body or possessions.
+Anything that will help everyone start
+getting a picture of your character in
+their imagination.</seg>
+      </tuv>
+      <tuv lang="uk" changeid="darkmentat" changedate="20220519T204333Z" creationid="darkmentat" creationdate="20220519T204333Z">
+        <seg>Вигадайте ім'я пероснажу та озвучте його іншим гравцям. Також придумайте якусь виразну особливість перосанажа та опишіть її. Це може бути щось щодо одягу, чи зовнішнього вигляди, чи виразна звичка, що завгодно, щоб у кожного був чіткий образ персонажа в своїй уяві.</seg>
       </tuv>
     </tu>
     <tu>
