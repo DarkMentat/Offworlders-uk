@@ -156,6 +156,14 @@ starships through asteroid fields, and shooting rifles.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>**Athletics:** Running, climbing, jumping, swimming etc.</seg>
+      </tuv>
+      <tuv lang="uk" changeid="darkmentat" changedate="20220519T201516Z" creationid="darkmentat" creationdate="20220519T201516Z">
+        <seg>**Атлетика:** Біг, лазання, стрибки, плавання, тощо.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>**Character:** Any fictional person in the
 story, either a PC or an NPC.</seg>
       </tuv>
@@ -272,6 +280,16 @@ you’ll roll just one.</seg>
       </tuv>
       <tuv lang="uk" changeid="darkmentat" changedate="20220516T235513Z" creationid="darkmentat" creationdate="20220516T235513Z">
         <seg>**К6:** Один шестигранний кубик. Зазвичай вам потрібно буде кинути два таких і до сумми додати атрибут. Іноді потрібно буде кинути тільки один.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Each skill represents an area of trained expertise. Unlike attributes, skills do not have an associated number.
+You either have a skill or you don’t. When you roll the dice and have an applicable skill, you may re-roll one
+of the dice. You must accept the second result.</seg>
+      </tuv>
+      <tuv lang="uk" changeid="darkmentat" changedate="20220519T201448Z" creationid="darkmentat" creationdate="20220519T201448Z">
+        <seg>Кожне вміння відображає деяку набуту область експертизи. На відмінну від атрибутів, вміння не мають числове значення, ви просто або маєте його, або ні. Коли ви здійснюєте кидок і у вас є підхоже вміння, ви можете перекинути один кубик і взяти новий результат.</seg>
       </tuv>
     </tu>
     <tu>
