@@ -284,6 +284,21 @@ you think! Talk to me on Twitter at @chrisperry wolf.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Nothing Never Happens. No matter
+what the outcome is, rolling the dice
+always changes the fictional situation.
+On a success, the PC accomplishes
+their goal and the game moves for-
+ward. On a complication or a miss, the
+situation escalates and becomes more
+interesting.</seg>
+      </tuv>
+      <tuv lang="uk" changeid="darkmentat" changedate="20220519T194644Z" creationid="darkmentat" creationdate="20220519T194644Z">
+        <seg>Завжди щось трапляється. Не залежно від результату, кидок кубів завжди змінює описану ситуацію. При успіху персонаж гравця досягає своїх цілей та продовжує рухати гру далі, а при ускладненнях чи провалах ситуація загострюється та стає ще цікавішою.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>ON A 10 OR HIGHER: Success. You
 get what you want.</seg>
       </tuv>
@@ -339,8 +354,8 @@ It just doesn’t work. The sweet spot is
 when it’s something the character could
 potentially do, but it’s going to be tricky.</seg>
       </tuv>
-      <tuv lang="uk" changeid="darkmentat" changedate="20220519T194224Z" creationid="darkmentat" creationdate="20220519T194224Z">
-        <seg>Робіть кидки тільки коли результат може бути цікавим. Не кидайте куби, коли персонаж робить щось, з чим він ймовірно справиться без жодних проблем, або якщо немає жодних цікавих наслідків провалу. Та навпаки, не кидайте куби, коли персонаж хоче здійснити щось неможливе. Це просто не спрацює. Найкраще для кидків, коли у персонажа була можливість досягти задуманого, але це було досить непросто</seg>
+      <tuv lang="uk" changeid="darkmentat" changedate="20220519T194354Z" creationid="darkmentat" creationdate="20220519T194224Z">
+        <seg>Робіть кидки тільки коли результат може бути цікавим. Не кидайте куби, коли персонаж робить щось, з чим він ймовірно справиться без жодних проблем, або якщо немає жодних цікавих наслідків провалу. Та навпаки, не кидайте куби, коли персонаж хоче здійснити щось неможливе. Це просто не спрацює. Найкраще для кидків, щоб у персонажа були шанси досягти задуманого, але ситуація була непроста й ненадійна.</seg>
       </tuv>
     </tu>
     <tu>
