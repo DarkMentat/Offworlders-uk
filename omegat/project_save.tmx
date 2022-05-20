@@ -832,6 +832,18 @@ a partial success as a total success ( 10+ ).</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Medic: When you perform first aid,
+heal an additional +2 Health. When
+others get a night’s rest in your pres-
+ence, they roll 1D6 and heal that much
+additional Health.</seg>
+      </tuv>
+      <tuv lang="uk" changeid="darkmentat" changedate="20220520T215222Z" creationid="darkmentat" creationdate="20220520T215222Z">
+        <seg>**Медик:** Коли ви надаєте першу допомогу, ви виліковуєте додатково +2 пункти здоров'я. Коли хтось відпочиває цілу ніч у вашій присутності, він може кинути к6 та вилікувати стільки додаткового здоров'я.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Nothing Never Happens. No matter
 what the outcome is, rolling the dice
 always changes the fictional situation.
@@ -962,6 +974,14 @@ ia Gulin, David Kenyon, and Steve Kilian</seg>
       </tuv>
       <tuv lang="uk" changeid="darkmentat" changedate="20220516T235220Z" creationid="darkmentat" creationdate="20220516T235220Z">
         <seg>Плейтестери: Chris Darden, Cameron Farrell, Olivia Gulin, David Kenyon, and Steve Kilian.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Polymath: Get a third skill</seg>
+      </tuv>
+      <tuv lang="uk" changeid="darkmentat" changedate="20220520T215302Z" creationid="darkmentat" creationdate="20220520T215302Z">
+        <seg>**Ерудит:** Отримайте в додаток третє вміння.</seg>
       </tuv>
     </tu>
     <tu>
