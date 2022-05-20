@@ -596,6 +596,18 @@ you’ll roll just one.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Drone Controller: You have a small
+flying drone that you can control
+remotely and perceive through. If it is
+destroyed or lost, you can make a new
+one with a few days of downtime.</seg>
+      </tuv>
+      <tuv lang="uk" changeid="darkmentat" changedate="20220520T214841Z" creationid="darkmentat" creationdate="20220520T214841Z">
+        <seg>**Оператор дронів:** У вас є невеликий летючий дрон, який ви можете контролювати віддалено та отримувати з нього данні. Якщо він буде знищений чи загублений, ви можете зробити нового за декілька днів перепочинку.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Each PC has maximum Health equal
 to **12** plus their **Streng th** and **A gilit y**
 attributes. For example, a PC with **+
@@ -680,6 +692,17 @@ weapons and armor.</seg>
       </tuv>
       <tuv lang="uk" changeid="darkmentat" changedate="20220520T211941Z" creationid="darkmentat" creationdate="20220520T211941Z">
         <seg>**Важковаговик:** Ви можете вміло й без штрафів використовувати важке озброєння та броню.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Hijack: You can attempt to remotely
+take over any electronic machine or
+computer that you can see. Roll the
+dice with Intelligence to do it.</seg>
+      </tuv>
+      <tuv lang="uk" changeid="darkmentat" changedate="20220520T214952Z" creationid="darkmentat" creationdate="20220520T214952Z">
+        <seg>**Перехоплення:** Ви можете спробувати віддалено взяти під контроль якийсь електронний пристрій чи комп'ютер в полі зору. Киньте куби з Інтелектом для цього.</seg>
       </tuv>
     </tu>
     <tu>
