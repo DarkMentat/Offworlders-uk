@@ -20,3 +20,4 @@ Warrior	Вояка
 Outlaw	Пройдисвіт
 Geek	Технар
 Psychic	Псіонік
+damage	ушкодження
