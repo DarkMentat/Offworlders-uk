@@ -333,6 +333,14 @@ reveal yourself.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>**Hardy:** Add 4 to your Health.</seg>
+      </tuv>
+      <tuv lang="uk" changeid="darkmentat" changedate="20220520T211755Z" creationid="darkmentat" creationdate="20220520T211755Z">
+        <seg>**Загартований:** Додайте додатково 4 до пунктів здоров'я.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>**Manipulation:** Getting others to do what you want, through lying, charm or coercion.</seg>
       </tuv>
       <tuv lang="uk" changeid="darkmentat" changedate="20220519T201714Z" creationid="darkmentat" creationdate="20220519T201714Z">
@@ -621,6 +629,16 @@ health.</seg>
       </tuv>
       <tuv lang="uk" changeid="darkmentat" changedate="20220516T235450Z" creationid="darkmentat" creationdate="20220516T235450Z">
         <seg>**Здоров'я:** Число, що відображає фізичну стійкість персонажа гравця. Коли персонаж отримує пошкодження, його значення здоров'я зменшується.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Heavy Lifting: You can move deftly
+and without penalty while using heav y
+weapons and armor.</seg>
+      </tuv>
+      <tuv lang="uk" changeid="darkmentat" changedate="20220520T211941Z" creationid="darkmentat" creationdate="20220520T211941Z">
+        <seg>**Важковаговик:** Ви можете вміло й без штрафів використовувати важке озброєння та броню.</seg>
       </tuv>
     </tu>
     <tu>
