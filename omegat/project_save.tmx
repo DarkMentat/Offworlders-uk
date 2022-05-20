@@ -241,6 +241,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>###### WARRIOR</seg>
+      </tuv>
+      <tuv lang="uk" changeid="darkmentat" changedate="20220520T211100Z" creationid="darkmentat" creationdate="20220520T211100Z">
+        <seg>###### ВОЯКА</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>**A gility:** Reaction time, control and
 coordination. Useful for balancing</seg>
       </tuv>
@@ -420,6 +428,17 @@ Making an Offworlder, on the next page.</seg>
       </tuv>
       <tuv lang="uk" changeid="darkmentat" changedate="20220519T202651Z" creationid="darkmentat" creationdate="20220519T202651Z">
         <seg>Персонаж гравця в Краєходцях починає з двума талантами і з часом може отримати більше. Кожен талант описує якись особливий трюк, фокус чи здібність, щоб здійснити щось незвичайне чи зробити виняток в правилах. Для кожного таланта є опис як він працює і коли його можна застосувати. Всі вони описані далі в чотирьох класах персонажів, описаних в наступному розділі. </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>ABILITIES:
+**Brute:** You deal +2 damage with
+melee weapons.</seg>
+      </tuv>
+      <tuv lang="uk" changeid="darkmentat" changedate="20220520T211327Z" creationid="darkmentat" creationdate="20220520T211327Z">
+        <seg>ТАЛАНТИ:
+</seg>
       </tuv>
     </tu>
     <tu>
@@ -965,6 +984,15 @@ the GM makes the final call.</seg>
       </tuv>
       <tuv lang="uk" changeid="darkmentat" changedate="20220516T235713Z" creationid="darkmentat" creationdate="20220516T235713Z">
         <seg>Зазвичай це рішення очевидне, але якщо ні — останнє слово за майстром.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Warriors are soldiers and bounty hunters. All their abilities provide an edge
+in combat. Play a Warrior if you want to be straightforward and violent.</seg>
+      </tuv>
+      <tuv lang="uk" changeid="darkmentat" changedate="20220520T211215Z" creationid="darkmentat" creationdate="20220520T211215Z">
+        <seg>Це можуть бути різного рода солдати чи мисливці за головами. Всі їх таланти мають забезпечувати переваю в бою. Грайте за Вояку, якщо хочете діяти жорстоко та прямолінійно.</seg>
       </tuv>
     </tu>
     <tu>
