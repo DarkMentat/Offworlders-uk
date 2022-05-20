@@ -295,6 +295,21 @@ story, either a PC or an NPC.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>**Chemist:** You may spend 1 supply to
+produce a single dose or use of a med-
+icine, chemical, poison, or biological
+agent. Give it a name and purpose,
+and decide with the GM exactly how
+it works. The GM has final say on its
+effects and potential side effects or
+drawbacks.</seg>
+      </tuv>
+      <tuv lang="uk" changeid="darkmentat" changedate="20220520T214725Z" creationid="darkmentat" creationdate="20220520T214725Z">
+        <seg>**Хімік:** Ви можете потратити 1 з припасів, щоб виробити одну дозу якогось медикаменту, хімікату, отрути чи біоагенту. Дайте їй ім'я, опишість призначення та обговоріть з майстром як саме вона має працювати. У майстра буде останнє слово щодо того, яким саме він буде працювати чи щодо можливих побічних ефектів чи обмежень.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>**Culture:** Knowledge of people, places, etiquette, and history across many worlds.</seg>
       </tuv>
       <tuv lang="uk" changeid="darkmentat" changedate="20220519T201603Z" creationid="darkmentat" creationdate="20220519T201603Z">
