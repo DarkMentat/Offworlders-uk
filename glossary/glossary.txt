@@ -16,3 +16,7 @@ Ability	Талант
 Success	Успіх
 Complication	Ускладнення
 miss	провал
+Warrior	Вояка
+Outlaw	Пройдисвіт
+Geek	Технар
+Psychic	Псіонік
