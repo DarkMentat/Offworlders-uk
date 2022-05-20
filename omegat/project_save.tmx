@@ -27,8 +27,8 @@
       <tuv lang="en-US">
         <seg>### THE GAME MASTER</seg>
       </tuv>
-      <tuv lang="uk" changeid="IrynaDobro" changedate="20220520T130500Z" creationid="IrynaDobro" creationdate="20220520T130447Z">
-        <seg> Для Майстра Гри </seg>
+      <tuv lang="uk" changeid="darkmentat" changedate="20220520T203434Z" creationid="IrynaDobro" creationdate="20220520T130447Z">
+        <seg>### Для Майстра Гри </seg>
       </tuv>
     </tu>
     <tu>
@@ -107,8 +107,8 @@
       <tuv lang="en-US">
         <seg>#### YOUR GOALS</seg>
       </tuv>
-      <tuv lang="uk" changeid="IrynaDobro" changedate="20220520T130523Z" creationid="IrynaDobro" creationdate="20220520T130523Z">
-        <seg>Твоя ціль </seg>
+      <tuv lang="uk" changeid="darkmentat" changedate="20220520T203438Z" creationid="IrynaDobro" creationdate="20220520T130523Z">
+        <seg>#### Твоя ціль </seg>
       </tuv>
     </tu>
     <tu>
@@ -408,9 +408,8 @@ two abilities.</seg>
         <seg>As the GM, you have three primary goals. Everything you do should be in
 service of one of them.</seg>
       </tuv>
-      <tuv lang="uk" changeid="IrynaDobro" changedate="20220520T180041Z" creationid="IrynaDobro" creationdate="20220520T180041Z">
-        <seg>Як , you have three primary goals. Everything you do should be in
-service of one of them.</seg>
+      <tuv lang="uk" changeid="darkmentat" changedate="20220520T203608Z" creationid="IrynaDobro" creationdate="20220520T180041Z">
+        <seg>Як у майстра гри, у вас є три основні цілі, і все, що ви робите має працювати на них.</seg>
       </tuv>
     </tu>
     <tu>
