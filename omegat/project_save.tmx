@@ -233,6 +233,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>###### OUTLAW</seg>
+      </tuv>
+      <tuv lang="uk" changeid="darkmentat" changedate="20220520T203805Z" creationid="darkmentat" creationdate="20220520T203805Z">
+        <seg>###### ПРОЙДИСВІТ</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>**A gility:** Reaction time, control and
 coordination. Useful for balancing</seg>
       </tuv>
@@ -689,6 +697,16 @@ potentially do, but it’s going to be tricky.</seg>
       </tuv>
       <tuv lang="uk" changeid="darkmentat" changedate="20220519T194354Z" creationid="darkmentat" creationdate="20220519T194224Z">
         <seg>Робіть кидки тільки коли результат може бути цікавим. Не кидайте куби, коли персонаж робить щось, з чим він ймовірно справиться без жодних проблем, або якщо немає жодних цікавих наслідків провалу. Та навпаки, не кидайте куби, коли персонаж хоче здійснити щось неможливе. Це просто не спрацює. Найкраще для кидків, щоб у персонажа були шанси досягти задуманого, але ситуація була непроста й ненадійна.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Outlaws are smugglers, scoundrels, and jacks-of-all-trades. Their abil-
+ities revolve around being sneaky, lucky, or ruthless. Play an Outlaw if
+you want to get in and out of trouble.</seg>
+      </tuv>
+      <tuv lang="uk" changeid="darkmentat" changedate="20220520T204616Z" creationid="darkmentat" creationdate="20220520T204616Z">
+        <seg>Пройдисвітами є різного роду контрабандисти, шахраї та всілякі авантюристи. Їх таланти в основному зводяться до того, щоб бути підступним, везучим та холоднокровним. Грайте за пройдисвіта, якщо хочете швидко знаходити проблеми на свою голову та швидко вибиратись з них.</seg>
       </tuv>
     </tu>
     <tu>
