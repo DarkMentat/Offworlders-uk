@@ -622,6 +622,16 @@ sure they don’t overlap too much.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Geeks are doctors, scientists and technicians. Their abilities allow them
+to manipulate technology, heal their teammates and offer additional
+insight. Play a Geek if you want to be the smartest one in the room.</seg>
+      </tuv>
+      <tuv lang="uk" changeid="darkmentat" changedate="20220520T214133Z" creationid="darkmentat" creationdate="20220520T214133Z">
+        <seg>Технарі — це науковці, медики й спеціалісти. Їх таланти дозволяють їх управляти різною технікою, лікувати своїх товаришів та отримувати додаткові прозріння. Грайте за технаря, якщо хочете бути найрозумнішим в кімнаті.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Health: A number representing how
 physically resilient a PC is. When a PC
 takes damage, it reduces their current
@@ -1018,11 +1028,30 @@ else to speak up.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Unstoppable: You have +1 armor
+at all times.</seg>
+      </tuv>
+      <tuv lang="uk" changeid="darkmentat" changedate="20220520T211955Z" creationid="darkmentat" creationdate="20220520T211955Z">
+        <seg>**Нестримний:** У вас завжди є +1 до броні.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Usually it will be obvious, but if it isn’t,
 the GM makes the final call.</seg>
       </tuv>
       <tuv lang="uk" changeid="darkmentat" changedate="20220516T235713Z" creationid="darkmentat" creationdate="20220516T235713Z">
         <seg>Зазвичай це рішення очевидне, але якщо ні — останнє слово за майстром.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Veteran’s Instincts: Once per battle,
+re-roll a damage die, either damage you
+are dealing or damage dealt to you.</seg>
+      </tuv>
+      <tuv lang="uk" changeid="darkmentat" changedate="20220520T212058Z" creationid="darkmentat" creationdate="20220520T212058Z">
+        <seg>**Інстинкти ветерана:** Один раз в бою ви можете перекинути кубик ушкодженнь, не важливо тих, що ви завдаєте чи тих, що ви отримуєте.</seg>
       </tuv>
     </tu>
     <tu>
