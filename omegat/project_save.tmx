@@ -403,6 +403,21 @@ Making an Offworlder, on the next page.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>ABILITIES:
+**Cheap Shot:** If you attack an unaware
+or surprised enemy, you can roll the
+attack as though you were skilled,
+rerolling one of the dice if you wish. If
+successful, do maximum possible dam-
+age for your weapon, ignoring armor.</seg>
+      </tuv>
+      <tuv lang="uk" changeid="darkmentat" changedate="20220520T205425Z" creationid="darkmentat" creationdate="20220520T205425Z">
+        <seg>ТАЛАНТИ:
+**Підступний удар:** Коли ви атакуєте несподівано, ціль не очікує удару чи ви застали її зненацька, вважайте, що у вас є підходяще вміння і ви можете перекинути один з випавших кубиків. В випадку успіху ви наносите максимальне для вашої зброї ушкодження, ігноруючи броню.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Ability: A special action or stunt that a
 PC can perform. Each PC begins with
 two abilities.</seg>
