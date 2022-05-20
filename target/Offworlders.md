@@ -257,111 +257,56 @@ Credits 10
 Appearance Body is covered in
 biomechanical implants.
 
-###### GEEK
+###### ТЕХНАР
 
-Geeks are doctors, scientists and technicians. Their abilities allow them
-to manipulate technology, heal their teammates and offer additional
-insight. Play a Geek if you want to be the smartest one in the room.
+Технарі — це науковці, медики й спеціалісти. Їх таланти дозволяють їх управляти різною технікою, лікувати своїх товаришів та отримувати додаткові прозріння. Грайте за технаря, якщо хочете бути найрозумнішим в кімнаті.
 
-ABILITIES:
-**Analytical:** W hen you encounter a
-new situation, area or character,
-you may ask the GM any one simple
-question about the objects, people, or
-surroundings. If the answer is some-
-thing you could possibly perceive, the
-GM must answer you honestly.
+ТАЛАНТИ:
+**Аналітика:** Коли ви стикаєтесь з новою ситуацією, місцем чи персонажам, ви можете запитати у майстра одне просте питання про навколишні предмети чи людей. Якщо відповідю є щось, що ви потенційно можете зрозуміти, майстер дасть вам чесну відповідь.
 
-**Chemist:** You may spend 1 supply to
-produce a single dose or use of a med-
-icine, chemical, poison, or biological
-agent. Give it a name and purpose,
-and decide with the GM exactly how
-it works. The GM has final say on its
-effects and potential side effects or
-drawbacks.
+**Хімік:** Ви можете потратити 1 з припасів, щоб виробити одну дозу якогось медикаменту, хімікату, отрути чи біоагенту. Дайте їй ім'я, опишість призначення та обговоріть з майстром як саме вона має працювати. У майстра буде останнє слово щодо того, яким саме він буде працювати чи щодо можливих побічних ефектів чи обмежень.
 
-Drone Controller: You have a small
-flying drone that you can control
-remotely and perceive through. If it is
-destroyed or lost, you can make a new
-one with a few days of downtime.
+**Оператор дронів:** У вас є невеликий летючий дрон, який ви можете контролювати віддалено та отримувати з нього данні. Якщо він буде знищений чи загублений, ви можете зробити нового за декілька днів перепочинку.
 
-Hijack: You can attempt to remotely
-take over any electronic machine or
-computer that you can see. Roll the
-dice with Intelligence to do it.
+**Перехоплення:** Ви можете спробувати віддалено взяти під контроль якийсь електронний пристрій чи комп'ютер в полі зору. Киньте куби з Інтелектом для цього.
 
-Medic: When you perform first aid,
-heal an additional +2 Health. When
-others get a night’s rest in your pres-
-ence, they roll 1D6 and heal that much
-additional Health.
+**Медик:** Коли ви надаєте першу допомогу, ви виліковуєте додатково +2 пункти здоров'я. Коли хтось відпочиває цілу ніч у вашій присутності, він може кинути к6 та вилікувати стільки додаткового здоров'я.
 
-Polymath: Get a third skill
+**Ерудит:** Отримайте в додаток третє вміння.
 
-###### OUTLAW
+###### ПРОЙДИСВІТ
 
-Outlaws are smugglers, scoundrels, and jacks-of-all-trades. Their abil-
-ities revolve around being sneaky, lucky, or ruthless. Play an Outlaw if
-you want to get in and out of trouble.
+Пройдисвітами є різного роду контрабандисти, шахраї та всілякі авантюристи. Їх таланти в основному зводяться до того, щоб бути підступним, везучим та холоднокровним. Грайте за пройдисвіта, якщо хочете швидко знаходити проблеми на свою голову та швидко вибиратись з них.
 
-ABILITIES:
-**Cheap Shot:** If you attack an unaware
-or surprised enemy, you can roll the
-attack as though you were skilled,
-rerolling one of the dice if you wish. If
-successful, do maximum possible dam-
-age for your weapon, ignoring armor.
+ТАЛАНТИ:
+**Підступний удар:** Коли ви атакуєте несподівано, ціль не очікує удару чи ви застали її зненацька, вважайте, що у вас є підходяще вміння і ви можете перекинути один з випавших кубиків. В випадку успіху ви наносите максимальне для вашої зброї ушкодження, ігноруючи броню.
 
-**Ghost:** If you hold still in a hiding
-spot, no one will find you until you
-reveal yourself.
+**Примара:** Якщо ви зачаїлись в непомітному місці, ніхто не знайде вас доти, поки ви самі себе не проявите. 
 
-**Reckless:** When you charge into a
-dangerous situation without regard for
-your safety or the safety of others, get
-**+1** to your next roll.
+**Шибайголова:** Коли ви кидаєтесь в небезпечну ситуацію, не турбуючись про безпеку себе чи інших, отримайте бонус **+1++ до вашого наступного кидка.
 
-Lucky: Once per session, you may count
-any miss ( 6- ) as a partial success ( 7-9 ), or
-a partial success as a total success ( 10+ ).
+**Щасливчик:** Раз за зустріч ви можете вважати один провал (6-) як ускладнення (7-9), чи ускладнення як повний успіх.
 
-Shoot First: You cannot be surprised.
-If someone would surprise you, you get
-the jump on them instead. You always
-act first in a fight.
+**Стріляй першим:** Вас неможливо заскочити зненацька, якщо хтось хоче влаштувати вам неприємну несподіванку, ви все одно будете на крок попереду. Ви завжди дієте першим в бою.
 
-Smuggle: If you put any object some-
-where it could reasonably be hidden,
-(a handheld object on your person, or a
-larger object on a ship, etc.) no one will
-be able to find it.
+**Контрабандист:** Якщо ви захочете сховати якусь річ, яку справді можливо сховати (невеликий предмет в людини, чи щось побільше на кораблі), то ніхто не зможе її знайти.
 
-###### WARRIOR
+###### ВОЯКА
 
-Warriors are soldiers and bounty hunters. All their abilities provide an edge
-in combat. Play a Warrior if you want to be straightforward and violent.
+Це можуть бути різного рода солдати чи мисливці за головами. Всі їх таланти мають забезпечувати переваю в бою. Грайте за Вояку, якщо хочете діяти жорстоко та прямолінійно.
 
-ABILITIES:
-**Brute:** You deal +2 damage with
-melee weapons.
+ТАЛАНТИ:
+**Брутальни:** Ви наносите +2 ушкодження зброєю ближнього бою.
 
-**Dead Eye:** You deal +2 damage with
-ranged weapons.
+**Ціпкий зір:** Ви наносите +2 ушкодження зброєю дальнього бою.
 
-**Hardy:** Add 4 to your Health.
+**Загартований:** Додайте додатково 4 до пунктів здоров'я.
 
-Heavy Lifting: You can move deftly
-and without penalty while using heav y
-weapons and armor.
+**Важковаговик:** Ви можете вміло й без штрафів використовувати важке озброєння та броню.
 
-Unstoppable: You have +1 armor
-at all times.
+**Нестримний:** У вас завжди є +1 до броні.
 
-Veteran’s Instincts: Once per battle,
-re-roll a damage die, either damage you
-are dealing or damage dealt to you.
+**Інстинкти ветерана:** Один раз в бою ви можете перекинути кубик ушкодженнь, не важливо тих, що ви завдаєте чи тих, що ви отримуєте.
 
 ###### PSYCHIC
 
@@ -846,42 +791,21 @@ master for your group, you should read it. If you’re
 not planning on being a game master, you don’t
 have to read it, but you might fi nd it interesting.
 
-### THE GAME MASTER
+### Для Майстра Гри 
 
-#### YOUR GOALS
+#### Твоя ціль 
 
-As the GM, you have three primary goals. Everything you do should be in
-service of one of them.
+Як у майстра гри, у вас є три основні цілі, і все, що ви робите має працювати на них.
 
-###### PORTRAY A DANGEROUS AND EXCITING SCI-FI UNIVERSE
+###### Змалюй небезпечний та вражаючий SCI-FI всесвіт 
 
-Laser beams glitter in the darkness.
-Pirate Cruisers cut across the rings
-of a gas giant. A derelict vessel offers
-mysteries to be solved, but something
-dangerous lurks in its halls. Fill your
-imagination with images of starships,
-futuristic cities, and dangerous
-frontier worlds. Present the universe
-to your players with pointed details
-and evocative description. Make it feel
-amazing but real.
+Промені лазеру блищать у темряві. Піратський Крейсер нарізає кільця газового гіганту. Занедбане судно нерозгаданих таємниць з чимось небезпечним у холі. Заповни свою уяву картинами зоряних кораблів, фтуристичних міст та нестабільних меж. Подаруй своїм гравцям всествіт з гострими деталями та захоплюючим описом. Нехай він буде дивовижним, але реальним. 
 
-###### FILL THE CHARACTERS’ LIVES WITH CONFLICT AND ADVENTURE
+###### НАПОВНИ ЖИТТЯ ПЕРСОНАЖІВ КОНФЛІКТАМИ ТА ПРИГОДАМИ 
 
-An outlaw in a smoky space station
-bar offers a job with a payout too good
-to be true. A customs vessel closes in,
-scanning for the contraband on board.
-In the alley ways of a world-spanning
-metropolis, a violent gang surrounds
-the characters. Keep things moving,
-keep pushing against the players. Give
-them things to do and people to inter-
-act with. Push them into action, then
-follow up with what they do.
+Пройдисвіту в барі на задимленій космічній станції пропонують роботу з оплатою надто хорошою для правди. Митне судно зачиняється на огляд контрабанди на борту судна. На дорогах мегаполісу що перетинаюсь увесь всесвіт жорстка банда оточила персонажів. Тримай речі у русі, дозволь їм тиснути на гравців. Дай їм що робити та героїв з якими взаємодіяти. Дай їм привід до дії а далі слідкуй за тим, куди вони рухаються. 
 
-###### PLAY TO FIND OUT WHAT HAPPENS
+###### *ГРАЙ ЩОБ ДІЗНАТИСЬ ЩО БУДЕ ДАЛІ*
 
 Don’t come in with a whole story
 planned out. You might have a job
