@@ -22,3 +22,7 @@ Geek	Технар
 Psychic	Псіонік
 damage	ушкодження
 supply	припаси
+Strength	Сила
+Agility	Спритність
+Intelligence	Інтелект
+Willpower	Воля
