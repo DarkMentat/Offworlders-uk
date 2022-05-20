@@ -25,6 +25,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>### THE GAME MASTER</seg>
+      </tuv>
+      <tuv lang="uk" changeid="IrynaDobro" changedate="20220520T130500Z" creationid="IrynaDobro" creationdate="20220520T130447Z">
+        <seg> Для Майстра Гри </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>### WELCOME TO OFFWORLDERS</seg>
       </tuv>
       <tuv lang="uk" changeid="darkmentat" changedate="20220516T235042Z" creationid="darkmentat" creationdate="20220516T235042Z">
@@ -93,6 +101,14 @@
       </tuv>
       <tuv lang="uk" changeid="darkmentat" changedate="20220516T235236Z" creationid="darkmentat" creationdate="20220516T235236Z">
         <seg>#### ЩО НЕОБХІДНО ДЛЯ ГРИ</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>#### YOUR GOALS</seg>
+      </tuv>
+      <tuv lang="uk" changeid="IrynaDobro" changedate="20220520T130523Z" creationid="IrynaDobro" creationdate="20220520T130523Z">
+        <seg>Твоя ціль </seg>
       </tuv>
     </tu>
     <tu>
@@ -385,6 +401,16 @@ two abilities.</seg>
       </tuv>
       <tuv lang="uk" changeid="darkmentat" changedate="20220516T235458Z" creationid="darkmentat" creationdate="20220516T235458Z">
         <seg>**Талант:** Спеціальна дія чи трюк, котрі може виконати пероснаж. Кожен персонаж гравця починає з двума талантами.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>As the GM, you have three primary goals. Everything you do should be in
+service of one of them.</seg>
+      </tuv>
+      <tuv lang="uk" changeid="IrynaDobro" changedate="20220520T180041Z" creationid="IrynaDobro" creationdate="20220520T180041Z">
+        <seg>Як , you have three primary goals. Everything you do should be in
+service of one of them.</seg>
       </tuv>
     </tu>
     <tu>
