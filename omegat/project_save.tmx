@@ -337,6 +337,17 @@ Game Master.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>**Reckless:** When you charge into a
+dangerous situation without regard for
+your safety or the safety of others, get
+**+1** to your next roll.</seg>
+      </tuv>
+      <tuv lang="uk" changeid="darkmentat" changedate="20220520T205737Z" creationid="darkmentat" creationdate="20220520T205737Z">
+        <seg>**Шибайголова:** Коли ви кидаєтесь в небезпечну ситуацію, не турбуючись про безпеку себе чи інших, отримайте бонус **+1++ до вашого наступного кидка.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>**Strength:** Raw power, speed and ag-
 gression. Useful for climbing, sprint-
 ing, breaking things, and fighting in
@@ -627,6 +638,16 @@ pertinent facts.</seg>
       </tuv>
       <tuv lang="uk" changeid="darkmentat" changedate="20220519T200259Z" creationid="darkmentat" creationdate="20220519T200259Z">
         <seg>**Інтелект:** Сприйняття, логіка й знання. Корисно при аналізі, возні зі складними технологіями чи при пошуку потрібних фактів.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Lucky: Once per session, you may count
+any miss ( 6- ) as a partial success ( 7-9 ), or
+a partial success as a total success ( 10+ ).</seg>
+      </tuv>
+      <tuv lang="uk" changeid="darkmentat" changedate="20220520T210342Z" creationid="darkmentat" creationdate="20220520T210342Z">
+        <seg>**Щасливчик:** Раз за зустріч ви можете вважати один провал (6-) як ускладнення (7-9), чи ускладнення як повний успіх.</seg>
       </tuv>
     </tu>
     <tu>
