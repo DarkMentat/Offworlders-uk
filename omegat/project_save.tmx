@@ -816,6 +816,17 @@ er has to Roll the Dice.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Shoot First: You cannot be surprised.
+If someone would surprise you, you get
+the jump on them instead. You always
+act first in a fight.</seg>
+      </tuv>
+      <tuv lang="uk" changeid="darkmentat" changedate="20220520T210848Z" creationid="darkmentat" creationdate="20220520T210848Z">
+        <seg>**Стріляй першим:** Вас неможливо заскочити зненацька, якщо хтось хоче влаштувати вам неприємну несподіванку, ви все одно будете на крок попереду. Ви завжди дієте першим в бою.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Skill: One of the skills in the game,
 which a PC either has or does not.
 Skills represent training in specific
