@@ -839,6 +839,18 @@ with two skills.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Smuggle: If you put any object some-
+where it could reasonably be hidden,
+(a handheld object on your person, or a
+larger object on a ship, etc.) no one will
+be able to find it.</seg>
+      </tuv>
+      <tuv lang="uk" changeid="darkmentat" changedate="20220520T211051Z" creationid="darkmentat" creationdate="20220520T211051Z">
+        <seg>**Контрабандист:** Якщо ви захочете сховати якусь річ, яку справді можливо сховати (невеликий предмет в людини, чи щось побільше на кораблі), то ніхто не зможе її знайти.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Sneak: Passing unseen, sleight of hand, picking pockets.</seg>
       </tuv>
       <tuv lang="uk" changeid="darkmentat" changedate="20220519T202109Z" creationid="darkmentat" creationdate="20220519T202109Z">
