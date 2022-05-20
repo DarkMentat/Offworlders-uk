@@ -21,3 +21,4 @@ Outlaw	Пройдисвіт
 Geek	Технар
 Psychic	Псіонік
 damage	ушкодження
+supply	припаси
