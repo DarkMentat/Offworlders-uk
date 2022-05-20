@@ -232,6 +232,16 @@
       </tuv>
     </tu>
     <tu>
+      <note>Ботанік?
+</note>
+      <tuv lang="en-US">
+        <seg>###### GEEK</seg>
+      </tuv>
+      <tuv lang="uk" changeid="darkmentat" changedate="20220520T211405Z" creationid="darkmentat" creationdate="20220520T211405Z">
+        <seg>###### ТЕХНАР</seg>
+      </tuv>
+    </tu>
+    <tu>
       <tuv lang="en-US">
         <seg>###### OUTLAW</seg>
       </tuv>
@@ -289,6 +299,15 @@ story, either a PC or an NPC.</seg>
       </tuv>
       <tuv lang="uk" changeid="darkmentat" changedate="20220519T201603Z" creationid="darkmentat" creationdate="20220519T201603Z">
         <seg>**Культура:** Знання потрібних людей і міць, звичаїв та історії багатьох населених світів.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>**Dead Eye:** You deal +2 damage with
+ranged weapons.</seg>
+      </tuv>
+      <tuv lang="uk" changeid="darkmentat" changedate="20220520T211714Z" creationid="darkmentat" creationdate="20220520T211714Z">
+        <seg>**Ціпкий зір:** Ви наносите +2 ушкодження зброєю дальнього бою.</seg>
       </tuv>
     </tu>
     <tu>
@@ -436,9 +455,9 @@ Making an Offworlder, on the next page.</seg>
 **Brute:** You deal +2 damage with
 melee weapons.</seg>
       </tuv>
-      <tuv lang="uk" changeid="darkmentat" changedate="20220520T211327Z" creationid="darkmentat" creationdate="20220520T211327Z">
+      <tuv lang="uk" changeid="darkmentat" changedate="20220520T211614Z" creationid="darkmentat" creationdate="20220520T211327Z">
         <seg>ТАЛАНТИ:
-</seg>
+**Брутальни:** Ви наносите +2 ушкодження зброєю ближнього бою.</seg>
       </tuv>
     </tu>
     <tu>
@@ -946,6 +965,8 @@ verse, completing profitable jobs and overcoming dangers.</seg>
       </tuv>
     </tu>
     <tu>
+      <note>Geek = Технар чи мб Ботанік?
+</note>
       <tuv lang="en-US">
         <seg>There are four classes: **Warrior** , **Out-
 law, Geek** , and **Psychic**. Pick one.</seg>
