@@ -232,6 +232,14 @@
       </tuv>
     </tu>
     <tu>
+      <tuv lang="en-US">
+        <seg>###### FILL THE CHARACTERS’ LIVES WITH CONFLICT AND ADVENTURE</seg>
+      </tuv>
+      <tuv lang="uk" changeid="IrynaDobro" changedate="20220520T212041Z" creationid="IrynaDobro" creationdate="20220520T212041Z">
+        <seg>###### НАПОВНИ ЖИТТЯ ПЕРСОНАЖІВ КОНФЛІКТАМИ ТА ПРИГОДАМИ </seg>
+      </tuv>
+    </tu>
+    <tu>
       <note>Ботанік?
 </note>
       <tuv lang="en-US">
@@ -247,6 +255,22 @@
       </tuv>
       <tuv lang="uk" changeid="darkmentat" changedate="20220520T203805Z" creationid="darkmentat" creationdate="20220520T203805Z">
         <seg>###### ПРОЙДИСВІТ</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>###### PLAY TO FIND OUT WHAT HAPPENS</seg>
+      </tuv>
+      <tuv lang="uk" changeid="IrynaDobro" changedate="20220520T215137Z" creationid="IrynaDobro" creationdate="20220520T215122Z">
+        <seg>###### *ГРАЙ ЩОБ ДІЗНАТИСЬ ЩО БУДЕ ДАЛІ*</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>###### PORTRAY A DANGEROUS AND EXCITING SCI-FI UNIVERSE</seg>
+      </tuv>
+      <tuv lang="uk" changeid="IrynaDobro" changedate="20220520T210131Z" creationid="IrynaDobro" creationdate="20220520T210131Z">
+        <seg>###### Змалюй небезпечний та вражаючий SCI-FI всесвіт </seg>
       </tuv>
     </tu>
     <tu>
@@ -526,6 +550,24 @@ two abilities.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>An outlaw in a smoky space station
+bar offers a job with a payout too good
+to be true. A customs vessel closes in,
+scanning for the contraband on board.
+In the alley ways of a world-spanning
+metropolis, a violent gang surrounds
+the characters. Keep things moving,
+keep pushing against the players. Give
+them things to do and people to inter-
+act with. Push them into action, then
+follow up with what they do.</seg>
+      </tuv>
+      <tuv lang="uk" changeid="IrynaDobro" changedate="20220520T215033Z" creationid="IrynaDobro" creationdate="20220520T215033Z">
+        <seg>Пройдисвіту в барі на задимленій космічній станції пропонують роботу з оплатою надто хорошою для правди. Митне судно зачиняється на огляд контрабанди на борту судна. На дорогах мегаполісу що перетинаюсь увесь всесвіт жорстка банда оточила персонажів. Тримай речі у русі, дозволь їм тиснути на гравців. Дай їм що робити та героїв з якими взаємодіяти. Дай їм привід до дії а далі слідкуй за тим, куди вони рухаються. </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>As the GM, you have three primary goals. Everything you do should be in
 service of one of them.</seg>
       </tuv>
@@ -758,6 +800,24 @@ pertinent facts.</seg>
       </tuv>
       <tuv lang="uk" changeid="darkmentat" changedate="20220519T200259Z" creationid="darkmentat" creationdate="20220519T200259Z">
         <seg>**Інтелект:** Сприйняття, логіка й знання. Корисно при аналізі, возні зі складними технологіями чи при пошуку потрібних фактів.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Laser beams glitter in the darkness.
+Pirate Cruisers cut across the rings
+of a gas giant. A derelict vessel offers
+mysteries to be solved, but something
+dangerous lurks in its halls. Fill your
+imagination with images of starships,
+futuristic cities, and dangerous
+frontier worlds. Present the universe
+to your players with pointed details
+and evocative description. Make it feel
+amazing but real.</seg>
+      </tuv>
+      <tuv lang="uk" changeid="IrynaDobro" changedate="20220520T215250Z" creationid="IrynaDobro" creationdate="20220520T211922Z">
+        <seg>Промені лазеру блищать у темряві. Піратський Крейсер нарізає кільця газового гіганту. Занедбане судно нерозгаданих таємниць з чимось небезпечним у холі. Заповни свою уяву картинами зоряних кораблів, фтуристичних міст та нестабільних меж. Подаруй своїм гравцям всествіт з гострими деталями та захоплюючим описом. Нехай він буде дивовижним, але реальним. </seg>
       </tuv>
     </tu>
     <tu>
