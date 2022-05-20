@@ -460,6 +460,22 @@ Making an Offworlder, on the next page.</seg>
     <tu>
       <tuv lang="en-US">
         <seg>ABILITIES:
+**Analytical:** W hen you encounter a
+new situation, area or character,
+you may ask the GM any one simple
+question about the objects, people, or
+surroundings. If the answer is some-
+thing you could possibly perceive, the
+GM must answer you honestly.</seg>
+      </tuv>
+      <tuv lang="uk" changeid="darkmentat" changedate="20220520T214410Z" creationid="darkmentat" creationdate="20220520T214410Z">
+        <seg>ТАЛАНТИ:
+**Аналітика:** Коли ви стикаєтесь з новою ситуацією, місцем чи персонажам, ви можете запитати у майстра одне просте питання про навколишні предмети чи людей. Якщо відповідю є щось, що ви потенційно можете зрозуміти, майстер дасть вам чесну відповідь.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>ABILITIES:
 **Brute:** You deal +2 damage with
 melee weapons.</seg>
       </tuv>
