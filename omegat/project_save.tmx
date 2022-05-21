@@ -320,6 +320,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>###### THINGS WORTH ONE CREDIT</seg>
+      </tuv>
+      <tuv lang="uk" changeid="darkmentat" changedate="20220521T203313Z" creationid="darkmentat" creationdate="20220521T203313Z">
+        <seg>###### РЕЧІ ЩО КОШТУЮТЬ ОДИН КРЕДИТ</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>###### WARRIOR</seg>
       </tuv>
       <tuv lang="uk" changeid="darkmentat" changedate="20220520T211100Z" creationid="darkmentat" creationdate="20220520T211100Z">
@@ -500,6 +508,22 @@ much punishment a PC can take.</seg>
       </tuv>
       <tuv lang="uk" changeid="darkmentat" changedate="20220519T195358Z" creationid="darkmentat" creationdate="20220519T195358Z">
         <seg>**Сила:** Чиста міць, швидкість та агресія. Корисна при лазанні, погонях, руйнуванні речей та битвах в ближньому бою. Сила також визначає як багато пошкоджень може витримати персонаж.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>- A light weapon
+- A substantial bribe
+- An opulent night out, including
+    food, entertainment, and lodging
+- A few weeks rent in a middle-range
+    apartment</seg>
+      </tuv>
+      <tuv lang="uk" changeid="darkmentat" changedate="20220521T203532Z" creationid="darkmentat" creationdate="20220521T203318Z">
+        <seg>- Легка зброя
+- Солідний хабар
+- Пишна гулянка на всю ніч, включаючи їжу, розваги та приміщення
+- Декілька тижнів оренди квартири середнього класу </seg>
       </tuv>
     </tu>
     <tu>
