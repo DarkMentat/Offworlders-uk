@@ -516,6 +516,30 @@ Then choose either:
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>10+: They are down for now, but with
+rest and care, will make a full recovery.</seg>
+      </tuv>
+      <tuv lang="uk" changeid="darkmentat" changedate="20220521T191851Z" creationid="darkmentat" creationdate="20220521T191851Z">
+        <seg>**10+:** Зараз персонаж недієздатний, але якщо за ним подбати, він з часом повністю відновиться.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>7-9: They will live, but the player must
+choose some part of the character
+that gets lost forever. For example the
+steadiness in their hands, their sense
+of security, or their left eye. This has
+no direct mechanical effect, but might
+make life difficult or complicate cer-
+tain situations in the future.</seg>
+      </tuv>
+      <tuv lang="uk" changeid="darkmentat" changedate="20220521T192105Z" creationid="darkmentat" creationdate="20220521T192105Z">
+        <seg>**7-9:** Персонаж житиме, але гравець має вибрати, щось, що персонаж навіки втратить. Це може бути твердість рук, відчуття безпеки чи ліве око. Це не буде мати ігромеханічних наслідків, але цей описовий факт може ускладнити життя в майбутньому.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>A game of _Offworlders_ is a conversation.
 The game master will describe the
 scene around the player characters,
