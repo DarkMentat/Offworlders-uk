@@ -78,6 +78,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>#### MONEY, WEAPONS, AND GEAR</seg>
+      </tuv>
+      <tuv lang="uk" changeid="darkmentat" changedate="20220521T202203Z" creationid="darkmentat" creationdate="20220521T202203Z">
+        <seg>#### ГРОШІ, ЗБРОЯ ТА СПОРЯДЖЕННЯ</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>#### ROLLING THE DICE</seg>
       </tuv>
       <tuv lang="uk" changeid="darkmentat" changedate="20220521T115922Z" creationid="darkmentat" creationdate="20220516T235525Z">
@@ -964,6 +972,19 @@ you think! Talk to me on Twitter at @chrisperry wolf.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>In Offworlders, tracking every little piece of equipment and every penny spent by the characters is not neces-
+sary. Most equipment is covered by a character’s Supply, which is an abstraction of the stuff they are carrying
+with them. The basic unit of currency in Offworlders is the Credit. One Credit represents a relatively substan-
+tial amount of money, and should be the smallest unit of currency you track. We assume that the characters
+can afford basic meals, cheap lodgings, etc, as long as they are not completely broke. Use the list below to
+determine general prices.</seg>
+      </tuv>
+      <tuv lang="uk" changeid="darkmentat" changedate="20220521T203301Z" creationid="darkmentat" creationdate="20220521T203301Z">
+        <seg>В Краєходцях не має потреби слідкувати за найдрібнішим спорядженням чи рахувати кожну потрачену копійку. Більшість носимого спорядження покрито абстрактними **припасами** персонажа. А основною грошовою одиницею є **кредит**. Один **кредит** відображає відносно значиму кількість грошей і має бути найменшою одиницею для обліку. Вважається, що персонажі можуть дозволити собі базові потреби та дешеве житло, якщо вони не розорені повністю. Орієнтуйтесь на таблицю нижче щодо визначення цін.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Intelligence: Perception, logic and
 knowledge. Useful for analysis, mess-
 ing with technology, and knowing
@@ -1554,8 +1575,8 @@ abstract amount, representing any items
 you might be carrying. Gear is explained
 in Money, Weapons and Gear, on page 11.</seg>
       </tuv>
-      <tuv lang="uk" changeid="darkmentat" changedate="20220519T203900Z" creationid="darkmentat" creationdate="20220519T203900Z">
-        <seg>Ви починаєте з 3-ма __припасами__. **Припаси** — це абстрактне число, що відображає будь-які предмети, що персонаж може мати з собою. Механіка припасів детальніше описана в розділі __Money, Weapons and Gear__ на сторінці ХХ.</seg>
+      <tuv lang="uk" changeid="darkmentat" changedate="20220521T202245Z" creationid="darkmentat" creationdate="20220519T203900Z">
+        <seg>Ви починаєте з 3-ма __припасами__. **Припаси** — це абстрактне число, що відображає будь-які предмети, що персонаж може мати з собою. Механіка припасів детальніше описана в розділі __ГРОШІ, ЗБРОЯ ТА СПОРЯДЖЕННЯ__ на сторінці ХХ.</seg>
       </tuv>
     </tu>
     <tu>
