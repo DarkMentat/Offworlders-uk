@@ -737,8 +737,10 @@ ers as a ranged weapon, doing **1D6 +**
 damage to a nearby target. You attack
 by rolling the dice with Willpower.</seg>
       </tuv>
-      <tuv lang="uk" changeid="darkmentat" changedate="20220521T183322Z" creationid="darkmentat" creationdate="20220521T182406Z">
-        <seg>**Випал:** Ви можете використовувати ваші псіонічні сили як зброю в дальньому бою, щоб нанести **к6+1** ушкоджень найближчий цілі. Атакуючи, вам потрібно кинути куби додавши Волю.</seg>
+      <tuv lang="uk" changeid="darkmentat" changedate="20220521T205900Z" creationid="darkmentat" creationdate="20220521T182406Z">
+        <seg>ТАЛАНТИ:
+
+**Випал:** Ви можете використовувати ваші псіонічні сили як зброю в дальньому бою, щоб нанести **к6+1** ушкоджень найближчий цілі. Атакуючи, вам потрібно кинути куби додавши Волю.</seg>
       </tuv>
     </tu>
     <tu>
