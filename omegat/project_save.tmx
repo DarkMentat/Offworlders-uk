@@ -304,6 +304,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>###### RECOVERING HEALTH</seg>
+      </tuv>
+      <tuv lang="uk" changeid="darkmentat" changedate="20220521T201903Z" creationid="darkmentat" creationdate="20220521T201903Z">
+        <seg>ВІДНОВЛЕННЯ ЗДОРОВ'Я</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>###### WARRIOR</seg>
       </tuv>
       <tuv lang="uk" changeid="darkmentat" changedate="20220520T211100Z" creationid="darkmentat" creationdate="20220520T211100Z">
@@ -556,6 +564,15 @@ tain situations in the future.</seg>
       </tuv>
       <tuv lang="uk" changeid="darkmentat" changedate="20220521T192105Z" creationid="darkmentat" creationdate="20220521T192105Z">
         <seg>**7-9:** Персонаж житиме, але гравець має вибрати, щось, що персонаж навіки втратить. Це може бути твердість рук, відчуття безпеки чи ліве око. Це не буде мати ігромеханічних наслідків, але цей описовий факт може ускладнити життя в майбутньому.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>A character may not wear more than
+one type of armor.</seg>
+      </tuv>
+      <tuv lang="uk" changeid="darkmentat" changedate="20220521T201856Z" creationid="darkmentat" creationdate="20220521T201856Z">
+        <seg>Персонаж не може одночасно носити більше за один тип броні.</seg>
       </tuv>
     </tu>
     <tu>
@@ -828,6 +845,16 @@ sure they don’t overlap too much.</seg>
       </tuv>
       <tuv lang="uk" changeid="darkmentat" changedate="20220519T204555Z" creationid="darkmentat" creationdate="20220519T204555Z">
         <seg>Досвідчені гравці можуть забажати більшої гнучкості при створенні персонажа. Якщо всі згодні, гравець може проігнорувати описані класи повністю та створити персонажа просто вибравши два вміння та два будь-яких таланти. В цьому випадку гравцям варто домовитись, щоб їх сильні сторони не надто пересікались.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>First Aid: If you have a few quiet min-
+utes, you can spend 1 Supply to heal
+another character 1D6 of Health.</seg>
+      </tuv>
+      <tuv lang="uk" changeid="darkmentat" changedate="20220521T202040Z" creationid="darkmentat" creationdate="20220521T202040Z">
+        <seg>Перша допомога: якщо ви маєте декілька хвилин, ви можете потратити одиницю припасів, щоб відновити **к6** пунктів здоров'я іншого персонажа.</seg>
       </tuv>
     </tu>
     <tu>
@@ -1164,6 +1191,17 @@ resolving their actions.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Resting: If a character gets the
+equivalent of a good night’s sleep, they
+recover Health equal to half their
+max imum Health , rounded up.</seg>
+      </tuv>
+      <tuv lang="uk" changeid="darkmentat" changedate="20220521T202150Z" creationid="darkmentat" creationdate="20220521T202150Z">
+        <seg>Відпочинок: Якщо персонаж отримує якийсь еквівалент повноцінного нічного сну, він відновлює кількість здоров'я, що рівна половині його здоров'я максимального, з округленням вгору.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Roll **2D6** , add them together, and add
 the relevant attribute. Use the total to
 determine how successful you are.</seg>
@@ -1337,6 +1375,14 @@ law, Geek** , and **Psychic**. Pick one.</seg>
       </tuv>
       <tuv lang="uk" changeid="darkmentat" changedate="20220521T185931Z" creationid="darkmentat" creationdate="20220519T202926Z">
         <seg>В грі є чотири класи: **Вояка**, **Пройдисвіт**, **Технар** і **Псіонік**. Візьміть собі один на вибір.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>There are two ways to recover health:</seg>
+      </tuv>
+      <tuv lang="uk" changeid="darkmentat" changedate="20220521T201913Z" creationid="darkmentat" creationdate="20220521T201913Z">
+        <seg>Є два способи відновити здоров'я:</seg>
       </tuv>
     </tu>
     <tu>
