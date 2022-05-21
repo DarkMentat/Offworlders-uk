@@ -1031,6 +1031,18 @@ ia Gulin, David Kenyon, and Steve Kilian</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Premonition: Once per day, ask the
+GM about the outcome of an immedi-
+ate action. “What will happen when I
+open this door?” for instance. They will
+describe the likely outcome honestly.</seg>
+      </tuv>
+      <tuv lang="uk" changeid="darkmentat" changedate="20220521T185048Z" creationid="darkmentat" creationdate="20220521T185048Z">
+        <seg>**Передзнання:** Раз в день ви можете спитати майстра про наслідки будь-якої негайної дії. Наприклад "що станеться, якщо я відкрию двері?". Майстер зобов'язаний чесно відповісти на питання.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Psychics possess supernatural mental abilities. Their abilities al-
 low them to manipulate their surroundings and read minds.
 Play a Psychic if you want to be strange and powerful.</seg>
@@ -1059,6 +1071,18 @@ er has to Roll the Dice.</seg>
       </tuv>
       <tuv lang="uk" changeid="darkmentat" changedate="20220521T181222Z" creationid="darkmentat" creationdate="20220516T235507Z">
         <seg>**Кидок кубів:** Коли персонаж гравця має здійснити щось небезпечне, стикається зі спротивом чи загалом результат його дій непевний, гравець має здійснити кидок кубів, як описано в наступному розділі.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Scanner: You can easily read people’s
+surface emotions. You may roll the
+dice with Intelligence to try and access
+a character’s deeper thoughts or spe-
+cific information.</seg>
+      </tuv>
+      <tuv lang="uk" changeid="darkmentat" changedate="20220521T185253Z" creationid="darkmentat" creationdate="20220521T185253Z">
+        <seg>**Сканер:** Ви можете легко читати людські поверхневі емоції. Також ви можете кинути куби додавши Інтелект, щоб спробувати проникнути в думки персонажа глибше чи зчитати якісь специфічні знання.</seg>
       </tuv>
     </tu>
     <tu>
