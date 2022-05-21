@@ -62,6 +62,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>#### FIGHTING &amp; DAMAGE</seg>
+      </tuv>
+      <tuv lang="uk" changeid="darkmentat" changedate="20220521T190022Z" creationid="darkmentat" creationdate="20220521T190014Z">
+        <seg>#### БОЇ ТА УШКОДЖЕННЯ</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>#### MAKING AN OFFWORLDER</seg>
       </tuv>
       <tuv lang="uk" changeid="darkmentat" changedate="20220519T202742Z" creationid="darkmentat" creationdate="20220519T202729Z">
@@ -1053,6 +1061,18 @@ Play a Psychic if you want to be strange and powerful.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Resolve fights just like any other risky situation. When a player attacks an enemy who is prepared to defend
+themselves, they should almost always be rolling the dice to do it. When an enemy opens fire on a player, the
+player will likely be rolling the dice to avoid the attack or counter it somehow. There is no formal structure of
+turns or rounds. Simply follow the action as it unfolds, shifting focus from character to character naturally and
+resolving their actions.</seg>
+      </tuv>
+      <tuv lang="uk" changeid="darkmentat" changedate="20220521T190411Z" creationid="darkmentat" creationdate="20220521T190411Z">
+        <seg>Бойові зіткнення варто розглядати так само, як будь-які інші ризиковані ситуації. Коли гравець нападає на ворога, що готовий захистити себе, майже завжди йому прийдеться кинути для цього куби. Якщо ворог відкриває вогонь по гравцю, гравцю так само прийдеться кинути куби, щоб якимось чином уникнути чи завадити атаці. Тут немає якоїсь чіткої структури з ходами чи раундами, просто слідуйте за розвитком дій, зміщуючи фокус від персонажа до персонажа та опрацьовуйте їх заявлені дії.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Roll **2D6** , add them together, and add
 the relevant attribute. Use the total to
 determine how successful you are.</seg>
@@ -1224,8 +1244,8 @@ verse, completing profitable jobs and overcoming dangers.</seg>
         <seg>There are four classes: **Warrior** , **Out-
 law, Geek** , and **Psychic**. Pick one.</seg>
       </tuv>
-      <tuv lang="uk" changeid="darkmentat" changedate="20220519T202926Z" creationid="darkmentat" creationdate="20220519T202926Z">
-        <seg>В грі є чотири класи: **Вояка**, **Пройдисвіт**, **Технар** і **Псіонік**. Виберіть собі один.</seg>
+      <tuv lang="uk" changeid="darkmentat" changedate="20220521T185931Z" creationid="darkmentat" creationdate="20220519T202926Z">
+        <seg>В грі є чотири класи: **Вояка**, **Пройдисвіт**, **Технар** і **Псіонік**. Візьміть собі один на вибір.</seg>
       </tuv>
     </tu>
     <tu>
