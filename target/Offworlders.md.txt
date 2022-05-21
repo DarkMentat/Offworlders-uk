@@ -45,7 +45,6 @@ _Offworlders_ is licensed under a Creative Commons Attribution License: https://
 
 Гра в Краєходцях — це перш за все розмова. Майстер гри описує ситуацію навколо персонажа гравця та наповнює її людьми й деталями. Гравці ж у відповідь описують дії своїх персонажів, можливо уточнюють у майстра якісь деталі та озвучують, що їх персонажі кажуть один одному та персонажам майстра.
 
-
 Ви будете діяти по-черзі, так само як в розмові ви висловлюєтесь по-черзі. Часом хтось буде говорити довше, а часом потрібно буде відступити, щоб дати слово іншому.
 
 На відміну від багатьох інших ігор, тут не потрібно робити формальних ходів в чіткому порядку. Гра має йти природно: нехай той, хто в центрі подій, описує дії свого персонажа, а якщо він занадто довго в центрі уваги, то варто передати слово іншому.
@@ -54,7 +53,7 @@ _Offworlders_ is licensed under a Creative Commons Attribution License: https://
 
 Наступні терміни мають своє значення в грі і будуть використовуватись протягом всього опису правил.
 
-**Гравець:** Учасник гри, що грає за свого персонажа та відповідає за нього.
+**Гравець:** Учасник гри, що грає за свого персонажа та відповідає за нього. В деяких випадках під "гравцем" може розумітись його персонаж, коли це очевидно з контексту.
 
 **Майстер гри, або просто майстер:** Учасник гри, що відповідає за ігровий всесвіт та тих персонажів, що не контролюються іншими гравцями, приймає рішення щодо результату дій гравців та реакцію світу на них.
 
@@ -115,7 +114,7 @@ _Offworlders_ is licensed under a Creative Commons Attribution License: https://
 
 І завжди має щось трапитись. Не залежно від результату, кидок кубів завжди змінює описану ситуацію. В випадку успіху, персонаж гравця досягає своїх цілей та продовжує рухати гру далі, а при ускладненнях чи провалах ситуація загострюється та стає ще цікавішою.
 
-#### Атрибути
+#### АТРИБУТИ
 
 У кожного персонажа гравця є чотири атрибути, що зображають різні шляхи вирішення проблем. У кожного атрибута є значення від -1 до +3. Чим вище це значення, тим більш ймовірно, щоб гравець використовуючи цей атрибут досяг успіху, вони завжди використовуються при кидках кубів. Ці чотири атрибути наступні: 
 
@@ -159,7 +158,7 @@ _Offworlders_ is licensed under a Creative Commons Attribution License: https://
 
 ###### 1. ВИБЕРІТЬ КЛАС
 
-В грі є чотири класи: **Вояка**, **Пройдисвіт**, **Технар** і **Псіонік**. Виберіть собі один.
+В грі є чотири класи: **Вояка**, **Пройдисвіт**, **Технар** і **Псіонік**. Візьміть собі один на вибір.
 
 Кожен клас може запропонувати вам декілька **талантів**, виберіть будь-які два.
 
@@ -177,7 +176,7 @@ _Offworlders_ is licensed under a Creative Commons Attribution License: https://
 
 ###### 5. ВИБЕРІТЬ СПОРЯДЖЕННЯ
 
-Ви починаєте з 3-ма __припасами__. **Припаси** — це абстрактне число, що відображає будь-які предмети, що персонаж може мати з собою. Механіка припасів детальніше описана в розділі __Money, Weapons and Gear__ на сторінці ХХ.
+Ви починаєте з 3-ма __припасами__. **Припаси** — це абстрактне число, що відображає будь-які предмети, що персонаж може мати з собою. Механіка припасів детальніше описана в розділі __ГРОШІ, ЗБРОЯ ТА СПОРЯДЖЕННЯ__ на сторінці ХХ.
 
 - Ви починаєте з **3 припасами**
 - Ви починаєте з однією **легкою зброєю**, опишіть її.
@@ -315,11 +314,13 @@ biomechanical implants.
 
 Псіоніки володіють надприродними ментальними здібностями. Їх таланти дозволяють їм впливати на оточення силою думки та вдиратись в чужі голови. Грайте за псіоніка, якщо хочете бути могутнім і загадковим.
 
+ТАЛАНТИ:
+
 **Випал:** Ви можете використовувати ваші псіонічні сили як зброю в дальньому бою, щоб нанести **к6+1** ушкоджень найближчий цілі. Атакуючи, вам потрібно кинути куби додавши Волю.
 
-**Силова стінка:** Поки ви концентруєтесь, не відволікаючись на будь-що інше, ви можете створити міцний бар'єр з матеріалізованої псіонічної енергії, розміром десь 3 на 3 метри. Якщо він перебуває під великим навантаженням, вам потрібно буде кинути куби додавши Волю, щоб продовжити підтримувати його.
+**Силова стіна:** Поки ви концентруєтесь, не відволікаючись на будь-що інше, ви можете створити міцний бар'єр з матеріалізованої псіонічної енергії, розміром десь 3 на 3 метри. Якщо він перебуває під великим навантаженням, вам потрібно буде кинути куби додавши Волю, щоб продовжити підтримувати його.
 
-**Стрибок:** Раз за сцену ви можете миттєво телепортуватись в точку неподалік у вашому полі зору.
+**Стрибок:** Раз за сцену ви можете миттєво телепортуватись в будь-яку точку неподалік в межах вашого поля зору.
 
 **Передзнання:** Раз в день ви можете спитати майстра про наслідки будь-якої негайної дії. Наприклад "що станеться, якщо я відкрию двері?". Майстер зобов'язаний чесно відповісти на питання.
 
@@ -327,196 +328,109 @@ biomechanical implants.
 
 **Телекінез:** Ви можете легко пересувати маленькі предмети силою думки. Ви можете також спробувати зсунути предмети побільше, чи рухати предмети з особливою точністю, але з цим можуть виникнути складнощі. Майстер скаже які саме.
 
-#### FIGHTING & DAMAGE
+#### БОЇ ТА УШКОДЖЕННЯ
 
-Resolve fights just like any other risky situation. When a player attacks an enemy who is prepared to defend
-themselves, they should almost always be rolling the dice to do it. When an enemy opens fire on a player, the
-player will likely be rolling the dice to avoid the attack or counter it somehow. There is no formal structure of
-turns or rounds. Simply follow the action as it unfolds, shifting focus from character to character naturally and
-resolving their actions.
+Бойові зіткнення варто розглядати так само, як будь-які інші ризиковані ситуації. Коли гравець нападає на ворога, що готовий захистити себе, майже завжди йому прийдеться кинути для цього куби. Якщо ворог відкриває вогонь по гравцю, гравцю так само прийдеться кинути куби, щоб якимось чином уникнути чи завадити атаці. Тут немає якоїсь чіткої структури з ходами чи раундами, просто слідуйте за розвитком дій, зміщуючи фокус від персонажа до персонажа та опрацьовуйте їх заявлені дії.
 
-When a player takes damage, it will
-usually be because of a miss or a com-
-plication. Outside of a fight, a PC might
-take damage from other dangerous sit-
-uations, like falling into a lake of acid,
-being in the vacuum of space without
-a suit, or being exposed to dangerous
-radiation.
+Гравець отримує пошкодження в більшості випадків через провали чи ускладнення на кубах. За межами боєзіткнень, персонаж гравця може отримати ушкодження в інших небезпечних ситуаціях, наприклад падаючи в чан з кислотою чи випавши в космічний вакуум без скафандра, чи піддавшись небезпечному радіовипромінюванню.
 
-When players damage NPC’s, they
-inflict damage as indicated by the type
-of weapon they are using. For instance
-a heav y weapon does **1D6+2** damage.
-Meaning the player should roll a **D6** ,
-add **2** to the total, and inflict that much
-damage to the enemy.
+Коли гравець наносить ушкодження персонажу майстра, значення цих ушкоджень залежить від зброї, яку він використовує. Наприклад, важке озброєння наносить **к6+2** ушкоджень. Це значить, що гравцю потрібно кинути один **к6**, додати до результату **2** і саме стільки ушкоджень отримає ціль.
 
-Enemies and hazards inflict damage
-against PC’s in the same way. Roll for
-damage and subtract the result from a
-PC’s health. In the GM section of these
-rules is a selection of enemies, includ-
-ing how much damage they should do.
+Вороги та інші загрози наносять ушкодження персонажам гравців таким же чином. Киньте куби на ушкодження й відніміть це значення від здоров'я ушкодженого персонажа. В розділі для майстра є настанови щодо того, які вороги й скільки мають наносити ушкоджень.
 
-###### HEALTH & DYING
+###### ЗДОРОВ'Я ТА СМЕРТЬ
 
-Health is a measure of how much
-damage a character can take before
-they are in serious trouble. Both PC’s
-and NPC’s have a health score.
+Здоров'я — це міра того, скільки ушкоджень може винести персонаж до того, як він потрапить в серйозні неприємності. У персонажів як гравців, так і майстра є своя шкала здоров'я.
 
-When an NPC reaches 0 health , they
-are out of action. Either dead, seriously
-wounded, or unconscious, depending
-on the fictional circumstances and the
-desires of the attacker.
+Коли здоров'я персонажа майстра досягає нуля, вони вибувають з дії. Вважайте їх мертвими, серйозно пораненими чи впавшими без тями, залежно від обставин опису та побажань нападника.
 
-When a PC reaches 0 health , they are
-in serious trouble. They must Roll The
-Dice with the results below. They add
-their Willpower to the roll.
+Коли здоров'я персонажа гравця досягає нуля, він в серйозній небезпеці. Він має кинути куби додавши Волю, та звірити результат з наступними варіантами.
 
-10+: They are down for now, but with
-rest and care, will make a full recovery.
+**10+:** Зараз персонаж недієздатний, але якщо за ним подбати, він з часом повністю відновиться.
 
-7-9: They will live, but the player must
-choose some part of the character
-that gets lost forever. For example the
-steadiness in their hands, their sense
-of security, or their left eye. This has
-no direct mechanical effect, but might
-make life difficult or complicate cer-
-tain situations in the future.
+**7-9:** Персонаж житиме, але гравець має вибрати, щось, що персонаж навіки втратить. Це може бути твердість рук, відчуття безпеки чи ліве око. Це не буде мати ігромеханічних наслідків, але цей описовий факт може ускладнити життя в майбутньому.
 
-6-: The PC is doomed. They might not
-die right away, and they might get a
-chance to do one last thing before they
-go, but they will not live to the end of
-the game session.
+**6-:** Персонаж вже приречений. Він може померти не зразу та у нього є шанс зробити якусь останню дію, але він точно не доживе до кінця зустрічі.
 
-###### ARMOR
+###### БРОНЯ
 
-Armor mitigates incoming damage. In
-the Gear section, armor is listed as hav-
-ing A r mor-1 , A r mor-2 , etc. If a charac-
-ter is wearing armor, they subtract their
-total armor amount from any incoming
-damage. If the total damage is equal to
-or lower than the armor rating, all the
-damage is negated.
+Броня зменшує ушкодження, що отримує персонаж. В розділі __Gear__ можна побачити, що броня може мати захист-1, захист-2 і т. д. Якщо персонаж носить якусь броню, він віднімає її значення від будь-яких ушкоджень що отримує. І якщо отримані ушкодження рівні чи менші значенню броні, то виходить що персонаж повністю їх ігнорує.
 
-A character may not wear more than
-one type of armor.
+Персонаж не може одночасно носити більше за один тип броні.
 
-###### RECOVERING HEALTH
+ВІДНОВЛЕННЯ ЗДОРОВ'Я
 
-There are two ways to recover health:
+Є два способи відновити здоров'я:
 
-First Aid: If you have a few quiet min-
-utes, you can spend 1 Supply to heal
-another character 1D6 of Health.
+Перша допомога: якщо ви маєте декілька хвилин, ви можете потратити одиницю припасів, щоб відновити **к6** пунктів здоров'я іншого персонажа.
 
-Resting: If a character gets the
-equivalent of a good night’s sleep, they
-recover Health equal to half their
-max imum Health , rounded up.
+Відпочинок: Якщо персонаж отримує якийсь еквівалент повноцінного нічного сну, він відновлює кількість здоров'я, що рівна половині його здоров'я максимального, з округленням вгору.
 
-#### MONEY, WEAPONS, AND GEAR
+#### ГРОШІ, ЗБРОЯ ТА СПОРЯДЖЕННЯ
 
-In Offworlders, tracking every little piece of equipment and every penny spent by the characters is not neces-
-sary. Most equipment is covered by a character’s Supply, which is an abstraction of the stuff they are carrying
-with them. The basic unit of currency in Offworlders is the Credit. One Credit represents a relatively substan-
-tial amount of money, and should be the smallest unit of currency you track. We assume that the characters
-can afford basic meals, cheap lodgings, etc, as long as they are not completely broke. Use the list below to
-determine general prices.
+В Краєходцях не має потреби слідкувати за найдрібнішим спорядженням чи рахувати кожну потрачену копійку. Більшість носимого спорядження покрито абстрактними **припасами** персонажа. А основною грошовою одиницею є **кредит**. Один **кредит** відображає відносно значиму кількість грошей і має бути найменшою одиницею для обліку. Вважається, що персонажі можуть дозволити собі базові потреби та дешеве житло, якщо вони не розорені повністю. Орієнтуйтесь на таблицю нижче щодо визначення цін.
 
-###### THINGS WORTH ONE CREDIT
+###### РЕЧІ ЩО КОШТУЮТЬ ОДИН КРЕДИТ
 
-- A light weapon
-- A substantial bribe
-- An opulent night out, including
-    food, entertainment, and lodging
-- A few weeks rent in a middle-range
-    apartment
+- Легка зброя
+- Солідний хабар
+- Пишна гулянка на всю ніч, включаючи їжу, розваги та приміщення
+- Декілька тижнів оренди квартири середнього класу 
 
-###### MORE EXPENSIVE ITEMS
+###### ДЕЩО ДОРОЖЧІ РЕЧІ
 
-A new space suit 3C
-A medium weapon 2C
-A heavy weapon 5C
-Passage to another world 7C
-Passage to a nearby star system 12C
-An average ground car 25C
-A starship upgrade 50C
-A simple helicopter 75C
-A hover tank 200C
-A new, bare-bones starship 500C
-A small space station 5,000C
+Новий космічний скафандр - 3К
+Середня зброя - 2К
+Важке озброєння - 5К
+Квиток до іншого населеного світу - 7К
+Квиток до сусідньої зоряної системи - 12К
+Середній наземний транспорт - 25К
+Апгрейд для зорельоту - 50К
+Простий літальний апарат - 75К
+Бойова бронемашина - 200К
+Новенький зорельот прямо з верфей - 500К
+Маленька космічна станція на орбіті - 5,000К
 
-###### SUPPLY
+###### ПРИПАСИ
 
-Characters in Offworlders are
-assumed to be carrying a variety of
-useful and necessary tools. Instead of
-choosing exactly what your character
-is carrying ahead of time, these tools
-are abstracted as Supply. You begin
-with 3 Supply. You can spend 1 Supply
-at any time to produce a mundane
-item from the list below, or an item of
-similar complexity if the GM agrees.
-You refill your supply whenever you
-have some downtime on board the
-ship, or wherever you currently keep
-all your stuff. Your maximum supply
-is always 3.
-You can spend 1 Supply to have one
-of the following or an item of similar
-complexity:
+Вважається, що персонаж в Краєходцях має при собі різноманітні корисні та необхідні знаряддя. Тому замість того, щоб завчасно вибирати що саме носить ваш персонаж, це все сховано за абстракцією **припасів**. Ви починаєте з 3 припасами та можете заявити, що маєте якийсь буденний предмет зі списку нижче, або щось схожої категорії за згодою майстра. Ви поповнюєте припаси коли проводите вільний час на борту чи коли маєте доступ до всіх своїх речей. Максимальна кількість припасів завжди 3.
 
-- 50 feet of cable
-- A blowtorch
-- A small explosive
-- A multitool
-- A motion detector
-- An environmental scanning device
+Ви можете списати 1 припас щоб отримати щось зі списку або схожої категорії:
 
-###### HEAVY ITEMS
+- 20 метрів силового кабелю
+- паяльна лампа
+- невеликий заряд вибухівки
+- мультитул
+- детектор руху
+- пристрій сканування зовнішнього середовища
 
-Some weapons and items are “ heav y .”
-These items are large or clumsy, and
-it is difficult to move while carrying
-them. A PC must take -1 any time
-they roll the dice to do something like
-run, jump, or climb while carrying a
-heav y item. A heav y item will also be
-very difficult to hide, and will attract
-attention.
-Heav y may cause other complications
-as well, at the GM’s discretion.
+###### ВАЖКІ ПРЕДМЕТИ
 
-###### GEAR
+Деяка зброя та предмети позначені як "важкі". Це предмети являються завеликими чи громіздкими, тому з ними досить важко рухатись. Персонаж гравця має отримати штраф -1 до кидка кубів, якщо він намагається бігти, стрибати чи лазити, тримаючи при собі важкі предмети. Також їх досить складно сховати і вони будуть привертати увагу. Важкі предмети також можуть викликати якість інші ускладнення на розсуд майстра.
 
-WEAPONS C DAMAGE NOTES
-Unarmed 0C Lower of 2D6 Kicks, punches.
-Light 1C 1D6 Pistols, knives. Easily hidden.
-Medium 2C 1D6+1 Rifles, shotguns, swords.
-Heavy 5C 1D6+2 Plasma cannons, sniper rifles, huge swords.
-Heavy.
+###### СПОРЯДЖЕННЯ
 
-ARMOR C DEFENSE NOTES
-Light 3c 1-armor
-Heavy 6c 2-armor Heavy.
-Assault 40c 3-armor Heavy. Includes several hours' air supply and
-built-in heavy weapon.
+| ЗБРОЯ         | КРЕД. | УШКОДЖЕННЯ          | ПРИМІТКИ                              |
+| ------------- | ----- | ------------------- | ------------------------------------- |
+| Без озброєння | 0К    | 2к6, вибрати менший | Пинки, удари кулаками                 |
+| Легка         | 1К    | к6                  | Пістолети, ножі. Легко сховати.       |
+| Середня       | 2К    | к6+1                | Рушниці, дробовики, мечі й катани     |
+| **Важка**     | 5К    | к6+2                | Плазмові гармати, снайперські рушниці |
 
-SHIP ITEMS C NOTES
-Starship drive fuel 3C Per unit.
-Starship upgrades 50C
-Hull repairs 1C Repairs 2 Hull. Available in any port.
+| БРОНЯ     | КРЕД. | ЗАХИСТ   | ПРИМІТКИ |
+| --------- | ----- | -------- | -------- |
+| Легка     | 3c    | захист-1 |          |
+| Важка     | 6c    | захист-2 | Важка    |
+| Штурмова* | 40c   | захист-3 | Важка    |
 
-#### THE SHIP
+*Штурмова броня містить в собі запас кисню на декілька годин та вбудоване важке озброєння.
+
+СПОРЯДЖЕННЯ ЗОРЕЛЬОТУ
+Паливо для зоряного стрибка - 3К за одиницю
+Апгрейд зорельоту - 50К
+Ремонт корпусу - 1К за 2 од. корпусу, доступно в будь-якому порту.
+
+#### ЗОРЕЛІТ
 
 The players begin with a small spaceship. It’s just about big enough for all of them to live on, with a few ad-
 ditional passengers when necessary. The PC’s control the ship using their attributes and skills.
