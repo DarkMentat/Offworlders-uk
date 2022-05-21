@@ -1585,6 +1585,15 @@ ditional passengers when necessary. The PC’s control the ship using their attr
       </tuv>
     </tu>
     <tu>
+      <tuv lang="en-US">
+        <seg>The ship is capable of flying between planets in a few hours, and of flying faster than light to traverse the
+space between stars in a matter of weeks. It comes with a space suit for each PC.</seg>
+      </tuv>
+      <tuv lang="uk" changeid="darkmentat" changedate="20220521T214622Z" creationid="darkmentat" creationdate="20220521T214426Z">
+        <seg>Цей корабель здатен здійснити міжпланетний переліт за декілька годин, а також подорожувати швидше світла щоб добратись до сусідньої зоряної системи за декілька тижнів. На кораблі є по космічному скафандру для кожного персонажа гравця.</seg>
+      </tuv>
+    </tu>
+    <tu>
       <note>Geek = Технар чи мб Ботанік?
 </note>
       <tuv lang="en-US">
