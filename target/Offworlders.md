@@ -410,25 +410,27 @@ biomechanical implants.
 
 ###### СПОРЯДЖЕННЯ
 
-WEAPONS C DAMAGE NOTES
-Unarmed 0C Lower of 2D6 Kicks, punches.
-Light 1C 1D6 Pistols, knives. Easily hidden.
-Medium 2C 1D6+1 Rifles, shotguns, swords.
-Heavy 5C 1D6+2 Plasma cannons, sniper rifles, huge swords.
-Heavy.
+| ЗБРОЯ         | КРЕД. | УШКОДЖЕННЯ          | ПРИМІТКИ                              |
+| ------------- | ----- | ------------------- | ------------------------------------- |
+| Без озброєння | 0К    | 2к6, вибрати менший | Пинки, удари кулаками                 |
+| Легка         | 1К    | к6                  | Пістолети, ножі. Легко сховати.       |
+| Середня       | 2К    | к6+1                | Рушниці, дробовики, мечі й катани     |
+| **Важка**     | 5К    | к6+2                | Плазмові гармати, снайперські рушниці |
 
-ARMOR C DEFENSE NOTES
-Light 3c 1-armor
-Heavy 6c 2-armor Heavy.
-Assault 40c 3-armor Heavy. Includes several hours' air supply and
-built-in heavy weapon.
+| БРОНЯ     | КРЕД. | ЗАХИСТ   | ПРИМІТКИ |
+| --------- | ----- | -------- | -------- |
+| Легка     | 3c    | захист-1 |          |
+| Важка     | 6c    | захист-2 | Важка    |
+| Штурмова* | 40c   | захист-3 | Важка    |
 
-SHIP ITEMS C NOTES
-Starship drive fuel 3C Per unit.
-Starship upgrades 50C
-Hull repairs 1C Repairs 2 Hull. Available in any port.
+*Штурмова броня містить в собі запас кисню на декілька годин та вбудоване важке озброєння.
 
-#### THE SHIP
+СПОРЯДЖЕННЯ ЗОРЕЛЬОТУ
+Паливо для зоряного стрибка - 3К за одиницю
+Апгрейд зорельоту - 50К
+Ремонт корпусу - 1К за 2 од. корпусу, доступно в будь-якому порту.
+
+#### ЗОРЕЛІТ
 
 The players begin with a small spaceship. It’s just about big enough for all of them to live on, with a few ad-
 ditional passengers when necessary. The PC’s control the ship using their attributes and skills.
