@@ -280,6 +280,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>###### MORE EXPENSIVE ITEMS</seg>
+      </tuv>
+      <tuv lang="uk" changeid="darkmentat" changedate="20220521T203554Z" creationid="darkmentat" creationdate="20220521T203554Z">
+        <seg>###### ДЕЩО ДОРОЖЧІ РЕЧІ</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>###### OUTLAW</seg>
       </tuv>
       <tuv lang="uk" changeid="darkmentat" changedate="20220520T203805Z" creationid="darkmentat" creationdate="20220520T203805Z">
@@ -622,6 +630,34 @@ ters say to each other and the NPC’s.</seg>
       <tuv lang="uk" changeid="darkmentat" changedate="20220521T115350Z" creationid="darkmentat" creationdate="20220516T235301Z">
         <seg>Гра в Краєходцях — це перш за все розмова. Майстер гри описує ситуацію навколо персонажа гравця та наповнює її людьми й деталями. Гравці ж у відповідь описують дії своїх персонажів, можливо уточнюють у майстра якісь деталі та озвучують, що їх персонажі кажуть один одному та персонажам майстра.
 </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>A new space suit 3C
+A medium weapon 2C
+A heavy weapon 5C
+Passage to another world 7C
+Passage to a nearby star system 12C
+An average ground car 25C
+A starship upgrade 50C
+A simple helicopter 75C
+A hover tank 200C
+A new, bare-bones starship 500C
+A small space station 5,000C</seg>
+      </tuv>
+      <tuv lang="uk" changeid="darkmentat" changedate="20220521T203922Z" creationid="darkmentat" creationdate="20220521T203922Z">
+        <seg>Новий космічний скафандр - 3К
+Середня зброя - 2К
+Важке озброєння - 5К
+Квиток до іншого населеного світу - 7К
+Квиток до сусідньої зоряної системи - 12К
+Середній наземний транспорт - 25К
+Апгрейд для зорельоту - 50К
+Простий літальний апарат - 75К
+Бойова бронемашина - 200К
+Новенький зорельот прямо з верфей - 500К
+Маленька космічна станція на орбіті - 5,000К</seg>
       </tuv>
     </tu>
     <tu>
