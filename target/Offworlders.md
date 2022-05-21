@@ -432,11 +432,9 @@ biomechanical implants.
 
 #### ЗОРЕЛІТ
 
-The players begin with a small spaceship. It’s just about big enough for all of them to live on, with a few ad-
-ditional passengers when necessary. The PC’s control the ship using their attributes and skills.
+Гравці починають гру зі своїм невеликим зорельотом. В ньому спокійно може проживати весь екіпаж та при необхідності він може взяти декілька пасажирів. Гравці керують зорельотом використовуючи атрибути та вміння своїх персонажів.
 
-The ship is capable of flying between planets in a few hours, and of flying faster than light to traverse the
-space between stars in a matter of weeks. It comes with a space suit for each PC.
+Цей корабель здатен здійснити міжпланетний переліт за декілька годин, а також подорожувати швидше світла щоб добратись до сусідньої зоряної системи за декілька тижнів. На кораблі є по космічному скафандру для кожного персонажа гравця.
 
 ###### CREATING THE SHIP
 
