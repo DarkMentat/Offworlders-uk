@@ -1358,6 +1358,17 @@ are facing.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>When a PC reaches 0 health , they are
+in serious trouble. They must Roll The
+Dice with the results below. They add
+their Willpower to the roll.</seg>
+      </tuv>
+      <tuv lang="uk" changeid="darkmentat" changedate="20220521T191726Z" creationid="darkmentat" creationdate="20220521T191726Z">
+        <seg>Коли здоров'я персонажа гравця досягає нуля, він в серйозній небезпеці. Він має кинути куби додавши Волю, та звірити результат з наступними варіантами.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>When a player character does something dangerous, uncertain, or contested, use the dice to find out how
 well it goes. You’ll roll the dice and add one of your attributes to get a final result, then use that result to
 figure out what happens next.</seg>
@@ -1379,6 +1390,18 @@ radiation.</seg>
       </tuv>
       <tuv lang="uk" changeid="darkmentat" changedate="20220521T190641Z" creationid="darkmentat" creationdate="20220521T190641Z">
         <seg>Гравець отримує пошкодження в більшості випадків через провали чи ускладнення на кубах. За межами боєзіткнень, персонаж гравця може отримати ушкодження в інших небезпечних ситуаціях, наприклад падаючи в чан з кислотою чи випавши в космічний вакуум без скафандра, чи піддавшись небезпечному радіовипромінюванню.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>When an NPC reaches 0 health , they
+are out of action. Either dead, seriously
+wounded, or unconscious, depending
+on the fictional circumstances and the
+desires of the attacker.</seg>
+      </tuv>
+      <tuv lang="uk" changeid="darkmentat" changedate="20220521T191603Z" creationid="darkmentat" creationdate="20220521T191603Z">
+        <seg>Коли здоров'я персонажа майстра досягає нуля, вони вибувають з дії. Вважайте їх мертвими, серйозно пораненими чи впавшими без тями, залежно від обставин опису та побажань нападника.</seg>
       </tuv>
     </tu>
     <tu>
