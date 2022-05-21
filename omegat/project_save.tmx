@@ -75,8 +75,8 @@
       <tuv lang="en-US">
         <seg>#### ROLLING THE DICE</seg>
       </tuv>
-      <tuv lang="uk" changeid="darkmentat" changedate="20220516T235525Z" creationid="darkmentat" creationdate="20220516T235525Z">
-        <seg>#### КИДАЄМО КУБИКИ</seg>
+      <tuv lang="uk" changeid="darkmentat" changedate="20220521T115922Z" creationid="darkmentat" creationdate="20220516T235525Z">
+        <seg>#### КИДАЄМО КУБИ</seg>
       </tuv>
     </tu>
     <tu>
@@ -635,8 +635,8 @@ roll two of these and add them togeth-
 er, along with an attribute. Sometimes
 you’ll roll just one.</seg>
       </tuv>
-      <tuv lang="uk" changeid="darkmentat" changedate="20220516T235513Z" creationid="darkmentat" creationdate="20220516T235513Z">
-        <seg>**К6:** Один шестигранний кубик. Зазвичай вам потрібно буде кинути два таких і до сумми додати атрибут. Іноді потрібно буде кинути тільки один.</seg>
+      <tuv lang="uk" changeid="darkmentat" changedate="20220521T120023Z" creationid="darkmentat" creationdate="20220516T235513Z">
+        <seg>**К6:** Один шестигранний ігровий кубик. Зазвичай вам потрібно буде кинути два таких і до суми додати значення атрибуту. Іноді потрібно буде кинути тільки один.</seg>
       </tuv>
     </tu>
     <tu>
@@ -1222,8 +1222,8 @@ are facing.</seg>
 well it goes. You’ll roll the dice and add one of your attributes to get a final result, then use that result to
 figure out what happens next.</seg>
       </tuv>
-      <tuv lang="uk" changeid="darkmentat" changedate="20220516T235534Z" creationid="darkmentat" creationdate="20220516T235534Z">
-        <seg>Коли персонаж гравця займається чимось небезпечний, коли він змагається з кимось чи результат дій непевен, зверніться до ігрових кубиків щоб дізнатись як добре йдуть справи. Потрібно буде кинути кості, додати до сумарного результата значення підходящого атрибуту і використати результат, щоб визначити що станеться далі.</seg>
+      <tuv lang="uk" changeid="darkmentat" changedate="20220521T120257Z" creationid="darkmentat" creationdate="20220516T235534Z">
+        <seg>Коли персонаж гравця займається чимось небезпечним, змагається з кимось чи результат дій непевний, зверніться до ігрових кубиків щоб дізнатись як добре йдуть справи. Потрібно буде кинути куби, додати до сумарного результату значення підхожого атрибуту і використати результат, щоб визначити що станеться далі.</seg>
       </tuv>
     </tu>
     <tu>
@@ -1246,8 +1246,8 @@ earn XP during play, and can spend XP
 to gain new abilities, and to increase
 their attributes.</seg>
       </tuv>
-      <tuv lang="uk" changeid="darkmentat" changedate="20220516T235518Z" creationid="darkmentat" creationdate="20220516T235518Z">
-        <seg>**ПД:** Пункти досвіду. Протягом гри персонажі будуть заробляти пункти досвіду, щоб потратити їх на нові таланти чи щоб покращити атрибути.</seg>
+      <tuv lang="uk" changeid="darkmentat" changedate="20220521T115918Z" creationid="darkmentat" creationdate="20220516T235518Z">
+        <seg>**Досвід:** Протягом гри персонажі будуть заробляти пункти досвіду, щоб потратити їх на нові таланти чи щоб покращити атрибути.</seg>
       </tuv>
     </tu>
     <tu>
