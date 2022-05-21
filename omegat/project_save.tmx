@@ -364,8 +364,8 @@ under sustained stress, you may have
 to roll the dice with Willpower to
 maintain it.</seg>
       </tuv>
-      <tuv lang="uk" changeid="darkmentat" changedate="20220521T183909Z" creationid="darkmentat" creationdate="20220521T183909Z">
-        <seg>**Силова стінка:** Поки ви концентруєтесь, не відволікаючись на будь-що інше, ви можете створити міцний бар'єр з матеріалізованої псіонічної енергії, розміром десь 3 на 3 метри. Якщо він перебуває під великим навантаженням, вам потрібно буде кинути куби додавши Волю, щоб продовжити підтримувати його.</seg>
+      <tuv lang="uk" changeid="darkmentat" changedate="20220521T185546Z" creationid="darkmentat" creationdate="20220521T183909Z">
+        <seg>**Силова стіна:** Поки ви концентруєтесь, не відволікаючись на будь-що інше, ви можете створити міцний бар'єр з матеріалізованої псіонічної енергії, розміром десь 3 на 3 метри. Якщо він перебуває під великим навантаженням, вам потрібно буде кинути куби додавши Волю, щоб продовжити підтримувати його.</seg>
       </tuv>
     </tu>
     <tu>
@@ -404,8 +404,8 @@ reveal yourself.</seg>
 port instantly to a near by location that
 you can see.</seg>
       </tuv>
-      <tuv lang="uk" changeid="darkmentat" changedate="20220521T184824Z" creationid="darkmentat" creationdate="20220521T184824Z">
-        <seg>**Стрибок:** Раз за сцену ви можете миттєво телепортуватись в точку неподалік у вашому полі зору.</seg>
+      <tuv lang="uk" changeid="darkmentat" changedate="20220521T185835Z" creationid="darkmentat" creationdate="20220521T184824Z">
+        <seg>**Стрибок:** Раз за сцену ви можете миттєво телепортуватись в будь-яку точку неподалік в межах вашого поля зору.</seg>
       </tuv>
     </tu>
     <tu>
