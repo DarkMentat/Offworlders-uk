@@ -781,8 +781,8 @@ to reroll one of the dice, but you must
 take the second roll. Use the new total
 for your result.</seg>
       </tuv>
-      <tuv lang="uk" changeid="IrynaDobro" changedate="20220518T135935Z" creationid="darkmentat" creationdate="20220517T002759Z">
-        <seg>Якщо у вас є підходяще вміння, ви можете перекинути один кубик, але ти маєш використати останній кидок.  </seg>
+      <tuv lang="uk" changeid="darkmentat" changedate="20220521T120824Z" creationid="darkmentat" creationdate="20220517T002759Z">
+        <seg>Якщо у вас є підхоже вміння, гравець може перекинути один кубик, але тоді новий результат буде остаточним.</seg>
       </tuv>
     </tu>
     <tu>
@@ -877,8 +877,8 @@ make your life more complicated.
 They’ll tell you exactly what happens.
 The good news is you earn 1 XP.</seg>
       </tuv>
-      <tuv lang="uk" changeid="darkmentat" changedate="20220518T141322Z" creationid="darkmentat" creationdate="20220516T235758Z">
-        <seg>**ПРИ 6-:** Провал. Ви ймавірно не тільки не добились бажаного, але майстер ще й ускладнить ваше життя якимось чином. Але є і добрі новини, ви отримаєте 1 досвід!</seg>
+      <tuv lang="uk" changeid="darkmentat" changedate="20220521T120706Z" creationid="darkmentat" creationdate="20220516T235758Z">
+        <seg>**ПРИ 6-:** Провал. Ви ймовірно не тільки не добились бажаного, але майстер ще й ускладнить ваше життя якимось чином. Але є і добрі новини, ви отримаєте 1 досвід!</seg>
       </tuv>
     </tu>
     <tu>
@@ -888,8 +888,8 @@ you want, but at some cost, reduced
 effect, difficult choice, or harm. The
 GM will tell you what.</seg>
       </tuv>
-      <tuv lang="uk" changeid="darkmentat" changedate="20220518T141320Z" creationid="darkmentat" creationdate="20220516T235753Z">
-        <seg>**ПРИ 7-9:** Ускладнення. Загалом ви добились бажаного, проте нелегкою ціною, в недостатній мірі, ставши перед важким вибором чи отримавши ушкодження. Майстер визначить перед чим саме.</seg>
+      <tuv lang="uk" changeid="darkmentat" changedate="20220521T120653Z" creationid="darkmentat" creationdate="20220516T235753Z">
+        <seg>**ПРИ 7-9:** Ускладнення, або частковий успіх. Загалом ви добились бажаного, проте нелегкою ціною, в недостатній мірі, ставши перед важким вибором чи отримавши ушкодження. Майстер визначить якими саме будуть ціна чи ускладнення.</seg>
       </tuv>
     </tu>
     <tu>
@@ -993,8 +993,8 @@ ia Gulin, David Kenyon, and Steve Kilian</seg>
 the relevant attribute. Use the total to
 determine how successful you are.</seg>
       </tuv>
-      <tuv lang="uk" changeid="darkmentat" changedate="20220516T235744Z" creationid="darkmentat" creationdate="20220516T235744Z">
-        <seg>Киньте **2к6**, складіть випавші значення та додайте підходящий атрибут. Сумарний результат визначить наскільки сприятливою буде розвитой ситуації.</seg>
+      <tuv lang="uk" changeid="darkmentat" changedate="20220521T120557Z" creationid="darkmentat" creationdate="20220516T235744Z">
+        <seg>Киньте **2к6**, складіть випавші значення та додайте підхожий атрибут. Сумарний результат визначить наскільки сприятливим буде розвиток ситуації.</seg>
       </tuv>
     </tu>
     <tu>
