@@ -328,6 +328,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>###### SUPPLY</seg>
+      </tuv>
+      <tuv lang="uk" changeid="darkmentat" changedate="20220521T203927Z" creationid="darkmentat" creationdate="20220521T203927Z">
+        <seg>###### ПРИПАСИ</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>###### THINGS WORTH ONE CREDIT</seg>
       </tuv>
       <tuv lang="uk" changeid="darkmentat" changedate="20220521T203313Z" creationid="darkmentat" creationdate="20220521T203313Z">
@@ -804,6 +812,33 @@ attributes, detailed later.</seg>
       </tuv>
       <tuv lang="uk" changeid="darkmentat" changedate="20220521T121449Z" creationid="darkmentat" creationdate="20220516T235438Z">
         <seg>**Атрибут:** Число, зазвичай від -1 до +3, що визначає загальні вміння персонажа гравця в деякій обсласті. В грі є чотири атрибути, про них трохи згодом.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Characters in Offworlders are
+assumed to be carrying a variety of
+useful and necessary tools. Instead of
+choosing exactly what your character
+is carrying ahead of time, these tools
+are abstracted as Supply. You begin
+with 3 Supply. You can spend 1 Supply
+at any time to produce a mundane
+item from the list below, or an item of
+similar complexity if the GM agrees.
+You refill your supply whenever you
+have some downtime on board the
+ship, or wherever you currently keep
+all your stuff. Your maximum supply
+is always 3.
+You can spend 1 Supply to have one
+of the following or an item of similar
+complexity:</seg>
+      </tuv>
+      <tuv lang="uk" changeid="darkmentat" changedate="20220521T204530Z" creationid="darkmentat" creationdate="20220521T204530Z">
+        <seg>Вважається, що персонаж в Краєходцях має при собі різноманітні корисні та необхідні знаряддя. Тому замість того, щоб завчасно вибирати що саме носить ваш персонаж, це все сховано за абстракцією **припасів**. Ви починаєте з 3 припасами та можете заявити, що маєте якийсь буденний предмет зі списку нижче, або щось схожої категорії за згодою майстра. Ви поповнюєте припаси коли проводите вільний час на борту чи коли маєте доступ до всіх своїх речей. Максимальна кількість припасів завжди 3.
+
+Ви можете списати 1 припас щоб отримати щось зі списку або схожої категорії:</seg>
       </tuv>
     </tu>
     <tu>
