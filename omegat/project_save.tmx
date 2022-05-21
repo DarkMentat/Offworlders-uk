@@ -773,6 +773,24 @@ age for your weapon, ignoring armor.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>ARMOR C DEFENSE NOTES
+Light 3c 1-armor
+Heavy 6c 2-armor Heavy.
+Assault 40c 3-armor Heavy. Includes several hours' air supply and
+built-in heavy weapon.</seg>
+      </tuv>
+      <tuv lang="uk" changeid="darkmentat" changedate="20220521T211827Z" creationid="darkmentat" creationdate="20220521T211827Z">
+        <seg>| БРОНЯ     | КРЕД. | ЗАХИСТ   | ПРИМІТКИ |
+| --------- | ----- | -------- | -------- |
+| Легка     | 3c    | захист-1 |          |
+| Важка     | 6c    | захист-2 | Важка    |
+| Штурмова* | 40c   | захист-3 | Важка    |
+
+*Штурмова броня містить в собі запас кисню на декілька годин та вбудоване важке озброєння.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Ability: A special action or stunt that a
 PC can perform. Each PC begins with
 two abilities.</seg>
