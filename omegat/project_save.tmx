@@ -304,8 +304,8 @@ starships through asteroid fields, and shooting rifles.</seg>
       <tuv lang="en-US">
         <seg>**Athletics:** Running, climbing, jumping, swimming etc.</seg>
       </tuv>
-      <tuv lang="uk" changeid="darkmentat" changedate="20220519T201516Z" creationid="darkmentat" creationdate="20220519T201516Z">
-        <seg>**Атлетика:** Біг, лазання, стрибки, плавання, тощо.</seg>
+      <tuv lang="uk" changeid="darkmentat" changedate="20220521T121904Z" creationid="darkmentat" creationdate="20220519T201516Z">
+        <seg>**Атлетика:** Біг, лазіння, стрибки, плавання, тощо.</seg>
       </tuv>
     </tu>
     <tu>
@@ -629,6 +629,7 @@ their imagination.</seg>
       </tuv>
     </tu>
     <tu>
+      <note>описати що таке 2к6, що значить "кинути Інтелект" ітд</note>
       <tuv lang="en-US">
         <seg>D6: A single, 6-sided die. Usually you’ll
 roll two of these and add them togeth-
@@ -907,8 +908,8 @@ Often, humanoid aliens in science fic-
 tion are fundamentally just people that
 fit into specific tropes and archetypes.</seg>
       </tuv>
-      <tuv lang="uk" changeid="darkmentat" changedate="20220519T205138Z" creationid="darkmentat" creationdate="20220519T205138Z">
-        <seg>В Краєходцях немє особливих правил для інопланетних видів. Як ігровій групі вам варто домовитись, чи існують розумні інопланетні види в ігровому всесвіті. Якщо так і гравець хоче грати за прибульця — то дозвольте йому, але це ніяк не вплине на механіку гри. Можливо всі Псіоніки являються представником одного виду, чи Вояка отримав свої вміння як уродженець клану войовничого виду. Часто гуманоїди в фантастиці — це по-факту просто ті самі люди, що заточені під якись конкретний троп чи архетип </seg>
+      <tuv lang="uk" changeid="darkmentat" changedate="20220521T121927Z" creationid="darkmentat" creationdate="20220519T205138Z">
+        <seg>В Краєходцях немає особливих правил для інопланетних видів. Як ігровій групі вам варто домовитись, чи існують розумні інопланетні види в ігровому всесвіті. Якщо так і гравець хоче грати за прибульця — то дозвольте йому, але це ніяк не вплине на механіку гри. Можливо всі Псіоніки являються представником одного виду, чи Вояка отримав свої вміння як уродженець клану войовничого виду. Часто гуманоїди в фантастиці — це по-факту просто ті самі люди, що заточені під якись конкретний троп чи архетип </seg>
       </tuv>
     </tu>
     <tu>
@@ -954,8 +955,8 @@ you want to get in and out of trouble.</seg>
       <tuv lang="en-US">
         <seg>Pilot: Controlling vehicles, from starships and speeders to motorboats and bicycles.</seg>
       </tuv>
-      <tuv lang="uk" changeid="darkmentat" changedate="20220519T201853Z" creationid="darkmentat" creationdate="20220519T201853Z">
-        <seg>**Кермування:** Керування різними апаратамо, від зорельотів і спідерів, що катерів чи велосипедів.  </seg>
+      <tuv lang="uk" changeid="darkmentat" changedate="20220521T121909Z" creationid="darkmentat" creationdate="20220519T201853Z">
+        <seg>**Кермування:** Керування різними апаратами, від зорельотів і спідерів, що катерів чи велосипедів.  </seg>
       </tuv>
     </tu>
     <tu>
