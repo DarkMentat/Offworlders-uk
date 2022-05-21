@@ -1351,6 +1351,20 @@ radiation.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>When players damage NPC’s, they
+inflict damage as indicated by the type
+of weapon they are using. For instance
+a heav y weapon does **1D6+2** damage.
+Meaning the player should roll a **D6** ,
+add **2** to the total, and inflict that much
+damage to the enemy.</seg>
+      </tuv>
+      <tuv lang="uk" changeid="darkmentat" changedate="20220521T191114Z" creationid="darkmentat" creationdate="20220521T191114Z">
+        <seg>Коли гравець наносить ушкодження персонажу майстра, значення цих ушкоджень залежить від зброї, яку він використовує. Наприклад, важке озброєння наносить **к6+2** ушкоджень. Це значить, що гравцю потрібно кинути один **к6**, додати до результату **2** і саме стільки ушкоджень отримає ціль.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Willpower: Force of personality,
 charisma and determination. Use it to
 bark orders and manipulate people,
