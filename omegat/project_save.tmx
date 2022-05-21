@@ -1204,8 +1204,8 @@ at all times.</seg>
         <seg>Usually it will be obvious, but if it isn’t,
 the GM makes the final call.</seg>
       </tuv>
-      <tuv lang="uk" changeid="darkmentat" changedate="20220516T235713Z" creationid="darkmentat" creationdate="20220516T235713Z">
-        <seg>Зазвичай це рішення очевидне, але якщо ні — останнє слово за майстром.</seg>
+      <tuv lang="uk" changeid="darkmentat" changedate="20220521T183156Z" creationid="darkmentat" creationdate="20220516T235713Z">
+        <seg>Зазвичай це рішення очевидне, але якщо ні — останнє слово за майстром. Для деяких випадків в правилах чітко вказано, який саме атрибут використовувати, наприклад "киньте куби з Силою" чи "з Інтелектом".</seg>
       </tuv>
     </tu>
     <tu>
