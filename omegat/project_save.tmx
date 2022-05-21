@@ -1393,6 +1393,20 @@ er has to Roll the Dice.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>SHIP ITEMS C NOTES
+Starship drive fuel 3C Per unit.
+Starship upgrades 50C
+Hull repairs 1C Repairs 2 Hull. Available in any port.</seg>
+      </tuv>
+      <tuv lang="uk" changeid="darkmentat" changedate="20220521T212048Z" creationid="darkmentat" creationdate="20220521T212048Z">
+        <seg>СПОРЯДЖЕННЯ ЗОРЕЛЬОТУ
+Паливо для зоряного стрибка - 3К за одиницю
+Апгрейд зорельоту - 50К
+Ремонт корпусу - 1К за 2 од. корпусу, доступно в будь-якому порту.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Scanner: You can easily read people’s
 surface emotions. You may roll the
 dice with Intelligence to try and access
