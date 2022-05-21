@@ -1162,6 +1162,18 @@ be able to find it.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Telekinesis: You can easily move
+small objects with your mind. You
+can attempt to move larger objects, or
+move things very precisely, but it is
+difficult. The GM will tell you how.</seg>
+      </tuv>
+      <tuv lang="uk" changeid="darkmentat" changedate="20220521T185421Z" creationid="darkmentat" creationdate="20220521T185421Z">
+        <seg>**Телекінез:** Ви можете легко пересувати маленькі предмети силою думки. Ви можете також спробувати зсунути предмети побільше, чи рухати предмети з особливою точністю, але з цим можуть виникнути складнощі. Майстер скаже які саме.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>The Game Master never rolls the dice.
 The players are always the ones that
 roll. The game is about them and the
