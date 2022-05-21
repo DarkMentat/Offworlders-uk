@@ -1159,8 +1159,8 @@ character does. If you’ve been in the
 spotlight for a while, invite someone
 else to speak up.</seg>
       </tuv>
-      <tuv lang="uk" changeid="darkmentat" changedate="20220516T235317Z" creationid="darkmentat" creationdate="20220516T235317Z">
-        <seg>На відміну багатьох інших ігор, тут не потрібно робити формальних ходів в чіткому порядку. Гра має йти природньо і нехай той, хто в центрі подій опише дії свого персонажа, а якщо він занадто довго в центрі уваги, то хай гравець передасть слово іншому.</seg>
+      <tuv lang="uk" changeid="darkmentat" changedate="20220521T115558Z" creationid="darkmentat" creationdate="20220516T235317Z">
+        <seg>На відміну від багатьох інших ігор, тут не потрібно робити формальних ходів в чіткому порядку. Гра має йти природно: нехай той, хто в центрі подій, описує дії свого персонажа, а якщо він занадто довго в центрі уваги, то варто передати слово іншому.</seg>
       </tuv>
     </tu>
     <tu>
@@ -1291,8 +1291,8 @@ you’ll speak for longer to get something
 done, and often you’ll step back to let
 someone else have the spotlight.</seg>
       </tuv>
-      <tuv lang="uk" changeid="darkmentat" changedate="20220516T235308Z" creationid="darkmentat" creationdate="20220516T235308Z">
-        <seg>Ви будете діяти по-черзі, в тій же мірі як в розмові ви висловлюєтесь по-черзі. Часом хтось буде говорити довше, а часом потрібно буде відступити і дати слово іншому.</seg>
+      <tuv lang="uk" changeid="darkmentat" changedate="20220521T115425Z" creationid="darkmentat" creationdate="20220516T235308Z">
+        <seg>Ви будете діяти по-черзі, так само як в розмові ви висловлюєтесь по-черзі. Часом хтось буде говорити довше, а часом потрібно буде відступити, щоб дати слово іншому.</seg>
       </tuv>
     </tu>
     <tu>
