@@ -525,6 +525,18 @@ rest and care, will make a full recovery.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>6-: The PC is doomed. They might not
+die right away, and they might get a
+chance to do one last thing before they
+go, but they will not live to the end of
+the game session.</seg>
+      </tuv>
+      <tuv lang="uk" changeid="darkmentat" changedate="20220521T192157Z" creationid="darkmentat" creationdate="20220521T192157Z">
+        <seg>**6-:** Персонаж вже приречений. Він може померти не зразу та у нього є шанс зробити якусь останню дію, але він точно не доживе до кінця зустрічі.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>7-9: They will live, but the player must
 choose some part of the character
 that gets lost forever. For example the
