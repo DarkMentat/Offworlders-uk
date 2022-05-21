@@ -1576,6 +1576,15 @@ verse, completing profitable jobs and overcoming dangers.</seg>
       </tuv>
     </tu>
     <tu>
+      <tuv lang="en-US">
+        <seg>The players begin with a small spaceship. It’s just about big enough for all of them to live on, with a few ad-
+ditional passengers when necessary. The PC’s control the ship using their attributes and skills.</seg>
+      </tuv>
+      <tuv lang="uk" changeid="darkmentat" changedate="20220521T214359Z" creationid="darkmentat" creationdate="20220521T214359Z">
+        <seg>Гравці починають гру зі своїм невеликим зорельотом. В ньому спокійно може проживати весь екіпаж та при необхідності він може взяти декілька пасажирів. Гравці керують зорельотом використовуючи атрибути та вміння своїх персонажів.</seg>
+      </tuv>
+    </tu>
+    <tu>
       <note>Geek = Технар чи мб Ботанік?
 </note>
       <tuv lang="en-US">
