@@ -28,3 +28,4 @@ Intelligence	Інтелект
 Willpower	Воля
 roll the dice	кинути куби
 roll the dice with	кинути куби додавши
+First Aid	перша допомога
