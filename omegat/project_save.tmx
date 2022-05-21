@@ -521,6 +521,18 @@ GM must answer you honestly.</seg>
     <tu>
       <tuv lang="en-US">
         <seg>ABILITIES:
+**Blast:** Your can use your psychic pow-
+ers as a ranged weapon, doing **1D6 +**
+damage to a nearby target. You attack
+by rolling the dice with Willpower.</seg>
+      </tuv>
+      <tuv lang="uk" changeid="darkmentat" changedate="20220521T182406Z" creationid="darkmentat" creationdate="20220521T182406Z">
+        <seg>**Випал:** Ви можете використовувати ваші псіонічні сили як зброю в дальньому бою, щоб нанести **к6+1** ушкоджень найближчий цілі. Атакуючи, вам потрібно кинути куби з Волею.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>ABILITIES:
 **Brute:** You deal +2 damage with
 melee weapons.</seg>
       </tuv>
