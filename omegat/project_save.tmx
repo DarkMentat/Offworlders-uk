@@ -280,6 +280,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>###### HEAVY ITEMS</seg>
+      </tuv>
+      <tuv lang="uk" changeid="darkmentat" changedate="20220521T204638Z" creationid="darkmentat" creationdate="20220521T204638Z">
+        <seg>###### ВАЖКІ ПРЕДМЕТИ</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>###### MORE EXPENSIVE ITEMS</seg>
       </tuv>
       <tuv lang="uk" changeid="darkmentat" changedate="20220521T203554Z" creationid="darkmentat" creationdate="20220521T203554Z">
@@ -1425,6 +1433,24 @@ be able to find it.</seg>
       </tuv>
       <tuv lang="uk" changeid="darkmentat" changedate="20220519T202726Z" creationid="darkmentat" creationdate="20220519T202726Z">
         <seg>Деякі особливо потужні таланти потребують, щоб гравець кинув куби для того, щоб успішно їх використати.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Some weapons and items are “ heav y .”
+These items are large or clumsy, and
+it is difficult to move while carrying
+them. A PC must take -1 any time
+they roll the dice to do something like
+run, jump, or climb while carrying a
+heav y item. A heav y item will also be
+very difficult to hide, and will attract
+attention.
+Heav y may cause other complications
+as well, at the GM’s discretion.</seg>
+      </tuv>
+      <tuv lang="uk" changeid="darkmentat" changedate="20220521T205039Z" creationid="darkmentat" creationdate="20220521T205039Z">
+        <seg>Деяка зброя та предмети позначені як "важкі". Це предмети являються завеликими чи громіздкими, тому з ними досить важко рухатись. Персонаж гравця має отримати штраф -1 до кидка кубів, якщо він намагається бігти, стрибати чи лазити, тримаючи при собі важкі предмети. Також їх досить складно сховати і вони будуть привертати увагу. Важкі предмети також можуть викликати якість інші ускладнення на розсуд майстра.</seg>
       </tuv>
     </tu>
     <tu>
