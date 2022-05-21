@@ -272,6 +272,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>###### PSYCHIC</seg>
+      </tuv>
+      <tuv lang="uk" changeid="darkmentat" changedate="20220521T181750Z" creationid="darkmentat" creationdate="20220521T181750Z">
+        <seg>###### ПСІОНІК</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>###### WARRIOR</seg>
       </tuv>
       <tuv lang="uk" changeid="darkmentat" changedate="20220520T211100Z" creationid="darkmentat" creationdate="20220520T211100Z">
@@ -586,8 +594,8 @@ a guideline for which attributes you
 want to make high, and which you can
 afford to make lower.</seg>
       </tuv>
-      <tuv lang="uk" changeid="darkmentat" changedate="20220519T203345Z" creationid="darkmentat" creationdate="20220519T203345Z">
-        <seg>Призначте кожному атрибут одне з числа **+2**, **+1**, **0** та **-1** в будь-якому порядку. Врахуйте ваш клас та подумайте, чим скоріш за все буде займатись ваш персонаж, щоб зорієнтуватись який атрибут зробити високим, а який можна дозволити лишити низьким.</seg>
+      <tuv lang="uk" changeid="darkmentat" changedate="20220521T181712Z" creationid="darkmentat" creationdate="20220519T203345Z">
+        <seg>Призначте кожному атрибут одне з числа **+2**, **+1**, **0** та **-1** в будь-якому порядку. Врахуйте ваш клас та подумайте, чим скоріше за все буде займатись ваш персонаж, щоб зорієнтуватись який атрибут зробити високим, а який можна дозволити лишити низьким.</seg>
       </tuv>
     </tu>
     <tu>
@@ -657,8 +665,8 @@ Strength** and **+1 A g ility** has **15 Health**.
 A PC with **0 Strength** and **-1 A g ilit y**
 has **11 Health.**</seg>
       </tuv>
-      <tuv lang="uk" changeid="darkmentat" changedate="20220519T203630Z" creationid="darkmentat" creationdate="20220519T203630Z">
-        <seg>Здоров'я кожно персонажа гравця дорівнює **12** плюс **Сила** плюс **Спритність**. Наприклад, у пероснажа з **Силою +1** та **Спритністю +2** буде **15 Здоров'я**. А для персонажа з **Силою 0** та **Спритністю -1** здоров'я буде **11**.</seg>
+      <tuv lang="uk" changeid="darkmentat" changedate="20220521T181717Z" creationid="darkmentat" creationdate="20220519T203630Z">
+        <seg>Здоров'я кожного персонажа гравця дорівнює **12** плюс **Сила** плюс **Спритність**. Наприклад, у пероснажа з **Силою +1** та **Спритністю +2** буде **15 Здоров'я**. А для персонажа з **Силою 0** та **Спритністю -1** здоров'я буде **11**.</seg>
       </tuv>
     </tu>
     <tu>
@@ -982,6 +990,16 @@ ia Gulin, David Kenyon, and Steve Kilian</seg>
       </tuv>
       <tuv lang="uk" changeid="darkmentat" changedate="20220520T215302Z" creationid="darkmentat" creationdate="20220520T215302Z">
         <seg>**Ерудит:** Отримайте в додаток третє вміння.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Psychics possess supernatural mental abilities. Their abilities al-
+low them to manipulate their surroundings and read minds.
+Play a Psychic if you want to be strange and powerful.</seg>
+      </tuv>
+      <tuv lang="uk" changeid="darkmentat" changedate="20220521T181933Z" creationid="darkmentat" creationdate="20220521T181933Z">
+        <seg>Псіоніки володіють надприродними ментальними здібностями. Їх таланти дозволяють їм впливати на оточення силою думки та вдиратись в чужі голови. Грайте за псіоніка, якщо хочете бути могутнім і загадковим.</seg>
       </tuv>
     </tu>
     <tu>
