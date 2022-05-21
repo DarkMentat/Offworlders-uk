@@ -256,6 +256,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>###### HEALTH &amp; DYING</seg>
+      </tuv>
+      <tuv lang="uk" changeid="darkmentat" changedate="20220521T191326Z" creationid="darkmentat" creationdate="20220521T191326Z">
+        <seg>###### ЗДОРОВ'Я ТА СМЕРТЬ</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>###### OUTLAW</seg>
       </tuv>
       <tuv lang="uk" changeid="darkmentat" changedate="20220520T203805Z" creationid="darkmentat" creationdate="20220520T203805Z">
@@ -726,6 +734,19 @@ of the dice. You must accept the second result.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Enemies and hazards inflict damage
+against PC’s in the same way. Roll for
+damage and subtract the result from a
+PC’s health. In the GM section of these
+rules is a selection of enemies, includ-
+ing how much damage they should do.</seg>
+      </tuv>
+      <tuv lang="uk" changeid="darkmentat" changedate="20220521T191317Z" creationid="darkmentat" creationdate="20220521T191317Z">
+        <seg>Вороги та інші загрози наносять ушкодження персонажам гравців таким же чином. Киньте куби на ушкодження й відніміть це значення від здоров'я ушкодженого персонажа. В розділі для майстра є настанови щодо того, які вороги й скільки мають наносити ушкоджень.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Every PC has four attributes, representing different ways they might address challenges. Each attribute has
 a rating between -1 and +3. The higher the rating, the more likely the character is to succeed when using it.
 You’ll use these attributes when you roll the dice. The four attributes are:</seg>
@@ -766,6 +787,17 @@ insight. Play a Geek if you want to be the smartest one in the room.</seg>
       </tuv>
       <tuv lang="uk" changeid="darkmentat" changedate="20220520T214133Z" creationid="darkmentat" creationdate="20220520T214133Z">
         <seg>Технарі — це науковці, медики й спеціалісти. Їх таланти дозволяють їх управляти різною технікою, лікувати своїх товаришів та отримувати додаткові прозріння. Грайте за технаря, якщо хочете бути найрозумнішим в кімнаті.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Health is a measure of how much
+damage a character can take before
+they are in serious trouble. Both PC’s
+and NPC’s have a health score.</seg>
+      </tuv>
+      <tuv lang="uk" changeid="darkmentat" changedate="20220521T191447Z" creationid="darkmentat" creationdate="20220521T191447Z">
+        <seg>Здоров'я — це міра того, скільки ушкоджень може винести персонаж до того, як він потрапить в серйозні неприємності. У персонажів як гравців, так і майстра є своя шкала здоров'я.</seg>
       </tuv>
     </tu>
     <tu>
