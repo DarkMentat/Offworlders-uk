@@ -147,8 +147,8 @@
       <tuv lang="en-US">
         <seg>###### 2. PICK THE MOST APPROPRIATE OF THE FOUR ATTRIBUTES.</seg>
       </tuv>
-      <tuv lang="uk" changeid="darkmentat" changedate="20220516T235722Z" creationid="darkmentat" creationdate="20220516T235705Z">
-        <seg>###### 2. ВИБЕРІТЬ НАЙБІЛЬШ ПІДХОДЯЩИЙ З ЧОТИРЬОХ АТРИБУТІВ</seg>
+      <tuv lang="uk" changeid="darkmentat" changedate="20220521T120332Z" creationid="darkmentat" creationdate="20220516T235705Z">
+        <seg>###### 2. ВИБЕРІТЬ НАЙБІЛЬШ ПІДХОЖИЙ З ЧОТИРЬОХ АТРИБУТІВ</seg>
       </tuv>
     </tu>
     <tu>
@@ -769,8 +769,8 @@ uncertain enough to warrant a roll, go
 to step 2. Otherwise, the GM will tell
 you what happens.</seg>
       </tuv>
-      <tuv lang="uk" changeid="darkmentat" changedate="20220516T235701Z" creationid="darkmentat" creationdate="20220516T235701Z">
-        <seg>Якщо майстер вирішить, що це може бути ризиково чи успіхи досить сумнівні, щоб кидати куби, то перейдіть до кроку 2. Інашке майстер опише що сталось далі.</seg>
+      <tuv lang="uk" changeid="darkmentat" changedate="20220521T120315Z" creationid="darkmentat" creationdate="20220516T235701Z">
+        <seg>Якщо майстер вирішить, що це може бути ризиково чи успіхи досить сумнівні, щоб кидати куби, то перейдіть до наступного кроку. Інакше майстер просто опише що сталось далі.</seg>
       </tuv>
     </tu>
     <tu>
@@ -1212,8 +1212,8 @@ about potential consequences before-
 hand so the player knows what they
 are facing.</seg>
       </tuv>
-      <tuv lang="uk" changeid="darkmentat" changedate="20220516T235737Z" creationid="darkmentat" creationdate="20220516T235737Z">
-        <seg>Що станеться у випадку провалу? Якими можуть бути ускладнення? Тут за бажанням ви можете відступити чи обрати іншу стратегію. Майстер не зобов'язаний сказати що саме може далі трапитись, але він має бути чесним про маштаб можливих наслідків, щоб гравці розуміли серйозність ситуації.</seg>
+      <tuv lang="uk" changeid="darkmentat" changedate="20220521T120506Z" creationid="darkmentat" creationdate="20220516T235737Z">
+        <seg>Що станеться у випадку провалу? Якими можуть бути ускладнення? Тут за бажанням гравець може відступити чи обрати іншу стратегію. Майстер не зобов'язаний сказати що саме може далі трапитись, але він має бути чесним про масштаб можливих наслідків, щоб гравці розуміли рівень серйозності ситуації.</seg>
       </tuv>
     </tu>
     <tu>
