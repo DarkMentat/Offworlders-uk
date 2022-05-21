@@ -356,6 +356,20 @@ ranged weapons.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>**Force Wall :** As long as you concen-
+trate on nothing else, you can create a
+strong barrier of solid psychic energy
+up to 10x10 feet in size. If it comes
+under sustained stress, you may have
+to roll the dice with Willpower to
+maintain it.</seg>
+      </tuv>
+      <tuv lang="uk" changeid="darkmentat" changedate="20220521T183909Z" creationid="darkmentat" creationdate="20220521T183909Z">
+        <seg>**Силова стінка:** Поки ви концентруєтесь, не відволікаючись на будь-що інше, ви можете створити міцний бар'єр з матеріалізованої псіонічної енергії, розміром десь 3 на 3 метри. Якщо він перебуває під великим навантаженням, вам потрібно буде кинути куби додавши Волю, щоб продовжити підтримувати його.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>**Game Master, or GM:** The player who
 takes on the role of the game world
 and everyone in it who isn’t a Player
@@ -526,8 +540,8 @@ ers as a ranged weapon, doing **1D6 +**
 damage to a nearby target. You attack
 by rolling the dice with Willpower.</seg>
       </tuv>
-      <tuv lang="uk" changeid="darkmentat" changedate="20220521T182406Z" creationid="darkmentat" creationdate="20220521T182406Z">
-        <seg>**Випал:** Ви можете використовувати ваші псіонічні сили як зброю в дальньому бою, щоб нанести **к6+1** ушкоджень найближчий цілі. Атакуючи, вам потрібно кинути куби з Волею.</seg>
+      <tuv lang="uk" changeid="darkmentat" changedate="20220521T183322Z" creationid="darkmentat" creationdate="20220521T182406Z">
+        <seg>**Випал:** Ви можете використовувати ваші псіонічні сили як зброю в дальньому бою, щоб нанести **к6+1** ушкоджень найближчий цілі. Атакуючи, вам потрібно кинути куби додавши Волю.</seg>
       </tuv>
     </tu>
     <tu>
@@ -763,8 +777,8 @@ take over any electronic machine or
 computer that you can see. Roll the
 dice with Intelligence to do it.</seg>
       </tuv>
-      <tuv lang="uk" changeid="darkmentat" changedate="20220521T182833Z" creationid="darkmentat" creationdate="20220520T214952Z">
-        <seg>**Перехоплення:** Ви можете спробувати віддалено взяти під контроль якийсь електронний пристрій чи комп'ютер в полі зору. Для цього вам потрібно буде кинути куби з Інтелектом.</seg>
+      <tuv lang="uk" changeid="darkmentat" changedate="20220521T183309Z" creationid="darkmentat" creationdate="20220520T214952Z">
+        <seg>**Перехоплення:** Ви можете спробувати віддалено взяти під контроль якийсь електронний пристрій чи комп'ютер в полі зору. Для цього вам потрібно буде кинути куби додавши Інтелект.</seg>
       </tuv>
     </tu>
     <tu>
@@ -1204,8 +1218,8 @@ at all times.</seg>
         <seg>Usually it will be obvious, but if it isn’t,
 the GM makes the final call.</seg>
       </tuv>
-      <tuv lang="uk" changeid="darkmentat" changedate="20220521T183156Z" creationid="darkmentat" creationdate="20220516T235713Z">
-        <seg>Зазвичай це рішення очевидне, але якщо ні — останнє слово за майстром. Для деяких випадків в правилах чітко вказано, який саме атрибут використовувати, наприклад "киньте куби з Силою" чи "з Інтелектом".</seg>
+      <tuv lang="uk" changeid="darkmentat" changedate="20220521T183242Z" creationid="darkmentat" creationdate="20220516T235713Z">
+        <seg>Зазвичай це рішення очевидне, але якщо ні — останнє слово за майстром. Для деяких випадків в правилах чітко вказано, який саме атрибут використовувати.</seg>
       </tuv>
     </tu>
     <tu>
