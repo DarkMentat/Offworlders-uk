@@ -1333,8 +1333,8 @@ has **11 Health.**</seg>
 You either have a skill or you don’t. When you roll the dice and have an applicable skill, you may re-roll one
 of the dice. You must accept the second result.</seg>
       </tuv>
-      <tuv lang="uk" changeid="darkmentat" changedate="20220519T201448Z" creationid="darkmentat" creationdate="20220519T201448Z">
-        <seg>Кожне вміння відображає деяку набуту область експертизи. На відмінну від атрибутів, вміння не мають числове значення, ви просто або маєте його, або ні. Коли ви здійснюєте кидок і у вас є підхоже вміння, ви можете перекинути один кубик і взяти новий результат.</seg>
+      <tuv lang="uk" changeid="darkmentat" changedate="20220522T171453Z" creationid="darkmentat" creationdate="20220519T201448Z">
+        <seg>Кожне вміння відображає деяку набуту область експертизи. На відмінну від атрибутів, вміння не мають числового значення, ви просто або маєте його, або ні. Коли кидаючи куби у вас є підхоже вміння, ви можете перекинути один кубик і використовувати новий результат.</seg>
       </tuv>
     </tu>
     <tu>
@@ -1513,8 +1513,8 @@ to reroll one of the dice, but you must
 take the second roll. Use the new total
 for your result.</seg>
       </tuv>
-      <tuv lang="uk" changeid="darkmentat" changedate="20220521T120824Z" creationid="darkmentat" creationdate="20220517T002759Z">
-        <seg>Якщо у вас є підхоже вміння, гравець може перекинути один кубик, але тоді новий результат буде остаточним.</seg>
+      <tuv lang="uk" changeid="darkmentat" changedate="20220522T171323Z" creationid="darkmentat" creationdate="20220517T002759Z">
+        <seg>Якщо у вас є підхоже вміння, гравець може перекинути один кубик, але новий результат буде остаточним.</seg>
       </tuv>
     </tu>
     <tu>
@@ -1687,8 +1687,8 @@ make your life more complicated.
 They’ll tell you exactly what happens.
 The good news is you earn 1 XP.</seg>
       </tuv>
-      <tuv lang="uk" changeid="darkmentat" changedate="20220521T120706Z" creationid="darkmentat" creationdate="20220516T235758Z">
-        <seg>**ПРИ 6-:** Провал. Ви ймовірно не тільки не добились бажаного, але майстер ще й ускладнить ваше життя якимось чином. Але є і добрі новини, ви отримаєте 1 досвід!</seg>
+      <tuv lang="uk" changeid="darkmentat" changedate="20220522T171507Z" creationid="darkmentat" creationdate="20220516T235758Z">
+        <seg>**ПРИ 6-:** Провал. Ви ймовірно не тільки не добились бажаного, але майстер ще й ускладнить ваше життя якимось чином. Але є і добрі новини, ви отримаєте 1 пункт досвіду!</seg>
       </tuv>
     </tu>
     <tu>
@@ -2105,8 +2105,8 @@ thing else. If a player takes damage, it
 is usually because they Rolled the Dice
 and got a complication or a miss.</seg>
       </tuv>
-      <tuv lang="uk" changeid="darkmentat" changedate="20220521T120915Z" creationid="IrynaDobro" creationdate="20220518T140203Z">
-        <seg>Майстер гри не має здійснювати кидки, вони тільки для гравців. Все ж вся гра про них та про ризики, на які вони йдуть. Якщо персонаж майстра атакує гравця, то це він має кинути куби, щоб уникнути удару, контратакувати чи відреагувати інакшим чином. Якщо гравець отримав ушкодження, то скоріше за все через те, що на кубах у нього випали ускладнення чи провал.</seg>
+      <tuv lang="uk" changeid="darkmentat" changedate="20220522T171335Z" creationid="IrynaDobro" creationdate="20220518T140203Z">
+        <seg>Майстер гри не має здійснювати кидків, вони тільки для гравців. Все ж вся гра про них та про ризики, на які вони йдуть. Якщо персонаж майстра атакує гравця, то це він має кинути куби, щоб уникнути удару, контратакувати чи відреагувати інакшим чином. Якщо гравець отримав ушкодження, то скоріше за все через те, що на кубах у нього випали ускладнення чи провал.</seg>
       </tuv>
     </tu>
     <tu>
