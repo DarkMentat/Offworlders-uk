@@ -884,8 +884,8 @@ Fuel to get +1 to a single roll to evade,
 outrun, or maneuver while piloting
 the ship.</seg>
       </tuv>
-      <tuv lang="uk" changeid="darkmentat" changedate="20220522T101314Z" creationid="darkmentat" creationdate="20220522T101314Z">
-        <seg>Форсаж: Ви можете потратити 1 одиницю палива щоб отримати бонус +1 до будь-якого кидка, пов'язаного з ухиленням, погонею чи іншими маневрами при пілотуванні корабля.</seg>
+      <tuv lang="uk" changeid="darkmentat" changedate="20220522T181208Z" creationid="darkmentat" creationdate="20220522T101314Z">
+        <seg>**Форсаж:** Ви можете потратити 1 одиницю палива щоб отримати бонус +1 до будь-якого кидка, пов'язаного з ухиленням, погонею чи іншими маневрами при пілотуванні корабля.</seg>
       </tuv>
     </tu>
     <tu>
@@ -1034,8 +1034,8 @@ two abilities.</seg>
       <tuv lang="en-US">
         <seg>Additional A rmor: +1 armor*</seg>
       </tuv>
-      <tuv lang="uk" changeid="darkmentat" changedate="20220522T100825Z" creationid="darkmentat" creationdate="20220522T100825Z">
-        <seg>Додаткова броня: +1 захисту*</seg>
+      <tuv lang="uk" changeid="darkmentat" changedate="20220522T181200Z" creationid="darkmentat" creationdate="20220522T100825Z">
+        <seg>**Додаткова броня:** +1 захисту*</seg>
       </tuv>
     </tu>
     <tu>
@@ -1055,8 +1055,8 @@ trip, you can choose either to take half
 the time or use half the amount of fuel.
 Round up.</seg>
       </tuv>
-      <tuv lang="uk" changeid="darkmentat" changedate="20220522T100959Z" creationid="darkmentat" creationdate="20220522T100959Z">
-        <seg>Просунутий гіпердрайв: Для кожної міжзоряної подорожі ви можете або потратити вдвічі менше часу, або вдвічі менше паливо. Округлення йде вгору.</seg>
+      <tuv lang="uk" changeid="darkmentat" changedate="20220522T181203Z" creationid="darkmentat" creationdate="20220522T100959Z">
+        <seg>**Просунутий гіпердрайв:** Для кожної міжзоряної подорожі ви можете або потратити вдвічі менше часу, або вдвічі менше паливо. Округлення йде вгору.</seg>
       </tuv>
     </tu>
     <tu>
@@ -1067,8 +1067,8 @@ sors, etc. They will provide detalied
 information about ships, places, and
 stations you encounter.</seg>
       </tuv>
-      <tuv lang="uk" changeid="darkmentat" changedate="20220522T101102Z" creationid="darkmentat" creationdate="20220522T101102Z">
-        <seg>Просунута електроніка: високотехнологічні сканери, комунікатори, сенсори й таке інше. Вони будуть надавати більш детальну інформацію про кораблі, місця чи станції, з якими ви будете стикатись.</seg>
+      <tuv lang="uk" changeid="darkmentat" changedate="20220522T181205Z" creationid="darkmentat" creationdate="20220522T101102Z">
+        <seg>**Просунута електроніка:** високотехнологічні сканери, комунікатори, сенсори й таке інше. Вони будуть надавати більш детальну інформацію про кораблі, місця чи станції, з якими ви будете стикатись.</seg>
       </tuv>
     </tu>
     <tu>
@@ -1413,8 +1413,8 @@ another character 1D6 of Health.</seg>
       <tuv lang="en-US">
         <seg>Fuel Tanks: Max Drive Fuel +.</seg>
       </tuv>
-      <tuv lang="uk" changeid="darkmentat" changedate="20220522T101343Z" creationid="darkmentat" creationdate="20220522T101343Z">
-        <seg>Паливні баки: Максимальний запас стрибкового палива +1.</seg>
+      <tuv lang="uk" changeid="darkmentat" changedate="20220522T181211Z" creationid="darkmentat" creationdate="20220522T101343Z">
+        <seg>**Паливні баки:** Максимальний запас стрибкового палива +1.</seg>
       </tuv>
     </tu>
     <tu>
@@ -1469,8 +1469,8 @@ have the pilot skill, you may choose
 to reroll both dice in these situations,
 instead of just one.</seg>
       </tuv>
-      <tuv lang="uk" changeid="darkmentat" changedate="20220522T101633Z" creationid="darkmentat" creationdate="20220522T101633Z">
-        <seg>Висока маневровність: Якщо у вас немає вміння _кермування_, вважайте що ви його маєте в ситуаціях, де має значення маневровість корабля. Якщо ж у вас є це вміння, в таких ситуаціях ви можете перекинути оба кубика, а не один.</seg>
+      <tuv lang="uk" changeid="darkmentat" changedate="20220522T181213Z" creationid="darkmentat" creationdate="20220522T101633Z">
+        <seg>**Висока маневровність:** Якщо у вас немає вміння _кермування_, вважайте що ви його маєте в ситуаціях, де має значення маневровість корабля. Якщо ж у вас є це вміння, в таких ситуаціях ви можете перекинути оба кубика, а не один.</seg>
       </tuv>
     </tu>
     <tu>
@@ -1606,8 +1606,8 @@ with gourmet nutrition options and
 beautiful decor. For the crew who wants
 to attract a certain class of clientele.</seg>
       </tuv>
-      <tuv lang="uk" changeid="darkmentat" changedate="20220522T101817Z" creationid="darkmentat" creationdate="20220522T101817Z">
-        <seg>Розкішні каюти пасажирів: Йдуть разом з вишуканими стравами та гарним декором. Для екіпажу, який хоче залучити елітний клас клієнтів.</seg>
+      <tuv lang="uk" changeid="darkmentat" changedate="20220522T181216Z" creationid="darkmentat" creationdate="20220522T101817Z">
+        <seg>**Розкішні каюти пасажирів:** Йдуть разом з вишуканими стравами та гарним декором. Для екіпажу, який хоче залучити елітний клас клієнтів.</seg>
       </tuv>
     </tu>
     <tu>
@@ -1616,8 +1616,8 @@ to attract a certain class of clientele.</seg>
 transport smaller vehicles or a huge
 amount of goods.</seg>
       </tuv>
-      <tuv lang="uk" changeid="darkmentat" changedate="20220522T101929Z" creationid="darkmentat" creationdate="20220522T101929Z">
-        <seg>Великий багажний відсік: Достатньо місця для перевозки менших транспортних засобів або дуже великої кількості товарів.</seg>
+      <tuv lang="uk" changeid="darkmentat" changedate="20220522T181219Z" creationid="darkmentat" creationdate="20220522T101929Z">
+        <seg>**Великий багажний відсік:** Достатньо місця для перевозки менших транспортних засобів або дуже великої кількості товарів.</seg>
       </tuv>
     </tu>
     <tu>
@@ -1633,8 +1633,8 @@ to wait to Roll the Dice to learn their
 fate. If they make it to a MedBay with-
 in a few minutes, they get +1 to the roll.</seg>
       </tuv>
-      <tuv lang="uk" changeid="darkmentat" changedate="20220522T102234Z" creationid="darkmentat" creationdate="20220522T102234Z">
-        <seg>Медблок: Просунуте автоматичне медичне устаткування. Тут можна помістити людину в стазис і з часом вилікувати навіть найбільш важкі поранення. Персонаж, відпочиваючи в медблоці, за ніч може відновити своє здоров'я повністю, а не тільки половину. Якщо у персонажа рівень здоров'я впад до нуля, він може зачекати з кидком кубів. Якщо його доставлять в медблок протягом декількох хвилин, він отримає бонус +1 до кидка.</seg>
+      <tuv lang="uk" changeid="darkmentat" changedate="20220522T181222Z" creationid="darkmentat" creationdate="20220522T102234Z">
+        <seg>**Медблок:** Просунуте автоматичне медичне устаткування. Тут можна помістити людину в стазис і з часом вилікувати навіть найбільш важкі поранення. Персонаж, відпочиваючи в медблоці, за ніч може відновити своє здоров'я повністю, а не тільки половину. Якщо у персонажа рівень здоров'я впад до нуля, він може зачекати з кидком кубів. Якщо його доставлять в медблок протягом декількох хвилин, він отримає бонус +1 до кидка.</seg>
       </tuv>
     </tu>
     <tu>
@@ -1653,8 +1653,8 @@ additional Health.</seg>
       <tuv lang="en-US">
         <seg>More powerful weapons: +1 damage*</seg>
       </tuv>
-      <tuv lang="uk" changeid="darkmentat" changedate="20220522T102250Z" creationid="darkmentat" creationdate="20220522T102250Z">
-        <seg>Додаткое озброєння: +1 до ушкоджень*</seg>
+      <tuv lang="uk" changeid="darkmentat" changedate="20220522T181224Z" creationid="darkmentat" creationdate="20220522T102250Z">
+        <seg>**Додаткое озброєння:** +1 до ушкоджень*</seg>
       </tuv>
     </tu>
     <tu>
@@ -1997,8 +1997,8 @@ act first in a fight.</seg>
 shuttle which can fly independently, but
 cannot travel between stars on its own.</seg>
       </tuv>
-      <tuv lang="uk" changeid="darkmentat" changedate="20220522T102329Z" creationid="darkmentat" creationdate="20220522T102329Z">
-        <seg>Ангар для шатла: Йде разом з невеликим шатлом, що може самостійно літати в межах системи, але нездатний виконувати міжзоряні перельоти.</seg>
+      <tuv lang="uk" changeid="darkmentat" changedate="20220522T181230Z" creationid="darkmentat" creationdate="20220522T102329Z">
+        <seg>**Ангар для шатла:** Йде разом з невеликим шатлом, що може самостійно літати в межах системи, але нездатний виконувати міжзоряні перельоти.</seg>
       </tuv>
     </tu>
     <tu>
