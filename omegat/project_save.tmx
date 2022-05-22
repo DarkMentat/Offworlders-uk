@@ -2280,8 +2280,8 @@ at all times.</seg>
         <seg>Usually it will be obvious, but if it isn’t,
 the GM makes the final call.</seg>
       </tuv>
-      <tuv lang="uk" changeid="darkmentat" changedate="20220521T183242Z" creationid="darkmentat" creationdate="20220516T235713Z">
-        <seg>Зазвичай це рішення очевидне, але якщо ні — останнє слово за майстром. Для деяких випадків в правилах чітко вказано, який саме атрибут використовувати.</seg>
+      <tuv lang="uk" changeid="darkmentat" changedate="20220522T171053Z" creationid="darkmentat" creationdate="20220516T235713Z">
+        <seg>Зазвичай це рішення очевидне, але якщо ні — останнє слово за майстром. В деяких випадках в правилах чітко вказано, який саме атрибут використовувати.</seg>
       </tuv>
     </tu>
     <tu>
@@ -2333,8 +2333,8 @@ about potential consequences before-
 hand so the player knows what they
 are facing.</seg>
       </tuv>
-      <tuv lang="uk" changeid="darkmentat" changedate="20220521T120506Z" creationid="darkmentat" creationdate="20220516T235737Z">
-        <seg>Що станеться у випадку провалу? Якими можуть бути ускладнення? Тут за бажанням гравець може відступити чи обрати іншу стратегію. Майстер не зобов'язаний сказати що саме може далі трапитись, але він має бути чесним про масштаб можливих наслідків, щоб гравці розуміли рівень серйозності ситуації.</seg>
+      <tuv lang="uk" changeid="darkmentat" changedate="20220522T171256Z" creationid="darkmentat" creationdate="20220516T235737Z">
+        <seg>Що станеться у випадку провалу? Якими можуть бути ускладнення? Тут за бажанням гравець може відступити чи обрати іншу стратегію. Майстер не зобов'язаний озвучити всі можливі ускладнення, але він має бути чесним щодо масштабу можливих наслідків, щоб гравці розуміли рівень серйозності ситуації.</seg>
       </tuv>
     </tu>
     <tu>
