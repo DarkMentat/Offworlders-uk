@@ -24,8 +24,8 @@
       <tuv lang="en-US">
         <seg>### THE GAME MASTER</seg>
       </tuv>
-      <tuv lang="uk" changeid="darkmentat" changedate="20220522T163615Z" creationid="IrynaDobro" creationdate="20220520T130447Z">
-        <seg>## Для Майстра Гри </seg>
+      <tuv lang="uk" changeid="darkmentat" changedate="20220522T170201Z" creationid="IrynaDobro" creationdate="20220520T130447Z">
+        <seg>## ДЛЯ МАЙСТРА ГРИ</seg>
       </tuv>
     </tu>
     <tu>
@@ -197,11 +197,15 @@
       </tuv>
     </tu>
     <tu>
+      <note>Звертатись на "ти" чи на "ви"
+
+до гравців на ви, до майстра на ти?
+</note>
       <tuv lang="en-US">
         <seg>#### YOUR GOALS</seg>
       </tuv>
-      <tuv lang="uk" changeid="darkmentat" changedate="20220522T163615Z" creationid="IrynaDobro" creationdate="20220520T130523Z">
-        <seg>### Твоя ціль </seg>
+      <tuv lang="uk" changeid="darkmentat" changedate="20220522T170208Z" creationid="IrynaDobro" creationdate="20220520T130523Z">
+        <seg>### ТВОЇ ЦІЛІ </seg>
       </tuv>
     </tu>
     <tu>
