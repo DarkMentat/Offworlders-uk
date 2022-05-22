@@ -1293,6 +1293,23 @@ amount of goods.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>MedBay: Advanced automated med-
+ical equipment. Can put people into
+stasis and, with time, heal even the
+most grievous wounds. Characters
+resting in a medbay overnight heal all
+their HP instead of half their total. If a
+character falls to 0HP they can choose
+to wait to Roll the Dice to learn their
+fate. If they make it to a MedBay with-
+in a few minutes, they get +1 to the roll.</seg>
+      </tuv>
+      <tuv lang="uk" changeid="darkmentat" changedate="20220522T102234Z" creationid="darkmentat" creationdate="20220522T102234Z">
+        <seg>Медблок: Просунуте автоматичне медичне устаткування. Тут можна помістити людину в стазис і з часом вилікувати навіть найбільш важкі поранення. Персонаж, відпочиваючи в медблоці, за ніч може відновити своє здоров'я повністю, а не тільки половину. Якщо у персонажа рівень здоров'я впад до нуля, він може зачекати з кидком кубів. Якщо його доставлять в медблок протягом декількох хвилин, він отримає бонус +1 до кидка.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Medic: When you perform first aid,
 heal an additional +2 Health. When
 others get a night’s rest in your pres-
