@@ -864,8 +864,8 @@ no direct mechanical effect, but might
 make life difficult or complicate cer-
 tain situations in the future.</seg>
       </tuv>
-      <tuv lang="uk" changeid="darkmentat" changedate="20220521T192105Z" creationid="darkmentat" creationdate="20220521T192105Z">
-        <seg>**7-9:** Персонаж житиме, але гравець має вибрати, щось, що персонаж навіки втратить. Це може бути твердість рук, відчуття безпеки чи ліве око. Це не буде мати ігромеханічних наслідків, але цей описовий факт може ускладнити життя в майбутньому.</seg>
+      <tuv lang="uk" changeid="darkmentat" changedate="20220522T180148Z" creationid="darkmentat" creationdate="20220521T192105Z">
+        <seg>**7-9:** Персонаж житиме, але гравець має вибрати щось, що персонаж втратить назавжди. Це може бути твердість рук, відчуття безпеки чи ліве око. Втрата не буде мати негайних ігромеханічних наслідків, але цей описовий факт може ускладнити життя в майбутньому.</seg>
       </tuv>
     </tu>
     <tu>
@@ -1361,8 +1361,8 @@ PC’s health. In the GM section of these
 rules is a selection of enemies, includ-
 ing how much damage they should do.</seg>
       </tuv>
-      <tuv lang="uk" changeid="darkmentat" changedate="20220521T191317Z" creationid="darkmentat" creationdate="20220521T191317Z">
-        <seg>Вороги та інші загрози наносять ушкодження персонажам гравців таким же чином. Киньте куби на ушкодження й відніміть це значення від здоров'я ушкодженого персонажа. В розділі для майстра є настанови щодо того, які вороги й скільки мають наносити ушкоджень.</seg>
+      <tuv lang="uk" changeid="darkmentat" changedate="20220522T175926Z" creationid="darkmentat" creationdate="20220521T191317Z">
+        <seg>Вороги та інші загрози наносять ушкодження персонажам гравців таким же чином. Киньте куби на ушкодження й відніміть це значення від здоров'я ушкодженого персонажа. В розділі для майстра є настанови щодо того, які вороги скільки мають наносити ушкоджень.</seg>
       </tuv>
     </tu>
     <tu>
@@ -2371,8 +2371,8 @@ in serious trouble. They must Roll The
 Dice with the results below. They add
 their Willpower to the roll.</seg>
       </tuv>
-      <tuv lang="uk" changeid="darkmentat" changedate="20220521T191726Z" creationid="darkmentat" creationdate="20220521T191726Z">
-        <seg>Коли здоров'я персонажа гравця досягає нуля, він в серйозній небезпеці. Він має кинути куби додавши Волю, та звірити результат з наступними варіантами.</seg>
+      <tuv lang="uk" changeid="darkmentat" changedate="20220522T180039Z" creationid="darkmentat" creationdate="20220521T191726Z">
+        <seg>Коли здоров'я персонажа гравця досягає нуля, він в серйозній небезпеці. Гравець має кинути куби додавши Волю, та звірити результат з наступними варіантами.</seg>
       </tuv>
     </tu>
     <tu>
@@ -2424,8 +2424,8 @@ wounded, or unconscious, depending
 on the fictional circumstances and the
 desires of the attacker.</seg>
       </tuv>
-      <tuv lang="uk" changeid="darkmentat" changedate="20220521T191603Z" creationid="darkmentat" creationdate="20220521T191603Z">
-        <seg>Коли здоров'я персонажа майстра досягає нуля, вони вибувають з дії. Вважайте їх мертвими, серйозно пораненими чи впавшими без тями, залежно від обставин опису та побажань нападника.</seg>
+      <tuv lang="uk" changeid="darkmentat" changedate="20220522T180019Z" creationid="darkmentat" creationdate="20220521T191603Z">
+        <seg>Коли здоров'я персонажів майстра досягає нуля, вони вибувають з дії. Вважайте їх мертвими, серйозно пораненими чи впавшими без тями, залежно від обставин опису та побажань нападника.</seg>
       </tuv>
     </tu>
     <tu>
