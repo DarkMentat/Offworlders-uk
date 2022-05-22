@@ -1165,6 +1165,19 @@ of the dice. You must accept the second result.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Each time the characters travel
+between star systems, or otherwise
+spend multiple days together in a
+small space, go around the table and
+give each player a turn, starting with
+the player to the left of the GM.</seg>
+      </tuv>
+      <tuv lang="uk" changeid="darkmentat" changedate="20220522T123822Z" creationid="darkmentat" creationdate="20220522T123822Z">
+        <seg>Коли персонажі перебувають в міжзоряній подорожі чи якомись іншим чином проводять багато днів разом в тісному середовищі, дайте слово кожному гравцю.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Enemies and hazards inflict damage
 against PC’s in the same way. Roll for
 damage and subtract the result from a
