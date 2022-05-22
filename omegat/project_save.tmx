@@ -1172,8 +1172,8 @@ small space, go around the table and
 give each player a turn, starting with
 the player to the left of the GM.</seg>
       </tuv>
-      <tuv lang="uk" changeid="darkmentat" changedate="20220522T123822Z" creationid="darkmentat" creationdate="20220522T123822Z">
-        <seg>Коли персонажі перебувають в міжзоряній подорожі чи якомись іншим чином проводять багато днів разом в тісному середовищі, дайте слово кожному гравцю.</seg>
+      <tuv lang="uk" changeid="darkmentat" changedate="20220522T123845Z" creationid="darkmentat" creationdate="20220522T123822Z">
+        <seg>Коли персонажі перебувають в міжзоряній подорожі чи якимось іншим чином проводять багато днів разом в тісному середовищі, дайте слово кожному гравцю по черзі.</seg>
       </tuv>
     </tu>
     <tu>
@@ -1557,6 +1557,20 @@ as well.</seg>
       </tuv>
       <tuv lang="uk" changeid="darkmentat" changedate="20220521T103121Z" creationid="darkmentat" creationdate="20220516T235048Z">
         <seg>Краєходці — це науково-фантастична рольова гра про шукачів пригод, найманців та вигнанців, що намагаються розбагатіти в найжорсткіших окраїнах галактики. Гра задумана так, щоб в неї легко можна було зіграти одну зустріч з мінімальною підготовкою, але водночас вона могла б потягнути й невеличку кампанію.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>On their turn, each player must ask
+another player a question about their
+character. It could be about that
+character’s past, or their goals, or just
+something about their personality. If
+that player answers the question hon-
+estly, they earn 1XP.</seg>
+      </tuv>
+      <tuv lang="uk" changeid="darkmentat" changedate="20220522T124011Z" creationid="darkmentat" creationdate="20220522T123833Z">
+        <seg>У свій хід гравець має задати якесь питання щодо персонажа іншого гравця. Він може спитати про минуле персонажа, його життєві ціли чи щось щодо його особистості. При щирій відповіді гравець отримає 1 пункт досвіду.</seg>
       </tuv>
     </tu>
     <tu>
