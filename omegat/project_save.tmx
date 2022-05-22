@@ -641,8 +641,8 @@ drawbacks.</seg>
       <tuv lang="en-US">
         <seg>**Culture:** Knowledge of people, places, etiquette, and history across many worlds.</seg>
       </tuv>
-      <tuv lang="uk" changeid="darkmentat" changedate="20220519T201603Z" creationid="darkmentat" creationdate="20220519T201603Z">
-        <seg>**Культура:** Знання потрібних людей і міць, звичаїв та історії багатьох населених світів.</seg>
+      <tuv lang="uk" changeid="darkmentat" changedate="20220522T173410Z" creationid="darkmentat" creationdate="20220519T201603Z">
+        <seg>**Культура:** Знання потрібних людей, міць, звичаїв та історії багатьох населених світів.</seg>
       </tuv>
     </tu>
     <tu>
@@ -1333,8 +1333,8 @@ has **11 Health.**</seg>
 You either have a skill or you don’t. When you roll the dice and have an applicable skill, you may re-roll one
 of the dice. You must accept the second result.</seg>
       </tuv>
-      <tuv lang="uk" changeid="darkmentat" changedate="20220522T171453Z" creationid="darkmentat" creationdate="20220519T201448Z">
-        <seg>Кожне вміння відображає деяку набуту область експертизи. На відмінну від атрибутів, вміння не мають числового значення, ви просто або маєте його, або ні. Коли кидаючи куби у вас є підхоже вміння, ви можете перекинути один кубик і використовувати новий результат.</seg>
+      <tuv lang="uk" changeid="darkmentat" changedate="20220522T173351Z" creationid="darkmentat" creationdate="20220519T201448Z">
+        <seg>Кожне вміння відображає деяку набуту експертизу. На відмінну від атрибутів, вміння не мають числового значення, ви просто або маєте їх, або ні. Коли кидаючи куби у вас є підхоже вміння, ви можете перекинути один кубик і використати новий результат.</seg>
       </tuv>
     </tu>
     <tu>
