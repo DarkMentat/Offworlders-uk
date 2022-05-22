@@ -825,6 +825,25 @@ two abilities.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Additional A rmor: +1 armor*</seg>
+      </tuv>
+      <tuv lang="uk" changeid="darkmentat" changedate="20220522T100825Z" creationid="darkmentat" creationdate="20220522T100825Z">
+        <seg>Додаткова броня: +1 захисту*</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Advanced Drive: For each interstellar
+trip, you can choose either to take half
+the time or use half the amount of fuel.
+Round up.</seg>
+      </tuv>
+      <tuv lang="uk" changeid="darkmentat" changedate="20220522T100959Z" creationid="darkmentat" creationdate="20220522T100959Z">
+        <seg>Просунутий гіпердрайв: Для кожної міжзоряної подорожі ви можете або потратити вдвічі менше часу, або вдвічі менше паливо. Округлення йде вгору.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>An outlaw in a smoky space station
 bar offers a job with a payout too good
 to be true. A customs vessel closes in,
