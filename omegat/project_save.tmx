@@ -1101,6 +1101,14 @@ another character 1D6 of Health.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Fuel Tanks: Max Drive Fuel +.</seg>
+      </tuv>
+      <tuv lang="uk" changeid="darkmentat" changedate="20220522T101343Z" creationid="darkmentat" creationdate="20220522T101343Z">
+        <seg>Паливні баки: Максимальний запас стрибкового палива +1.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Geeks are doctors, scientists and technicians. Their abilities allow them
 to manipulate technology, heal their teammates and offer additional
 insight. Play a Geek if you want to be the smartest one in the room.</seg>
@@ -1139,6 +1147,20 @@ weapons and armor.</seg>
       </tuv>
       <tuv lang="uk" changeid="darkmentat" changedate="20220520T211941Z" creationid="darkmentat" creationdate="20220520T211941Z">
         <seg>**Важковаговик:** Ви можете вміло й без штрафів використовувати важке озброєння та броню.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>High Maneuverability: If you don’t
+have the Pilot skill, you count as
+having it in situations where maneu-
+verability is relevant. If you already
+have the pilot skill, you may choose
+to reroll both dice in these situations,
+instead of just one.</seg>
+      </tuv>
+      <tuv lang="uk" changeid="darkmentat" changedate="20220522T101633Z" creationid="darkmentat" creationdate="20220522T101633Z">
+        <seg>Висока маневровність: Якщо у вас немає вміння _кермування_, вважайте що ви його маєте в ситуаціях, де має значення маневровість корабля. Якщо ж у вас є це вміння, в таких ситуаціях ви можете перекинути оба кубика, а не один.</seg>
       </tuv>
     </tu>
     <tu>
