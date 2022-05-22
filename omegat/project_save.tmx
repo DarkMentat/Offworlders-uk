@@ -320,6 +320,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>###### MAINTENANCE</seg>
+      </tuv>
+      <tuv lang="uk" changeid="darkmentat" changedate="20220522T122230Z" creationid="darkmentat" creationdate="20220522T122230Z">
+        <seg>###### ТЕХОБСЛУГОВУВАННЯ</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>###### MORE EXPENSIVE ITEMS</seg>
       </tuv>
       <tuv lang="uk" changeid="darkmentat" changedate="20220521T203554Z" creationid="darkmentat" creationdate="20220521T203554Z">
@@ -950,6 +958,18 @@ afford to make lower.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>At a suitable spaceport, Hull damage
+can be repaired at a cost of 1 credit per
+2 points of Hull. Damage to specific
+systems or critical areas of the ship may
+cost much more, at the GM’s discretion.</seg>
+      </tuv>
+      <tuv lang="uk" changeid="darkmentat" changedate="20220522T122417Z" creationid="darkmentat" creationdate="20220522T122417Z">
+        <seg>В будь-якому підхожому космопорті, ушкодження корпусу можна відновити за ціною в 1 кредит за кожні 2 пункти корпусу. Ушкодження якихось специфічних корабельних систем чи критичних уражень можуть коштувати дорожче за рішенням майстра. </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Attribute: A number, usually between
 -1 and +3, that describes a PC’s raw
 talent in a broad area. There are four
@@ -1033,6 +1053,16 @@ you’ll roll just one.</seg>
       </tuv>
       <tuv lang="uk" changeid="darkmentat" changedate="20220521T181322Z" creationid="darkmentat" creationdate="20220516T235513Z">
         <seg>**К6:** Один шестигранний ігровий кубик. Зазвичай вам потрібно буде кинути два таких (позначається як 2к6) і до суми додати значення вибраного атрибуту. В деяких випадках досить буде одного кубика.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Drive fuel costs 3 credits per unit,
+and is available in any reasonably
+equipped port.</seg>
+      </tuv>
+      <tuv lang="uk" changeid="darkmentat" changedate="20220522T122506Z" creationid="darkmentat" creationdate="20220522T122506Z">
+        <seg>Паливо для стрибка коштує по 3 кредитів за одиницю, його можна придбати в будь-якому забезпеченому порту.</seg>
       </tuv>
     </tu>
     <tu>
