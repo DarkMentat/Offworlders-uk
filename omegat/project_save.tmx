@@ -683,6 +683,17 @@ one type of armor.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>A fterburners: You may spend 1 Drive
+Fuel to get +1 to a single roll to evade,
+outrun, or maneuver while piloting
+the ship.</seg>
+      </tuv>
+      <tuv lang="uk" changeid="darkmentat" changedate="20220522T101314Z" creationid="darkmentat" creationdate="20220522T101314Z">
+        <seg>Форсаж: Ви можете потратити 1 одиницю палива щоб отримати бонус +1 до будь-якого кидка, пов'язаного з ухиленням, погонею чи іншими маневрами при пілотуванні корабля.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>A game of _Offworlders_ is a conversation.
 The game master will describe the
 scene around the player characters,
@@ -840,6 +851,18 @@ Round up.</seg>
       </tuv>
       <tuv lang="uk" changeid="darkmentat" changedate="20220522T100959Z" creationid="darkmentat" creationdate="20220522T100959Z">
         <seg>Просунутий гіпердрайв: Для кожної міжзоряної подорожі ви можете або потратити вдвічі менше часу, або вдвічі менше паливо. Округлення йде вгору.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Advanced Electronics: High-end
+scanners, communicators, sen-
+sors, etc. They will provide detalied
+information about ships, places, and
+stations you encounter.</seg>
+      </tuv>
+      <tuv lang="uk" changeid="darkmentat" changedate="20220522T101102Z" creationid="darkmentat" creationdate="20220522T101102Z">
+        <seg>Просунута електроніка: високотехнологічні сканери, комунікатори, сенсори й таке інше. Вони будуть надавати більш детальну інформацію про кораблі, місця чи станції, з якими ви будете стикатись.</seg>
       </tuv>
     </tu>
     <tu>
