@@ -1395,6 +1395,16 @@ pertinent facts.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>It can be fun to start a new campaign
+after the current one ends, playing a dif-
+ferent crew in the same shared universe.</seg>
+      </tuv>
+      <tuv lang="uk" changeid="darkmentat" changedate="20220522T125327Z" creationid="darkmentat" creationdate="20220522T125327Z">
+        <seg>Також може бути цікаво розпочати нову кампанія після завершення попередньої, граючи за зовсім іншу команду в тому ж спільному всесвіті.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Laser beams glitter in the darkness.
 Pirate Cruisers cut across the rings
 of a gas giant. A derelict vessel offers
@@ -1989,6 +1999,18 @@ space between stars in a matter of weeks. It comes with a space suit for each PC
       </tuv>
       <tuv lang="uk" changeid="darkmentat" changedate="20220521T214622Z" creationid="darkmentat" creationdate="20220521T214426Z">
         <seg>Цей корабель здатен здійснити міжпланетний переліт за декілька годин, а також подорожувати швидше світла щоб добратись до сусідньої зоряної системи за декілька тижнів. На кораблі є по космічному скафандру для кожного персонажа гравця.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>The the following sections are addressed to the
+game master. If you’re planning on being the game
+master for your group, you should read it. If you’re
+not planning on being a game master, you don’t
+have to read it, but you might fi nd it interesting.</seg>
+      </tuv>
+      <tuv lang="uk" changeid="darkmentat" changedate="20220522T125453Z" creationid="darkmentat" creationdate="20220522T125453Z">
+        <seg>Наступні ж розділи адресовані майстру гри. Якщо ви збираєтесь взяти на себе цю роль, вам варто їх прочитати. Якщо ж ви не збираєтесь ставати майстром, вам їх читати не обов'язково, але ви також можете знайти там щось цікаве.</seg>
       </tuv>
     </tu>
     <tu>
