@@ -400,6 +400,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>###### SPENDING XP: ADVANCEMENTS</seg>
+      </tuv>
+      <tuv lang="uk" changeid="darkmentat" changedate="20220522T124349Z" creationid="darkmentat" creationdate="20220522T124328Z">
+        <seg>###### ВИТРАТА ДОСВІДУ</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>###### SUPPLY</seg>
       </tuv>
       <tuv lang="uk" changeid="darkmentat" changedate="20220521T203927Z" creationid="darkmentat" creationdate="20220521T203927Z">
@@ -2139,6 +2147,31 @@ are facing.</seg>
       </tuv>
       <tuv lang="uk" changeid="darkmentat" changedate="20220521T120506Z" creationid="darkmentat" creationdate="20220516T235737Z">
         <seg>Що станеться у випадку провалу? Якими можуть бути ускладнення? Тут за бажанням гравець може відступити чи обрати іншу стратегію. Майстер не зобов'язаний сказати що саме може далі трапитись, але він має бути чесним про масштаб можливих наслідків, щоб гравці розуміли рівень серйозності ситуації.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>When a PC has at least 10XP, and some
+downtime, they can spend XP to get
+one of the following advancements
+by paying its associated cost. Each
+advancement may only be taken once,
+but they may be taken in any order:
+Get a new class ability 10XP
+Get a new class ability 10XP
+Get a new class ability 10XP
+Increase an attribute by 1 (Max +2) 10XP
+Increase an attribute by 1 (Max +2) 10XP
+Increase an attribute by 1 (Max +3) 20XP</seg>
+      </tuv>
+      <tuv lang="uk" changeid="darkmentat" changedate="20220522T124650Z" creationid="darkmentat" creationdate="20220522T124650Z">
+        <seg>Коли у персонажа гравця є хоча б 10 пунктів досвіду та трохи вільного часу, він може витратити його на щось з наступного розвитку. Кожен варіант можна взяти лише раз, в будь-якому порядку:
+ - Отримати новий талант - 10 пунктів 
+ - Отримати новий талант - 10 пунктів
+ - Отримати новий талант - 10 пунктів
+ - Підвищити атрибут на 1 (до макс. +2) - 10 пунктів
+ - Підвищити атрибут на 1 (до макс. +2) - 10 пунктів
+ - Підвищити атрибут на 1 (до макс. +3) - 20 пунктів</seg>
       </tuv>
     </tu>
     <tu>
