@@ -360,6 +360,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>###### SHIP UPGRADES</seg>
+      </tuv>
+      <tuv lang="uk" changeid="darkmentat" changedate="20220522T100605Z" creationid="darkmentat" creationdate="20220522T100605Z">
+        <seg>###### Апгрейди корабля</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>###### SUPPLY</seg>
       </tuv>
       <tuv lang="uk" changeid="darkmentat" changedate="20220521T203927Z" creationid="darkmentat" creationdate="20220521T203927Z">
@@ -1827,6 +1835,18 @@ damage to the enemy.</seg>
       </tuv>
       <tuv lang="uk" changeid="darkmentat" changedate="20220521T191114Z" creationid="darkmentat" creationdate="20220521T191114Z">
         <seg>Коли гравець наносить ушкодження персонажу майстра, значення цих ушкоджень залежить від зброї, яку він використовує. Наприклад, важке озброєння наносить **к6+2** ушкоджень. Це значить, що гравцю потрібно кинути один **к6**, додати до результату **2** і саме стільки ушкоджень отримає ціль.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>When you make your ship, choose 2 of
+the following. Upgrades marked with an
+asterisk (*) may be taken twice, provid-
+ing a cumulative bonus. Otherwise each
+upgrade may only be purchased once:</seg>
+      </tuv>
+      <tuv lang="uk" changeid="darkmentat" changedate="20220522T100810Z" creationid="darkmentat" creationdate="20220522T100810Z">
+        <seg>Коли ви створюєте свій корабель, виберіть 2 з наступних варіантів. Апгрейди, що позначені зірочкою можна взяти двічі та їх бонус буде складуватись. В усіх інших випадках один апгрейд можна придбати тільки один раз.</seg>
       </tuv>
     </tu>
     <tu>
