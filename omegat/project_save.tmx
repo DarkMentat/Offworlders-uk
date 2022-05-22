@@ -952,6 +952,8 @@ attributes, detailed later.</seg>
       </tuv>
     </tu>
     <tu>
+      <note>Hull - корпус, треба переглянути вордінги
+</note>
       <tuv lang="en-US">
         <seg>By default, the ship is a blank slate. It
 has a small cargo hold, does **1D6** dam-
@@ -1970,6 +1972,22 @@ radiation.</seg>
       </tuv>
       <tuv lang="uk" changeid="darkmentat" changedate="20220521T190641Z" creationid="darkmentat" creationdate="20220521T190641Z">
         <seg>Гравець отримує пошкодження в більшості випадків через провали чи ускладнення на кубах. За межами боєзіткнень, персонаж гравця може отримати ушкодження в інших небезпечних ситуаціях, наприклад падаючи в чан з кислотою чи випавши в космічний вакуум без скафандра, чи піддавшись небезпечному радіовипромінюванню.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>When a ship reaches **0 Hull** , it is dis-
+abled and at the mercy of its enemies or
+the elements. Critical ship systems may
+be dangerously malfunctioning.If a
+person is unlucky enough to be hit with
+a ship’s weapons, multiply the total
+damage by **5**. Small arms carried by
+people are incapable of inflicting signif-
+icant damage to a starship’s **Hull**.</seg>
+      </tuv>
+      <tuv lang="uk" changeid="darkmentat" changedate="20220522T103300Z" creationid="darkmentat" creationdate="20220522T103300Z">
+        <seg>Коли корпус корабля сягає нуля, він виведений зі строю та кинутий напризволяще його ворогам. Критичні системи будуть виведені з ладу. Якщо персонаж був досить необачний, щоб потрапити під вогонь корабельних гармат, помножте сумарні ушкодження на 5. Маленька стрілецька зброє не здатна нанести значних ушкоджень корпусу корабля. </seg>
       </tuv>
     </tu>
     <tu>
