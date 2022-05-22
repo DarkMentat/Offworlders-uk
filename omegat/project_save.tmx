@@ -246,6 +246,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>###### CONTROLLING THE SHIP</seg>
+      </tuv>
+      <tuv lang="uk" changeid="darkmentat" changedate="20220522T102718Z" creationid="darkmentat" creationdate="20220522T102718Z">
+        <seg>###### УПРАВЛІННЯ ЗОРЕЛЬОТОМ</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>###### CREATING THE SHIP</seg>
       </tuv>
       <tuv lang="uk" changeid="darkmentat" changedate="20220522T085624Z" creationid="darkmentat" creationdate="20220522T085624Z">
@@ -1441,6 +1449,18 @@ potentially do, but it’s going to be tricky.</seg>
       </tuv>
       <tuv lang="uk" changeid="darkmentat" changedate="20220519T194354Z" creationid="darkmentat" creationdate="20220519T194224Z">
         <seg>Робіть кидки тільки коли результат може бути цікавим. Не кидайте куби, коли персонаж робить щось, з чим він ймовірно справиться без жодних проблем, або якщо немає жодних цікавих наслідків провалу. Та навпаки, не кидайте куби, коли персонаж хоче здійснити щось неможливе. Це просто не спрацює. Найкраще для кидків, щоб у персонажа були шанси досягти задуманого, але ситуація була непроста й ненадійна.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Other than **Damage** , **Hull** , and **A rmor** ,
+the ship does not have attributes of its
+own. Players control the ship with their
+own attributes and skills, rolling the
+dice in dangerous situations.</seg>
+      </tuv>
+      <tuv lang="uk" changeid="darkmentat" changedate="20220522T102841Z" creationid="darkmentat" creationdate="20220522T102841Z">
+        <seg>Окрім власних показників **ушкодження**, **корпусу** та **захисту**, у корабля не має якихось власних параметрів чи атрибутів. Гравець керує човном, використовуючи атрибути та вміння свого персонажу, кидаючи куби у випадку загрози.</seg>
       </tuv>
     </tu>
     <tu>
