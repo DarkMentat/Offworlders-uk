@@ -1811,8 +1811,8 @@ you want to get in and out of trouble.</seg>
       <tuv lang="en-US">
         <seg>Pilot: Controlling vehicles, from starships and speeders to motorboats and bicycles.</seg>
       </tuv>
-      <tuv lang="uk" changeid="darkmentat" changedate="20220521T121909Z" creationid="darkmentat" creationdate="20220519T201853Z">
-        <seg>**Кермування:** Керування різними апаратами, від зорельотів і спідерів, що катерів чи велосипедів.  </seg>
+      <tuv lang="uk" changeid="darkmentat" changedate="20220522T173427Z" creationid="darkmentat" creationdate="20220519T201853Z">
+        <seg>**Кермування:** Керування різними апаратами, від зорельотів і спідерів, до катерів чи велосипедів.  </seg>
       </tuv>
     </tu>
     <tu>
@@ -2027,8 +2027,8 @@ be able to find it.</seg>
       <tuv lang="en-US">
         <seg>Sneak: Passing unseen, sleight of hand, picking pockets.</seg>
       </tuv>
-      <tuv lang="uk" changeid="darkmentat" changedate="20220519T202109Z" creationid="darkmentat" creationdate="20220519T202109Z">
-        <seg>**Скритність:** Підкрастись непоміченим, вдіяти щось непомітно чи просто обчистити чиїсь кишені.</seg>
+      <tuv lang="uk" changeid="darkmentat" changedate="20220522T173533Z" creationid="darkmentat" creationdate="20220519T202109Z">
+        <seg>**Скритність:** Підкрастись непоміченим, вдіяти щось спритне чи просто обчистити чиїсь кишені.</seg>
       </tuv>
     </tu>
     <tu>
@@ -2061,8 +2061,8 @@ as well, at the GM’s discretion.</seg>
       <tuv lang="en-US">
         <seg>Survival: Finding food, air, shelter, directions, etc. in hostile environments.</seg>
       </tuv>
-      <tuv lang="uk" changeid="darkmentat" changedate="20220519T202211Z" creationid="darkmentat" creationdate="20220519T202211Z">
-        <seg>**Виживання:** Вміння знайти їжу, повітря, притулок, зорієнтуватись в небезпечному середовищі.</seg>
+      <tuv lang="uk" changeid="darkmentat" changedate="20220522T173559Z" creationid="darkmentat" creationdate="20220519T202211Z">
+        <seg>**Виживання:** Вміння знайти їжу, повітря чи притулок, зорієнтуватись в небезпечному середовищі.</seg>
       </tuv>
     </tu>
     <tu>
