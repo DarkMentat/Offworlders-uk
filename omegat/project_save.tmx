@@ -1081,6 +1081,32 @@ you’ll roll just one.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>DURING LONG TRIPS
+When the characters are on a long trip
+together through space, they tend to
+learn a lot about each other.</seg>
+      </tuv>
+      <tuv lang="uk" changeid="darkmentat" changedate="20220522T123015Z" creationid="darkmentat" creationdate="20220522T123015Z">
+        <seg>ДОВГІ ПЕРЕЛЬОТИ
+Коли персонажі проводять час один з одним в замкнутому приміщенні, вони краще вивчають один одного.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Did we earn a profit?
+Did we discover something new and inter-
+esting about the universe?
+Did we overcome a difficult challenge or
+dangerous adversary?</seg>
+      </tuv>
+      <tuv lang="uk" changeid="darkmentat" changedate="20220522T122929Z" creationid="darkmentat" creationdate="20220522T122929Z">
+        <seg>- Чи отримали ми прибуток?
+- Чи відкрили ми щось нове та цікаве про всесвіт?
+- ЧИ подолали ми складний виклик чи небезпечного супротивника?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Drive fuel costs 3 credits per unit,
 and is available in any reasonably
 equipped port.</seg>
