@@ -1086,8 +1086,8 @@ When the characters are on a long trip
 together through space, they tend to
 learn a lot about each other.</seg>
       </tuv>
-      <tuv lang="uk" changeid="darkmentat" changedate="20220522T123015Z" creationid="darkmentat" creationdate="20220522T123015Z">
-        <seg>ДОВГІ ПЕРЕЛЬОТИ
+      <tuv lang="uk" changeid="darkmentat" changedate="20220522T124150Z" creationid="darkmentat" creationdate="20220522T123015Z">
+        <seg>В ДОВГИХ ПЕРЕЛЬОТАХ
 Коли персонажі проводять час один з одним в замкнутому приміщенні, вони краще вивчають один одного.</seg>
       </tuv>
     </tu>
@@ -1645,6 +1645,16 @@ acter’s actions and thoughts.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Players should take care to ensure that
+everyone at the table gets a chance to
+answer a question.</seg>
+      </tuv>
+      <tuv lang="uk" changeid="darkmentat" changedate="20220522T124203Z" creationid="darkmentat" creationdate="20220522T124141Z">
+        <seg>Гравцям варто прослідкувати за тим, щоб у кожного був шанс відповісти на питання.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Playtesters: Chris Darden, Cameron Farrell, Oliv-
 ia Gulin, David Kenyon, and Steve Kilian</seg>
       </tuv>
@@ -1893,6 +1903,14 @@ difficult. The GM will tell you how.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>The GM does not ask a question.</seg>
+      </tuv>
+      <tuv lang="uk" changeid="darkmentat" changedate="20220522T124316Z" creationid="darkmentat" creationdate="20220522T124316Z">
+        <seg>Майстер гри питань не задає.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>The Game Master never rolls the dice.
 The players are always the ones that
 roll. The game is about them and the
@@ -1943,6 +1961,17 @@ ditional passengers when necessary. The PC’s control the ship using their attr
       </tuv>
       <tuv lang="uk" changeid="darkmentat" changedate="20220521T214359Z" creationid="darkmentat" creationdate="20220521T214359Z">
         <seg>Гравці починають гру зі своїм невеликим зорельотом. В ньому спокійно може проживати весь екіпаж та при необхідності він може взяти декілька пасажирів. Гравці керують зорельотом використовуючи атрибути та вміння своїх персонажів.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>The questions do not have to be asked or
+answered in character, but the players
+should discuss how their characters
+learned about each other on the trip.</seg>
+      </tuv>
+      <tuv lang="uk" changeid="darkmentat" changedate="20220522T124310Z" creationid="darkmentat" creationdate="20220522T124310Z">
+        <seg>Ці питання персонажі гравців не задають один одному усно, тут скоріше гравцям варто обговорити як саме їх персонажі дізнались більше один про одного під час подорожі.</seg>
       </tuv>
     </tu>
     <tu>
