@@ -1369,8 +1369,8 @@ ing how much damage they should do.</seg>
 a rating between -1 and +3. The higher the rating, the more likely the character is to succeed when using it.
 You’ll use these attributes when you roll the dice. The four attributes are:</seg>
       </tuv>
-      <tuv lang="uk" changeid="darkmentat" changedate="20220519T195032Z" creationid="darkmentat" creationdate="20220519T195032Z">
-        <seg>У кожного персонажа гравця є чотири атрибути, що зображають різні шляхи вирішення проблем. У кожного атрибута є значення від -1 до +3. Чим вище це значення, тим більш ймовірно, щоб гравець використовуючи цей атрибут досяг успіху, вони завжди використовуються при кидках кубів. Ці чотири атрибути наступні: </seg>
+      <tuv lang="uk" changeid="darkmentat" changedate="20220522T172534Z" creationid="darkmentat" creationdate="20220519T195032Z">
+        <seg>У кожного персонажа гравця є чотири атрибути, що зображають різні шляхи вирішення проблем. Кожен атрибут має значення від -1 до +3. Чим вище це значення, тим з більшим шансом гравець досягне успіху кинувши куби, використовуючи цей атрибут. Ці чотири атрибути наступні: </seg>
       </tuv>
     </tu>
     <tu>
