@@ -8,304 +8,408 @@
       <tuv lang="en-US">
         <seg>## OFFWORLDERS</seg>
       </tuv>
-      <tuv lang="uk" changeid="darkmentat" changedate="20220517T000309Z" creationid="darkmentat" creationdate="20220516T233434Z">
-        <seg>## КРАЄХОДЦІ</seg>
+      <tuv lang="uk" changeid="darkmentat" changedate="20220522T163615Z" creationid="darkmentat" creationdate="20220516T233434Z">
+        <seg># КРАЄХОДЦІ</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="en-US">
         <seg>### PLAYING THE GAME</seg>
       </tuv>
-      <tuv lang="uk" changeid="darkmentat" changedate="20220516T235232Z" creationid="darkmentat" creationdate="20220516T235232Z">
-        <seg>### ПРАВИЛА ГРИ</seg>
+      <tuv lang="uk" changeid="darkmentat" changedate="20220522T163615Z" creationid="darkmentat" creationdate="20220516T235232Z">
+        <seg>## ПРАВИЛА ГРИ</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="en-US">
         <seg>### THE GAME MASTER</seg>
       </tuv>
-      <tuv lang="uk" changeid="darkmentat" changedate="20220520T203434Z" creationid="IrynaDobro" creationdate="20220520T130447Z">
-        <seg>### Для Майстра Гри </seg>
+      <tuv lang="uk" changeid="darkmentat" changedate="20220522T163615Z" creationid="IrynaDobro" creationdate="20220520T130447Z">
+        <seg>## Для Майстра Гри </seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="en-US">
         <seg>### WELCOME TO OFFWORLDERS</seg>
       </tuv>
-      <tuv lang="uk" changeid="darkmentat" changedate="20220516T235042Z" creationid="darkmentat" creationdate="20220516T235042Z">
-        <seg>### ВІТАННЯ КРАЄХОДЦЯМ</seg>
+      <tuv lang="uk" changeid="darkmentat" changedate="20220522T163615Z" creationid="darkmentat" creationdate="20220516T235042Z">
+        <seg>## ВІТАННЯ КРАЄХОДЦЯМ</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="en-US">
         <seg>#### ABILITIES</seg>
       </tuv>
-      <tuv lang="uk" changeid="darkmentat" changedate="20220519T202251Z" creationid="darkmentat" creationdate="20220519T202251Z">
-        <seg>#### ТАЛАНТИ</seg>
+      <tuv lang="uk" changeid="darkmentat" changedate="20220522T163615Z" creationid="darkmentat" creationdate="20220519T202251Z">
+        <seg>### ТАЛАНТИ</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="en-US">
         <seg>#### ATTRIBUTES</seg>
       </tuv>
-      <tuv lang="uk" changeid="darkmentat" changedate="20220521T210111Z" creationid="darkmentat" creationdate="20220519T194651Z">
-        <seg>#### АТРИБУТИ</seg>
+      <tuv lang="uk" changeid="darkmentat" changedate="20220522T163615Z" creationid="darkmentat" creationdate="20220519T194651Z">
+        <seg>### АТРИБУТИ</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="en-US">
         <seg>#### BASIC TERMS</seg>
       </tuv>
-      <tuv lang="uk" changeid="darkmentat" changedate="20220516T235347Z" creationid="darkmentat" creationdate="20220516T235347Z">
-        <seg>#### ОСНОВНІ ТЕРМІНИ</seg>
+      <tuv lang="uk" changeid="darkmentat" changedate="20220522T163615Z" creationid="darkmentat" creationdate="20220516T235347Z">
+        <seg>### ОСНОВНІ ТЕРМІНИ</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>#### CASH REWARDS</seg>
+      </tuv>
+      <tuv lang="uk" changeid="darkmentat" changedate="20220522T163615Z" creationid="darkmentat" creationdate="20220522T163615Z">
+        <seg>### CASH REWARDS</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="en-US">
         <seg>#### CHARACTER ADVANCEMENT</seg>
       </tuv>
-      <tuv lang="uk" changeid="darkmentat" changedate="20220522T122518Z" creationid="darkmentat" creationdate="20220522T122518Z">
-        <seg>#### РОЗВИТОК ПЕРСОНАЖА</seg>
+      <tuv lang="uk" changeid="darkmentat" changedate="20220522T163615Z" creationid="darkmentat" creationdate="20220522T122518Z">
+        <seg>### РОЗВИТОК ПЕРСОНАЖА</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="en-US">
         <seg>#### FIGHTING &amp; DAMAGE</seg>
       </tuv>
-      <tuv lang="uk" changeid="darkmentat" changedate="20220521T190022Z" creationid="darkmentat" creationdate="20220521T190014Z">
-        <seg>#### БОЇ ТА УШКОДЖЕННЯ</seg>
+      <tuv lang="uk" changeid="darkmentat" changedate="20220522T163615Z" creationid="darkmentat" creationdate="20220521T190014Z">
+        <seg>### БОЇ ТА УШКОДЖЕННЯ</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>#### INSPIRATIONAL TABLES</seg>
+      </tuv>
+      <tuv lang="uk" changeid="darkmentat" changedate="20220522T163615Z" creationid="darkmentat" creationdate="20220522T163615Z">
+        <seg>### INSPIRATIONAL TABLES</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>#### JOBS: A FRAMEWORK FOR YOUR</seg>
+      </tuv>
+      <tuv lang="uk" changeid="darkmentat" changedate="20220522T163615Z" creationid="darkmentat" creationdate="20220522T163615Z">
+        <seg>### JOBS: A FRAMEWORK FOR YOUR</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="en-US">
         <seg>#### MAKING AN OFFWORLDER</seg>
       </tuv>
-      <tuv lang="uk" changeid="darkmentat" changedate="20220519T202742Z" creationid="darkmentat" creationdate="20220519T202729Z">
-        <seg>#### СТВОРЕННЯ КРАЄХОДЦЯ </seg>
+      <tuv lang="uk" changeid="darkmentat" changedate="20220522T163615Z" creationid="darkmentat" creationdate="20220519T202729Z">
+        <seg>### СТВОРЕННЯ КРАЄХОДЦЯ </seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="en-US">
         <seg>#### MONEY, WEAPONS, AND GEAR</seg>
       </tuv>
-      <tuv lang="uk" changeid="darkmentat" changedate="20220521T202203Z" creationid="darkmentat" creationdate="20220521T202203Z">
-        <seg>#### ГРОШІ, ЗБРОЯ ТА СПОРЯДЖЕННЯ</seg>
+      <tuv lang="uk" changeid="darkmentat" changedate="20220522T163615Z" creationid="darkmentat" creationdate="20220521T202203Z">
+        <seg>### ГРОШІ, ЗБРОЯ ТА СПОРЯДЖЕННЯ</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>#### NON-PLAYER CHARACTERS</seg>
+      </tuv>
+      <tuv lang="uk" changeid="darkmentat" changedate="20220522T163615Z" creationid="darkmentat" creationdate="20220522T163615Z">
+        <seg>### NON-PLAYER CHARACTERS</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>#### NON-PLAYER STARSHIPS</seg>
+      </tuv>
+      <tuv lang="uk" changeid="darkmentat" changedate="20220522T163615Z" creationid="darkmentat" creationdate="20220522T163615Z">
+        <seg>### NON-PLAYER STARSHIPS</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="en-US">
         <seg>#### ROLLING THE DICE</seg>
       </tuv>
-      <tuv lang="uk" changeid="darkmentat" changedate="20220521T115922Z" creationid="darkmentat" creationdate="20220516T235525Z">
-        <seg>#### КИДАЄМО КУБИ</seg>
+      <tuv lang="uk" changeid="darkmentat" changedate="20220522T163615Z" creationid="darkmentat" creationdate="20220516T235525Z">
+        <seg>### КИДАЄМО КУБИ</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>#### SESSION</seg>
+      </tuv>
+      <tuv lang="uk" changeid="darkmentat" changedate="20220522T163615Z" creationid="darkmentat" creationdate="20220522T163615Z">
+        <seg>### SESSION</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="en-US">
         <seg>#### SKILLS</seg>
       </tuv>
-      <tuv lang="uk" changeid="darkmentat" changedate="20220519T201217Z" creationid="darkmentat" creationdate="20220519T201217Z">
-        <seg>#### ВМІННЯ</seg>
+      <tuv lang="uk" changeid="darkmentat" changedate="20220522T163615Z" creationid="darkmentat" creationdate="20220519T201217Z">
+        <seg>### ВМІННЯ</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="en-US">
         <seg>#### THE CONVERSATION</seg>
       </tuv>
-      <tuv lang="uk" changeid="darkmentat" changedate="20220516T235256Z" creationid="darkmentat" creationdate="20220516T235256Z">
-        <seg>#### РОЗМОВА</seg>
+      <tuv lang="uk" changeid="darkmentat" changedate="20220522T163615Z" creationid="darkmentat" creationdate="20220516T235256Z">
+        <seg>### РОЗМОВА</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>#### THE DIE OF FATE</seg>
+      </tuv>
+      <tuv lang="uk" changeid="darkmentat" changedate="20220522T163615Z" creationid="darkmentat" creationdate="20220522T163615Z">
+        <seg>### THE DIE OF FATE</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>#### THE LONG GAME: THE STAR MAP,  FACTIONS AND TIMELINES</seg>
+      </tuv>
+      <tuv lang="uk" changeid="darkmentat" changedate="20220522T163615Z" creationid="darkmentat" creationdate="20220522T163615Z">
+        <seg>### THE LONG GAME: THE STAR MAP,  FACTIONS AND TIMELINES</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="en-US">
         <seg>#### THE SHIP</seg>
       </tuv>
-      <tuv lang="uk" changeid="darkmentat" changedate="20220521T212058Z" creationid="darkmentat" creationdate="20220521T212058Z">
-        <seg>#### ЗОРЕЛІТ</seg>
+      <tuv lang="uk" changeid="darkmentat" changedate="20220522T163615Z" creationid="darkmentat" creationdate="20220521T212058Z">
+        <seg>### ЗОРЕЛІТ</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>#### THINGS YOU SHOULD DO</seg>
+      </tuv>
+      <tuv lang="uk" changeid="darkmentat" changedate="20220522T163615Z" creationid="darkmentat" creationdate="20220522T163615Z">
+        <seg>### THINGS YOU SHOULD DO</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="en-US">
         <seg>#### WHAT YOU NEED</seg>
       </tuv>
-      <tuv lang="uk" changeid="darkmentat" changedate="20220516T235236Z" creationid="darkmentat" creationdate="20220516T235236Z">
-        <seg>#### ЩО НЕОБХІДНО ДЛЯ ГРИ</seg>
+      <tuv lang="uk" changeid="darkmentat" changedate="20220522T163615Z" creationid="darkmentat" creationdate="20220516T235236Z">
+        <seg>### ЩО НЕОБХІДНО ДЛЯ ГРИ</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="en-US">
         <seg>#### YOUR GOALS</seg>
       </tuv>
-      <tuv lang="uk" changeid="darkmentat" changedate="20220520T203438Z" creationid="IrynaDobro" creationdate="20220520T130523Z">
-        <seg>#### Твоя ціль </seg>
+      <tuv lang="uk" changeid="darkmentat" changedate="20220522T163615Z" creationid="IrynaDobro" creationdate="20220520T130523Z">
+        <seg>### Твоя ціль </seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="en-US">
         <seg>##### CHRIS P. WOLF</seg>
       </tuv>
-      <tuv lang="uk" changeid="darkmentat" changedate="20220516T233908Z" creationid="darkmentat" creationdate="20220516T233908Z">
-        <seg>##### КРІС ВУЛЬФ</seg>
+      <tuv lang="uk" changeid="darkmentat" changedate="20220522T163615Z" creationid="darkmentat" creationdate="20220516T233908Z">
+        <seg>#### КРІС ВУЛЬФ</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="en-US">
         <seg>##### OLIVIA GULIN</seg>
       </tuv>
-      <tuv lang="uk" changeid="darkmentat" changedate="20220516T234846Z" creationid="darkmentat" creationdate="20220516T234846Z">
-        <seg>##### ОЛІВІЯ ГУЛІН</seg>
+      <tuv lang="uk" changeid="darkmentat" changedate="20220522T163615Z" creationid="darkmentat" creationdate="20220516T234846Z">
+        <seg>#### ОЛІВІЯ ГУЛІН</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>##### chrispwolf.com/offworlders</seg>
+      </tuv>
+      <tuv lang="uk" changeid="darkmentat" changedate="20220522T163615Z" creationid="darkmentat" creationdate="20220522T163615Z">
+        <seg>#### chrispwolf.com/offworlders</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="en-US">
         <seg>###### 1. DESCRIBE WHAT YOU WANT TO DO, AND HOW YOU DO IT.</seg>
       </tuv>
-      <tuv lang="uk" changeid="darkmentat" changedate="20220516T235657Z" creationid="darkmentat" creationdate="20220516T235657Z">
-        <seg>###### 1. ОПИШІТЬ ЩО ВИ ХОЧЕТЕ ДОСЯГТИ І ЯКИМ ЧИНОМ</seg>
+      <tuv lang="uk" changeid="darkmentat" changedate="20220522T163836Z" creationid="darkmentat" creationdate="20220516T235657Z">
+        <seg>#### 1. ОПИШІТЬ ЩО ВИ ХОЧЕТЕ ДОСЯГТИ І ЯКИМ ЧИНОМ</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="en-US">
         <seg>###### 1.PICK A CLASS</seg>
       </tuv>
-      <tuv lang="uk" changeid="darkmentat" changedate="20220519T202813Z" creationid="darkmentat" creationdate="20220519T202813Z">
-        <seg>###### 1. ВИБЕРІТЬ КЛАС</seg>
+      <tuv lang="uk" changeid="darkmentat" changedate="20220522T163836Z" creationid="darkmentat" creationdate="20220519T202813Z">
+        <seg>#### 1. ВИБЕРІТЬ КЛАС</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="en-US">
         <seg>###### 2. PICK THE MOST APPROPRIATE OF THE FOUR ATTRIBUTES.</seg>
       </tuv>
-      <tuv lang="uk" changeid="darkmentat" changedate="20220521T120332Z" creationid="darkmentat" creationdate="20220516T235705Z">
-        <seg>###### 2. ВИБЕРІТЬ НАЙБІЛЬШ ПІДХОЖИЙ З ЧОТИРЬОХ АТРИБУТІВ</seg>
+      <tuv lang="uk" changeid="darkmentat" changedate="20220522T163836Z" creationid="darkmentat" creationdate="20220516T235705Z">
+        <seg>#### 2. ВИБЕРІТЬ НАЙБІЛЬШ ПІДХОЖИЙ З ЧОТИРЬОХ АТРИБУТІВ</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="en-US">
         <seg>###### 2.CHOOSE YOUR SKILLS</seg>
       </tuv>
-      <tuv lang="uk" changeid="darkmentat" changedate="20220519T203015Z" creationid="darkmentat" creationdate="20220519T203015Z">
-        <seg>###### 2. ВИБЕРІТЬ СОБІ ВМІННЯ</seg>
+      <tuv lang="uk" changeid="darkmentat" changedate="20220522T163836Z" creationid="darkmentat" creationdate="20220519T203015Z">
+        <seg>#### 2. ВИБЕРІТЬ СОБІ ВМІННЯ</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="en-US">
         <seg>###### 3. TALK ABOUT THE POTENTIAL OUTCOMES.</seg>
       </tuv>
-      <tuv lang="uk" changeid="darkmentat" changedate="20220516T235732Z" creationid="darkmentat" creationdate="20220516T235732Z">
-        <seg>###### 3. ОГОВОРІТЬ МОЖЛИВІ НАСЛІДКИ</seg>
+      <tuv lang="uk" changeid="darkmentat" changedate="20220522T163836Z" creationid="darkmentat" creationdate="20220516T235732Z">
+        <seg>#### 3. ОГОВОРІТЬ МОЖЛИВІ НАСЛІДКИ</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="en-US">
         <seg>###### 3.ASSIGN YOUR ATTRIBUTES</seg>
       </tuv>
-      <tuv lang="uk" changeid="darkmentat" changedate="20220519T203046Z" creationid="darkmentat" creationdate="20220519T203046Z">
-        <seg>###### 3. РОЗПОДІЛІТЬ АТРИБУТИ</seg>
+      <tuv lang="uk" changeid="darkmentat" changedate="20220522T163836Z" creationid="darkmentat" creationdate="20220519T203046Z">
+        <seg>#### 3. РОЗПОДІЛІТЬ АТРИБУТИ</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="en-US">
         <seg>###### 4. ROLL THE DICE!</seg>
       </tuv>
-      <tuv lang="uk" changeid="darkmentat" changedate="20220516T235741Z" creationid="darkmentat" creationdate="20220516T235741Z">
-        <seg>###### 4. КИДАЙТЕ КУБИ!</seg>
+      <tuv lang="uk" changeid="darkmentat" changedate="20220522T163836Z" creationid="darkmentat" creationdate="20220516T235741Z">
+        <seg>#### 4. КИДАЙТЕ КУБИ!</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="en-US">
         <seg>###### 4.RECORD YOUR HEALTH</seg>
       </tuv>
-      <tuv lang="uk" changeid="darkmentat" changedate="20220519T203357Z" creationid="darkmentat" creationdate="20220519T203357Z">
-        <seg>###### 4. ЗАПИШІТЬ ВАШЕ ЗДОРОВ'Я</seg>
+      <tuv lang="uk" changeid="darkmentat" changedate="20220522T163836Z" creationid="darkmentat" creationdate="20220519T203357Z">
+        <seg>#### 4. ЗАПИШІТЬ ВАШЕ ЗДОРОВ'Я</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="en-US">
         <seg>###### 5.GET YOUR GEAR</seg>
       </tuv>
-      <tuv lang="uk" changeid="darkmentat" changedate="20220519T203659Z" creationid="darkmentat" creationdate="20220519T203659Z">
-        <seg>###### 5. ВИБЕРІТЬ СПОРЯДЖЕННЯ</seg>
+      <tuv lang="uk" changeid="darkmentat" changedate="20220522T163836Z" creationid="darkmentat" creationdate="20220519T203659Z">
+        <seg>#### 5. ВИБЕРІТЬ СПОРЯДЖЕННЯ</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="en-US">
         <seg>###### 6. NAME AND DESCRIBE YOUR CHARACTER</seg>
       </tuv>
-      <tuv lang="uk" changeid="darkmentat" changedate="20220519T204120Z" creationid="darkmentat" creationdate="20220519T204120Z">
-        <seg>###### 6. ДАЙТЕ ІМ'Я ПЕРСОНАЖУ ТА ОПИШІТЬ ЙОГО</seg>
+      <tuv lang="uk" changeid="darkmentat" changedate="20220522T163836Z" creationid="darkmentat" creationdate="20220519T204120Z">
+        <seg>#### 6. ДАЙТЕ ІМ'Я ПЕРСОНАЖУ ТА ОПИШІТЬ ЙОГО</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>###### ADJUDICATE ABILITIES FAIRLY</seg>
+      </tuv>
+      <tuv lang="uk" changeid="darkmentat" changedate="20220522T163836Z" creationid="darkmentat" creationdate="20220522T163615Z">
+        <seg>#### ADJUDICATE ABILITIES FAIRLY</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="en-US">
         <seg>###### ALIENS</seg>
       </tuv>
-      <tuv lang="uk" changeid="darkmentat" changedate="20220519T204615Z" creationid="darkmentat" creationdate="20220519T204615Z">
-        <seg>###### ПРИБУЛЬЦІ</seg>
+      <tuv lang="uk" changeid="darkmentat" changedate="20220522T163836Z" creationid="darkmentat" creationdate="20220519T204615Z">
+        <seg>#### ПРИБУЛЬЦІ</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="en-US">
         <seg>###### ARMOR</seg>
       </tuv>
-      <tuv lang="uk" changeid="darkmentat" changedate="20220521T200720Z" creationid="darkmentat" creationdate="20220521T200707Z">
-        <seg>###### БРОНЯ</seg>
+      <tuv lang="uk" changeid="darkmentat" changedate="20220522T163836Z" creationid="darkmentat" creationdate="20220521T200707Z">
+        <seg>#### БРОНЯ</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>###### ASK QUESTIONS AND USE THE ANSWERS</seg>
+      </tuv>
+      <tuv lang="uk" changeid="darkmentat" changedate="20220522T163836Z" creationid="darkmentat" creationdate="20220522T163615Z">
+        <seg>#### ASK QUESTIONS AND USE THE ANSWERS</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="en-US">
         <seg>###### CONTROLLING THE SHIP</seg>
       </tuv>
-      <tuv lang="uk" changeid="darkmentat" changedate="20220522T102718Z" creationid="darkmentat" creationdate="20220522T102718Z">
-        <seg>###### УПРАВЛІННЯ ЗОРЕЛЬОТОМ</seg>
+      <tuv lang="uk" changeid="darkmentat" changedate="20220522T163836Z" creationid="darkmentat" creationdate="20220522T102718Z">
+        <seg>#### УПРАВЛІННЯ ЗОРЕЛЬОТОМ</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="en-US">
         <seg>###### CREATING THE SHIP</seg>
       </tuv>
-      <tuv lang="uk" changeid="darkmentat" changedate="20220522T085624Z" creationid="darkmentat" creationdate="20220522T085624Z">
-        <seg>###### СТВОРЕННЯ ЗОРЕЛЬОТУ</seg>
+      <tuv lang="uk" changeid="darkmentat" changedate="20220522T163836Z" creationid="darkmentat" creationdate="20220522T085624Z">
+        <seg>#### СТВОРЕННЯ ЗОРЕЛЬОТУ</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="en-US">
         <seg>###### CREDIT DUE</seg>
       </tuv>
-      <tuv lang="uk" changeid="darkmentat" changedate="20220516T235154Z" creationid="darkmentat" creationdate="20220516T235154Z">
-        <seg>###### ПОДЯКА</seg>
+      <tuv lang="uk" changeid="darkmentat" changedate="20220522T163836Z" creationid="darkmentat" creationdate="20220516T235154Z">
+        <seg>#### ПОДЯКА</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="en-US">
         <seg>###### CUSTOMIZING CLASSES</seg>
       </tuv>
-      <tuv lang="uk" changeid="darkmentat" changedate="20220519T204407Z" creationid="darkmentat" creationdate="20220519T204407Z">
-        <seg>###### МОДИФІКАЦІЯ КЛАСІВ</seg>
+      <tuv lang="uk" changeid="darkmentat" changedate="20220522T163836Z" creationid="darkmentat" creationdate="20220519T204407Z">
+        <seg>#### МОДИФІКАЦІЯ КЛАСІВ</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="en-US">
         <seg>###### EARNING XP</seg>
       </tuv>
-      <tuv lang="uk" changeid="darkmentat" changedate="20220522T122626Z" creationid="darkmentat" creationdate="20220522T122626Z">
-        <seg>###### ЗДОБУТОК ДОСВІДУ</seg>
+      <tuv lang="uk" changeid="darkmentat" changedate="20220522T163836Z" creationid="darkmentat" creationdate="20220522T122626Z">
+        <seg>#### ЗДОБУТОК ДОСВІДУ</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>###### FACTIONS</seg>
+      </tuv>
+      <tuv lang="uk" changeid="darkmentat" changedate="20220522T163836Z" creationid="darkmentat" creationdate="20220522T163615Z">
+        <seg>#### FACTIONS</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="en-US">
         <seg>###### FILL THE CHARACTERS’ LIVES WITH CONFLICT AND ADVENTURE</seg>
       </tuv>
-      <tuv lang="uk" changeid="IrynaDobro" changedate="20220520T212041Z" creationid="IrynaDobro" creationdate="20220520T212041Z">
-        <seg>###### НАПОВНИ ЖИТТЯ ПЕРСОНАЖІВ КОНФЛІКТАМИ ТА ПРИГОДАМИ </seg>
+      <tuv lang="uk" changeid="darkmentat" changedate="20220522T163836Z" creationid="IrynaDobro" creationdate="20220520T212041Z">
+        <seg>#### НАПОВНИ ЖИТТЯ ПЕРСОНАЖІВ КОНФЛІКТАМИ ТА ПРИГОДАМИ </seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="en-US">
         <seg>###### GEAR</seg>
       </tuv>
-      <tuv lang="uk" changeid="darkmentat" changedate="20220521T205045Z" creationid="darkmentat" creationdate="20220521T205045Z">
-        <seg>###### СПОРЯДЖЕННЯ</seg>
+      <tuv lang="uk" changeid="darkmentat" changedate="20220522T163836Z" creationid="darkmentat" creationdate="20220521T205045Z">
+        <seg>#### СПОРЯДЖЕННЯ</seg>
       </tuv>
     </tu>
     <tu>
@@ -314,72 +418,96 @@
       <tuv lang="en-US">
         <seg>###### GEEK</seg>
       </tuv>
-      <tuv lang="uk" changeid="darkmentat" changedate="20220520T211405Z" creationid="darkmentat" creationdate="20220520T211405Z">
-        <seg>###### ТЕХНАР</seg>
+      <tuv lang="uk" changeid="darkmentat" changedate="20220522T163836Z" creationid="darkmentat" creationdate="20220520T211405Z">
+        <seg>#### ТЕХНАР</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="en-US">
         <seg>###### HEALTH &amp; DYING</seg>
       </tuv>
-      <tuv lang="uk" changeid="darkmentat" changedate="20220521T191326Z" creationid="darkmentat" creationdate="20220521T191326Z">
-        <seg>###### ЗДОРОВ'Я ТА СМЕРТЬ</seg>
+      <tuv lang="uk" changeid="darkmentat" changedate="20220522T163836Z" creationid="darkmentat" creationdate="20220521T191326Z">
+        <seg>#### ЗДОРОВ'Я ТА СМЕРТЬ</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="en-US">
         <seg>###### HEAVY ITEMS</seg>
       </tuv>
-      <tuv lang="uk" changeid="darkmentat" changedate="20220521T204638Z" creationid="darkmentat" creationdate="20220521T204638Z">
-        <seg>###### ВАЖКІ ПРЕДМЕТИ</seg>
+      <tuv lang="uk" changeid="darkmentat" changedate="20220522T163836Z" creationid="darkmentat" creationdate="20220521T204638Z">
+        <seg>#### ВАЖКІ ПРЕДМЕТИ</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>###### JOB: SPECIAL DELIVERY</seg>
+      </tuv>
+      <tuv lang="uk" changeid="darkmentat" changedate="20220522T163836Z" creationid="darkmentat" creationdate="20220522T163615Z">
+        <seg>#### JOB: SPECIAL DELIVERY</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="en-US">
         <seg>###### MAINTENANCE</seg>
       </tuv>
-      <tuv lang="uk" changeid="darkmentat" changedate="20220522T122230Z" creationid="darkmentat" creationdate="20220522T122230Z">
-        <seg>###### ТЕХОБСЛУГОВУВАННЯ</seg>
+      <tuv lang="uk" changeid="darkmentat" changedate="20220522T163836Z" creationid="darkmentat" creationdate="20220522T122230Z">
+        <seg>#### ТЕХОБСЛУГОВУВАННЯ</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="en-US">
         <seg>###### MORE EXPENSIVE ITEMS</seg>
       </tuv>
-      <tuv lang="uk" changeid="darkmentat" changedate="20220521T203554Z" creationid="darkmentat" creationdate="20220521T203554Z">
-        <seg>###### ДЕЩО ДОРОЖЧІ РЕЧІ</seg>
+      <tuv lang="uk" changeid="darkmentat" changedate="20220522T163836Z" creationid="darkmentat" creationdate="20220521T203554Z">
+        <seg>#### ДЕЩО ДОРОЖЧІ РЕЧІ</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="en-US">
         <seg>###### OUTLAW</seg>
       </tuv>
-      <tuv lang="uk" changeid="darkmentat" changedate="20220520T203805Z" creationid="darkmentat" creationdate="20220520T203805Z">
-        <seg>###### ПРОЙДИСВІТ</seg>
+      <tuv lang="uk" changeid="darkmentat" changedate="20220522T163836Z" creationid="darkmentat" creationdate="20220520T203805Z">
+        <seg>#### ПРОЙДИСВІТ</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="en-US">
         <seg>###### PLAY TO FIND OUT WHAT HAPPENS</seg>
       </tuv>
-      <tuv lang="uk" changeid="darkmentat" changedate="20220521T215355Z" creationid="IrynaDobro" creationdate="20220520T215122Z">
-        <seg>###### ГРАЙ ЩОБ ДІЗНАТИСЬ ЩО БУДЕ ДАЛІ</seg>
+      <tuv lang="uk" changeid="darkmentat" changedate="20220522T163836Z" creationid="IrynaDobro" creationdate="20220520T215122Z">
+        <seg>#### ГРАЙ ЩОБ ДІЗНАТИСЬ ЩО БУДЕ ДАЛІ</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>###### PLAYER CHARACTERS: THE CREW OF THE QUICHE LORRAINE</seg>
+      </tuv>
+      <tuv lang="uk" changeid="darkmentat" changedate="20220522T163836Z" creationid="darkmentat" creationdate="20220522T163615Z">
+        <seg>#### PLAYER CHARACTERS: THE CREW OF THE QUICHE LORRAINE</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="en-US">
         <seg>###### PORTRAY A DANGEROUS AND EXCITING SCI-FI UNIVERSE</seg>
       </tuv>
-      <tuv lang="uk" changeid="IrynaDobro" changedate="20220520T210131Z" creationid="IrynaDobro" creationdate="20220520T210131Z">
-        <seg>###### Змалюй небезпечний та вражаючий SCI-FI всесвіт </seg>
+      <tuv lang="uk" changeid="darkmentat" changedate="20220522T163836Z" creationid="IrynaDobro" creationdate="20220520T210131Z">
+        <seg>#### Змалюй небезпечний та вражаючий SCI-FI всесвіт </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>###### PROMPT THE PLAYERS AND LET THINGS SNOWBALL</seg>
+      </tuv>
+      <tuv lang="uk" changeid="darkmentat" changedate="20220522T163836Z" creationid="darkmentat" creationdate="20220522T163615Z">
+        <seg>#### PROMPT THE PLAYERS AND LET THINGS SNOWBALL</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="en-US">
         <seg>###### PSYCHIC</seg>
       </tuv>
-      <tuv lang="uk" changeid="darkmentat" changedate="20220521T181750Z" creationid="darkmentat" creationdate="20220521T181750Z">
-        <seg>###### ПСІОНІК</seg>
+      <tuv lang="uk" changeid="darkmentat" changedate="20220522T163836Z" creationid="darkmentat" creationdate="20220521T181750Z">
+        <seg>#### ПСІОНІК</seg>
       </tuv>
     </tu>
     <tu>
@@ -392,50 +520,82 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>###### RESPOND TO THE DICE</seg>
+      </tuv>
+      <tuv lang="uk" changeid="darkmentat" changedate="20220522T163836Z" creationid="darkmentat" creationdate="20220522T163615Z">
+        <seg>#### RESPOND TO THE DICE</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>###### SHIP UPGRADES</seg>
       </tuv>
-      <tuv lang="uk" changeid="darkmentat" changedate="20220522T100605Z" creationid="darkmentat" creationdate="20220522T100605Z">
-        <seg>###### Апгрейди корабля</seg>
+      <tuv lang="uk" changeid="darkmentat" changedate="20220522T163836Z" creationid="darkmentat" creationdate="20220522T100605Z">
+        <seg>#### Апгрейди корабля</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="en-US">
         <seg>###### SPENDING XP: ADVANCEMENTS</seg>
       </tuv>
-      <tuv lang="uk" changeid="darkmentat" changedate="20220522T124349Z" creationid="darkmentat" creationdate="20220522T124328Z">
-        <seg>###### ВИТРАТА ДОСВІДУ</seg>
+      <tuv lang="uk" changeid="darkmentat" changedate="20220522T163836Z" creationid="darkmentat" creationdate="20220522T124328Z">
+        <seg>#### ВИТРАТА ДОСВІДУ</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="en-US">
         <seg>###### SUPPLY</seg>
       </tuv>
-      <tuv lang="uk" changeid="darkmentat" changedate="20220521T203927Z" creationid="darkmentat" creationdate="20220521T203927Z">
-        <seg>###### ПРИПАСИ</seg>
+      <tuv lang="uk" changeid="darkmentat" changedate="20220522T163836Z" creationid="darkmentat" creationdate="20220521T203927Z">
+        <seg>#### ПРИПАСИ</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>###### THE FUTURE</seg>
+      </tuv>
+      <tuv lang="uk" changeid="darkmentat" changedate="20220522T163836Z" creationid="darkmentat" creationdate="20220522T163615Z">
+        <seg>#### THE FUTURE</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>###### THE STAR MAP</seg>
+      </tuv>
+      <tuv lang="uk" changeid="darkmentat" changedate="20220522T163836Z" creationid="darkmentat" creationdate="20220522T163615Z">
+        <seg>#### THE STAR MAP</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="en-US">
         <seg>###### THINGS WORTH ONE CREDIT</seg>
       </tuv>
-      <tuv lang="uk" changeid="darkmentat" changedate="20220521T203313Z" creationid="darkmentat" creationdate="20220521T203313Z">
-        <seg>###### РЕЧІ ЩО КОШТУЮТЬ ОДИН КРЕДИТ</seg>
+      <tuv lang="uk" changeid="darkmentat" changedate="20220522T163836Z" creationid="darkmentat" creationdate="20220521T203313Z">
+        <seg>#### РЕЧІ ЩО КОШТУЮТЬ ОДИН КРЕДИТ</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>###### TIMELINES</seg>
+      </tuv>
+      <tuv lang="uk" changeid="darkmentat" changedate="20220522T163836Z" creationid="darkmentat" creationdate="20220522T163615Z">
+        <seg>#### TIMELINES</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="en-US">
         <seg>###### TRAVEL</seg>
       </tuv>
-      <tuv lang="uk" changeid="darkmentat" changedate="20220522T105131Z" creationid="darkmentat" creationdate="20220522T105131Z">
-        <seg>###### ПОДОРОЖІ</seg>
+      <tuv lang="uk" changeid="darkmentat" changedate="20220522T163836Z" creationid="darkmentat" creationdate="20220522T105131Z">
+        <seg>#### ПОДОРОЖІ</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="en-US">
         <seg>###### WARRIOR</seg>
       </tuv>
-      <tuv lang="uk" changeid="darkmentat" changedate="20220520T211100Z" creationid="darkmentat" creationdate="20220520T211100Z">
-        <seg>###### ВОЯКА</seg>
+      <tuv lang="uk" changeid="darkmentat" changedate="20220522T163836Z" creationid="darkmentat" creationdate="20220520T211100Z">
+        <seg>#### ВОЯКА</seg>
       </tuv>
     </tu>
     <tu>
@@ -2137,11 +2297,11 @@ Medium 2C 1D6+1 Rifles, shotguns, swords.
 Heavy 5C 1D6+2 Plasma cannons, sniper rifles, huge swords.
 Heavy.</seg>
       </tuv>
-      <tuv lang="uk" changeid="darkmentat" changedate="20220522T095122Z" creationid="darkmentat" creationdate="20220521T210932Z">
+      <tuv lang="uk" changeid="darkmentat" changedate="20220522T164047Z" creationid="darkmentat" creationdate="20220521T210932Z">
         <seg>| ЗБРОЯ         | КРЕД. | УШКОДЖЕННЯ          | ПРИМІТКИ                              |
 | ------------- | ----- | ------------------- | ------------------------------------- |
 | Без озброєння | 0К    | 2к6, вибрати менший | Пинки, удари кулаками                 |
-| Легка         | 1К    | к6                  | Пістолети, ножі, те, що легко сховати       |
+| Легка         | 1К    | к6                  | Пістолети, ножі, те, що легко сховати |
 | Середня       | 2К    | к6+1                | Рушниці, дробовики, мечі й катани     |
 | **Важка**     | 5К    | к6+2                | Плазмові гармати, снайперські рушниці |</seg>
       </tuv>
