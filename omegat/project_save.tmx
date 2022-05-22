@@ -1634,6 +1634,19 @@ law, Geek** , and **Psychic**. Pick one.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>These rules represent smaller
+starships like light freighters, frigates,
+and corvettes, about 50 meters in
+length. The ship is large enough for
+everyone to live in together comfort-
+ably, but no larger.</seg>
+      </tuv>
+      <tuv lang="uk" changeid="darkmentat" changedate="20220522T100211Z" creationid="darkmentat" creationdate="20220522T100211Z">
+        <seg>Ці правила застосовуються для невеликих зорельотів, таких як фрахтівники, фрегати чи корвети, десь в 50 метрів в довжину. Вони досить великі для того, щоб команда могла проживати на ньому з комфортом, але не більше.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>To make the ship, the players simply
 select two upgrades. All upgrades
 will open new opportunities for the
