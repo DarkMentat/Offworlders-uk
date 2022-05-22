@@ -80,8 +80,8 @@
       <tuv lang="en-US">
         <seg>#### FIGHTING &amp; DAMAGE</seg>
       </tuv>
-      <tuv lang="uk" changeid="darkmentat" changedate="20220522T163615Z" creationid="darkmentat" creationdate="20220521T190014Z">
-        <seg>### БОЇ ТА УШКОДЖЕННЯ</seg>
+      <tuv lang="uk" changeid="darkmentat" changedate="20220522T175622Z" creationid="darkmentat" creationdate="20220521T190014Z">
+        <seg>### БІЙ ТА УШКОДЖЕННЯ</seg>
       </tuv>
     </tu>
     <tu>
@@ -2396,8 +2396,8 @@ being in the vacuum of space without
 a suit, or being exposed to dangerous
 radiation.</seg>
       </tuv>
-      <tuv lang="uk" changeid="darkmentat" changedate="20220521T190641Z" creationid="darkmentat" creationdate="20220521T190641Z">
-        <seg>Гравець отримує пошкодження в більшості випадків через провали чи ускладнення на кубах. За межами боєзіткнень, персонаж гравця може отримати ушкодження в інших небезпечних ситуаціях, наприклад падаючи в чан з кислотою чи випавши в космічний вакуум без скафандра, чи піддавшись небезпечному радіовипромінюванню.</seg>
+      <tuv lang="uk" changeid="darkmentat" changedate="20220522T175803Z" creationid="darkmentat" creationdate="20220521T190641Z">
+        <seg>Гравець отримує пошкодження в більшості випадків через провали чи ускладнення на кубах. За межами боєзіткнень, персонаж гравця може отримати ушкодження в інших небезпечних ситуаціях, наприклад падаючи в чан з кислотою, випавши в космічний вакуум без скафандра чи піддавшись небезпечному радіовипромінюванню.</seg>
       </tuv>
     </tu>
     <tu>
