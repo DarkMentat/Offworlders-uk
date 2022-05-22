@@ -62,6 +62,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>#### CHARACTER ADVANCEMENT</seg>
+      </tuv>
+      <tuv lang="uk" changeid="darkmentat" changedate="20220522T122518Z" creationid="darkmentat" creationdate="20220522T122518Z">
+        <seg>#### РОЗВИТОК ПЕРСОНАЖА</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>#### FIGHTING &amp; DAMAGE</seg>
       </tuv>
       <tuv lang="uk" changeid="darkmentat" changedate="20220521T190022Z" creationid="darkmentat" creationdate="20220521T190014Z">
@@ -274,6 +282,14 @@
       </tuv>
       <tuv lang="uk" changeid="darkmentat" changedate="20220519T204407Z" creationid="darkmentat" creationdate="20220519T204407Z">
         <seg>###### МОДИФІКАЦІЯ КЛАСІВ</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>###### EARNING XP</seg>
+      </tuv>
+      <tuv lang="uk" changeid="darkmentat" changedate="20220522T122626Z" creationid="darkmentat" creationdate="20220522T122626Z">
+        <seg>###### ЗДОБУТОК ДОСВІДУ</seg>
       </tuv>
     </tu>
     <tu>
@@ -995,6 +1011,14 @@ game fully fueled.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Characters earn XP in three ways:</seg>
+      </tuv>
+      <tuv lang="uk" changeid="darkmentat" changedate="20220522T122642Z" creationid="darkmentat" creationdate="20220522T122642Z">
+        <seg>Персонаж може здобувати досвід трьома шляхами:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Characters in Offworlders are
 assumed to be carrying a variety of
 useful and necessary tools. Instead of
@@ -1075,6 +1099,19 @@ one with a few days of downtime.</seg>
       </tuv>
       <tuv lang="uk" changeid="darkmentat" changedate="20220520T214841Z" creationid="darkmentat" creationdate="20220520T214841Z">
         <seg>**Оператор дронів:** У вас є невеликий летючий дрон, який ви можете контролювати віддалено та отримувати з нього данні. Якщо він буде знищений чи загублений, ви можете зробити нового за декілька днів перепочинку.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>END OF SESSION QUESTIONS
+At the end of each session of play, an-
+swer the following three questions, as
+a group. For each question answered
+with a “yes,” every PC gets **1 X P.**</seg>
+      </tuv>
+      <tuv lang="uk" changeid="darkmentat" changedate="20220522T122823Z" creationid="darkmentat" creationdate="20220522T122823Z">
+        <seg>ПИТАННЯ В КІНЦІ ЗУСТРУЧІ
+В кінці кожної ігрової зустрічі, дайте відповідь на наступні питання як група. За кожну відповідь "так" кожен персонаж гравця отримує 1 пункт досвіду.</seg>
       </tuv>
     </tu>
     <tu>
@@ -1274,6 +1311,15 @@ you think! Talk to me on Twitter at @chrisperry wolf.</seg>
       </tuv>
       <tuv lang="uk" changeid="darkmentat" changedate="20220516T235214Z" creationid="darkmentat" creationdate="20220516T235214Z">
         <seg>Якщо ви граєте в Offworlders, то поділіться своїми враженнями! Напишіть мені в Twitter: @chrisperry_wolf.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>If you play multiple sessions of Offworlders, your characters will become more powerful and effective.
+Characters earn XP each session, and may then spend XP on advancements.</seg>
+      </tuv>
+      <tuv lang="uk" changeid="darkmentat" changedate="20220522T122618Z" creationid="darkmentat" creationdate="20220522T122618Z">
+        <seg>Якщо ви граєте в Краєходців більше кількох зустрічей, ваші персонажі ставатимуть більш могутніми та ефективними. В кінці кожної зустрічі вони заробляють досвід та можуть потратити його на свій розвиток.</seg>
       </tuv>
     </tu>
     <tu>
@@ -1581,6 +1627,18 @@ Play a Psychic if you want to be strange and powerful.</seg>
       </tuv>
       <tuv lang="uk" changeid="darkmentat" changedate="20220521T181933Z" creationid="darkmentat" creationdate="20220521T181933Z">
         <seg>Псіоніки володіють надприродними ментальними здібностями. Їх таланти дозволяють їм впливати на оточення силою думки та вдиратись в чужі голови. Грайте за псіоніка, якщо хочете бути могутнім і загадковим.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>ROLLING MISSES
+Any time a player **Rolls the Dice** and
+the final result is **6** or less, their char-
+acter earns **1 X P.**</seg>
+      </tuv>
+      <tuv lang="uk" changeid="darkmentat" changedate="20220522T122725Z" creationid="darkmentat" creationdate="20220522T122725Z">
+        <seg>ПРОВАЛЮЮЧИ КИДКИ
+Кожного разу, коли гравець кидає куби та в результаті отримує **6 та менше**, його персонаж отримує 1 пункт досвіду.</seg>
       </tuv>
     </tu>
     <tu>
