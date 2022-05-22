@@ -1124,8 +1124,8 @@ a guideline for which attributes you
 want to make high, and which you can
 afford to make lower.</seg>
       </tuv>
-      <tuv lang="uk" changeid="darkmentat" changedate="20220521T181712Z" creationid="darkmentat" creationdate="20220519T203345Z">
-        <seg>Призначте кожному атрибут одне з числа **+2**, **+1**, **0** та **-1** в будь-якому порядку. Врахуйте ваш клас та подумайте, чим скоріше за все буде займатись ваш персонаж, щоб зорієнтуватись який атрибут зробити високим, а який можна дозволити лишити низьким.</seg>
+      <tuv lang="uk" changeid="darkmentat" changedate="20220522T173832Z" creationid="darkmentat" creationdate="20220519T203345Z">
+        <seg>Призначте кожному атрибут одне з числа **+2**, **+1**, **0** та **-1** в будь-якому порядку. Врахуйте ваш клас та подумайте, чим скоріше за все буде займатись ваш персонаж, щоб визначитись який атрибут зробити високим, а який можна дозволити лишити низьким.</seg>
       </tuv>
     </tu>
     <tu>
@@ -1315,6 +1315,8 @@ with a “yes,” every PC gets **1 X P.**</seg>
       </tuv>
     </tu>
     <tu>
+      <note>Модхак: Не враховувати спритність для розрахунку здоров'я
+</note>
       <tuv lang="en-US">
         <seg>Each PC has maximum Health equal
 to **12** plus their **Streng th** and **A gilit y**
@@ -1323,8 +1325,8 @@ Strength** and **+1 A g ility** has **15 Health**.
 A PC with **0 Strength** and **-1 A g ilit y**
 has **11 Health.**</seg>
       </tuv>
-      <tuv lang="uk" changeid="darkmentat" changedate="20220521T181717Z" creationid="darkmentat" creationdate="20220519T203630Z">
-        <seg>Здоров'я кожного персонажа гравця дорівнює **12** плюс **Сила** плюс **Спритність**. Наприклад, у пероснажа з **Силою +1** та **Спритністю +2** буде **15 Здоров'я**. А для персонажа з **Силою 0** та **Спритністю -1** здоров'я буде **11**.</seg>
+      <tuv lang="uk" changeid="darkmentat" changedate="20220522T173925Z" creationid="darkmentat" creationdate="20220519T203630Z">
+        <seg>Здоров'я кожного персонажа гравця дорівнює **12** плюс **Сила**. Наприклад, у персонажа з **Силою +1** буде **13 Здоров'я**. А для персонажа з **Силою -1** здоров'я буде **11**.</seg>
       </tuv>
     </tu>
     <tu>
