@@ -413,7 +413,7 @@ biomechanical implants.
 | ЗБРОЯ         | КРЕД. | УШКОДЖЕННЯ          | ПРИМІТКИ                              |
 | ------------- | ----- | ------------------- | ------------------------------------- |
 | Без озброєння | 0К    | 2к6, вибрати менший | Пинки, удари кулаками                 |
-| Легка         | 1К    | к6                  | Пістолети, ножі. Легко сховати.       |
+| Легка         | 1К    | к6                  | Пістолети, ножі, те, що легко сховати       |
 | Середня       | 2К    | к6+1                | Рушниці, дробовики, мечі й катани     |
 | **Важка**     | 5К    | к6+2                | Плазмові гармати, снайперські рушниці |
 
@@ -438,96 +438,41 @@ biomechanical implants.
 
 ###### СТВОРЕННЯ ЗОРЕЛЬОТУ
 
-Від початку корабель являє собою чистий лист. В ньому є невеликий багажний відсік, його озброєння наносить **к6** ушкоджень, а також він має **15 пунктів корпусу**. У нього **захист-0** та в запасі у нього **4 одиниці палива** для зоряних стрибків.
+Від початку корабель являє собою чистий лист. В ньому є невеликий багажний відсік, його озброєння наносить **к6** ушкоджень, а також він має **15 пунктів корпусу**. У нього **захист-0** та в запасі він має **4 одиниці палива** для зоряних стрибків.
 
-To make the ship, the players simply
-select two upgrades. All upgrades
-will open new opportunities for the
-players, and the type of jobs they get
-will reflect their choices. For example,
-a ship without **Luxury Passenger
-Quarters** will not attract wealthy
-passengers. A ship with a **Massive
-Cargo Hold** will get the PC’s lucra-
-tive shipping jobs carrying large and
-unusual cargo.
+І щоб підготувати собі корабель, гравцям потрібно тільки вибрати два апгрейда. Вони відкривають нові можливості, а також впливають на ті види завдань, за які вони будуть братись. На приклад, корабель без **розкішних каюти пасажирів** не приверне увагу багатих пасажирів. А корабель з **великим багажним відсіком** дозволить персонажам гравців братись за прибуткову роботу великих та незвичних перевезень.
 
-These rules represent smaller
-starships like light freighters, frigates,
-and corvettes, about 50 meters in
-length. The ship is large enough for
-everyone to live in together comfort-
-ably, but no larger.
+Ці правила застосовуються для невеликих зорельотів, таких як фрахтівники, фрегати чи корвети, десь в 50 метрів в довжину. Вони досить великі для того, щоб команда могла проживати на ньому з комфортом, але не більше.
 
-Of course, the players should choose a
-name for their ship. Something like _The
-Desert Rose_ , _Good Grief_ , or _Null Gravitas_.
+І, звичайно, гравцям варто вибрати ім'я свого корабля. Щось на кшталт "Пустинна троянда", "Кара Господня" чи "Гравіта-Нуль" може підійти.
 
-###### SHIP UPGRADES
+###### Апгрейди корабля
 
-When you make your ship, choose 2 of
-the following. Upgrades marked with an
-asterisk (*) may be taken twice, provid-
-ing a cumulative bonus. Otherwise each
-upgrade may only be purchased once:
+Коли ви створюєте свій корабель, виберіть 2 з наступних варіантів. Апгрейди, що позначені зірочкою можна взяти двічі та їх бонус буде складуватись. В усіх інших випадках один апгрейд можна придбати тільки один раз.
 
-Additional A rmor: +1 armor*
+Додаткова броня: +1 захисту*
 
-Advanced Drive: For each interstellar
-trip, you can choose either to take half
-the time or use half the amount of fuel.
-Round up.
+Просунутий гіпердрайв: Для кожної міжзоряної подорожі ви можете або потратити вдвічі менше часу, або вдвічі менше паливо. Округлення йде вгору.
 
-Advanced Electronics: High-end
-scanners, communicators, sen-
-sors, etc. They will provide detalied
-information about ships, places, and
-stations you encounter.
+Просунута електроніка: високотехнологічні сканери, комунікатори, сенсори й таке інше. Вони будуть надавати більш детальну інформацію про кораблі, місця чи станції, з якими ви будете стикатись.
 
-A fterburners: You may spend 1 Drive
-Fuel to get +1 to a single roll to evade,
-outrun, or maneuver while piloting
-the ship.
+Форсаж: Ви можете потратити 1 одиницю палива щоб отримати бонус +1 до будь-якого кидка, пов'язаного з ухиленням, погонею чи іншими маневрами при пілотуванні корабля.
 
-Fuel Tanks: Max Drive Fuel +.
+Паливні баки: Максимальний запас стрибкового палива +1.
 
-High Maneuverability: If you don’t
-have the Pilot skill, you count as
-having it in situations where maneu-
-verability is relevant. If you already
-have the pilot skill, you may choose
-to reroll both dice in these situations,
-instead of just one.
+Висока маневровність: Якщо у вас немає вміння _кермування_, вважайте що ви його маєте в ситуаціях, де має значення маневровість корабля. Якщо ж у вас є це вміння, в таких ситуаціях ви можете перекинути оба кубика, а не один.
 
-Luxury Passenger Quarters: They come
-with gourmet nutrition options and
-beautiful decor. For the crew who wants
-to attract a certain class of clientele.
+Розкішні каюти пасажирів: Йдуть разом з вишуканими стравами та гарним декором. Для екіпажу, який хоче залучити елітний клас клієнтів.
 
-Massive Cargo Hold: Large enough to
-transport smaller vehicles or a huge
-amount of goods.
+Великий багажний відсік: Достатньо місця для перевозки менших транспортних засобів або дуже великої кількості товарів.
 
-MedBay: Advanced automated med-
-ical equipment. Can put people into
-stasis and, with time, heal even the
-most grievous wounds. Characters
-resting in a medbay overnight heal all
-their HP instead of half their total. If a
-character falls to 0HP they can choose
-to wait to Roll the Dice to learn their
-fate. If they make it to a MedBay with-
-in a few minutes, they get +1 to the roll.
+Медблок: Просунуте автоматичне медичне устаткування. Тут можна помістити людину в стазис і з часом вилікувати навіть найбільш важкі поранення. Персонаж, відпочиваючи в медблоці, за ніч може відновити своє здоров'я повністю, а не тільки половину. Якщо у персонажа рівень здоров'я впад до нуля, він може зачекати з кидком кубів. Якщо його доставлять в медблок протягом декількох хвилин, він отримає бонус +1 до кидка.
 
-More powerful weapons: +1 damage*
+Додаткое озброєння: +1 до ушкоджень*
 
-Shuttle Hangar: Comes with a small
-shuttle which can fly independently, but
-cannot travel between stars on its own.
+Ангар для шатла: Йде разом з невеликим шатлом, що може самостійно літати в межах системи, але нездатний виконувати міжзоряні перельоти.
 
-Additional ship upgrades may be
-bought in play for 50 Credits each
-while the ship is in port.
+Будь які додаткові апгрейди можна купити протягом гри за 50 кредитів за кожен в будь-якому порту.
 
 ###### CONTROLLING THE SHIP
 
