@@ -996,10 +996,10 @@ rerolling one of the dice if you wish. If
 successful, do maximum possible dam-
 age for your weapon, ignoring armor.</seg>
       </tuv>
-      <tuv lang="uk" changeid="darkmentat" changedate="20220521T121957Z" creationid="darkmentat" creationdate="20220520T205425Z">
+      <tuv lang="uk" changeid="darkmentat" changedate="20220522T175024Z" creationid="darkmentat" creationdate="20220520T205425Z">
         <seg>ТАЛАНТИ:
 
-**Підступний удар:** Коли ви атакуєте несподівано, ціль не очікує удару чи ви застали її зненацька, вважайте, що у вас є підхоже вміння і ви можете перекинути один з випавших кубиків. В випадку успіху ви наносите максимальне для вашої зброї ушкодження, ігноруючи броню.</seg>
+**Підступний удар:** Коли ви атакуєте несподівано, ціль не очікує удару чи ви застали її зненацька, вважайте, що у вас є підхоже вміння і ви можете перекинути один з випавших кубиків. В випадку успіху ви наносите максимальне для вашої зброї ушкодження цілі, ігноруючи броню.</seg>
       </tuv>
     </tu>
     <tu>
@@ -1645,8 +1645,8 @@ others get a night’s rest in your pres-
 ence, they roll 1D6 and heal that much
 additional Health.</seg>
       </tuv>
-      <tuv lang="uk" changeid="darkmentat" changedate="20220522T174906Z" creationid="darkmentat" creationdate="20220520T215222Z">
-        <seg>**Медик:** Коли ви надаєте першу допомогу, ви додатково лікуєте +2 пункти здоров'я. Коли хтось відпочиває цілу ніч у вашій присутності, він може кинути к6 та вилікувати стільки додаткового здоров'я.</seg>
+      <tuv lang="uk" changeid="darkmentat" changedate="20220522T174946Z" creationid="darkmentat" creationdate="20220520T215222Z">
+        <seg>**Медик:** Коли ви надаєте першу допомогу, ви додатково лікуєте +2 пункти здоров'я. Коли хтось відпочиває цілу ніч під вашим наглядом, він може кинути к6 та вилікувати ще стільки здоров'я.</seg>
       </tuv>
     </tu>
     <tu>
@@ -1987,8 +1987,8 @@ If someone would surprise you, you get
 the jump on them instead. You always
 act first in a fight.</seg>
       </tuv>
-      <tuv lang="uk" changeid="darkmentat" changedate="20220520T210848Z" creationid="darkmentat" creationdate="20220520T210848Z">
-        <seg>**Стріляй першим:** Вас неможливо заскочити зненацька, якщо хтось хоче влаштувати вам неприємну несподіванку, ви все одно будете на крок попереду. Ви завжди дієте першим в бою.</seg>
+      <tuv lang="uk" changeid="darkmentat" changedate="20220522T175305Z" creationid="darkmentat" creationdate="20220520T210848Z">
+        <seg>**Стріляй першим:** Вас неможливо заскочити зненацька, якщо хтось хоче влаштувати вам неприємну несподіванку, то замість цього це ви застанете їх зненацька. Ви завжди дієте першим в бою.</seg>
       </tuv>
     </tu>
     <tu>
