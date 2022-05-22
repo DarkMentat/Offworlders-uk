@@ -474,30 +474,15 @@ biomechanical implants.
 
 Будь які додаткові апгрейди можна купити протягом гри за 50 кредитів за кожен в будь-якому порту.
 
-###### CONTROLLING THE SHIP
+###### УПРАВЛІННЯ ЗОРЕЛЬОТОМ
 
-Other than **Damage** , **Hull** , and **A rmor** ,
-the ship does not have attributes of its
-own. Players control the ship with their
-own attributes and skills, rolling the
-dice in dangerous situations.
+Окрім власних показників **ушкодження**, **корпусу** та **захисту**, у корабля не має якихось власних параметрів чи атрибутів. Гравець керує човном, використовуючи атрибути та вміння свого персонажу, кидаючи куби у випадку загрози.
 
-Ship combat works the same way as
-combat among individuals. When a
-ship is damaged, subtract damage
-from its **Hull**.
+Боєзіткнення на кораблі працює таким же чином, як і при бою окремих людей. Коли корабель підбитий, відніміть нанесені ушкодження (враховуючи захист) з його корпусу.
 
-When a ship reaches **0 Hull** , it is dis-
-abled and at the mercy of its enemies or
-the elements. Critical ship systems may
-be dangerously malfunctioning.If a
-person is unlucky enough to be hit with
-a ship’s weapons, multiply the total
-damage by **5**. Small arms carried by
-people are incapable of inflicting signif-
-icant damage to a starship’s **Hull**.
+Коли корпус корабля сягає нуля, він виведений зі строю та кинутий напризволяще його ворогам. Критичні системи будуть виведені з ладу. Якщо персонаж був досить необачний, щоб потрапити під вогонь корабельних гармат, помножте сумарні ушкодження на 5. Маленька стрілецька зброє не здатна нанести значних ушкоджень корпусу корабля. 
 
-###### TRAVEL
+###### ПОДОРОЖІ
 
 On your ship, you can travel between
 planets and other locations in the
