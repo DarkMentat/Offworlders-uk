@@ -1034,8 +1034,8 @@ two abilities.</seg>
       <tuv lang="en-US">
         <seg>Additional A rmor: +1 armor*</seg>
       </tuv>
-      <tuv lang="uk" changeid="darkmentat" changedate="20220522T181200Z" creationid="darkmentat" creationdate="20220522T100825Z">
-        <seg>**Додаткова броня:** +1 захисту*</seg>
+      <tuv lang="uk" changeid="darkmentat" changedate="20220522T181523Z" creationid="darkmentat" creationdate="20220522T100825Z">
+        <seg>**Додаткова броня:** +1 захисту *</seg>
       </tuv>
     </tu>
     <tu>
@@ -1055,8 +1055,8 @@ trip, you can choose either to take half
 the time or use half the amount of fuel.
 Round up.</seg>
       </tuv>
-      <tuv lang="uk" changeid="darkmentat" changedate="20220522T181203Z" creationid="darkmentat" creationdate="20220522T100959Z">
-        <seg>**Просунутий гіпердрайв:** Для кожної міжзоряної подорожі ви можете або потратити вдвічі менше часу, або вдвічі менше паливо. Округлення йде вгору.</seg>
+      <tuv lang="uk" changeid="darkmentat" changedate="20220522T181253Z" creationid="darkmentat" creationdate="20220522T100959Z">
+        <seg>**Просунутий гіпердрайв:** Для кожної міжзоряної подорожі ви можете або потратити вдвічі менше часу, або вдвічі менше палива. Округлення йде вгору.</seg>
       </tuv>
     </tu>
     <tu>
@@ -1633,8 +1633,8 @@ to wait to Roll the Dice to learn their
 fate. If they make it to a MedBay with-
 in a few minutes, they get +1 to the roll.</seg>
       </tuv>
-      <tuv lang="uk" changeid="darkmentat" changedate="20220522T181222Z" creationid="darkmentat" creationdate="20220522T102234Z">
-        <seg>**Медблок:** Просунуте автоматичне медичне устаткування. Тут можна помістити людину в стазис і з часом вилікувати навіть найбільш важкі поранення. Персонаж, відпочиваючи в медблоці, за ніч може відновити своє здоров'я повністю, а не тільки половину. Якщо у персонажа рівень здоров'я впад до нуля, він може зачекати з кидком кубів. Якщо його доставлять в медблок протягом декількох хвилин, він отримає бонус +1 до кидка.</seg>
+      <tuv lang="uk" changeid="darkmentat" changedate="20220522T181442Z" creationid="darkmentat" creationdate="20220522T102234Z">
+        <seg>**Медблок:** Просунуте автоматизоване медичне устаткування. Тут можна помістити людину в стазис і з часом вилікувати навіть найбільш важкі поранення. Персонаж, відпочиваючи в медблоці, за ніч може відновити своє здоров'я повністю, а не тільки половину. Якщо у персонажа рівень здоров'я впаде до нуля, він може зачекати з кидком кубів. Якщо його доставлять в медблок протягом декількох хвилин, він отримає бонус +1 до кидка.</seg>
       </tuv>
     </tu>
     <tu>
@@ -1653,8 +1653,8 @@ additional Health.</seg>
       <tuv lang="en-US">
         <seg>More powerful weapons: +1 damage*</seg>
       </tuv>
-      <tuv lang="uk" changeid="darkmentat" changedate="20220522T181224Z" creationid="darkmentat" creationdate="20220522T102250Z">
-        <seg>**Додаткое озброєння:** +1 до ушкоджень*</seg>
+      <tuv lang="uk" changeid="darkmentat" changedate="20220522T181516Z" creationid="darkmentat" creationdate="20220522T102250Z">
+        <seg>**Додаткое озброєння:** +1 до ушкоджень *</seg>
       </tuv>
     </tu>
     <tu>
