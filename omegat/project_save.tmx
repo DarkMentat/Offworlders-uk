@@ -1613,6 +1613,17 @@ cific information.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Ship combat works the same way as
+combat among individuals. When a
+ship is damaged, subtract damage
+from its **Hull**.</seg>
+      </tuv>
+      <tuv lang="uk" changeid="darkmentat" changedate="20220522T103042Z" creationid="darkmentat" creationdate="20220522T103042Z">
+        <seg>Боєзіткнення на кораблі працює таким же чином, як і при бою окремих людей. Коли корабель підбитий, відніміть нанесені ушкодження (враховуючи захист) з його корпусу.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Shoot First: You cannot be surprised.
 If someone would surprise you, you get
 the jump on them instead. You always
