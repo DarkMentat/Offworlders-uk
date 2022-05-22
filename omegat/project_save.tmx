@@ -844,6 +844,16 @@ two abilities.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Additional ship upgrades may be
+bought in play for 50 Credits each
+while the ship is in port.</seg>
+      </tuv>
+      <tuv lang="uk" changeid="darkmentat" changedate="20220522T102404Z" creationid="darkmentat" creationdate="20220522T102404Z">
+        <seg>Будь які додаткові апгрейди можна купити протягом гри за 50 кредитів за кожен в будь-якому порту.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Advanced Drive: For each interstellar
 trip, you can choose either to take half
 the time or use half the amount of fuel.
@@ -1322,6 +1332,14 @@ additional Health.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>More powerful weapons: +1 damage*</seg>
+      </tuv>
+      <tuv lang="uk" changeid="darkmentat" changedate="20220522T102250Z" creationid="darkmentat" creationdate="20220522T102250Z">
+        <seg>Додаткое озброєння: +1 до ушкоджень*</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Nothing Never Happens. No matter
 what the outcome is, rolling the dice
 always changes the fictional situation.
@@ -1582,6 +1600,16 @@ act first in a fight.</seg>
       </tuv>
       <tuv lang="uk" changeid="darkmentat" changedate="20220520T210848Z" creationid="darkmentat" creationdate="20220520T210848Z">
         <seg>**Стріляй першим:** Вас неможливо заскочити зненацька, якщо хтось хоче влаштувати вам неприємну несподіванку, ви все одно будете на крок попереду. Ви завжди дієте першим в бою.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Shuttle Hangar: Comes with a small
+shuttle which can fly independently, but
+cannot travel between stars on its own.</seg>
+      </tuv>
+      <tuv lang="uk" changeid="darkmentat" changedate="20220522T102329Z" creationid="darkmentat" creationdate="20220522T102329Z">
+        <seg>Ангар для шатла: Йде разом з невеликим шатлом, що може самостійно літати в межах системи, але нездатний виконувати міжзоряні перельоти.</seg>
       </tuv>
     </tu>
     <tu>
