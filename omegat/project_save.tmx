@@ -1255,10 +1255,10 @@ esting about the universe?
 Did we overcome a difficult challenge or
 dangerous adversary?</seg>
       </tuv>
-      <tuv lang="uk" changeid="darkmentat" changedate="20220522T122929Z" creationid="darkmentat" creationdate="20220522T122929Z">
+      <tuv lang="uk" changeid="darkmentat" changedate="20220522T182238Z" creationid="darkmentat" creationdate="20220522T122929Z">
         <seg>- Чи отримали ми прибуток?
-- Чи відкрили ми щось нове та цікаве про всесвіт?
-- ЧИ подолали ми складний виклик чи небезпечного супротивника?</seg>
+- Чи відкрили ми щось нове й цікаве про всесвіт?
+- Чи подолали ми складний виклик чи небезпечного супротивника?</seg>
       </tuv>
     </tu>
     <tu>
@@ -1885,9 +1885,9 @@ Any time a player **Rolls the Dice** and
 the final result is **6** or less, their char-
 acter earns **1 X P.**</seg>
       </tuv>
-      <tuv lang="uk" changeid="darkmentat" changedate="20220522T182119Z" creationid="darkmentat" creationdate="20220522T122725Z">
+      <tuv lang="uk" changeid="darkmentat" changedate="20220522T182219Z" creationid="darkmentat" creationdate="20220522T122725Z">
         <seg>**ПРОВАЛЮЮЧИ КИДКИ**
-Кожного разу, коли гравець кидає куби та в результаті отримує **6 та менше**, його персонаж отримує 1 пункт досвіду.</seg>
+Кожного разу, коли гравець кидає куби та в результаті отримує **6 та менше**, його персонаж отримує по 1 пункту досвіду.</seg>
       </tuv>
     </tu>
     <tu>
@@ -2156,8 +2156,8 @@ answered in character, but the players
 should discuss how their characters
 learned about each other on the trip.</seg>
       </tuv>
-      <tuv lang="uk" changeid="darkmentat" changedate="20220522T124310Z" creationid="darkmentat" creationdate="20220522T124310Z">
-        <seg>Ці питання персонажі гравців не задають один одному усно, тут скоріше гравцям варто обговорити як саме їх персонажі дізнались більше один про одного під час подорожі.</seg>
+      <tuv lang="uk" changeid="darkmentat" changedate="20220522T182343Z" creationid="darkmentat" creationdate="20220522T124310Z">
+        <seg>Ці питання персонажі не задають один одному усно, тут скоріше саме гравцям варто обговорити як саме їх персонажі дізнались більше один про одного під час подорожі.</seg>
       </tuv>
     </tu>
     <tu>
@@ -2354,8 +2354,9 @@ Increase an attribute by 1 (Max +2) 10XP
 Increase an attribute by 1 (Max +2) 10XP
 Increase an attribute by 1 (Max +3) 20XP</seg>
       </tuv>
-      <tuv lang="uk" changeid="darkmentat" changedate="20220522T124650Z" creationid="darkmentat" creationdate="20220522T124650Z">
-        <seg>Коли у персонажа гравця є хоча б 10 пунктів досвіду та трохи вільного часу, він може витратити його на щось з наступного розвитку. Кожен варіант можна взяти лише раз, в будь-якому порядку:
+      <tuv lang="uk" changeid="darkmentat" changedate="20220522T182504Z" creationid="darkmentat" creationdate="20220522T124650Z">
+        <seg>Коли у персонажа гравця є хоча б 10 пунктів досвіду та трохи вільного часу, він може витратити їх на щось з наступного списку. Кожен варіант можна взяти лише раз, в будь-якому порядку:
+
  - Отримати новий талант - 10 пунктів 
  - Отримати новий талант - 10 пунктів
  - Отримати новий талант - 10 пунктів
