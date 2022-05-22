@@ -2305,13 +2305,13 @@ Medium 2C 1D6+1 Rifles, shotguns, swords.
 Heavy 5C 1D6+2 Plasma cannons, sniper rifles, huge swords.
 Heavy.</seg>
       </tuv>
-      <tuv lang="uk" changeid="darkmentat" changedate="20220522T164047Z" creationid="darkmentat" creationdate="20220521T210932Z">
+      <tuv lang="uk" changeid="darkmentat" changedate="20220522T180815Z" creationid="darkmentat" creationdate="20220521T210932Z">
         <seg>| ЗБРОЯ         | КРЕД. | УШКОДЖЕННЯ          | ПРИМІТКИ                              |
 | ------------- | ----- | ------------------- | ------------------------------------- |
 | Без озброєння | 0К    | 2к6, вибрати менший | Пинки, удари кулаками                 |
 | Легка         | 1К    | к6                  | Пістолети, ножі, те, що легко сховати |
 | Середня       | 2К    | к6+1                | Рушниці, дробовики, мечі й катани     |
-| **Важка**     | 5К    | к6+2                | Плазмові гармати, снайперські рушниці |</seg>
+| Важка*        | 5К    | к6+2                | Плазмові гармати, снайперські рушниці |</seg>
       </tuv>
     </tu>
     <tu>
