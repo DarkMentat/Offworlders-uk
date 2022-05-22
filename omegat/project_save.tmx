@@ -2063,6 +2063,16 @@ upgrade may only be purchased once:</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>While stuck together on long journeys,
+PC’s can also learn about each other
+and earn XP. See Character Advancement.</seg>
+      </tuv>
+      <tuv lang="uk" changeid="darkmentat" changedate="20220522T122201Z" creationid="darkmentat" creationdate="20220522T122201Z">
+        <seg>Застрягаючи разом у довгих подорожах, екіпаж пізнає краще один одного і таким чином теж заробляє досвід. Деталі в розділі щодо Розвитку персонажа.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Willpower: Force of personality,
 charisma and determination. Use it to
 bark orders and manipulate people,
