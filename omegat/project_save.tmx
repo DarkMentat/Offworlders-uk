@@ -246,6 +246,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>###### CREATING THE SHIP</seg>
+      </tuv>
+      <tuv lang="uk" changeid="darkmentat" changedate="20220522T085624Z" creationid="darkmentat" creationdate="20220522T085624Z">
+        <seg>###### СТВОРЕННЯ ЗОРЕЛЬОТУ</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>###### CREDIT DUE</seg>
       </tuv>
       <tuv lang="uk" changeid="darkmentat" changedate="20220516T235154Z" creationid="darkmentat" creationdate="20220516T235154Z">
@@ -873,6 +881,18 @@ attributes, detailed later.</seg>
       </tuv>
       <tuv lang="uk" changeid="darkmentat" changedate="20220521T121449Z" creationid="darkmentat" creationdate="20220516T235438Z">
         <seg>**Атрибут:** Число, зазвичай від -1 до +3, що визначає загальні вміння персонажа гравця в деякій обсласті. В грі є чотири атрибути, про них трохи згодом.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>By default, the ship is a blank slate. It
+has a small cargo hold, does **1D6** dam-
+age, and has **15 Hull**. It has **0 A rmor**
+and **4 Max Drive Fuel**. It begins the
+game fully fueled.</seg>
+      </tuv>
+      <tuv lang="uk" changeid="darkmentat" changedate="20220522T090528Z" creationid="darkmentat" creationdate="20220522T090528Z">
+        <seg>Від початку корабель являє собою чистий лист. В ньому є невеликий багажний відсік, його озброєння наносить **к6** ушкоджень, а також він має **15 пунктів корпусу**. У нього **захист-0** та в запасі у нього **4 одиниці палива** для зоряних стрибків.</seg>
       </tuv>
     </tu>
     <tu>
