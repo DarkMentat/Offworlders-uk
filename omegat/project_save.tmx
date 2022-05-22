@@ -1272,6 +1272,27 @@ a partial success as a total success ( 10+ ).</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Luxury Passenger Quarters: They come
+with gourmet nutrition options and
+beautiful decor. For the crew who wants
+to attract a certain class of clientele.</seg>
+      </tuv>
+      <tuv lang="uk" changeid="darkmentat" changedate="20220522T101817Z" creationid="darkmentat" creationdate="20220522T101817Z">
+        <seg>Розкішні каюти пасажирів: Йдуть разом з вишуканими стравами та гарним декором. Для екіпажу, який хоче залучити елітний клас клієнтів.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Massive Cargo Hold: Large enough to
+transport smaller vehicles or a huge
+amount of goods.</seg>
+      </tuv>
+      <tuv lang="uk" changeid="darkmentat" changedate="20220522T101929Z" creationid="darkmentat" creationdate="20220522T101929Z">
+        <seg>Великий багажний відсік: Достатньо місця для перевозки менших транспортних засобів або дуже великої кількості товарів.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Medic: When you perform first aid,
 heal an additional +2 Health. When
 others get a night’s rest in your pres-
@@ -1741,8 +1762,8 @@ Cargo Hold** will get the PC’s lucra-
 tive shipping jobs carrying large and
 unusual cargo.</seg>
       </tuv>
-      <tuv lang="uk" changeid="darkmentat" changedate="20220522T095812Z" creationid="darkmentat" creationdate="20220522T095812Z">
-        <seg>І щоб підготувати собі корабель, гравцям потрібно тільки вибрати два апгрейда. Вони відкривають нові можливості, а також впливають на ті види завдань, за які вони будуть братись. На приклад, корабель без **розкішних пасажирських кают** не приверне увагу багатих пасажирів. А корабель з **великим багажним відсіком** дозволить персонажам гравців братись за прибуткову роботу великих та незвичних перевезень.</seg>
+      <tuv lang="uk" changeid="darkmentat" changedate="20220522T101834Z" creationid="darkmentat" creationdate="20220522T095812Z">
+        <seg>І щоб підготувати собі корабель, гравцям потрібно тільки вибрати два апгрейда. Вони відкривають нові можливості, а також впливають на ті види завдань, за які вони будуть братись. На приклад, корабель без **розкішних каюти пасажирів** не приверне увагу багатих пасажирів. А корабель з **великим багажним відсіком** дозволить персонажам гравців братись за прибуткову роботу великих та незвичних перевезень.</seg>
       </tuv>
     </tu>
     <tu>
