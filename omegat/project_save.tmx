@@ -1269,8 +1269,8 @@ tion will tend to escalate and shift. Let
 it! Respond to player actions and carry
 the narrative through.</seg>
       </tuv>
-      <tuv lang="uk" changeid="IrynaDobro" changedate="20220524T225240Z" creationid="IrynaDobro" creationdate="20220524T225240Z">
-        <seg>Постійно демонструйте гравцям тиск, небезпеку та можливості для вигоди. Покажіть їм загрозу що наближається, гроші на столі, ствол лазерного пістолету, астероїд що несеться прямо на корабель, потім спитайе - "Що робитимите?". Гравці пірнуть у події, вчинятимуть ризиково та кидатимуть куби. Ситуація буде змінюватись та загострюватись. Нехай! Відповідайте на заявки гравців та слідкуйте за розповідю.</seg>
+      <tuv lang="uk" changeid="IrynaDobro" changedate="20220524T225414Z" creationid="IrynaDobro" creationdate="20220524T225240Z">
+        <seg>Постійно демонструйте гравцям тиск, небезпеку та можливості для вигоди. Покажіть їм загрозу що наближається, гроші на столі, ствол лазерного пістолету, астероїд що несеться прямо на корабель, потім спитайе у гравців "Що робитимите?". Вони пірнуть у події, вчинятимуть ризиково та кидатимуть куби. Ситуація буде змінюватись та загострюватись. Нехай! Відповідайте на заявки гравців та слідкуйте за розповідю.</seg>
       </tuv>
     </tu>
     <tu>
@@ -1704,6 +1704,29 @@ additional Health.</seg>
       </tuv>
       <tuv lang="uk" changeid="darkmentat" changedate="20220522T181516Z" creationid="darkmentat" creationdate="20220522T102250Z">
         <seg>**Додаткое озброєння:** +1 до ушкоджень *</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Much of your work will be to take the
+results when the players roll the dice
+and interpret them into interesting
+narrative consequences. Your players
+will be hitting the 7-9 area a lot, and
+you’ll have to come up with tradeoffs
+and consequences on the fly. That’s
+why step 3 in Rolling The Dice is so
+important. If everyone has a good idea
+about potential outcomes before the
+dice hit the table, it will help things go
+smoothly. When your players roll 7-9,
+offer them tough choices and use up
+their resources (health, supply, etc.).
+Allow dice rolls to snowball and build
+on one another:</seg>
+      </tuv>
+      <tuv lang="uk" changeid="IrynaDobro" changedate="20220524T232036Z" creationid="IrynaDobro" creationdate="20220524T232012Z">
+        <seg></seg>
       </tuv>
     </tu>
     <tu>
