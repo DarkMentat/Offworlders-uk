@@ -1122,6 +1122,20 @@ damage is negated.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>As the GM, use the answers to these
+questions later. What happens when
+a bolt of superheated plasma burns
+through a barrel of drive fuel? Who’s
+coming after the Outlaw? Moment to
+moment action and even whole ses-
+sions of play can come from here.</seg>
+      </tuv>
+      <tuv lang="uk" changeid="IrynaDobro" changedate="20220524T000044Z" creationid="IrynaDobro" creationdate="20220524T000044Z">
+        <seg>Будучи майством використовуйте відповіді до цих питань пізніше. Що станеться коли куля з перегрітої плазми пропалить топливний бак? Хто прийшов по голову пройдисвіта? Це може створити гру від моменту-до-моменту, або таким чином може створюватись підготовка до цілої ігрової сессії. </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>As the GM, you have three primary goals. Everything you do should be in
 service of one of them.</seg>
       </tuv>
