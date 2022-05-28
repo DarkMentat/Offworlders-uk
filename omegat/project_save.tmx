@@ -2599,6 +2599,21 @@ their attributes.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>You can make the job as vague or
+detailed as you want. Some GMs are
+very improvisational, and some like to
+be very prepared. You can always flesh
+out additional details during play.
+What you shouldn’t do is plan an exact
+story, or try to predict exactly how the
+PCs will solve the problem.</seg>
+      </tuv>
+      <tuv lang="uk" changeid="darkmentat" changedate="20220528T215803Z" creationid="darkmentat" creationdate="20220528T215803Z">
+        <seg>Ви можете підготувати справу деталізовано чи тільки в загальних рисах, як вам буде зручно. Деякі майстри більше покладаються на імпровізацію, деякі -- на підготовку. До того ж ви можете завжди винайти додаткові деталі під час самої гри. Що ви не повинні робити, так це намагатись запланувати конкретний розвиток подій на грі чи передбачувати, як саме гравці будуть вирішувати питання.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>You start with 3 Supply. Supply is an
 abstract amount, representing any items
 you might be carrying. Gear is explained
