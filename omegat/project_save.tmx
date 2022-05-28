@@ -451,8 +451,8 @@
       <tuv lang="en-US">
         <seg>###### JOB: SPECIAL DELIVERY</seg>
       </tuv>
-      <tuv lang="uk" changeid="darkmentat" changedate="20220522T163836Z" creationid="darkmentat" creationdate="20220522T163615Z">
-        <seg>#### JOB: SPECIAL DELIVERY</seg>
+      <tuv lang="uk" changeid="darkmentat" changedate="20220528T220430Z" creationid="darkmentat" creationdate="20220522T163615Z">
+        <seg>#### СПРАВА: ОСОБЛИВА ДОСТАВКА</seg>
       </tuv>
     </tu>
     <tu>
@@ -1626,6 +1626,22 @@ ferent crew in the same shared universe.</seg>
       </tuv>
       <tuv lang="uk" changeid="darkmentat" changedate="20220522T125327Z" creationid="darkmentat" creationdate="20220522T125327Z">
         <seg>Також може бути цікаво розпочати нову кампанія після завершення попередньої, граючи за зовсім іншу команду в тому ж спільному всесвіті.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>JOB EVENTS:
+The PC’s are approaching Rego-
+lith, a mining colony built into an
+asteroid. Desperate for income,
+they’ve accepted a job from a
+mysterious contact to deliver a large
+crate, unopened, into the hands of
+a local rebel faction.</seg>
+      </tuv>
+      <tuv lang="uk" changeid="darkmentat" changedate="20220528T220844Z" creationid="darkmentat" creationdate="20220528T220844Z">
+        <seg>**ПОДІЇ СПРАВИ:**
+Персонажі гравців наближаються до Реголіта -- шахтарської колонії побудованій всередині астероїда. Від жаги до наживи вони взялись за роботу від загадкової особи по доставці великого ящика в закритому вигляді в руки місцевої бунтівної фракції.</seg>
       </tuv>
     </tu>
     <tu>
