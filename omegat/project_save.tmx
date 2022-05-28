@@ -1660,6 +1660,14 @@ a local rebel faction.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>JOB QUESTIONS:</seg>
+      </tuv>
+      <tuv lang="uk" changeid="darkmentat" changedate="20220528T221758Z" creationid="darkmentat" creationdate="20220528T221758Z">
+        <seg>ПИТАННЯ СПРАВИ:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Laser beams glitter in the darkness.
 Pirate Cruisers cut across the rings
 of a gas giant. A derelict vessel offers
@@ -2715,6 +2723,21 @@ someone else have the spotlight.</seg>
       </tuv>
       <tuv lang="uk" changeid="darkmentat" changedate="20220521T115425Z" creationid="darkmentat" creationdate="20220516T235308Z">
         <seg>Ви будете діяти по-черзі, так само як в розмові ви висловлюєтесь по-черзі. Часом хтось буде говорити довше, а часом потрібно буде відступити, щоб дати слово іншому.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>_- How will they circumvent customs?
+- What’s in the crate?
+- Who hired the PC’s?
+- Will the PC’s sympathize with the_
+    _rebels?_</seg>
+      </tuv>
+      <tuv lang="uk" changeid="darkmentat" changedate="20220528T222100Z" creationid="darkmentat" creationdate="20220528T222100Z">
+        <seg>- Як вони обійдуть обшук на митниці?
+- Що знаходиться в ящику?
+- Хто найняв персонажів гравців?
+- Чи стануть вони співчувати бунтівникам?</seg>
       </tuv>
     </tu>
     <tu>
