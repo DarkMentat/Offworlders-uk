@@ -2345,8 +2345,8 @@ it takes. It takes one week and one unit
 of drive fuel to travel between the clos-
 est neighboring star systems.</seg>
       </tuv>
-      <tuv lang="uk" changeid="darkmentat" changedate="20220522T121740Z" creationid="darkmentat" creationdate="20220522T121506Z">
-        <seg>Міжзоряні подорожі тривають значно довге та на них витрачається паливо. Коли ви збираєтесь перейти до іншої зоряної системи, майстер має сказати скільки часу та палива це займе. На переліт до найближчої сусідньої системи потрібно буде мінімум один тиждень та одиниця палива.</seg>
+      <tuv lang="uk" changeid="darkmentat" changedate="20220528T201237Z" creationid="darkmentat" creationdate="20220522T121506Z">
+        <seg>Міжзоряні подорожі тривають значно довше та на них витрачається паливо. Коли ви збираєтесь перейти до іншої зоряної системи, майстер має сказати скільки часу та палива це займе. На переліт до найближчої сусідньої системи потрібно буде мінімум один тиждень та одиниця палива.</seg>
       </tuv>
     </tu>
     <tu>
@@ -2509,8 +2509,10 @@ damage by **5**. Small arms carried by
 people are incapable of inflicting signif-
 icant damage to a starship’s **Hull**.</seg>
       </tuv>
-      <tuv lang="uk" changeid="darkmentat" changedate="20220528T200844Z" creationid="darkmentat" creationdate="20220522T103300Z">
-        <seg>Коли **корпус** корабля сягає нуля, він недієздатний та кинутий напризволяще його ворогам. Критичні системи будуть виведені з ладу та становитимуть небезпеку екіпажу. Якщо персонаж був досить необачний, щоб потрапити під вогонь корабельних гармат, множте сумарні ушкодження на 5. Маленька стрілецька зброє не здатна нанести значних ушкоджень _корпусу_ корабля. </seg>
+      <tuv lang="uk" changeid="darkmentat" changedate="20220528T201218Z" creationid="darkmentat" creationdate="20220522T103300Z">
+        <seg>Коли _корпус_ корабля сягає нуля, він недієздатний та кинутий напризволяще його ворогам. Критичні системи будуть виведені з ладу та становитимуть небезпеку екіпажу. 
+
+Якщо персонаж був досить необачний, щоб потрапити під вогонь корабельних гармат, множте сумарні ушкодження на 5. Маленька стрілецька зброє не здатна нанести значних ушкоджень _корпусу_ корабля. </seg>
       </tuv>
     </tu>
     <tu>
@@ -2572,8 +2574,8 @@ upgrade may only be purchased once:</seg>
 PC’s can also learn about each other
 and earn XP. See Character Advancement.</seg>
       </tuv>
-      <tuv lang="uk" changeid="darkmentat" changedate="20220522T181949Z" creationid="darkmentat" creationdate="20220522T122201Z">
-        <seg>Застрягаючи разом у довгих подорожах, екіпаж пізнає краще один одного і таким чином теж заробляє досвід. Деталі в розділі щодо _РОЗВИТКУ ПЕРСОНАЖА_.</seg>
+      <tuv lang="uk" changeid="darkmentat" changedate="20220528T201350Z" creationid="darkmentat" creationdate="20220522T122201Z">
+        <seg>Застрягаючи разом у довгих подорожах, екіпаж пізнає краще один одного і таким чином теж заробляє досвід. Деталі в розділі _РОЗВИТОК ПЕРСОНАЖА_.</seg>
       </tuv>
     </tu>
     <tu>
