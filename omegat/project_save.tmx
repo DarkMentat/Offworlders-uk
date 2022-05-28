@@ -2139,6 +2139,21 @@ as well, at the GM’s discretion.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Start your first session with the first
+job event. Describe where the players
+are and what they are doing. Put an
+obstacle directly in their way, or show
+them an opportunity to engage with
+the world. Invite them to start making
+decisions and rolling the dice. See what
+happens from there. When the action</seg>
+      </tuv>
+      <tuv lang="uk" changeid="darkmentat" changedate="20220528T220134Z" creationid="darkmentat" creationdate="20220528T220134Z">
+        <seg>Почніть вашу першу ігрову зустріч з деякої стартової події в Справі. Опишіть гравцям де вони знаходяться та що відбувається. Розмістіть перешкоди прямо на їх шляху або покажіть їм можливості для взаємодії зі світом. Запрошуйте їх приймати рішення та кидати куби. І дивіться що відбувається далі.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Survival: Finding food, air, shelter, directions, etc. in hostile environments.</seg>
       </tuv>
       <tuv lang="uk" changeid="darkmentat" changedate="20220522T173559Z" creationid="darkmentat" creationdate="20220519T202211Z">
@@ -2598,6 +2613,8 @@ their attributes.</seg>
       </tuv>
     </tu>
     <tu>
+      <note>Готуйте ситуації, локації, персонажів та події, а не запланований сюжет майбутньої гри.
+</note>
       <tuv lang="en-US">
         <seg>You can make the job as vague or
 detailed as you want. Some GMs are
