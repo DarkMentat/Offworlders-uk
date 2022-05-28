@@ -1153,6 +1153,20 @@ service of one of them.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>As they enter Regolith’s security
+perimeter, a customs vessel hails
+them and asks to come aboard to
+inspect the vessel.
+Their rebel contact is not waiting
+for them at the meeting point out
+on the surface of the asteroid.</seg>
+      </tuv>
+      <tuv lang="uk" changeid="darkmentat" changedate="20220528T221450Z" creationid="darkmentat" creationdate="20220528T221450Z">
+        <seg>Як тільки вони прибувають в периметр контролю Службою Безпеки Реголіту, їх човен йде на перехоплення корабля гравців та вимагає зайти на борт щоб оглянути судно. В той же час представника бунтівників немає на місці зустрічі на поверхні астероїда.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Assign each of these numbers to one
 of your attributes, in any order you
 wish: **+2** , **+1** , **0** , and **-1**. Think about
