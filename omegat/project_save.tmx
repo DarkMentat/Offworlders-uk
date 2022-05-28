@@ -2285,6 +2285,19 @@ learned about each other on the trip.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>The rebel headquarters, an aban-
+doned mining station, is under
+attack, and the rebels are pinned
+down inside. If they want to get
+paid, the PC’s will have to find a
+way to get them the crate.</seg>
+      </tuv>
+      <tuv lang="uk" changeid="darkmentat" changedate="20220528T221753Z" creationid="darkmentat" creationdate="20220528T221753Z">
+        <seg>Штаб-квартира бунтівників в покинутій видобувній станції знаходяться під штурмом і бунтівники зажаті в ній. І якщо гравці хочуть отримати свою оплату, вони мають знайти спосіб доставити їм контейнер.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>The ship is capable of flying between planets in a few hours, and of flying faster than light to traverse the
 space between stars in a matter of weeks. It comes with a space suit for each PC.</seg>
       </tuv>
