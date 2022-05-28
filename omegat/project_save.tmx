@@ -144,8 +144,8 @@
       <tuv lang="en-US">
         <seg>#### SESSION</seg>
       </tuv>
-      <tuv lang="uk" changeid="darkmentat" changedate="20220522T163615Z" creationid="darkmentat" creationdate="20220522T163615Z">
-        <seg>### SESSION</seg>
+      <tuv lang="uk" changeid="darkmentat" changedate="20220528T212845Z" creationid="darkmentat" creationdate="20220522T163615Z">
+        <seg>### ЗУСТРІЧ</seg>
       </tuv>
     </tu>
     <tu>
@@ -2519,6 +2519,19 @@ damage to the enemy.</seg>
       </tuv>
       <tuv lang="uk" changeid="darkmentat" changedate="20220521T191114Z" creationid="darkmentat" creationdate="20220521T191114Z">
         <seg>Коли гравець наносить ушкодження персонажу майстра, значення цих ушкоджень залежить від зброї, яку він використовує. Наприклад, важке озброєння наносить **к6+2** ушкоджень. Це значить, що гравцю потрібно кинути один **к6**, додати до результату **2** і саме стільки ушкоджень отримає ціль.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>When starting a session of Offworlders, you need to be ready with events that the players can respond to.
+Because the players are troubleshooters, mercenaries and freebooters, we call this the Job. A job is a simple
+list of events and facts, centered around a particular goal or problem. It should have just enough detail for you
+to know where you are going and keep things moving, but be flexible enough so that you can respond to the
+PC’s actions too. Additionally, write down several questions about the job that you are interested in answering
+during play. Lastly, jot down some names, attributes, and any notes for NPC’s the PC’s are likely to encounter.</seg>
+      </tuv>
+      <tuv lang="uk" changeid="darkmentat" changedate="20220528T213613Z" creationid="darkmentat" creationdate="20220528T213613Z">
+        <seg>Коли ви розпочинаєте зустріч при грі в Краєходців, вам потрібно підготувати ряд подій, з якими гравці можуть взаємодіяти. Оскільки персонажі гравців являються найманцями й авантюристами й самі шукають проблем на свою голову, ми називаємо це Справою. Справа -- це просто </seg>
       </tuv>
     </tu>
     <tu>
