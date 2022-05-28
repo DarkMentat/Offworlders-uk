@@ -1552,8 +1552,8 @@ uncertain enough to warrant a roll, go
 to step 2. Otherwise, the GM will tell
 you what happens.</seg>
       </tuv>
-      <tuv lang="uk" changeid="darkmentat" changedate="20220522T171028Z" creationid="darkmentat" creationdate="20220516T235701Z">
-        <seg>Якщо майстер вирішить, що дія може бути ризиково чи успіх достатньо неочевидний, щоб потрібен був кидок кубів, то перейдіть до наступного кроку. Інакше майстер просто опише що сталось далі.</seg>
+      <tuv lang="uk" changeid="darkmentat" changedate="20220528T170154Z" creationid="darkmentat" creationdate="20220516T235701Z">
+        <seg>Якщо майстер вирішить, що дія досить ризикова чи її успіх неочевидний та потрібен кидок кубів, то перейдіть до наступного кроку. Інакше майстер просто опише що сталось далі.</seg>
       </tuv>
     </tu>
     <tu>
