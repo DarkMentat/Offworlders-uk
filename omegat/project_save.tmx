@@ -1891,8 +1891,8 @@ own. Players control the ship with their
 own attributes and skills, rolling the
 dice in dangerous situations.</seg>
       </tuv>
-      <tuv lang="uk" changeid="darkmentat" changedate="20220522T181739Z" creationid="darkmentat" creationdate="20220522T102841Z">
-        <seg>Окрім власних показників **ушкодження**, міцності **корпусу** (аналог _здоров'я_) та **захисту**, у корабля немає якихось власних параметрів чи атрибутів. Гравець керує човном, використовуючи атрибути та вміння свого персонажу, кидаючи куби у випадку загрози.</seg>
+      <tuv lang="uk" changeid="darkmentat" changedate="20220528T200653Z" creationid="darkmentat" creationdate="20220522T102841Z">
+        <seg>Окрім власних показників **ушкодження**, міцності **корпусу** (аналог _здоров'я_) та **захисту**, у корабля немає якихось власних параметрів чи атрибутів. Гравець керує ним, використовуючи атрибути та вміння свого персонажу, кидаючи куби у випадку загрози.</seg>
       </tuv>
     </tu>
     <tu>
@@ -2072,8 +2072,8 @@ combat among individuals. When a
 ship is damaged, subtract damage
 from its **Hull**.</seg>
       </tuv>
-      <tuv lang="uk" changeid="darkmentat" changedate="20220522T103042Z" creationid="darkmentat" creationdate="20220522T103042Z">
-        <seg>Боєзіткнення на кораблі працює таким же чином, як і при бою окремих людей. Коли корабель підбитий, відніміть нанесені ушкодження (враховуючи захист) з його корпусу.</seg>
+      <tuv lang="uk" changeid="darkmentat" changedate="20220528T200802Z" creationid="darkmentat" creationdate="20220522T103042Z">
+        <seg>Боєзіткнення кораблів працює таким же чином, як і бій окремих людей. Коли корабель підбитий, відніміть нанесені ушкодження (враховуючи захист) з його корпусу.</seg>
       </tuv>
     </tu>
     <tu>
@@ -2509,8 +2509,8 @@ damage by **5**. Small arms carried by
 people are incapable of inflicting signif-
 icant damage to a starship’s **Hull**.</seg>
       </tuv>
-      <tuv lang="uk" changeid="darkmentat" changedate="20220522T181845Z" creationid="darkmentat" creationdate="20220522T103300Z">
-        <seg>Коли **корпус** корабля сягає нуля, він недієздатний та кинутий напризволяще його ворогам. Критичні системи будуть виведені з ладу. Якщо персонаж був досить необачний, щоб потрапити під вогонь корабельних гармат, множте сумарні ушкодження на 5. Маленька стрілецька зброє не здатна нанести значних ушкоджень корпусу корабля. </seg>
+      <tuv lang="uk" changeid="darkmentat" changedate="20220528T200844Z" creationid="darkmentat" creationdate="20220522T103300Z">
+        <seg>Коли **корпус** корабля сягає нуля, він недієздатний та кинутий напризволяще його ворогам. Критичні системи будуть виведені з ладу та становитимуть небезпеку екіпажу. Якщо персонаж був досить необачний, щоб потрапити під вогонь корабельних гармат, множте сумарні ушкодження на 5. Маленька стрілецька зброє не здатна нанести значних ушкоджень _корпусу_ корабля. </seg>
       </tuv>
     </tu>
     <tu>
