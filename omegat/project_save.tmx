@@ -2475,8 +2475,8 @@ their Willpower to the roll.</seg>
 well it goes. You’ll roll the dice and add one of your attributes to get a final result, then use that result to
 figure out what happens next.</seg>
       </tuv>
-      <tuv lang="uk" changeid="darkmentat" changedate="20220528T165918Z" creationid="darkmentat" creationdate="20220516T235534Z">
-        <seg>Коли персонаж гравця має здійснити щось небезпечне, стикається зі спротивом чи загалом можливий результат непевний, зверніться до гральних костей, щоб дізнатись наскільки добре для гравців підуть справи. Потрібно буде кинути два шестигранні кубики, додати до сумарного результату значення підхожого атрибуту та звірити це число як вказано нижче, щоб визначити напрям розвитку подій.</seg>
+      <tuv lang="uk" changeid="darkmentat" changedate="20220528T170853Z" creationid="darkmentat" creationdate="20220516T235534Z">
+        <seg>Коли персонаж гравця має здійснити щось небезпечне, стикається зі спротивом чи загалом можливий результат непевний, зверніться до ігрових кубиків щоб дізнатись як добре йдуть справи. Потрібно буде кинути куби, додати до сумарного результату значення підхожого атрибуту і використати результат, щоб визначити що станеться далі.</seg>
       </tuv>
     </tu>
     <tu>
@@ -2686,5 +2686,20 @@ verse you all own together.</seg>
       </tuv>
     </tu>
 <!-- Alternative translations -->
+    <tu>
+      <prop type="file">Offworlders.md.txt</prop>
+      <prop type="prev">#### ROLLING THE DICE</prop>
+      <prop type="next">###### 1. DESCRIBE WHAT YOU WANT TO DO, AND HOW YOU DO IT.</prop>
+      <note>є інший варіант перекладу
+</note>
+      <tuv lang="en-US">
+        <seg>When a player character does something dangerous, uncertain, or contested, use the dice to find out how
+well it goes. You’ll roll the dice and add one of your attributes to get a final result, then use that result to
+figure out what happens next.</seg>
+      </tuv>
+      <tuv lang="uk" changeid="darkmentat" changedate="20220528T170921Z" creationid="darkmentat" creationdate="20220528T170921Z">
+        <seg>Коли персонаж гравця має здійснити щось небезпечне, стикається зі спротивом чи загалом можливий результат непевний, зверніться до гральних костей, щоб дізнатись наскільки добре для гравців підуть справи. Потрібно буде кинути два шестигранні кубики, додати до сумарного результату значення підхожого атрибуту та звірити це число як вказано нижче, щоб визначити напрям розвитку подій.</seg>
+      </tuv>
+    </tu>
   </body>
 </tmx>
