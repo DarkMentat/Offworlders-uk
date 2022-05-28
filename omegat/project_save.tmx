@@ -1180,8 +1180,8 @@ cost much more, at the GM’s discretion.</seg>
 talent in a broad area. There are four
 attributes, detailed later.</seg>
       </tuv>
-      <tuv lang="uk" changeid="darkmentat" changedate="20220521T121449Z" creationid="darkmentat" creationdate="20220516T235438Z">
-        <seg>**Атрибут:** Число, зазвичай від -1 до +3, що визначає загальні вміння персонажа гравця в деякій обсласті. В грі є чотири атрибути, про них трохи згодом.</seg>
+      <tuv lang="uk" changeid="darkmentat" changedate="20220528T210410Z" creationid="darkmentat" creationdate="20220516T235438Z">
+        <seg>**Атрибут:** Число, зазвичай від **-1** до **+3**, що визначає загальні вміння персонажа гравця в деякій області. В грі є чотири атрибути, про них трохи згодом.</seg>
       </tuv>
     </tu>
     <tu>
@@ -1283,8 +1283,8 @@ roll two of these and add them togeth-
 er, along with an attribute. Sometimes
 you’ll roll just one.</seg>
       </tuv>
-      <tuv lang="uk" changeid="darkmentat" changedate="20220522T170924Z" creationid="darkmentat" creationdate="20220516T235513Z">
-        <seg>**К6:** Один шестигранний ігровий кубик. Зазвичай вам потрібно буде кинути два таких (позначається як 2к6) і до суми додати значення вибраного атрибуту. В деяких випадках потрібно кинути тільки один кубик.</seg>
+      <tuv lang="uk" changeid="darkmentat" changedate="20220528T210441Z" creationid="darkmentat" creationdate="20220516T235513Z">
+        <seg>**К6:** Один шестигранний ігровий кубик. Зазвичай вам потрібно буде кинути два таких (позначається як **2к6**) і до суми додати значення вибраного атрибуту. В деяких випадках потрібно кинути тільки один кубик.</seg>
       </tuv>
     </tu>
     <tu>
@@ -1423,8 +1423,8 @@ ing how much damage they should do.</seg>
 a rating between -1 and +3. The higher the rating, the more likely the character is to succeed when using it.
 You’ll use these attributes when you roll the dice. The four attributes are:</seg>
       </tuv>
-      <tuv lang="uk" changeid="darkmentat" changedate="20220522T172754Z" creationid="darkmentat" creationdate="20220519T195032Z">
-        <seg>У кожного персонажа гравця є чотири атрибути, що зображають різні шляхи вирішення проблем. Кожен атрибут має значення від -1 до +3. Чим вище це значення, тим з більшим шансом персонаж гравця досягне успіху при кидках кубів з цим атрибутом. В грі є чотири наступних атрибути: </seg>
+      <tuv lang="uk" changeid="darkmentat" changedate="20220528T210552Z" creationid="darkmentat" creationdate="20220519T195032Z">
+        <seg>У кожного персонажа гравця є чотири атрибути, що зображають різні шляхи вирішення проблем. Кожен атрибут має значення від **-1** до **+3**. Чим вище це значення, тим з більшим шансом персонаж гравця досягне успіху при кидках кубів з цим атрибутом. В грі є чотири наступних атрибути: </seg>
       </tuv>
     </tu>
     <tu>
