@@ -872,8 +872,8 @@ ruptible
 Rebel Agent: Shasta
 Rafaella</seg>
       </tuv>
-      <tuv lang="uk" changeid="darkmentat" changedate="20220528T222443Z" creationid="darkmentat" creationdate="20220528T222424Z">
-        <seg>Офіцери митниці, Делай та Хіро - 3 - _захист-1_ - к6 - ретельні, але корумповані</seg>
+      <tuv lang="uk" changeid="darkmentat" changedate="20220528T223044Z" creationid="darkmentat" creationdate="20220528T222424Z">
+        <seg>| Офіцери митниці, Делай та Хіро  | 3     | 1     | к6    | ретельні, але корумповані  |</seg>
       </tuv>
     </tu>
     <tu>
@@ -881,8 +881,8 @@ Rafaella</seg>
         <seg>6 1 1D6+1 A true believer with no
 sense of humor.</seg>
       </tuv>
-      <tuv lang="uk" changeid="darkmentat" changedate="20220528T222433Z" creationid="darkmentat" creationdate="20220528T222433Z">
-        <seg>Агент бунтівників Рафаела Шаста - 6 - _захист-1_ - к6+1 - фанатик без почуття гумору</seg>
+      <tuv lang="uk" changeid="darkmentat" changedate="20220528T223050Z" creationid="darkmentat" creationdate="20220528T222433Z">
+        <seg>| Агент бунтівників Рафаела Шаста | 6     | 1     | к6+1  | фанатик без почуття гумору |</seg>
       </tuv>
     </tu>
     <tu>
@@ -1778,8 +1778,9 @@ additional Health.</seg>
 Customs Officers:
 Delilah &amp; Hiro</seg>
       </tuv>
-      <tuv lang="uk" changeid="darkmentat" changedate="20220528T222205Z" creationid="darkmentat" creationdate="20220528T222205Z">
-        <seg>Персонажі майстра: здоров'я, броня, ушкодження, опис</seg>
+      <tuv lang="uk" changeid="darkmentat" changedate="20220528T223036Z" creationid="darkmentat" creationdate="20220528T222205Z">
+        <seg>| Персонажі майстра               | здрв. | броня | зброя | деталі                     |
+| ------------------------------- | ----- | ----- | ----- | -------------------------- |</seg>
       </tuv>
     </tu>
     <tu>
