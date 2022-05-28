@@ -2717,6 +2717,18 @@ verse you all own together.</seg>
         <seg>скоїла, та псіоніка про їх місце у суспільстві. Відповідаючи на ці питання ви як група створите всесвіт який повністю належить вам разом.</seg>
       </tuv>
     </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>starts to stall, look at another item on
+the job list and bring it into play. De-
+scribe to the players how it manifests,
+and see how they react. Repeat this
+process until the job is resolved.</seg>
+      </tuv>
+      <tuv lang="uk" changeid="darkmentat" changedate="20220528T220419Z" creationid="darkmentat" creationdate="20220528T220419Z">
+        <seg>Коли темп гри починає стихати, гляньте на новий пункт вибраної Справи та привнесіть його в гру. Опишіть гравцям як він себе проявляє та дивіться як гравці будуть на це реагувати. Повторюйте цей процес поки Справа не вичерпає себе й не буде завершеною.</seg>
+      </tuv>
+    </tu>
 <!-- Alternative translations -->
     <tu>
       <prop type="file">Offworlders.md.txt</prop>
