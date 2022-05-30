@@ -2828,6 +2828,16 @@ legalcode</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>_“You can repair the life support systems on
+the station, but you’ll have to spend 1 supply
+to have the right tools on hand.”_</seg>
+      </tuv>
+      <tuv lang="uk" changeid="IrynaDobro" changedate="20220530T212730Z" creationid="IrynaDobro" creationdate="20220530T212730Z">
+        <seg>_“Ти можеш відремонтувати систему життєзабезпечення на станції, але доведеться витратити 1 одиницю _припасів_ на потрібне знаряддя.”_</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>_“You manage to blast the pirate with your
 shotgun, but not before he gets a hit in. Take
 1D6 damage.”_</seg>
