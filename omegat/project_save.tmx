@@ -2832,8 +2832,8 @@ legalcode</seg>
 you asked for, but she’ll need some credits up
 front to show you’re good for it.”_</seg>
       </tuv>
-      <tuv lang="uk" changeid="IrynaDobro" changedate="20220530T212920Z" creationid="IrynaDobro" creationdate="20220530T212920Z">
-        <seg>_“Посередниця погодилась дістати тобі документи що ти просив, але вона вимагає гроші вперед.”_</seg>
+      <tuv lang="uk" changeid="IrynaDobro" changedate="20220530T213742Z" creationid="IrynaDobro" creationdate="20220530T212920Z">
+        <seg>```“Посередниця погодилась дістати тобі документи що ти просив, але вона вимагає гроші вперед.”```</seg>
       </tuv>
     </tu>
     <tu>
@@ -2842,8 +2842,8 @@ front to show you’re good for it.”_</seg>
 the station, but you’ll have to spend 1 supply
 to have the right tools on hand.”_</seg>
       </tuv>
-      <tuv lang="uk" changeid="IrynaDobro" changedate="20220530T212730Z" creationid="IrynaDobro" creationdate="20220530T212730Z">
-        <seg>_“Ти можеш відремонтувати систему життєзабезпечення на станції, але доведеться витратити 1 одиницю _припасів_ на потрібне знаряддя.”_</seg>
+      <tuv lang="uk" changeid="IrynaDobro" changedate="20220530T213721Z" creationid="IrynaDobro" creationdate="20220530T212730Z">
+        <seg>```“Ти можеш відремонтувати систему життєзабезпечення на станції, але доведеться витратити 1 одиницю _припасів_ на потрібне знаряддя.”```</seg>
       </tuv>
     </tu>
     <tu>
@@ -2852,8 +2852,8 @@ to have the right tools on hand.”_</seg>
 shotgun, but not before he gets a hit in. Take
 1D6 damage.”_</seg>
       </tuv>
-      <tuv lang="uk" changeid="IrynaDobro" changedate="20220530T212522Z" creationid="IrynaDobro" creationdate="20220530T212522Z">
-        <seg>_“Тобі вдалося підсмажити пірата своїм бластером, але він встиг поцілити у тебе. Отримай **к6** ушкоджень.”_</seg>
+      <tuv lang="uk" changeid="IrynaDobro" changedate="20220530T213703Z" creationid="IrynaDobro" creationdate="20220530T212522Z">
+        <seg>```“Тобі вдалося підсмажити пірата своїм бластером, але він встиг поцілити у тебе. Отримай **к6** ушкоджень.”```</seg>
       </tuv>
     </tu>
     <tu>
