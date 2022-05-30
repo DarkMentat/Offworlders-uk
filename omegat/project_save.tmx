@@ -2828,6 +2828,16 @@ legalcode</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>_“The fixer agrees to get you the documents
+you asked for, but she’ll need some credits up
+front to show you’re good for it.”_</seg>
+      </tuv>
+      <tuv lang="uk" changeid="IrynaDobro" changedate="20220530T212920Z" creationid="IrynaDobro" creationdate="20220530T212920Z">
+        <seg>_“Посередниця погодилась дістати тобі документи що ти просив, але вона вимагає гроші вперед.”_</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>_“You can repair the life support systems on
 the station, but you’ll have to spend 1 supply
 to have the right tools on hand.”_</seg>
