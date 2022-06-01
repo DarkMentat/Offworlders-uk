@@ -331,8 +331,8 @@
       <tuv lang="en-US">
         <seg>###### ADJUDICATE ABILITIES FAIRLY</seg>
       </tuv>
-      <tuv lang="uk" changeid="darkmentat" changedate="20220522T163836Z" creationid="darkmentat" creationdate="20220522T163615Z">
-        <seg>#### ADJUDICATE ABILITIES FAIRLY</seg>
+      <tuv lang="uk" changeid="IrynaDobro" changedate="20220601T123338Z" creationid="darkmentat" creationdate="20220522T163615Z">
+        <seg>#### СУДІТЬ ТАЛАНТИ СПРАВЕДЛИВО</seg>
       </tuv>
     </tu>
     <tu>
@@ -2249,8 +2249,8 @@ out of their abilities. They are meant to
 be powerful, and the players should be
 able to use them to do awesome things.</seg>
       </tuv>
-      <tuv lang="uk" changeid="IrynaDobro" changedate="20220530T214702Z" creationid="IrynaDobro" creationdate="20220530T214702Z">
-        <seg>Some of the class abilities are quite
+      <tuv lang="uk" changeid="IrynaDobro" changedate="20220601T123410Z" creationid="IrynaDobro" creationdate="20220530T214702Z">
+        <seg>Деякі класові таланти настільки широко описаніSome of the class abilities are quite
 broad in scope, and can even be a little
 vague. This is intentional. When there
 is a question about where and how an
