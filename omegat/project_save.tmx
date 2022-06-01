@@ -1645,6 +1645,16 @@ determine general prices.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>In all circumstances, use the stakes and
+the situation established in the fiction
+of the game to inform consequences.</seg>
+      </tuv>
+      <tuv lang="uk" changeid="IrynaDobro" changedate="20220601T123258Z" creationid="IrynaDobro" creationdate="20220601T123258Z">
+        <seg>В будь-якому випадку використовуйте ставки та ситуацію яка склалась щоб повідомити про наслідки.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Intelligence: Perception, logic and
 knowledge. Useful for analysis, mess-
 ing with technology, and knowing
