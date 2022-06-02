@@ -1720,8 +1720,8 @@ ferent crew in the same shared universe.</seg>
 to make them feel human. Give them names and goals, and describe them in detail to the players. Use the
 following guidelines to give them combat attributes, if necessary:</seg>
       </tuv>
-      <tuv lang="uk" changeid="darkmentat" changedate="20220602T211215Z" creationid="darkmentat" creationdate="20220602T211215Z">
-        <seg>В Краєходцях ввести в гру свого персонажа на льоту досить просто. Найголовніше — це зробити так, щоб вони відчувались як справжні люди. Придумайте їм імена та цілі, та ретельно опишіть їх гравцям. При необхідності, можете орієнтуватись на наступні настанови щодо бойових властивостей:</seg>
+      <tuv lang="uk" changeid="darkmentat" changedate="20220602T213831Z" creationid="darkmentat" creationdate="20220602T211215Z">
+        <seg>В Краєходцях ввести в гру свого персонажа на льоту досить просто. Найголовніше — це зробити так, щоб вони відчувались як справжні люди. Придумайте їм імена та цілі, та ретельно опишіть гравцям як вони виглядають. При необхідності, можете орієнтуватись на наступні настанови щодо бойових властивостей:</seg>
       </tuv>
     </tu>
     <tu>
@@ -2661,10 +2661,10 @@ Medium 2C 1D6+1 Rifles, shotguns, swords.
 Heavy 5C 1D6+2 Plasma cannons, sniper rifles, huge swords.
 Heavy.</seg>
       </tuv>
-      <tuv lang="uk" changeid="darkmentat" changedate="20220522T180815Z" creationid="darkmentat" creationdate="20220521T210932Z">
+      <tuv lang="uk" changeid="darkmentat" changedate="20220602T213700Z" creationid="darkmentat" creationdate="20220521T210932Z">
         <seg>| ЗБРОЯ         | КРЕД. | УШКОДЖЕННЯ          | ПРИМІТКИ                              |
 | ------------- | ----- | ------------------- | ------------------------------------- |
-| Без озброєння | 0К    | 2к6, вибрати менший | Пинки, удари кулаками                 |
+| Без озброєння | 0К    | менший з 2к6 | Пинки, удари кулаками                 |
 | Легка         | 1К    | к6                  | Пістолети, ножі, те, що легко сховати |
 | Середня       | 2К    | к6+1                | Рушниці, дробовики, мечі й катани     |
 | Важка*        | 5К    | к6+2                | Плазмові гармати, снайперські рушниці |</seg>
