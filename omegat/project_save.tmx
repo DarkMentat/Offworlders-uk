@@ -124,8 +124,8 @@
       <tuv lang="en-US">
         <seg>#### NON-PLAYER CHARACTERS</seg>
       </tuv>
-      <tuv lang="uk" changeid="darkmentat" changedate="20220522T163615Z" creationid="darkmentat" creationdate="20220522T163615Z">
-        <seg>### NON-PLAYER CHARACTERS</seg>
+      <tuv lang="uk" changeid="darkmentat" changedate="20220602T210700Z" creationid="darkmentat" creationdate="20220522T163615Z">
+        <seg>### ПЕРСОНАЖІ МАЙСТРА</seg>
       </tuv>
     </tu>
     <tu>
@@ -1676,6 +1676,16 @@ ferent crew in the same shared universe.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>It’s easy to come up with NPC’s and creatures on the fly in Offworlders. The most important thing for NPC’s is
+to make them feel human. Give them names and goals, and describe them in detail to the players. Use the
+following guidelines to give them combat attributes, if necessary:</seg>
+      </tuv>
+      <tuv lang="uk" changeid="darkmentat" changedate="20220602T211215Z" creationid="darkmentat" creationdate="20220602T211215Z">
+        <seg>В Краєходцях ввести в гру свого персонажа на льоту досить просто. Найголовніше — це зробити так, щоб вони відчувались як справжні люди. Придумайте їм імена та цілі, та ретельно опишіть їх гравцям. При необхідності, можете орієнтуватись на наступні настанови щодо бойових властивостей:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>JOB EVENTS:
 The PC’s are approaching Rego-
 lith, a mining colony built into an
@@ -2096,8 +2106,8 @@ acter earns **1 X P.**</seg>
         <seg>Remember that new ship upgrades
 cost 50 credits, and players will be</seg>
       </tuv>
-      <tuv lang="uk" changeid="darkmentat" changedate="20220602T210628Z" creationid="darkmentat" creationdate="20220602T210628Z">
-        <seg>Майте на увазі, що новий апгрейд для корабля коштує 50 _кредитів_ і гравці до того ж будуть витрачати гроші на паливо та ремонт корабля протягом подорожей. Також пам'ятайте, що основною нагородою в грі є досвід, тому якщо ви дасте гравцям дещо більше грошей на розтрати, від цього гра не зламається.</seg>
+      <tuv lang="uk" changeid="darkmentat" changedate="20220602T210647Z" creationid="darkmentat" creationdate="20220602T210628Z">
+        <seg>Майте на увазі, що новий апгрейд для корабля коштує 50 _кредитів_ і гравці до того ж будуть витрачати гроші на паливо та ремонт корабля протягом подорожей.</seg>
       </tuv>
     </tu>
     <tu>
@@ -2962,6 +2972,19 @@ job is unlikely.</seg>
       </tuv>
       <tuv lang="uk" changeid="darkmentat" changedate="20220602T210427Z" creationid="darkmentat" creationdate="20220602T210427Z">
         <seg>За особливо тривалі, небезпечні чи важливі завдання можна заробити до 100 _кредитів_. Але заробити більше за один виліт вже навряд чи можливо.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>spending some credits on fuel and ship
+repairs as they travel. Also remember
+that the main reward in this game is
+XP, so giving your players a little extra
+money to throw around won’t break
+anything too badly.</seg>
+      </tuv>
+      <tuv lang="uk" changeid="darkmentat" changedate="20220602T210651Z" creationid="darkmentat" creationdate="20220602T210637Z">
+        <seg>Також пам'ятайте, що основною нагородою в грі є досвід, тому якщо ви дасте гравцям дещо більше грошей на розтрати, від цього гра не зламається.</seg>
       </tuv>
     </tu>
     <tu>
