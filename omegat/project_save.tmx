@@ -183,8 +183,8 @@
       <tuv lang="en-US">
         <seg>#### THE LONG GAME: THE STAR MAP,  FACTIONS AND TIMELINES</seg>
       </tuv>
-      <tuv lang="uk" changeid="darkmentat" changedate="20220522T163615Z" creationid="darkmentat" creationdate="20220522T163615Z">
-        <seg>### THE LONG GAME: THE STAR MAP,  FACTIONS AND TIMELINES</seg>
+      <tuv lang="uk" changeid="darkmentat" changedate="20220602T213214Z" creationid="darkmentat" creationdate="20220522T163615Z">
+        <seg>### ДОВГА ГРА: ЗОРЯНА КАРТА, ФРАКЦІЇ ТА ТАЙМЛАЙНИ</seg>
       </tuv>
     </tu>
     <tu>
@@ -1658,6 +1658,16 @@ Characters earn XP each session, and may then spend XP on advancements.</seg>
       </tuv>
       <tuv lang="uk" changeid="darkmentat" changedate="20220522T182056Z" creationid="darkmentat" creationdate="20220522T122618Z">
         <seg>Якщо ви граєте в Краєходців більше кількох зустрічей, ваші персонажі ставатимуть більш могутніми та ефективними. В кінці кожної зустрічі вони заробляють досвід та можуть витратити його на свій розвиток.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>If you play multiple sessions of Offworlders, you’ll need to expand your game’s universe beyond a single job
+and location. To keep track of places and events in the game, you’ll create a star map and a timeline after
+your first session.</seg>
+      </tuv>
+      <tuv lang="uk" changeid="darkmentat" changedate="20220602T213416Z" creationid="darkmentat" creationdate="20220602T213416Z">
+        <seg>Якщо ви збираєтесь грати в Краєходців більше однієї зустрічі, вам варто підготувати ігровий всесвіт за межами одного місця чи завдання. Щоб відстежувати місця та ігрові події, після першої зустрічі варто створити зоряну мапу та таймлайни.</seg>
       </tuv>
     </tu>
     <tu>
