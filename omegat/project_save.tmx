@@ -199,8 +199,8 @@
       <tuv lang="en-US">
         <seg>#### THINGS YOU SHOULD DO</seg>
       </tuv>
-      <tuv lang="uk" changeid="darkmentat" changedate="20220602T214357Z" creationid="IrynaDobro" creationdate="20220523T225736Z">
-        <seg>### РЕЧІ, ЩО ТИ МАЄШ РОБИТИ</seg>
+      <tuv lang="uk" changeid="darkmentat" changedate="20220602T214635Z" creationid="IrynaDobro" creationdate="20220523T225736Z">
+        <seg>### ЩО ТОБІ ВАРТО РОБИТИ</seg>
       </tuv>
     </tu>
     <tu>
@@ -352,6 +352,7 @@
       </tuv>
     </tu>
     <tu>
+      <note>Тут я хочу додати щось наприклад "Але залишай місце здивуванню"</note>
       <tuv lang="en-US">
         <seg>###### ASK QUESTIONS AND USE THE ANSWERS</seg>
       </tuv>
@@ -485,8 +486,8 @@
       <tuv lang="en-US">
         <seg>###### PLAY TO FIND OUT WHAT HAPPENS</seg>
       </tuv>
-      <tuv lang="uk" changeid="darkmentat" changedate="20220522T163836Z" creationid="IrynaDobro" creationdate="20220520T215122Z">
-        <seg>#### ГРАЙ ЩОБ ДІЗНАТИСЬ ЩО БУДЕ ДАЛІ</seg>
+      <tuv lang="uk" changeid="darkmentat" changedate="20220602T214615Z" creationid="IrynaDobro" creationdate="20220520T215122Z">
+        <seg>#### ГРАЙ ЩОБ ДІЗНАТИСЬ ЩО СТАНЕТЬСЯ ДАЛІ</seg>
       </tuv>
     </tu>
     <tu>
