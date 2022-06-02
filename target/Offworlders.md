@@ -685,26 +685,25 @@ be sure to follow through on the result.
 
 В Краєходцях ввести в гру свого персонажа на льоту досить просто. Найголовніше — це зробити так, щоб вони відчувались як справжні люди. Придумайте їм імена та цілі, та ретельно опишіть їх гравцям. При необхідності, можете орієнтуватись на наступні настанови щодо бойових властивостей:
 
-CHARACTER HEALTH ARMOR DAMAGE
-Civilians, animals, generally untrained people 3 0 Lower of 2D6
-Security guards and beat cops 3 1 1D6
-Soldiers 6 1 1D6+1
-Elite units, powerful aliens 8 2 Higher of 2D6+1
-Huge monsters 16 3 2D6
+| ПЕРСОНАЖ                                  | ЗДОРОВ'Я | ЗАХИСТ | УШКОДЖЕННЯ       |
+| ----------------------------------------- | -------- | ------ | ---------------- |
+| Цивільні, звірі та нетреновані люди       | 3        | 0      | менший з 2к6     |
+| Рядові охоронці чи шпана для биття        | 3        | 1      | к6               |
+| Запеклі солдати та найманці               | 6        | 1      | к6+1             |
+| Елітні спецпризначенці, могутні прибульці | 8        | 2      | більший з 2к6 +1 |
+| Здоровенні чудовиська                     | 16       | 3      | 2к6              |
 
-### NON-PLAYER STARSHIPS
+### ЗОРЕЛЬОТИ В РОЗПОРЯДЖЕННІ МАЙСТРА
 
-Use these attributes to improvise encounters and conflicts with other ships.
+Використовуйте наступні характеристики під час імпровізації стичок чи перестрілок з іншими кораблями.
 
-SHIP HULL ARMOR DAMAGE
-Attack frigates 8 1 1D6+2
-Science vessels 4 0 0 (Unarmed)
-Capital ships 16 4 2D6
+| КОРАБЕЛЬ           | КОРПУС | ЗАХИСТ | УШКОДЖЕННЯ      |
+| ------------------ | ------ | ------ | --------------- |
+| Штурмовий фрегат   | 8      | 1      | к6              |
+| Дослідницьке судно | 4      | 0      | 0 (беззбройний) |
+| Флагман флоту      | 16     | 4      | 2к6             |
 
-Feel free to tweak and remix the attributes above to come up with new threats
-and characters. Remember that enemies will react intelligently to outwit the
-players, and will be unlikely to charge into a fight head on, or fight to the death
-without a good reason.
+Не бійтесь експериментувати з вказаними вище характеристиками для нових загроз чи персонажів. Пам'ятайте, що вороги мають розумно реагувати на дії гравців та застосовувати долю хитрості, і дуже малоймовірно щоб вони стрімголов вривались в бійку й бились до останнього без якоїсь підходящої причини.
 
 
 Nemesia-IV
@@ -720,13 +719,11 @@ _Suvannamaccha_
 
 Xiangliu Starfield
 
-### THE LONG GAME: THE STAR MAP,  FACTIONS AND TIMELINES
+### ДОВГА ГРА: ЗОРЯНА МАПА, ФРАКЦІЇ ТА ТАЙМЛАЙНИ
 
-If you play multiple sessions of Offworlders, you’ll need to expand your game’s universe beyond a single job
-and location. To keep track of places and events in the game, you’ll create a star map and a timeline after
-your first session.
+Якщо ви збираєтесь грати в Краєходців більше однієї зустрічі, вам варто підготувати ігровий всесвіт за межами одного місця чи завдання. Щоб відстежувати місця та ігрові події, після першої зустрічі варто створити зоряну мапу та таймлайни.
 
-#### THE STAR MAP
+#### ЗОРЯНА МАПА
 
 To start drawing the star map for your
 campaign, follow these steps:
