@@ -64,7 +64,7 @@ _Offworlders_ is licensed under a Creative Commons Attribution License: https://
 
 **Персонажі гравців:** Головні герої гри. Кожен гравець контролює свого персонажа та описує їх роздуми, слова та дії.
 
-**Атрибут:** Число, зазвичай від -1 до +3, що визначає загальні вміння персонажа гравця в деякій обсласті. В грі є чотири атрибути, про них трохи згодом.
+**Атрибут:** Число, зазвичай від **-1** до **+3**, що визначає загальні вміння персонажа гравця в деякій області. В грі є чотири атрибути, про них трохи згодом.
 
 **Вміння:** Одне з тих вмінь у грі, котрими можуть володіти чи не володіти персонажі гравців. Вони відображають кваліфікацію в деяких вузьких областях експертизи. Персонажі гравців починають з двома вміннями.
 
@@ -74,7 +74,7 @@ _Offworlders_ is licensed under a Creative Commons Attribution License: https://
 
 **Кидок кубів:** Коли персонаж гравця має здійснити щось небезпечне, стикається зі спротивом чи загалом результат його дій непевний, гравець має здійснити кидок кубів, як описано в наступному розділі.
 
-**К6:** Один шестигранний ігровий кубик. Зазвичай вам потрібно буде кинути два таких (позначається як 2к6) і до суми додати значення вибраного атрибуту. В деяких випадках потрібно кинути тільки один кубик.
+**К6:** Один шестигранний ігровий кубик. Зазвичай вам потрібно буде кинути два таких (позначається як **2к6**) і до суми додати значення вибраного атрибуту. В деяких випадках потрібно кинути тільки один кубик.
 
 **Досвід:** Протягом гри персонажі будуть заробляти пункти досвіду, щоб потратити їх на нові таланти чи щоб покращити атрибути.
 
@@ -116,7 +116,7 @@ _Offworlders_ is licensed under a Creative Commons Attribution License: https://
 
 ### АТРИБУТИ
 
-У кожного персонажа гравця є чотири атрибути, що зображають різні шляхи вирішення проблем. Кожен атрибут має значення від -1 до +3. Чим вище це значення, тим з більшим шансом персонаж гравця досягне успіху при кидках кубів з цим атрибутом. В грі є чотири наступних атрибути: 
+У кожного персонажа гравця є чотири атрибути, що зображають різні шляхи вирішення проблем. Кожен атрибут має значення від **-1** до **+3**. Чим вище це значення, тим з більшим шансом персонаж гравця досягне успіху при кидках кубів з цим атрибутом. В грі є чотири наступних атрибути: 
 
 **Сила:** Чиста міць, швидкість та агресія. Корисна при лазанні, погонях, руйнуванні речей та битвах в ближньому бою. Сила також визначає як багато пошкоджень може витримати персонаж.
 
@@ -168,7 +168,7 @@ _Offworlders_ is licensed under a Creative Commons Attribution License: https://
 
 #### 3. РОЗПОДІЛІТЬ АТРИБУТИ
 
-Призначте кожному атрибуту одне з чисел**+2**, **+1**, **0** та **-1** в будь-якому порядку. Врахуйте ваш клас та подумайте, чим скоріше за все буде займатись ваш персонаж, щоб визначитись який атрибут зробити високим, а який можна лишити низьким.
+Призначте кожному атрибуту одне з чисел **+2**, **+1**, **0** та **-1** в будь-якому порядку. Врахуйте ваш клас та подумайте, чим скоріше за все буде займатись ваш персонаж, щоб визначитись який атрибут зробити високим, а який можна лишити низьким.
 
 #### 4. ЗАПИШІТЬ ВАШЕ ЗДОРОВ'Я
 
@@ -180,9 +180,12 @@ _Offworlders_ is licensed under a Creative Commons Attribution License: https://
 
 - Ви починаєте з **3 припасами**
 - Ви починаєте з однією **легкою зброєю**, опишіть її.
+
 Далі візьміть на вибір:
 - Додатково **7 кредитів**
+
 **АБО**
+
 - **Легка броня** з _захистом-1_ та ще одну зброю будь-якого типу. 
 
 #### 6. ДАЙТЕ ІМ'Я ПЕРСОНАЖУ ТА ОПИШІТЬ ЙОГО
@@ -195,7 +198,7 @@ _Offworlders_ is licensed under a Creative Commons Attribution License: https://
 
 #### ПРИБУЛЬЦІ
 
-В Краєходцях немає особливих правил для інопланетних видів. Як ігровій групі, вам варто домовитись, чи існують розумні інопланетні види в ігровому всесвіті. Якщо існують і гравець хоче грати за прибульця — дозвольте йому, але це ніяк не вплине на механіку гри. Можливо всі Псіоніки являються представником одного виду, чи Вояка отримав свої вміння як уродженець клану войовничого виду. Часто гуманоїди в фантастиці — це по-факту просто ті самі люди, що заточені під якись конкретний троп чи архетип 
+В Краєходцях немає особливих правил для інопланетних видів. Як ігровій групі, вам варто домовитись, чи існують розумні інопланетні види в ігровому всесвіті. Якщо існують і гравець хоче грати за прибульця — дозвольте йому, але це ніяк не вплине на механіку гри. Можливо всі Псіоніки являються представником одного виду, чи Вояка отримав свої вміння як уродженець клану войовничого виду. Часто гуманоїди в фантастиці — це по-факту просто ті самі люди, що заточені під якийсь конкретний троп чи архетип 
 
 #### PLAYER CHARACTERS: THE CREW OF THE QUICHE LORRAINE
 
@@ -566,7 +569,7 @@ biomechanical implants.
 
 Не приходьте на гру з запланованою історією. Ви можете мати зариси для різних місій замовлень чи готових до дій своїх персонажів, але будьте готові все змінювати й підлаштовуватись по ходу гри. Коли гравці будуть кидати куби, будуть з'являтись неочікувані ускладнення та викликати хаос. Дозвольте цьому бути. Якщо ви будете намагатись завадити, щоб протягнути свою заплановану історію, ви будете діяти всупереч всій грі. Дайте гравцям впливати на події, це все ж таки будується їх історія.
 
-#### Речі що ти мажш зробити 
+#### Речі що ти мажш зробит
 
 ###### Задавати питання та використовувати відповіді
 
@@ -577,46 +580,27 @@ biomechanical implants.
 
 Будучи майством використовуйте відповіді до цих питань пізніше. Що станеться коли куля з перегрітої плазми пропалить топливний бак? Хто прийшов по голову пройдисвіта? Це може створити гру від моменту-до-моменту, або таким чином може проходити підготовка до цілої ігрової сессії. 
 
-#### PROMPT THE PLAYERS AND LET THINGS SNOWBALL
+#### ПІДШТОВХУЙТЕ ГРАВЦІВ ДО ДІЙ ТА ДОЗВОЛЬТЕ ПОДІЯМ РОЗВИВАТИСЬ ЛАВИНОПОДІБНО. І ПУСКАЙТЕ СНІЖОК
 
 Постійно демонструйте гравцям тиск, небезпеку та можливості для вигоди. Покажіть їм загрозу що наближається, гроші на столі, ствол лазерного пістолету, астероїд що несеться прямо на корабель, потім спитайе у гравців "Що робитимите?". Вони пірнуть у події, вчинятимуть ризиково та кидатимуть куби. Ситуація буде змінюватись та загострюватись. Нехай! Відповідайте на заявки гравців та слідкуйте за розповідю.
 
-#### RESPOND TO THE DICE
+#### ПОВАЖАЙТЕ РЕЗУЛЬТАТ КИДКІВ
 
+Значна частина вашої роботи полягатиме в інтерпритації результатів кидків гравців та перетворення їх на цікаві ігрові наслідки. Ваші гравці регулярно отримуватимуть часткові успіхи, і вам потрібно буде визначити на ходу ускладнення чи ціну для гравців. Саме тому крок 3 в розділі _КИДАЄМО КУБИ_ є таким важливим. Нехай кожен вільно висловлюється щодо можливого розвитку ситуації перед кидком, це допоможе грі йти плавніше. І тоді коли ваші гравці потрапляють у зону 7-9 запропонуйте їм важкий вибір або відніміть у них ух ресурси (_здоров'я_, _припаси_ і т.д.). Нехай наслідки кидків йдуть лавиноподібно та нашаровуються один на одного: 
 
+```“Тобі вдалося підсмажити пірата своїм бластером, але він встиг поцілити у тебе. Отримай **к6** ушкоджень.”```
 
-_“You manage to blast the pirate with your
-shotgun, but not before he gets a hit in. Take
-1D6 damage.”_
+```“Ти можеш відремонтувати систему життєзабезпечення на станції, але доведеться витратити 1 одиницю _припасів_ на потрібне знаряддя.”```
 
-_“You can repair the life support systems on
-the station, but you’ll have to spend 1 supply
-to have the right tools on hand.”_
+```“Посередниця погодилась дістати тобі документи що ти просив, але вона вимагає гроші вперед.”```
 
-_“The fixer agrees to get you the documents
-you asked for, but she’ll need some credits up
-front to show you’re good for it.”_
+На провалі, продемонструйте гравцям як їх вчинки загострюють ситуацію, та помістіть їх прямісінько у центр небезпеки. Використовуйте провали щоб нанести ушкодження або зруйнувати спорядження, призвести корабель до несправності, або завдати шкоди персонажу напряму. Таким чином ви маєте неймовірний вплив на градус небезпеки будь-якій ситуації. Збільшіть ушкодження та небезпеку для більш жорсткої гри, зробіть так щоб персонаж гравця почував себе більш героїчним, використовуючи менш суворі наслідки. 
 
-On a miss, show the players how
-their actions complicate and escalate
-the situation, or put them directly
-in danger. Use misses to damage or
-destroy equipment, cause their ship
-to malfunction, or hurt the players
-directly. You have a huge amount of
-influence over the difficulty of any
-given situation. Play up damage and
-danger for a grittier game, or make
-the PC’s feel more heroic by using less
-harsh consequences.
+В будь-якому випадку використовуйте ставки та ситуацію яка склалась щоб повідомити про наслідки.
 
-In all circumstances, use the stakes and
-the situation established in the fiction
-of the game to inform consequences.
+#### СУДІТЬ ТАЛАНТИ СПРАВЕДЛИВО
 
-#### ADJUDICATE ABILITIES FAIRLY
-
-Some of the class abilities are quite
+Деякі класові таланти настільки широко описаніSome of the class abilities are quite
 broad in scope, and can even be a little
 vague. This is intentional. When there
 is a question about where and how an
@@ -626,7 +610,7 @@ Try to be consistent, but flexible with
 the details. It’s important to challenge
 the players, but don’t try to cheat them
 out of their abilities. They are meant to
-be powerful, and the players should be
+be потужними, and the players should be
 able to use them to do awesome things.
 
 ### THE DIE OF FATE
@@ -652,140 +636,74 @@ and you don’t want to be responsible for
 the answer. But if you decide to use it,
 be sure to follow through on the result.
 
-### JOBS: A FRAMEWORK FOR YOUR
+### СПРАВИ: КАРКАС ВАШОЇ ПІДГОТОВКИ
 
-### SESSION
+### ЗУСТРІЧ
 
-When starting a session of Offworlders, you need to be ready with events that the players can respond to.
-Because the players are troubleshooters, mercenaries and freebooters, we call this the Job. A job is a simple
-list of events and facts, centered around a particular goal or problem. It should have just enough detail for you
-to know where you are going and keep things moving, but be flexible enough so that you can respond to the
-PC’s actions too. Additionally, write down several questions about the job that you are interested in answering
-during play. Lastly, jot down some names, attributes, and any notes for NPC’s the PC’s are likely to encounter.
+Коли ви розпочинаєте зустріч при грі в Краєходців, вам потрібно підготувати ряд подій, з якими гравці можуть взаємодіяти. Оскільки персонажі гравців являються найманцями й авантюристами й самі шукають проблем на свою голову, ми називаємо це Справою. Справа -- це просто перелік подій та фактів, зібраний навколо деякої задачі чи проблеми. Вони мають бути достатньо деталізовані, щоб ви могли знати що відбувається та підтримувати темп, але й мають бути достатньо гнучкими, щоб ви могли легко реагувати та підлаштовуватись під дії гравців. Та під кінець запишіть імена, характеристики та будь які примітки щодо своїх персонажів, котрих гравці ймовірно зустрінуть.
 
-You can make the job as vague or
-detailed as you want. Some GMs are
-very improvisational, and some like to
-be very prepared. You can always flesh
-out additional details during play.
-What you shouldn’t do is plan an exact
-story, or try to predict exactly how the
-PCs will solve the problem.
+Ви можете підготувати справу деталізовано чи тільки в загальних рисах, як вам буде зручно. Деякі майстри більше покладаються на імпровізацію, деякі -- на підготовку. До того ж ви можете завжди винайти додаткові деталі під час самої гри. Що ви не повинні робити, так це намагатись запланувати конкретний розвиток подій на грі чи передбачувати, як саме гравці будуть вирішувати питання.
 
-Start your first session with the first
-job event. Describe where the players
-are and what they are doing. Put an
-obstacle directly in their way, or show
-them an opportunity to engage with
-the world. Invite them to start making
-decisions and rolling the dice. See what
-happens from there. When the action
+Почніть вашу першу ігрову зустріч з деякої стартової події в Справі. Опишіть гравцям де вони знаходяться та що відбувається. Розмістіть перешкоди прямо на їх шляху або покажіть їм можливості для взаємодії зі світом. Запрошуйте їх приймати рішення та кидати куби. І дивіться що відбувається далі.
 
-starts to stall, look at another item on
-the job list and bring it into play. De-
-scribe to the players how it manifests,
-and see how they react. Repeat this
-process until the job is resolved.
+Коли темп гри починає стихати, гляньте на новий пункт вибраної Справи та привнесіть його в гру. Опишіть гравцям як він себе проявляє та дивіться як гравці будуть на це реагувати. Повторюйте цей процес поки Справа не вичерпає себе й не буде завершеною.
 
-#### JOB: SPECIAL DELIVERY
+#### СПРАВА: ОСОБЛИВА ДОСТАВКА
 
-JOB EVENTS:
-The PC’s are approaching Rego-
-lith, a mining colony built into an
-asteroid. Desperate for income,
-they’ve accepted a job from a
-mysterious contact to deliver a large
-crate, unopened, into the hands of
-a local rebel faction.
+**ПОДІЇ СПРАВИ:**
+Персонажі гравців наближаються до Реголіта -- шахтарської колонії побудованій всередині астероїда. Від жаги до наживи вони взялись за роботу від загадкової особи по доставці великого ящика в закритому вигляді в руки місцевої бунтівної фракції.
 
-As they enter Regolith’s security
-perimeter, a customs vessel hails
-them and asks to come aboard to
-inspect the vessel.
-Their rebel contact is not waiting
-for them at the meeting point out
-on the surface of the asteroid.
+Як тільки вони прибувають в периметр контролю Службою Безпеки Реголіту, їх човен йде на перехоплення корабля гравців та вимагає зайти на борт щоб оглянути судно. В той же час представника бунтівників немає на місці зустрічі на поверхні астероїда.
 
-The rebel headquarters, an aban-
-doned mining station, is under
-attack, and the rebels are pinned
-down inside. If they want to get
-paid, the PC’s will have to find a
-way to get them the crate.
+Штаб-квартира бунтівників в покинутій видобувній станції знаходяться під штурмом і бунтівники зажаті в ній. І якщо гравці хочуть отримати свою оплату, вони мають знайти спосіб доставити їм контейнер.
 
-JOB QUESTIONS:
+ПИТАННЯ СПРАВИ:
 
-_- How will they circumvent customs?
-- What’s in the crate?
-- Who hired the PC’s?
-- Will the PC’s sympathize with the_
-    _rebels?_
+- Як вони обійдуть обшук на митниці?
+- Що знаходиться в ящику?
+- Хто найняв персонажів гравців?
+- Чи стануть вони співчувати бунтівникам?
 
-NPCS HEALTH ARMOR DAMAGE ABOUT
-Customs Officers:
-Delilah & Hiro
+| Персонажі майстра               | здрв. | броня | зброя | деталі                     |
+| ------------------------------- | ----- | ----- | ----- | -------------------------- |
 
-3 1 1D6 Thorough, but cor-
-ruptible
-Rebel Agent: Shasta
-Rafaella
+| Офіцери митниці, Делай та Хіро  | 3     | 1     | к6    | ретельні, але корумповані  |
 
-6 1 1D6+1 A true believer with no
-sense of humor.
+| Агент бунтівників Рафаела Шаста | 6     | 1     | к6+1  | фанатик без почуття гумору |
 
-### CASH REWARDS
+### ГРОШОВА ВИНАГОРОДА
 
-The PC’s are going to be looking for
-ways to profit, to keep the ship flying
-and to line their own pockets. As the
-GM, it’s up to you to determine how
-much NPC’s are willing to pay them
-for their work and for any valuable loot
-they might dig up.For a typical job that
-lasts one session of game time, 30-50
+Персонажі гравців завжди знаходяться в пошуку вигоди, щоб тримати свій корабель на ходу та гаманець набитим до верху. Як майстру гри вам варто самостійно вирішувати яку винагороду запропонують гравцям ваші персонажі, а також які цінні трофеї вони зможуть знайти. Для звичайного завдання, яке можна виконати за одну ігрову зустріч, від 30 до 50 кредитів буде достатньо.
 
-credits is a pretty good range. Partic-
-ularly lengthy, dangerous, or import-
-ant jobs might pay up to 100 credits.
-Making more than that from a single
-job is unlikely.
+За особливо тривалі, небезпечні чи важливі завдання можна заробити до 100 _кредитів_. Але заробити більше за один виліт вже навряд чи можливо.
 
-Remember that new ship upgrades
-cost 50 credits, and players will be
+Майте на увазі, що новий апгрейд для корабля коштує 50 _кредитів_ і гравці до того ж будуть витрачати гроші на паливо та ремонт корабля протягом подорожей.
 
-spending some credits on fuel and ship
-repairs as they travel. Also remember
-that the main reward in this game is
-XP, so giving your players a little extra
-money to throw around won’t break
-anything too badly.
+Також пам'ятайте, що основною нагородою в грі є досвід, тому якщо ви дасте гравцям дещо більше грошей на розтрати, від цього гра не зламається.
 
-### NON-PLAYER CHARACTERS
+### ПЕРСОНАЖІ МАЙСТРА
 
-It’s easy to come up with NPC’s and creatures on the fly in Offworlders. The most important thing for NPC’s is
-to make them feel human. Give them names and goals, and describe them in detail to the players. Use the
-following guidelines to give them combat attributes, if necessary:
+В Краєходцях ввести в гру свого персонажа на льоту досить просто. Найголовніше — це зробити так, щоб вони відчувались як справжні люди. Придумайте їм імена та цілі, та ретельно опишіть їх гравцям. При необхідності, можете орієнтуватись на наступні настанови щодо бойових властивостей:
 
-CHARACTER HEALTH ARMOR DAMAGE
-Civilians, animals, generally untrained people 3 0 Lower of 2D6
-Security guards and beat cops 3 1 1D6
-Soldiers 6 1 1D6+1
-Elite units, powerful aliens 8 2 Higher of 2D6+1
-Huge monsters 16 3 2D6
+| ПЕРСОНАЖ                                  | ЗДОРОВ'Я | ЗАХИСТ | УШКОДЖЕННЯ       |
+| ----------------------------------------- | -------- | ------ | ---------------- |
+| Цивільні, звірі та нетреновані люди       | 3        | 0      | менший з 2к6     |
+| Рядові охоронці чи шпана для биття        | 3        | 1      | к6               |
+| Запеклі солдати та найманці               | 6        | 1      | к6+1             |
+| Елітні спецпризначенці, могутні прибульці | 8        | 2      | більший з 2к6 +1 |
+| Здоровенні чудовиська                     | 16       | 3      | 2к6              |
 
-### NON-PLAYER STARSHIPS
+### ЗОРЕЛЬОТИ В РОЗПОРЯДЖЕННІ МАЙСТРА
 
-Use these attributes to improvise encounters and conflicts with other ships.
+Використовуйте наступні характеристики під час імпровізації стичок чи перестрілок з іншими кораблями.
 
-SHIP HULL ARMOR DAMAGE
-Attack frigates 8 1 1D6+2
-Science vessels 4 0 0 (Unarmed)
-Capital ships 16 4 2D6
+| КОРАБЕЛЬ           | КОРПУС | ЗАХИСТ | УШКОДЖЕННЯ      |
+| ------------------ | ------ | ------ | --------------- |
+| Штурмовий фрегат   | 8      | 1      | к6              |
+| Дослідницьке судно | 4      | 0      | 0 (беззбройний) |
+| Флагман флоту      | 16     | 4      | 2к6             |
 
-Feel free to tweak and remix the attributes above to come up with new threats
-and characters. Remember that enemies will react intelligently to outwit the
-players, and will be unlikely to charge into a fight head on, or fight to the death
-without a good reason.
+Не бійтесь експериментувати з вказаними вище характеристиками для нових загроз чи персонажів. Пам'ятайте, що вороги мають розумно реагувати на дії гравців та застосовувати долю хитрості, і дуже малоймовірно щоб вони стрімголов вривались в бійку й бились до останнього без якоїсь підходящої причини.
 
 
 Nemesia-IV
@@ -801,13 +719,11 @@ _Suvannamaccha_
 
 Xiangliu Starfield
 
-### THE LONG GAME: THE STAR MAP,  FACTIONS AND TIMELINES
+### ДОВГА ГРА: ЗОРЯНА МАПА, ФРАКЦІЇ ТА ТАЙМЛАЙНИ
 
-If you play multiple sessions of Offworlders, you’ll need to expand your game’s universe beyond a single job
-and location. To keep track of places and events in the game, you’ll create a star map and a timeline after
-your first session.
+Якщо ви збираєтесь грати в Краєходців більше однієї зустрічі, вам варто підготувати ігровий всесвіт за межами одного місця чи завдання. Щоб відстежувати місця та ігрові події, після першої зустрічі варто створити зоряну мапу та таймлайни.
 
-#### THE STAR MAP
+#### ЗОРЯНА МАПА
 
 To start drawing the star map for your
 campaign, follow these steps:
