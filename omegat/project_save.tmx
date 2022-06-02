@@ -1241,6 +1241,25 @@ game fully fueled.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>CHARACTER HEALTH ARMOR DAMAGE
+Civilians, animals, generally untrained people 3 0 Lower of 2D6
+Security guards and beat cops 3 1 1D6
+Soldiers 6 1 1D6+1
+Elite units, powerful aliens 8 2 Higher of 2D6+1
+Huge monsters 16 3 2D6</seg>
+      </tuv>
+      <tuv lang="uk" changeid="darkmentat" changedate="20220602T212514Z" creationid="darkmentat" creationdate="20220602T212514Z">
+        <seg>| ПЕРСОНАЖ                                  | ЗДОРОВ'Я | ЗАХИСТ | УШКОДЖЕННЯ       |
+| ----------------------------------------- | -------- | ------ | ---------------- |
+| Цивільні, звірі та нетреновані люди       | 3        | 0      | менший з 2к6     |
+| Рядові охоронці чи шпана для биття        | 3        | 1      | к6               |
+| Запеклі солдати та найманці               | 6        | 1      | к6+1             |
+| Елітні спецпризначенці, могутні прибульці | 8        | 2      | більший з 2к6 +1 |
+| Здоровенні чудовиська                     | 16       | 3      | 2к6              |</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Characters earn XP in three ways:</seg>
       </tuv>
       <tuv lang="uk" changeid="darkmentat" changedate="20220522T122642Z" creationid="darkmentat" creationdate="20220522T122642Z">
