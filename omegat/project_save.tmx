@@ -1505,6 +1505,17 @@ sure they don’t overlap too much.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Feel free to tweak and remix the attributes above to come up with new threats
+and characters. Remember that enemies will react intelligently to outwit the
+players, and will be unlikely to charge into a fight head on, or fight to the death
+without a good reason.</seg>
+      </tuv>
+      <tuv lang="uk" changeid="darkmentat" changedate="20220602T213137Z" creationid="darkmentat" creationdate="20220602T213137Z">
+        <seg>Не бійтесь експериментувати з вказаними вище характеристиками для нових загроз чи персонажів. Пам'ятайте, що вороги мають розумно реагувати на дії гравців та застосовувати долю хитрості, і дуже малоймовірно щоб вони стрімголов вривались в бійку й бились до останнього без якоїсь підходящої причини.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>First Aid: If you have a few quiet min-
 utes, you can spend 1 Supply to heal
 another character 1D6 of Health.</seg>
