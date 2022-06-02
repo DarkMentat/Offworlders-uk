@@ -2093,6 +2093,15 @@ acter earns **1 X P.**</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Remember that new ship upgrades
+cost 50 credits, and players will be</seg>
+      </tuv>
+      <tuv lang="uk" changeid="darkmentat" changedate="20220602T210628Z" creationid="darkmentat" creationdate="20220602T210628Z">
+        <seg>Майте на увазі, що новий апгрейд для корабля коштує 50 _кредитів_ і гравці до того ж будуть витрачати гроші на паливо та ремонт корабля протягом подорожей. Також пам'ятайте, що основною нагородою в грі є досвід, тому якщо ви дасте гравцям дещо більше грошей на розтрати, від цього гра не зламається.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Resolve fights just like any other risky situation. When a player attacks an enemy who is prepared to defend
 themselves, they should almost always be rolling the dice to do it. When an enemy opens fire on a player, the
 player will likely be rolling the dice to avoid the attack or counter it somehow. There is no formal structure of
@@ -2941,6 +2950,18 @@ verse you all own together.</seg>
       </tuv>
       <tuv lang="uk" changeid="IrynaDobro" changedate="20220523T235346Z" creationid="IrynaDobro" creationdate="20220523T235346Z">
         <seg>скоїла, та псіоніка про їх місце у суспільстві. Відповідаючи на ці питання ви як група створите всесвіт який повністю належить вам разом.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>credits is a pretty good range. Partic-
+ularly lengthy, dangerous, or import-
+ant jobs might pay up to 100 credits.
+Making more than that from a single
+job is unlikely.</seg>
+      </tuv>
+      <tuv lang="uk" changeid="darkmentat" changedate="20220602T210427Z" creationid="darkmentat" creationdate="20220602T210427Z">
+        <seg>За особливо тривалі, небезпечні чи важливі завдання можна заробити до 100 _кредитів_. Але заробити більше за один виліт вже навряд чи можливо.</seg>
       </tuv>
     </tu>
     <tu>
