@@ -2713,6 +2713,18 @@ ably, but no larger.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>To make a timeline, think about the
+factions on your map, and the goals of
+each. What is happening in the uni-
+verse? How do the factions act against
+one another? Who is doing what?</seg>
+      </tuv>
+      <tuv lang="uk" changeid="darkmentat" changedate="20220603T130644Z" creationid="darkmentat" creationdate="20220603T130644Z">
+        <seg>Щоб створити таймлайн, подумайте про фракції на вашій мапі та які у них цілі. Що відбувається у всесвіті, як фракції протидіють одна одній, хто саме чим займається?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>To make the ship, the players simply
 select two upgrades. All upgrades
 will open new opportunities for the
