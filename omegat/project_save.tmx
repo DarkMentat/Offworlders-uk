@@ -2523,6 +2523,38 @@ as well, at the GM’s discretion.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Sometimes a situation will come up
+that needs to be resolved, but you
+don’t want to just decide yourself. For
+example when two NPC’s are fighting
+each other and you don’t know who
+will win, or if the PC’s enter a danger-
+ous system and you want to know if
+pirates come looking for them. In these
+situations, simply roll a D6. A high roll
+indicates a positive result for the PC’s
+and a low roll a negative one. You can
+make this either a binary yes/no or
+use degrees of goodness and badness,
+depending on the situation.</seg>
+      </tuv>
+      <tuv lang="uk" changeid="IrynaDobro" changedate="20220603T151249Z" creationid="IrynaDobro" creationdate="20220603T151249Z">
+        <seg>Часом ситуація відбудеться що повинна бути вирішена. На наприклад коли два For
+example when two NPC are fighting
+each other and you don’t know who
+will win, or if the PC’s enter a danger-
+ous system and you want to know if
+pirates come looking for them. In these
+situations, simply roll a D6. A high roll
+indicates a positive result for the PC’s
+and a low roll a negative one. You can
+make this either a binary yes/no or
+use degrees of goodness and badness,
+depending on the situation.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Start your first session with the first
 job event. Describe where the players
 are and what they are doing. Put an
