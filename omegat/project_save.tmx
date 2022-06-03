@@ -176,8 +176,8 @@
       <tuv lang="en-US">
         <seg>#### THE DIE OF FATE</seg>
       </tuv>
-      <tuv lang="uk" changeid="IrynaDobro" changedate="20220603T151612Z" creationid="darkmentat" creationdate="20220522T163615Z">
-        <seg>### СМЕРТЬ ДОЛ</seg>
+      <tuv lang="uk" changeid="IrynaDobro" changedate="20220603T151616Z" creationid="darkmentat" creationdate="20220522T163615Z">
+        <seg>### СМЕРТЬ ДОЛІ</seg>
       </tuv>
     </tu>
     <tu>
@@ -2538,13 +2538,8 @@ make this either a binary yes/no or
 use degrees of goodness and badness,
 depending on the situation.</seg>
       </tuv>
-      <tuv lang="uk" changeid="IrynaDobro" changedate="20220603T151603Z" creationid="IrynaDobro" creationdate="20220603T151249Z">
-        <seg>Часом ситуація відбудеться що повинна бути вирішена. На наприклад коли два неігрових персонажа є боряться один іншого і ти не знаєш хто буде виграш, або якщо комп'ютери заходять у небезпечну систему і  For
-example when two NPC are fighting
-each other and you don’t know who
-will win, or if the PC’s enter a danger-
-ous system and you want to know if
-pirates come looking for them. In these
+      <tuv lang="uk" changeid="IrynaDobro" changedate="20220603T151820Z" creationid="IrynaDobro" creationdate="20220603T151249Z">
+        <seg>Часом стається ситуація яка має бути вирішена, але ви не бажаєте її вирішувати самостійно. Для прикладу коли двоє неігрових персонажа In these
 situations, simply roll a D6. A high roll
 indicates a positive result for the PC’s
 and a low roll a negative one. You can
