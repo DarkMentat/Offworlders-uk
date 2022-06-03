@@ -567,8 +567,8 @@
       <tuv lang="en-US">
         <seg>###### THE FUTURE</seg>
       </tuv>
-      <tuv lang="uk" changeid="darkmentat" changedate="20220522T163836Z" creationid="darkmentat" creationdate="20220522T163615Z">
-        <seg>#### THE FUTURE</seg>
+      <tuv lang="uk" changeid="darkmentat" changedate="20220603T132539Z" creationid="darkmentat" creationdate="20220522T163615Z">
+        <seg>#### МАЙБУТНЄ</seg>
       </tuv>
     </tu>
     <tu>
@@ -1305,6 +1305,23 @@ attributes, detailed later.</seg>
       </tuv>
       <tuv lang="uk" changeid="darkmentat" changedate="20220528T210410Z" creationid="darkmentat" creationdate="20220516T235438Z">
         <seg>**Атрибут:** Число, зазвичай від **-1** до **+3**, що визначає загальні вміння персонажа гравця в деякій області. В грі є чотири атрибути, про них трохи згодом.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Both your star map and your timelines
+are mutable and ever -growing. As you
+and your players find out more about
+the universe in play, new timelines
+will suggest them selves, and new
+locations will be fleshed out on the
+map. Be tween sessions, think about
+where things are going. Write new
+timelines, daydream new planets and
+draw them on the map.</seg>
+      </tuv>
+      <tuv lang="uk" changeid="darkmentat" changedate="20220603T132922Z" creationid="darkmentat" creationdate="20220603T132922Z">
+        <seg>І зоряна мапа, і ваші таймлайни будуть змінюватись й розростатись. Й по мірі того, як ви з гравцями будете досліджувати всесвіт у грі, задумки нових таймлайнів самі будуть приходити до вас, а нові локації будуть обростати деталями на карті. Тому між зустрічами роздумуйте про те, що відбувається на грі. Записуйте нові таймлайни, фантазуйте про нові планети та малюйте їх на мапі.</seg>
       </tuv>
     </tu>
     <tu>
