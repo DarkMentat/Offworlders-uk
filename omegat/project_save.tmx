@@ -2054,6 +2054,28 @@ on one another:</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>NAMES
+1
+Albern
+Ananya
+Bodhi
+Brindt
+Charles
+Chelle</seg>
+      </tuv>
+      <tuv lang="uk" changeid="IrynaDobro" changedate="20220603T173543Z" creationid="IrynaDobro" creationdate="20220603T173543Z">
+        <seg>ІМЕНА
+1
+Альберн
+Ананья
+Бодхі
+Брайнд
+Чарльз
+Чілі</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>NPCS HEALTH ARMOR DAMAGE ABOUT
 Customs Officers:
 Delilah &amp; Hiro</seg>
