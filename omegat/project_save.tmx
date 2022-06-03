@@ -2555,6 +2555,14 @@ happens from there. When the action</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>TIMELINE: DISUNION IN THE UDW</seg>
+      </tuv>
+      <tuv lang="uk" changeid="darkmentat" changedate="20220603T133306Z" creationid="darkmentat" creationdate="20220603T133306Z">
+        <seg>ТАЙМЛАЙН: РОЗЛАД В КОАЛІЦІЇ</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Tech: Computer software and complex engineering.</seg>
       </tuv>
       <tuv lang="uk" changeid="darkmentat" changedate="20220519T202235Z" creationid="darkmentat" creationdate="20220519T202235Z">
@@ -3232,6 +3240,24 @@ act with agents of at least one faction.</seg>
 - Що знаходиться в ящику?
 - Хто найняв персонажів гравців?
 - Чи стануть вони співчувати бунтівникам?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>_1. Water riots on the mining colony Hertzprung-9 begin to escalate.
+2. After a terrorist bombing, the Union of Democratic Worlds declares martial law on_
+    _Hertzprung-9.
+3. The UDW diverts fleet resources to the Hertzprung System as violence spreads.
+4. Sensing weakness, the neighboring Tanagran Empire seizes a drive fuel production_
+    _facility from the UDW.
+5. War is declared between the Tanagran Empire and the UDW._</seg>
+      </tuv>
+      <tuv lang="uk" changeid="darkmentat" changedate="20220603T134600Z" creationid="darkmentat" creationdate="20220603T134600Z">
+        <seg>1. На видобувній колонії Герцшпрунг-9 спалахують водяні бунти.
+2. Після терористичного акту Коаліція Демократичних Світів вводить військовий стан на Герцшпрунг-9
+3. По мірі загострення конфлікту Коаліція перенаправляє свій основний флот в систему Герцшпрунг
+4. Відчуваючи слабкість, сусідня Імперія Танагра бере під контроль виробництва палива на віддалених планетах Коаліції
+5. Коаліція оголошує війну Імперія Танагра.</seg>
       </tuv>
     </tu>
     <tu>
