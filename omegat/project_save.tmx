@@ -1024,6 +1024,26 @@ first faction.</seg>
     <tu>
       <tuv lang="en-US">
         <seg>4
+Hollow
+Industrial
+Low Gravity
+Mechanical
+Moon
+Phantom</seg>
+      </tuv>
+      <tuv lang="uk" changeid="darkmentat" changedate="20220603T182627Z" creationid="darkmentat" creationdate="20220603T182627Z">
+        <seg>4
+Пустотний
+Індустріальний
+Низька гравітація
+Механізований
+Супутник
+Фантомна</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>4
 Laramie
 Lora
 Olyffia
