@@ -591,8 +591,8 @@
       <tuv lang="en-US">
         <seg>###### TIMELINES</seg>
       </tuv>
-      <tuv lang="uk" changeid="darkmentat" changedate="20220522T163836Z" creationid="darkmentat" creationdate="20220522T163615Z">
-        <seg>#### TIMELINES</seg>
+      <tuv lang="uk" changeid="darkmentat" changedate="20220603T125909Z" creationid="darkmentat" creationdate="20220522T163615Z">
+        <seg>#### ТАЙМЛАЙНИ</seg>
       </tuv>
     </tu>
     <tu>
@@ -1942,6 +1942,19 @@ additional Health.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Much like a job is a framework for a
+single session, timelines are frame-
+works for your campaign. You should
+make one timeline after you first make
+your star map, and can add more as
+the universe gets fleshed out.</seg>
+      </tuv>
+      <tuv lang="uk" changeid="darkmentat" changedate="20220603T130501Z" creationid="darkmentat" creationdate="20220603T130501Z">
+        <seg>Як _завдання_ являються каркасом для гри на одну зустріч, так таймлайни являються каркасом для тривалої кампанії. Вам варто створити хоча б один таймлайн для новоствореної зоряної мапи й можете додати більше по мірі конкретизації ігрового всесвіту.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Much of your work will be to take the
 results when the players roll the dice
 and interpret them into interesting
@@ -3081,6 +3094,18 @@ someone else have the spotlight.</seg>
       </tuv>
       <tuv lang="uk" changeid="darkmentat" changedate="20220521T115425Z" creationid="darkmentat" creationdate="20220516T235308Z">
         <seg>Ви будете діяти по-черзі, так само як в розмові ви висловлюєтесь по-черзі. Часом хтось буде говорити довше, а часом потрібно буде відступити, щоб дати слово іншому.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>You’ll use factions as the driving forces
+for your timelines, which will create
+opportunities for jobs. When the PC’s
+are doing a job, they are likely to inter-
+act with agents of at least one faction.</seg>
+      </tuv>
+      <tuv lang="uk" changeid="darkmentat" changedate="20220603T125901Z" creationid="darkmentat" creationdate="20220603T125901Z">
+        <seg>Фракції будуть основними рушійними силами в ваших таймлайнах, і це буде створювати потенційні завдання й можливості для гравців. Під час виконання завдань, персонажі гравців ймовірно можуть зіткнутись з представниками як мінімум однієї фракції.</seg>
       </tuv>
     </tu>
     <tu>
