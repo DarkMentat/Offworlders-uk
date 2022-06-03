@@ -727,185 +727,64 @@ Xiangliu Starfield
 
 #### ЗОРЯНА МАПА
 
-To start drawing the star map for your
-campaign, follow these steps:
+Щоб розпочати створення зоряної мапи для вашої кампанії, слідуйте наступним крокам:
 
-1 After your first session, get a blank
-piece of paper. Somewhere near the
-middle, draw a star. Draw it small
-enough so you leave plenty of space on
-the paper for other stars, but big enough
-that you can write some things around
-it without having to cram them in.
+1. Після першої зустрічі візьміть чистий аркуш паперу. Десь в його центрі позначте зірку. Вона має бути достатньо маленькою, щоб залишилось досить вільного місця на папері, але й достатньо великою, щоб можна було вільно писати навколо неї примітки.
 
-2 Next to the star, draw a dot. This is
-the location where the PC’s first job
-took place. Is it a planet? A moon? A
-space station? Write the name of the
-location there too.
+2. Біля зорі намалюйте точку. Це місце, де персонажі гравців виконували своє перше завдання. Це планета? Чи може супутник? Космічна станція? Запишіть поряд ім'я цієї локації.
 
-3 Give the star a name. Something
-like Amaterasu , or Hertzprung and
-write it down. Think about who rules
-this star system. Is it an interstellar
-megacorporation? A religious empire?
-A managed democracy? This is your
-first faction.
+3. Придумайте ім'я для зірки та запишіть його. Це може бути щось на кшталт Аматерасу чи Герцшпрунг. Подумайте, хто керує всім в цій зоряній системі? Можливо міжзоряна мегакорпорація? Теократична імперія? Керована демократія? Це буде вашою першою фракцією.
 
-4 Consider other locations in the
-star system, and add one or two now.
-Maybe a highly populated planet, or a
-gas-mining station.
+4. Обдумайте якісь інші локації в вашій зоряній системі, та додайте ще одну чи дві. Можливо якась густонаселена планета чи станція видобутку газу.
 
-5 Does the faction ruling the star also
-rule any other stars? If they do, those
-are probably pretty close by. Add those
-stars and name them, too. You can add
-a location or two to each, if you wish.
+5. Чи головна фракція в зоряній системі має владу і над іншими зірками? Якщо так, ці системи має бути досить близько. Додайте їх на карту та дайте їм імена. Також можете додати до них ще пару локацій.
 
-6 Let your mind wander. Think about
-other factions that might come into
-conflict with the first. If they control
-star systems, add new stars to the map.
-You can draw political borders if it helps
-keep track. You can add as much or as
-little detail to these stars as you wish.
-Add any locations that come to mind.
+6. Не обмежуйте свою уяву. Подумайте про інші фракції, що можуть конфліктувати з головною. Якщо вони контролюють якісь інші зоряні системи, додайте їх на карту. Як варіант ви можете накреслити політичні кордони, якщо це допоможе вам зорієнтуватись. Додавайте стільки деталей, скільки вам зручно. Також додавайте будь-які цікаві локації, що спадуть вам на думку.
 
-Leave space to add to your map. It’s
-never truly complete. You can expand
-it and add details as the players ex-
-plore the universe.
+Залишайте на карті вільне місце і вона ніколи не буде завершеною. Під час гри ви можете розширяти її та додавати нові деталі по мірі того, як гравці будуть досліджувати всесвіт.
 
-Remember that the closest star sys-
-tems take one week and one unit of
-drive fuel for the players to reach. Far-
-ther systems will take more time and
-fuel. Use this information to tune the
-scale and difficulty of travel between
-stars on your map.
+Пам'ятайте, що подорож до найближчої зоряної системи триває тиждень, та на нього потрібно 1 одиниця палива. Більш дальні системи будуть займати більше часу й палива. Тримайте це на увазі, щоб налаштовувати відстані та складність подорожей між зірками на вашій мапі.
 
-#### FACTIONS
+#### ФРАКЦІЇ
 
-Factions are the major movers and
-shakers in the universe. Megacorpo-
-rations, stellar empires, mercenary
-companies, crime syndicates and the
-like. The PCs are usually going to be
-too small to be able to take on a faction
-directly, but will encounter them
-through NPCs and jobs.
+Фракції —це основні впливові сили у всесвіті. Мегакорпорації, зоряні імперії, приватні військові компанії, кримінальні синдикати й тому подібне. Персонажі гравців зазвичай занадто малі в порівнянні з ними, але вони будуть стикатись з їх представниками під час виконання завдань.
 
-Note factions on your map and give
-them competing goals. You only really
-need two to start, and can create seri-
-ous intrigue with three or four. When
-you create a faction, think about its
-leaders and members. How is it struc-
-tured, politically? When it goes to war,
-what kind of soldiers does it have?
+Запишіть фракції на своїй карті та дайте їм конкуруючі цілі. Ви можете почати всього з двух, або ж створити заплутану інтригу з трьома чи чотирма фракціями. При створенні фракції подумайте про їх членів та лідерів. Як вони організовані, якими силами володіють?
 
-You’ll use factions as the driving forces
-for your timelines, which will create
-opportunities for jobs. When the PC’s
-are doing a job, they are likely to inter-
-act with agents of at least one faction.
+Фракції будуть основними рушійними силами в ваших таймлайнах, і це буде створювати потенційні завдання й можливості для гравців. Під час виконання завдань, персонажі гравців ймовірно можуть зіткнутись з представниками як мінімум однієї фракції.
 
-#### TIMELINES
+#### ТАЙМЛАЙНИ
 
-Much like a job is a framework for a
-single session, timelines are frame-
-works for your campaign. You should
-make one timeline after you first make
-your star map, and can add more as
-the universe gets fleshed out.
+Як _завдання_ являються каркасом для гри на одну зустріч, так таймлайни являються каркасом для тривалої кампанії. Вам варто створити хоча б один таймлайн для новоствореної зоряної мапи й можете додати більше по мірі конкретизації ігрового всесвіту.
 
-To make a timeline, think about the
-factions on your map, and the goals of
-each. What is happening in the uni-
-verse? How do the factions act against
-one another? Who is doing what?
+Щоб створити таймлайн, подумайте про фракції на вашій мапі та які у них цілі. Що відбувається у всесвіті, як фракції протидіють одна одній, хто саме чим займається?
 
-Then, write down a list of 3-5 events.
-These are events that will happen in
-the future, one after the other, bar-
-ring some action by the players that
-dramatically alters their course. This
-is your timeline. A timeline should
-escalate towards instability, with the
-final event representing a fundamen-
-tal change in the setting. For example:
+Далі запишіть список з 3-5 подій. Ці події стануться в майбутньому, одна за одною, якщо дії гравців різко не змінять їх курс. Це і є ваш таймлайн. Таймлайн має розвиватись попри нестабільність, а остання його подія має містити потенціал для фундаментальних змін у світі. Наприклад:
 
-Timelines start at the first event. Later
-events happen either between ses-
-sions, or as time passes. When the PC’s
-spend a lot of time travelling, time-
-lines will advance. Show the players
-how the universe is changing as they
-move through it. If event 4 in the ex-
-ample timeline takes place, drive fuel
-is likely to become more scarce and
-expensive within the UDW.
+Таймлайн починається з першої події. Далі кожна подія трапляється між зустрічами або по мірі плину внутрішньо-ігрового часу. Коли персонажі гравців витрачають час на подорожі, таймлайни також розвиваються. Покажіть гравцям як всесвіт змінюється з їх розвитком. Наприклад, при настанні події 4 в наведеному таймлайні, паливо для кораблів стане біль дефіцитним та дорогим в межах Коаліції.
 
-Use timelines as the basis for creating
-new jobs for each session. For example,
-if event 2 occurs, will people be willing
-to pay the PC’s to smuggle them off of
-Hertzprung-9? Sounds like a golden
-opportunity for a job.
+Спирайтесь на таймлайни, коли придумуєте завдання для кожної зустрічі. Наприклад, після другої події, можливо з'являться пасажири, що бажають нелегально потрапити на Герцшпрунг-9? Звучить як золота можливість для роботи.
 
-Timelines are flexible and uncertain.
-What if, in the course of job, the PC’s
-prevent the terrorist bombing be-
-fore event 2 takes place? The whole
-timeline is likely to change. Feel free to
-erase and rewrite timelines based on
-what happens during play.
+Таймлайни мають бути гнучкими та невизначеними. Що якщо по ходу своїх завдань персонажі гравців завадять терактам, що передують події 2? Це змінить весь таймлайн. Тому не бійтесь стирати чи змінювати  таймлайни, враховуючи те, що сталось протягом гри.
 
-#### THE FUTURE
+#### МАЙБУТНЄ
 
-Both your star map and your timelines
-are mutable and ever -growing. As you
-and your players find out more about
-the universe in play, new timelines
-will suggest them selves, and new
-locations will be fleshed out on the
-map. Be tween sessions, think about
-where things are going. Write new
-timelines, daydream new planets and
-draw them on the map.
+І зоряна мапа, і ваші таймлайни будуть змінюватись й розростатись. Й по мірі того, як ви з гравцями будете досліджувати всесвіт у грі, задумки нових таймлайнів самі будуть приходити до вас, а нові локації будуть обростати деталями на карті. Тому між зустрічами роздумуйте про те, що відбувається на грі. Записуйте нові таймлайни, фантазуйте про нові планети та малюйте їх на мапі.
 
-Your players may develop specific goals
-and interests as the campaign moves
-forward. Encourage them! Allow them
-to give you ideas for new jobs, loca-
-tions and characters. As you grow the
-universe, you can use the inspirational
-tables below to generate new ideas
-and situations. A Job doesn't have to
-literally be a task done for money for
-an employer. If the PC's develop their
-own goals, you can use the job format
-to plan out relevant challenges on a
-session-by-session basis.
+Ваші гравцю можуть придумати собі власні цілі й інтереси по ходу кампанії. Підтримайте їх в цьому! Прислуховуйтесь до їх ідей щодо завдань, локацій чи персонажів. По мірі розвитку всесвіту, ви можете користуватись табличками надхнення нижче, щоб прийти до нових ідей. Завдання не має бути буквальною роботою від роботодавця заради зарплати. Якщо гравці придумали свої власні цілі, ви можете використовувати формат підготовки завдань щоб вчасно підготувати для них виклики від зустрічі до зустрічі.
 
-TIMELINE: DISUNION IN THE UDW
+ТАЙМЛАЙН: РОЗЛАД В КОАЛІЦІЇ
 
-_1. Water riots on the mining colony Hertzprung-9 begin to escalate.
-2. After a terrorist bombing, the Union of Democratic Worlds declares martial law on_
-    _Hertzprung-9.
-3. The UDW diverts fleet resources to the Hertzprung System as violence spreads.
-4. Sensing weakness, the neighboring Tanagran Empire seizes a drive fuel production_
-    _facility from the UDW.
-5. War is declared between the Tanagran Empire and the UDW._
+1. На видобувній колонії Герцшпрунг-9 спалахують водяні бунти.
+2. Після терористичного акту Коаліція Демократичних Світів вводить військовий стан на Герцшпрунг-9
+3. По мірі загострення конфлікту Коаліція перенаправляє свій основний флот в систему Герцшпрунг
+4. Відчуваючи слабкість, сусідня Імперія Танагра бере під контроль виробництва палива на віддалених планетах Коаліції
+5. Коаліція оголошує війну Імперія Танагра.
 
 
-### INSPIRATIONAL TABLES
+### ТАБЛИЧКИ НАДХНЕННЯ
 
-Use the following tables to generate names, places, and ideas for jobs. You can just pick what sounds
-interesting to you, or you can roll 2D6 on a table, using one die to determine the group and the second to
-determine the specific item. Items from the tables can serve as the starting point for jobs or even campaigns,
-or just as vibrant details the characters notice in passing.
+Використовуйте наступні таблиці, щоб придумати ім'я, місце чи ідеї для завдання. Ви можете просто вибрати якийсь цікавий варіант, або ж вибрати випадково, кинувши **2к6** щоб один кубик вказав на номер колонки, а інший на номер рядка. Пункти з цих таблиць можуть слугувати відправною точкою для завдання чи цілої кампанії, або ж просто додати цікавих деталей в опис того, що бачать гравці.
 
 WORLD TYPES
 1
