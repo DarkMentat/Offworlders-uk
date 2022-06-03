@@ -2731,6 +2731,20 @@ ably, but no larger.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Timelines are flexible and uncertain.
+What if, in the course of job, the PC’s
+prevent the terrorist bombing be-
+fore event 2 takes place? The whole
+timeline is likely to change. Feel free to
+erase and rewrite timelines based on
+what happens during play.</seg>
+      </tuv>
+      <tuv lang="uk" changeid="darkmentat" changedate="20220603T132517Z" creationid="darkmentat" creationdate="20220603T132302Z">
+        <seg>Таймлайни мають бути гнучкими та невизначеними. Що якщо по ходу своїх завдань персонажі гравців завадять терактам, що передують події 2? Це змінить весь таймлайн. Тому не бійтесь стирати чи змінювати  таймлайни, враховуючи те, що сталось протягом гри.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Timelines start at the first event. Later
 events happen either between ses-
 sions, or as time passes. When the PC’s
@@ -2848,8 +2862,8 @@ to pay the PC’s to smuggle them off of
 Hertzprung-9? Sounds like a golden
 opportunity for a job.</seg>
       </tuv>
-      <tuv lang="uk" changeid="darkmentat" changedate="20220603T132137Z" creationid="darkmentat" creationdate="20220603T132137Z">
-        <seg>Спирайтесь на таймлайни, коли придумуєте завдання для кожної зустрічі. Наприклад, після другої події, можливо з'являться пасажири, що бажають нелегально потрапити на Hertzprung-9? Звучить як золота можливість для роботи.</seg>
+      <tuv lang="uk" changeid="darkmentat" changedate="20220603T132318Z" creationid="darkmentat" creationdate="20220603T132137Z">
+        <seg>Спирайтесь на таймлайни, коли придумуєте завдання для кожної зустрічі. Наприклад, після другої події, можливо з'являться пасажири, що бажають нелегально потрапити на Герцшпрунг-9? Звучить як золота можливість для роботи.</seg>
       </tuv>
     </tu>
     <tu>
