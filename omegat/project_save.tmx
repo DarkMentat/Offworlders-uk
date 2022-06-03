@@ -90,8 +90,8 @@
       <tuv lang="en-US">
         <seg>#### INSPIRATIONAL TABLES</seg>
       </tuv>
-      <tuv lang="uk" changeid="darkmentat" changedate="20220522T163615Z" creationid="darkmentat" creationdate="20220522T163615Z">
-        <seg>### INSPIRATIONAL TABLES</seg>
+      <tuv lang="uk" changeid="darkmentat" changedate="20220603T134616Z" creationid="darkmentat" creationdate="20220522T163615Z">
+        <seg>### ТАБЛИЧКИ НАДХНЕННЯ</seg>
       </tuv>
     </tu>
     <tu>
@@ -2868,6 +2868,17 @@ at all times.</seg>
       </tuv>
       <tuv lang="uk" changeid="darkmentat" changedate="20220520T211955Z" creationid="darkmentat" creationdate="20220520T211955Z">
         <seg>**Нестримний:** У вас завжди є +1 до броні.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Use the following tables to generate names, places, and ideas for jobs. You can just pick what sounds
+interesting to you, or you can roll 2D6 on a table, using one die to determine the group and the second to
+determine the specific item. Items from the tables can serve as the starting point for jobs or even campaigns,
+or just as vibrant details the characters notice in passing.</seg>
+      </tuv>
+      <tuv lang="uk" changeid="darkmentat" changedate="20220603T135042Z" creationid="darkmentat" creationdate="20220603T135042Z">
+        <seg>Використовуйте наступні таблиці, щоб придумати ім'я, місце чи ідеї для завдання. Ви можете просто вибрати якийсь цікавий варіант, або ж вибрати випадково, кинувши **2к6** щоб один кубик вказав на номер колонки, а інший на номер рядка. Пункти з цих таблиць можуть слугувати відправною точкою для завдання чи цілої кампанії, або ж просто додати цікавих деталей в опис того, що бачать гравці.</seg>
       </tuv>
     </tu>
     <tu>
