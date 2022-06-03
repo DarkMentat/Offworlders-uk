@@ -1021,6 +1021,26 @@ first faction.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>4
+Laramie
+Lora
+Olyffia
+Othersh
+Piqo
+Prys</seg>
+      </tuv>
+      <tuv lang="uk" changeid="IrynaDobro" changedate="20220603T174249Z" creationid="IrynaDobro" creationdate="20220603T174249Z">
+        <seg>4
+Лараміє
+Лорі
+Оліффія
+Озер
+Піго
+Присс</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>4 Consider other locations in the
 star system, and add one or two now.
 Maybe a highly populated planet, or a
