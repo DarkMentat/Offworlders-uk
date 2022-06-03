@@ -885,6 +885,18 @@ rest and care, will make a full recovery.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>2 Next to the star, draw a dot. This is
+the location where the PC’s first job
+took place. Is it a planet? A moon? A
+space station? Write the name of the
+location there too.</seg>
+      </tuv>
+      <tuv lang="uk" changeid="darkmentat" changedate="20220603T123138Z" creationid="darkmentat" creationdate="20220603T123138Z">
+        <seg>2. Біля зорі намалюйте точку. Це місце, де персонажі гравців виконували своє перше завдання. Це планета? Чи може супутник? Космічна станція? Запишіть поряд ім'я цієї локації.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>3 1 1D6 Thorough, but cor-
 ruptible
 Rebel Agent: Shasta
@@ -892,6 +904,20 @@ Rafaella</seg>
       </tuv>
       <tuv lang="uk" changeid="darkmentat" changedate="20220528T223044Z" creationid="darkmentat" creationdate="20220528T222424Z">
         <seg>| Офіцери митниці, Делай та Хіро  | 3     | 1     | к6    | ретельні, але корумповані  |</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>3 Give the star a name. Something
+like Amaterasu , or Hertzprung and
+write it down. Think about who rules
+this star system. Is it an interstellar
+megacorporation? A religious empire?
+A managed democracy? This is your
+first faction.</seg>
+      </tuv>
+      <tuv lang="uk" changeid="darkmentat" changedate="20220603T123219Z" creationid="darkmentat" creationdate="20220603T123219Z">
+        <seg>3. Придумайте ім'я для зірки та запишіть його.</seg>
       </tuv>
     </tu>
     <tu>
