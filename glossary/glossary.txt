@@ -31,3 +31,7 @@ roll the dice with	кинути куби додавши
 First Aid	перша допомога
 armor	захист
 star map	зоряна мапа
+faction	фракція
+NPC’s	персонажі майстра
+PC’s	персонажі гравців
+NPCs	персонажі майстра
