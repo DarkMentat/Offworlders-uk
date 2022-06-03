@@ -889,6 +889,26 @@ rest and care, will make a full recovery.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>2
+Dark
+Dead
+Desert
+Diamond
+Earthlike
+Eden</seg>
+      </tuv>
+      <tuv lang="uk" changeid="IrynaDobro" changedate="20220603T171754Z" creationid="IrynaDobro" creationdate="20220603T171528Z">
+        <seg>2
+Темний
+Мертвий
+Пустинний
+Коштовний
+Землеподібний (Схожий на землю) 
+Рай</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>2 Next to the star, draw a dot. This is
 the location where the PC’s first job
 took place. Is it a planet? A moon? A
@@ -2976,15 +2996,15 @@ Caustic
 Collapsing
 Cracked Open</seg>
       </tuv>
-      <tuv lang="uk" changeid="IrynaDobro" changedate="20220603T171502Z" creationid="IrynaDobro" creationdate="20220603T143334Z">
+      <tuv lang="uk" changeid="IrynaDobro" changedate="20220603T171600Z" creationid="IrynaDobro" creationdate="20220603T143334Z">
         <seg>ТИПИ СВІТІВ 
 1
 Острівний 
 Техногенний
 Згораючий 
 Кислотний
-Руїна
-Зламлений??</seg>
+Зруйнований (Руїна)
+Тріснутий </seg>
       </tuv>
     </tu>
     <tu>
