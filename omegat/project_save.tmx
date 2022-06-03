@@ -1848,6 +1848,17 @@ amazing but real.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Leave space to add to your map. It’s
+never truly complete. You can expand
+it and add details as the players ex-
+plore the universe.</seg>
+      </tuv>
+      <tuv lang="uk" changeid="darkmentat" changedate="20220603T124611Z" creationid="darkmentat" creationdate="20220603T124611Z">
+        <seg>Залишайте на карті вільне місце і вона ніколи не буде завершеною. Під час гри ви можете розширяти її та додавати нові деталі по мірі того, як гравці будуть досліджувати всесвіт.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Lucky: Once per session, you may count
 any miss ( 6- ) as a partial success ( 7-9 ), or
 a partial success as a total success ( 10+ ).</seg>
@@ -2227,6 +2238,20 @@ cost 50 credits, and players will be</seg>
       </tuv>
       <tuv lang="uk" changeid="darkmentat" changedate="20220602T210647Z" creationid="darkmentat" creationdate="20220602T210628Z">
         <seg>Майте на увазі, що новий апгрейд для корабля коштує 50 _кредитів_ і гравці до того ж будуть витрачати гроші на паливо та ремонт корабля протягом подорожей.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Remember that the closest star sys-
+tems take one week and one unit of
+drive fuel for the players to reach. Far-
+ther systems will take more time and
+fuel. Use this information to tune the
+scale and difficulty of travel between
+stars on your map.</seg>
+      </tuv>
+      <tuv lang="uk" changeid="darkmentat" changedate="20220603T124746Z" creationid="darkmentat" creationdate="20220603T124627Z">
+        <seg>Пам'ятайте, що подорож до найближчої зоряної системи триває тиждень, та на нього потрібно 1 одиниця палива. Більш дальні системи будуть займати більше часу й палива. Тримайте це на увазі, щоб налаштовувати відстані та складність подорожей між зірками на вашій мапі.</seg>
       </tuv>
     </tu>
     <tu>
