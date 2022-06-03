@@ -1052,6 +1052,26 @@ gas-mining station.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>5
+Roobin
+Ridley
+Serrah
+Shail
+Sophia
+Steede</seg>
+      </tuv>
+      <tuv lang="uk" changeid="IrynaDobro" changedate="20220603T174353Z" creationid="IrynaDobro" creationdate="20220603T174353Z">
+        <seg>5
+Робін
+Рідлі
+Сарра
+Шаіл
+Со'фія
+Стіді</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>5 Does the faction ruling the star also
 rule any other stars? If they do, those
 are probably pretty close by. Add those
@@ -1060,6 +1080,26 @@ a location or two to each, if you wish.</seg>
       </tuv>
       <tuv lang="uk" changeid="darkmentat" changedate="20220603T123946Z" creationid="darkmentat" creationdate="20220603T123754Z">
         <seg>5. Чи головна фракція в зоряній системі має владу і над іншими зірками? Якщо так, ці системи має бути досить близько. Додайте їх на карту та дайте їм імена. Також можете додати до них ще пару локацій.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>6
+Talsorian
+To r r i n
+Varin
+Vasquez
+Wei
+Xiang</seg>
+      </tuv>
+      <tuv lang="uk" changeid="IrynaDobro" changedate="20220603T174454Z" creationid="IrynaDobro" creationdate="20220603T174454Z">
+        <seg>6
+Талсоріан
+Т о р р і н 
+Варін
+Васкез
+Вай
+Ксанг</seg>
       </tuv>
     </tu>
     <tu>
