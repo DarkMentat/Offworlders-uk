@@ -916,8 +916,8 @@ megacorporation? A religious empire?
 A managed democracy? This is your
 first faction.</seg>
       </tuv>
-      <tuv lang="uk" changeid="darkmentat" changedate="20220603T123509Z" creationid="darkmentat" creationdate="20220603T123219Z">
-        <seg>3. Придумайте ім'я для зірки та запишіть його. Це може бути щось на кшталт Аматерасу чи Герцшпрунг. Подумайте, хто головний в цій зоряній системі? Можливо міжзоряна мегакорпорація? Теократична імперія? Керована демократія? Це буде вашою першою фракцією.</seg>
+      <tuv lang="uk" changeid="darkmentat" changedate="20220603T123809Z" creationid="darkmentat" creationdate="20220603T123219Z">
+        <seg>3. Придумайте ім'я для зірки та запишіть його. Це може бути щось на кшталт Аматерасу чи Герцшпрунг. Подумайте, хто керує всім в цій зоряній системі? Можливо міжзоряна мегакорпорація? Теократична імперія? Керована демократія? Це буде вашою першою фракцією.</seg>
       </tuv>
     </tu>
     <tu>
@@ -929,6 +929,18 @@ gas-mining station.</seg>
       </tuv>
       <tuv lang="uk" changeid="darkmentat" changedate="20220603T123707Z" creationid="darkmentat" creationdate="20220603T123707Z">
         <seg>4. Обдумайте якісь інші локації в вашій зоряній системі, та додайте ще одну чи дві. Можливо якась густонаселена планета чи станція видобутку газу.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>5 Does the faction ruling the star also
+rule any other stars? If they do, those
+are probably pretty close by. Add those
+stars and name them, too. You can add
+a location or two to each, if you wish.</seg>
+      </tuv>
+      <tuv lang="uk" changeid="darkmentat" changedate="20220603T123946Z" creationid="darkmentat" creationdate="20220603T123754Z">
+        <seg>5. Чи головна фракція в зоряній системі має владу і над іншими зірками? Якщо так, ці системи має бути досить близько. Додайте їх на карту та дайте їм імена. Також можете додати до них ще пару локацій.</seg>
       </tuv>
     </tu>
     <tu>
