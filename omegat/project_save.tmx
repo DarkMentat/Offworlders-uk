@@ -1976,6 +1976,21 @@ Delilah &amp; Hiro</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Note factions on your map and give
+them competing goals. You only really
+need two to start, and can create seri-
+ous intrigue with three or four. When
+you create a faction, think about its
+leaders and members. How is it struc-
+tured, politically? When it goes to war,
+what kind of soldiers does it have?</seg>
+      </tuv>
+      <tuv lang="uk" changeid="darkmentat" changedate="20220603T125659Z" creationid="darkmentat" creationdate="20220603T125659Z">
+        <seg>Запишіть фракції на своїй карті та дайте їм конкуруючі цілі. Ви можете почати всього з двух, або ж створити заплутану інтригу з трьома чи чотирма фракціями. При створенні фракції подумайте про їх членів та лідерів. Як вони організовані, якими силами володіють?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Nothing Never Happens. No matter
 what the outcome is, rolling the dice
 always changes the fictional situation.
