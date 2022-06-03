@@ -405,8 +405,8 @@
       <tuv lang="en-US">
         <seg>###### FACTIONS</seg>
       </tuv>
-      <tuv lang="uk" changeid="darkmentat" changedate="20220522T163836Z" creationid="darkmentat" creationdate="20220522T163615Z">
-        <seg>#### FACTIONS</seg>
+      <tuv lang="uk" changeid="darkmentat" changedate="20220603T124751Z" creationid="darkmentat" creationdate="20220522T163615Z">
+        <seg>#### ФРАКЦІЇ</seg>
       </tuv>
     </tu>
     <tu>
@@ -1581,6 +1581,21 @@ sure they don’t overlap too much.</seg>
       </tuv>
       <tuv lang="uk" changeid="darkmentat" changedate="20220522T174354Z" creationid="darkmentat" creationdate="20220519T204555Z">
         <seg>Досвідчені гравці можуть забажати більшої гнучкості при створенні персонажа. Якщо всі згодні, гравець може проігнорувати описані класи повністю та створити персонажа, просто вибравши два вміння та два будь-яких таланти. В цьому випадку гравцям варто домовитись, щоб їх сильні сторони не надто пересікались.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Factions are the major movers and
+shakers in the universe. Megacorpo-
+rations, stellar empires, mercenary
+companies, crime syndicates and the
+like. The PCs are usually going to be
+too small to be able to take on a faction
+directly, but will encounter them
+through NPCs and jobs.</seg>
+      </tuv>
+      <tuv lang="uk" changeid="darkmentat" changedate="20220603T125319Z" creationid="darkmentat" creationdate="20220603T125319Z">
+        <seg>Фракції —це основні впливові сили у всесвіті. Мегакорпорації, зоряні імперії, приватні військові компанії, кримінальні синдикати й тому подібне. Персонажі гравців зазвичай занадто малі в порівнянні з ними, але вони будуть стикатись з їх представниками під час виконання завдань.</seg>
       </tuv>
     </tu>
     <tu>
