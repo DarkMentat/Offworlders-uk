@@ -976,6 +976,26 @@ High Gravity</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>3
+Horza
+Ingvall
+Karoleen
+Kerra
+Kion
+Kotai</seg>
+      </tuv>
+      <tuv lang="uk" changeid="IrynaDobro" changedate="20220603T174156Z" creationid="IrynaDobro" creationdate="20220603T174156Z">
+        <seg>3
+Хорза
+Ігнвалл
+Каролін
+Керра
+Кіон
+Котаі</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>3 1 1D6 Thorough, but cor-
 ruptible
 Rebel Agent: Shasta
