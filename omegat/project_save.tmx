@@ -2841,6 +2841,19 @@ at all times.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Use timelines as the basis for creating
+new jobs for each session. For example,
+if event 2 occurs, will people be willing
+to pay the PC’s to smuggle them off of
+Hertzprung-9? Sounds like a golden
+opportunity for a job.</seg>
+      </tuv>
+      <tuv lang="uk" changeid="darkmentat" changedate="20220603T132137Z" creationid="darkmentat" creationdate="20220603T132137Z">
+        <seg>Спирайтесь на таймлайни, коли придумуєте завдання для кожної зустрічі. Наприклад, після другої події, можливо з'являться пасажири, що бажають нелегально потрапити на Hertzprung-9? Звучить як золота можливість для роботи.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Usually it will be obvious, but if it isn’t,
 the GM makes the final call.</seg>
       </tuv>
