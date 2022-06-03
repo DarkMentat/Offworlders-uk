@@ -862,6 +862,20 @@ Then choose either:
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>1 After your first session, get a blank
+piece of paper. Somewhere near the
+middle, draw a star. Draw it small
+enough so you leave plenty of space on
+the paper for other stars, but big enough
+that you can write some things around
+it without having to cram them in.</seg>
+      </tuv>
+      <tuv lang="uk" changeid="darkmentat" changedate="20220603T123038Z" creationid="darkmentat" creationdate="20220603T123038Z">
+        <seg>1. Після першої зустрічі візьміть чистий аркуш паперу. Десь в його центрі намалюйте зорю. Вона має бути достатньо маленькою, щоб залишилось досить вільного місця на папері, але й достатньо великою, щоб можна було вільно писати навколо неї примітки.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>10+: They are down for now, but with
 rest and care, will make a full recovery.</seg>
       </tuv>
@@ -2589,6 +2603,15 @@ unusual cargo.</seg>
       </tuv>
       <tuv lang="uk" changeid="darkmentat" changedate="20220516T235243Z" creationid="darkmentat" creationdate="20220516T235243Z">
         <seg>Для гри в Краєходців вам потрібно:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>To start drawing the star map for your
+campaign, follow these steps:</seg>
+      </tuv>
+      <tuv lang="uk" changeid="darkmentat" changedate="20220603T122720Z" creationid="darkmentat" creationdate="20220603T122720Z">
+        <seg>Щоб розпочати створення зоряної мапи для вашої кампанії, слідуйте наступним крокам:</seg>
       </tuv>
     </tu>
     <tu>
