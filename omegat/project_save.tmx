@@ -1018,6 +1018,26 @@ Kotai</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>3
+Imperialism
+Kleptocracy
+Low Population
+Lo w Tech
+Managed Democracy
+Martial Law</seg>
+      </tuv>
+      <tuv lang="uk" changeid="darkmentat" changedate="20220604T105525Z" creationid="darkmentat" creationdate="20220604T105525Z">
+        <seg>3
+Імперіалізм
+Клептократія
+Низька популяція
+Низькотехнологічність
+Керовна демократія
+Військовий стан</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>3 1 1D6 Thorough, but cor-
 ruptible
 Rebel Agent: Shasta
