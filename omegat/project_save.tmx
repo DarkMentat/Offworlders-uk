@@ -280,8 +280,8 @@
       <tuv lang="en-US">
         <seg>###### 2.CHOOSE YOUR SKILLS</seg>
       </tuv>
-      <tuv lang="uk" changeid="darkmentat" changedate="20220522T163836Z" creationid="darkmentat" creationdate="20220519T203015Z">
-        <seg>#### 2. ВИБЕРІТЬ СОБІ ВМІННЯ</seg>
+      <tuv lang="uk" changeid="darkmentat" changedate="20220604T183752Z" creationid="darkmentat" creationdate="20220519T203015Z">
+        <seg>#### 2. ВИБЕРІТЬ СВОЇ НАВИЧКИ</seg>
       </tuv>
     </tu>
     <tu>
@@ -1647,10 +1647,10 @@ rerolling one of the dice if you wish. If
 successful, do maximum possible dam-
 age for your weapon, ignoring armor.</seg>
       </tuv>
-      <tuv lang="uk" changeid="darkmentat" changedate="20220604T124605Z" creationid="darkmentat" creationdate="20220520T205425Z">
+      <tuv lang="uk" changeid="darkmentat" changedate="20220604T183927Z" creationid="darkmentat" creationdate="20220520T205425Z">
         <seg>_ТАЛАНТИ:_
 
-**Підступний удар:** Коли ви атакуєте несподівано, ціль не очікує удару чи ви застали її зненацька, вважайте, що у вас є підхоже вміння і ви можете перекинути один з випавших кубиків. В випадку успіху ви наносите максимальне для вашої зброї ушкодження, ігноруючи броню.</seg>
+**Підступний удар:** Коли ви атакуєте несподівано, ціль не очікує удару чи ви застали її зненацька, вважайте, що у вас є підхожі навички й ви можете перекинути один з випавших кубиків. В випадку успіху ви наносите максимальне для вашої зброї ушкодження, ігноруючи броню.</seg>
       </tuv>
     </tu>
     <tu>
@@ -1942,8 +1942,8 @@ complexity:</seg>
       <tuv lang="en-US">
         <seg>Choose any **two skills** for your character.</seg>
       </tuv>
-      <tuv lang="uk" changeid="darkmentat" changedate="20220519T203035Z" creationid="darkmentat" creationdate="20220519T203035Z">
-        <seg>Виберіть будь-які **два вміння** вашому персонажу.</seg>
+      <tuv lang="uk" changeid="darkmentat" changedate="20220604T183806Z" creationid="darkmentat" creationdate="20220519T203035Z">
+        <seg>Виберіть будь-які **дві навички** для вашого персонажа.</seg>
       </tuv>
     </tu>
     <tu>
@@ -2144,8 +2144,8 @@ and any two special abilities. Play-
 ers should communicate to make
 sure they don’t overlap too much.</seg>
       </tuv>
-      <tuv lang="uk" changeid="darkmentat" changedate="20220604T124039Z" creationid="darkmentat" creationdate="20220519T204555Z">
-        <seg>Досвідчені гравці можуть забажати більшої гнучкості при створенні персонажа. Якщо всі згодні, гравець може проігнорувати надані класи та створити персонажа, просто вибравши два вміння та два будь-яких таланти. В цьому випадку гравцям варто домовитись, щоб їх сильні сторони не надто перетинались.</seg>
+      <tuv lang="uk" changeid="darkmentat" changedate="20220604T183838Z" creationid="darkmentat" creationdate="20220519T204555Z">
+        <seg>Досвідчені гравці можуть забажати більшої гнучкості при створенні персонажа. Якщо всі згодні, гравець може проігнорувати надані класи та створити персонажа, просто вибравши дві навички та два будь-яких таланти. В цьому випадку гравцям варто домовитись, щоб їх сильні сторони не надто перетинались.</seg>
       </tuv>
     </tu>
     <tu>
@@ -2252,8 +2252,8 @@ have the pilot skill, you may choose
 to reroll both dice in these situations,
 instead of just one.</seg>
       </tuv>
-      <tuv lang="uk" changeid="darkmentat" changedate="20220528T200407Z" creationid="darkmentat" creationdate="20220522T101633Z">
-        <seg>**Висока маневровність:** Якщо у вас немає вміння _кермування_, вважайте що ви його маєте в ситуаціях, де має значення маневровість корабля. Якщо ж у вас є це вміння, в таких ситуаціях ви можете перекинути обидва кубики, а не один.</seg>
+      <tuv lang="uk" changeid="darkmentat" changedate="20220604T184043Z" creationid="darkmentat" creationdate="20220522T101633Z">
+        <seg>**Висока маневровність:** Якщо у вас немає навички _кермування_, вважайте що у вас вона є в ситуаціях, де має значення маневровість корабля. Якщо ж у вас є ця навичка, в таких ситуаціях ви можете перекинути обидва кубики, а не один.</seg>
       </tuv>
     </tu>
     <tu>
@@ -2686,8 +2686,8 @@ Often, humanoid aliens in science fic-
 tion are fundamentally just people that
 fit into specific tropes and archetypes.</seg>
       </tuv>
-      <tuv lang="uk" changeid="darkmentat" changedate="20220604T124308Z" creationid="darkmentat" creationdate="20220519T205138Z">
-        <seg>В Краєходцях немає особливих правил для інопланетних видів. Як ігровій групі, вам варто домовитись, чи існують розумні інопланетні види в ігровому всесвіті. Якщо існують і гравець хоче грати за прибульця — дозвольте йому, але це ніяк не вплине на механіку гри. Можливо всі Псіоніки у вас являються представником одного виду, чи Вояка отримав свої вміння як уродженець клану якогось войовничого виду. Загалом у фантастиці гуманоїди — це дуже часто просто люди, що заточені під якийсь конкретний троп чи архетип.</seg>
+      <tuv lang="uk" changeid="darkmentat" changedate="20220604T183856Z" creationid="darkmentat" creationdate="20220519T205138Z">
+        <seg>В Краєходцях немає особливих правил для інопланетних видів. Як ігровій групі, вам варто домовитись, чи існують розумні інопланетні види в ігровому всесвіті. Якщо існують і гравець хоче грати за прибульця — дозвольте йому, але це ніяк не вплине на механіку гри. Можливо всі Псіоніки у вас являються представником одного виду, чи Вояка отримав свої навички як уродженець клану якогось войовничого виду. Загалом у фантастиці гуманоїди — це дуже часто просто люди, що заточені під якийсь конкретний троп чи архетип.</seg>
       </tuv>
     </tu>
     <tu>
@@ -3281,8 +3281,8 @@ verse, completing profitable jobs and overcoming dangers.</seg>
         <seg>The players begin with a small spaceship. It’s just about big enough for all of them to live on, with a few ad-
 ditional passengers when necessary. The PC’s control the ship using their attributes and skills.</seg>
       </tuv>
-      <tuv lang="uk" changeid="darkmentat" changedate="20220522T180946Z" creationid="darkmentat" creationdate="20220521T214359Z">
-        <seg>Гравці починають гру зі своїм невеликим зорельотом. В ньому спокійно може проживати весь екіпаж та при необхідності можна знайти місце для декількох пасажирів. Гравці керують зорельотом використовуючи атрибути та вміння своїх персонажів.</seg>
+      <tuv lang="uk" changeid="darkmentat" changedate="20220604T184003Z" creationid="darkmentat" creationdate="20220521T214359Z">
+        <seg>Гравці починають гру зі своїм невеликим зорельотом. В ньому спокійно може проживати весь екіпаж та при необхідності можна знайти місце для декількох пасажирів. Гравці керують зорельотом використовуючи атрибути та навички своїх персонажів.</seg>
       </tuv>
     </tu>
     <tu>
