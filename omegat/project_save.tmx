@@ -3043,8 +3043,8 @@ Skills represent training in specific
 areas of expertise. Each PC begins
 with two skills.</seg>
       </tuv>
-      <tuv lang="uk" changeid="darkmentat" changedate="20220522T170841Z" creationid="darkmentat" creationdate="20220516T235444Z">
-        <seg>**Вміння:** Одне з тих вмінь у грі, котрими можуть володіти чи не володіти персонажі гравців. Вони відображають кваліфікацію в деяких вузьких областях експертизи. Персонажі гравців починають з двома вміннями.</seg>
+      <tuv lang="uk" changeid="darkmentat" changedate="20220604T183259Z" creationid="darkmentat" creationdate="20220516T235444Z">
+        <seg>**Навички:** Ті вміння, котрими можуть володіти чи не володіти персонажі гравців. Вони відображають кваліфікацію в деяких вузьких областях експертизи. Персонажі гравців починають з двома навичками.</seg>
       </tuv>
     </tu>
     <tu>
