@@ -2791,8 +2791,8 @@ own. Players control the ship with their
 own attributes and skills, rolling the
 dice in dangerous situations.</seg>
       </tuv>
-      <tuv lang="uk" changeid="darkmentat" changedate="20220528T200653Z" creationid="darkmentat" creationdate="20220522T102841Z">
-        <seg>Окрім власних показників **ушкодження**, міцності **корпусу** (аналог _здоров'я_) та **захисту**, у корабля немає якихось власних параметрів чи атрибутів. Гравець керує ним, використовуючи атрибути та вміння свого персонажу, кидаючи куби у випадку загрози.</seg>
+      <tuv lang="uk" changeid="darkmentat" changedate="20220604T184101Z" creationid="darkmentat" creationdate="20220522T102841Z">
+        <seg>Окрім власних показників **ушкодження**, міцності **корпусу** (аналог _здоров'я_) та **захисту**, у корабля немає якихось власних параметрів чи атрибутів. Гравець керує ним, використовуючи атрибути та навички свого персонажу, кидаючи куби у випадку загрози.</seg>
       </tuv>
     </tu>
     <tu>
