@@ -1619,8 +1619,8 @@ ers as a ranged weapon, doing **1D6 +**
 damage to a nearby target. You attack
 by rolling the dice with Willpower.</seg>
       </tuv>
-      <tuv lang="uk" changeid="darkmentat" changedate="20220521T205900Z" creationid="darkmentat" creationdate="20220521T182406Z">
-        <seg>ТАЛАНТИ:
+      <tuv lang="uk" changeid="darkmentat" changedate="20220604T124802Z" creationid="darkmentat" creationdate="20220521T182406Z">
+        <seg>_ТАЛАНТИ:_
 
 **Випал:** Ви можете використовувати ваші псіонічні сили як зброю в дальньому бою, щоб нанести **к6+1** ушкоджень найближчий цілі. Атакуючи, вам потрібно кинути куби додавши Волю.</seg>
       </tuv>
@@ -1631,8 +1631,8 @@ by rolling the dice with Willpower.</seg>
 **Brute:** You deal +2 damage with
 melee weapons.</seg>
       </tuv>
-      <tuv lang="uk" changeid="darkmentat" changedate="20220521T182517Z" creationid="darkmentat" creationdate="20220520T211327Z">
-        <seg>ТАЛАНТИ:
+      <tuv lang="uk" changeid="darkmentat" changedate="20220604T124704Z" creationid="darkmentat" creationdate="20220520T211327Z">
+        <seg>_ТАЛАНТИ:_
 
 **Брутальний:** Ви наносите +2 ушкодження зброєю ближнього бою.</seg>
       </tuv>
@@ -2915,8 +2915,8 @@ player will likely be rolling the dice to avoid the attack or counter it somehow
 turns or rounds. Simply follow the action as it unfolds, shifting focus from character to character naturally and
 resolving their actions.</seg>
       </tuv>
-      <tuv lang="uk" changeid="darkmentat" changedate="20220521T190411Z" creationid="darkmentat" creationdate="20220521T190411Z">
-        <seg>Бойові зіткнення варто розглядати так само, як будь-які інші ризиковані ситуації. Коли гравець нападає на ворога, що готовий захистити себе, майже завжди йому прийдеться кинути для цього куби. Якщо ворог відкриває вогонь по гравцю, гравцю так само прийдеться кинути куби, щоб якимось чином уникнути чи завадити атаці. Тут немає якоїсь чіткої структури з ходами чи раундами, просто слідуйте за розвитком дій, зміщуючи фокус від персонажа до персонажа та опрацьовуйте їх заявлені дії.</seg>
+      <tuv lang="uk" changeid="darkmentat" changedate="20220604T124909Z" creationid="darkmentat" creationdate="20220521T190411Z">
+        <seg>Бойові зіткнення варто розглядати так само, як будь-які інші ризиковані ситуації. Коли гравець нападає на ворога, що готовий захистити себе, майже завжди йому прийдеться кинути для цього куби. Якщо ворог відкриває вогонь по гравцю, гравцю так само прийдеться кинути куби, щоб якимось чином уникнути чи завадити атаці. Тут немає чіткої структури з ходами чи раундами, просто слідуйте за розвитком дій, зміщуючи фокус від персонажа до персонажа та опрацьовуйте їх заявлені дії.</seg>
       </tuv>
     </tu>
     <tu>
