@@ -162,8 +162,8 @@
       <tuv lang="en-US">
         <seg>#### SKILLS</seg>
       </tuv>
-      <tuv lang="uk" changeid="darkmentat" changedate="20220522T163615Z" creationid="darkmentat" creationdate="20220519T201217Z">
-        <seg>### ВМІННЯ</seg>
+      <tuv lang="uk" changeid="darkmentat" changedate="20220604T183709Z" creationid="darkmentat" creationdate="20220519T201217Z">
+        <seg>### НАВИЧКИ</seg>
       </tuv>
     </tu>
     <tu>
@@ -1826,8 +1826,8 @@ cost much more, at the GM’s discretion.</seg>
 talent in a broad area. There are four
 attributes, detailed later.</seg>
       </tuv>
-      <tuv lang="uk" changeid="darkmentat" changedate="20220528T210410Z" creationid="darkmentat" creationdate="20220516T235438Z">
-        <seg>**Атрибут:** Число, зазвичай від **-1** до **+3**, що визначає загальні вміння персонажа гравця в деякій області. В грі є чотири атрибути, про них трохи згодом.</seg>
+      <tuv lang="uk" changeid="darkmentat" changedate="20220604T183458Z" creationid="darkmentat" creationdate="20220516T235438Z">
+        <seg>**Атрибут:** Число, зазвичай від **-1** до **+3**, що визначає загальну компетентність персонажа гравця в деякій області. В грі є чотири атрибути, про них трохи згодом.</seg>
       </tuv>
     </tu>
     <tu>
@@ -2092,8 +2092,8 @@ has **11 Health.**</seg>
 You either have a skill or you don’t. When you roll the dice and have an applicable skill, you may re-roll one
 of the dice. You must accept the second result.</seg>
       </tuv>
-      <tuv lang="uk" changeid="darkmentat" changedate="20220522T173351Z" creationid="darkmentat" creationdate="20220519T201448Z">
-        <seg>Кожне вміння відображає деяку набуту експертизу. На відмінну від атрибутів, вміння не мають числового значення, ви просто або маєте їх, або ні. Коли кидаючи куби у вас є підхоже вміння, ви можете перекинути один кубик і використати новий результат.</seg>
+      <tuv lang="uk" changeid="darkmentat" changedate="20220604T183728Z" creationid="darkmentat" creationdate="20220519T201448Z">
+        <seg>Кожна навичка відображає деяку набуту експертизу. На відмінну від атрибутів, навички не мають числового значення, ви просто або маєте їх, або ні. Коли кидаючи куби у вас є підхожі навички, ви можете перекинути один кубик і використати новий результат.</seg>
       </tuv>
     </tu>
     <tu>
@@ -2298,8 +2298,8 @@ to reroll one of the dice, but you must
 take the second roll. Use the new total
 for your result.</seg>
       </tuv>
-      <tuv lang="uk" changeid="darkmentat" changedate="20220522T171323Z" creationid="darkmentat" creationdate="20220517T002759Z">
-        <seg>Якщо у вас є підхоже вміння, гравець може перекинути один кубик, але новий результат буде остаточним.</seg>
+      <tuv lang="uk" changeid="darkmentat" changedate="20220604T183553Z" creationid="darkmentat" creationdate="20220517T002759Z">
+        <seg>Якщо у гравця є підхожі навички, він може перекинути один кубик, але новий результат буде остаточним.</seg>
       </tuv>
     </tu>
     <tu>
