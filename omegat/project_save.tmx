@@ -1605,8 +1605,8 @@ surroundings. If the answer is some-
 thing you could possibly perceive, the
 GM must answer you honestly.</seg>
       </tuv>
-      <tuv lang="uk" changeid="darkmentat" changedate="20220522T174701Z" creationid="darkmentat" creationdate="20220520T214410Z">
-        <seg>ТАЛАНТИ:
+      <tuv lang="uk" changeid="darkmentat" changedate="20220604T124533Z" creationid="darkmentat" creationdate="20220520T214410Z">
+        <seg>_ТАЛАНТИ:_
 
 **Аналітика:** Коли ви зіштовхуєтесь з новою ситуацією, місцем чи персонажам, ви можете запитати у майстра одне просте питання про навколишні предмети чи людей. Якщо відповіддю є щось, що ви потенційно можете вирахувати, майстер дасть вам чесну відповідь.</seg>
       </tuv>
@@ -1647,10 +1647,10 @@ rerolling one of the dice if you wish. If
 successful, do maximum possible dam-
 age for your weapon, ignoring armor.</seg>
       </tuv>
-      <tuv lang="uk" changeid="darkmentat" changedate="20220522T175024Z" creationid="darkmentat" creationdate="20220520T205425Z">
-        <seg>ТАЛАНТИ:
+      <tuv lang="uk" changeid="darkmentat" changedate="20220604T124605Z" creationid="darkmentat" creationdate="20220520T205425Z">
+        <seg>_ТАЛАНТИ:_
 
-**Підступний удар:** Коли ви атакуєте несподівано, ціль не очікує удару чи ви застали її зненацька, вважайте, що у вас є підхоже вміння і ви можете перекинути один з випавших кубиків. В випадку успіху ви наносите максимальне для вашої зброї ушкодження цілі, ігноруючи броню.</seg>
+**Підступний удар:** Коли ви атакуєте несподівано, ціль не очікує удару чи ви застали її зненацька, вважайте, що у вас є підхоже вміння і ви можете перекинути один з випавших кубиків. В випадку успіху ви наносите максимальне для вашої зброї ушкодження, ігноруючи броню.</seg>
       </tuv>
     </tu>
     <tu>
@@ -2054,8 +2054,8 @@ remotely and perceive through. If it is
 destroyed or lost, you can make a new
 one with a few days of downtime.</seg>
       </tuv>
-      <tuv lang="uk" changeid="darkmentat" changedate="20220520T214841Z" creationid="darkmentat" creationdate="20220520T214841Z">
-        <seg>**Оператор дронів:** У вас є невеликий летючий дрон, який ви можете контролювати віддалено та отримувати з нього данні. Якщо він буде знищений чи загублений, ви можете зробити нового за декілька днів перепочинку.</seg>
+      <tuv lang="uk" changeid="darkmentat" changedate="20220604T124435Z" creationid="darkmentat" creationdate="20220520T214841Z">
+        <seg>**Оператор дронів:** У вас є невеликий летючий дрон, який ви можете контролювати віддалено та отримувати з нього данні. Якщо його знищити чи загубити, ви можете зробити нового за декілька днів перепочинку.</seg>
       </tuv>
     </tu>
     <tu>
@@ -2443,8 +2443,8 @@ plore the universe.</seg>
 any miss ( 6- ) as a partial success ( 7-9 ), or
 a partial success as a total success ( 10+ ).</seg>
       </tuv>
-      <tuv lang="uk" changeid="darkmentat" changedate="20220520T210342Z" creationid="darkmentat" creationdate="20220520T210342Z">
-        <seg>**Щасливчик:** Раз за зустріч ви можете вважати один провал (6-) як ускладнення (7-9), чи ускладнення як повний успіх.</seg>
+      <tuv lang="uk" changeid="darkmentat" changedate="20220604T124643Z" creationid="darkmentat" creationdate="20220520T210342Z">
+        <seg>**Щасливчик:** Раз за зустріч ви можете перетворити один провал (6-) на ускладнення (7-9), чи ускладнення на повний успіх.</seg>
       </tuv>
     </tu>
     <tu>
@@ -2799,8 +2799,8 @@ dice in dangerous situations.</seg>
 ities revolve around being sneaky, lucky, or ruthless. Play an Outlaw if
 you want to get in and out of trouble.</seg>
       </tuv>
-      <tuv lang="uk" changeid="darkmentat" changedate="20220528T193538Z" creationid="darkmentat" creationdate="20220520T204616Z">
-        <seg>Пройдисвітами є різного роду контрабандисти, шахраї та всілякі авантюристи. Їх таланти в основному зводяться до того, щоб бути підступними, везучими та холоднокровними. Грайте за пройдисвіта, якщо хочете швидко знаходити проблеми на свою голову та швидко вибиратись з них.</seg>
+      <tuv lang="uk" changeid="darkmentat" changedate="20220604T124512Z" creationid="darkmentat" creationdate="20220520T204616Z">
+        <seg>Пройдисвітами є різного роду контрабандисти, шахраї авантюристи. Їх таланти в основному зводяться до того, щоб бути підступними, везучими та холоднокровними. Грайте за пройдисвіта, якщо хочете швидко знаходити проблеми на свою голову та швидко вибиратись з них.</seg>
       </tuv>
     </tu>
     <tu>
