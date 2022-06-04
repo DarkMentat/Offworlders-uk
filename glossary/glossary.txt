@@ -10,7 +10,6 @@ NPC	персонаж майстра
 Non-Player Character	персонаж майстра
 Player Character	персонаж гравця
 Attribute	Атрибут
-Skill	Вміння
 Health	Здоров'я
 Ability	Талант
 Success	Успіх
@@ -34,3 +33,5 @@ star map	зоряна мапа
 faction	фракція
 NPCs	персонажі майстра
 PCs	персонажі гравців
+Skill	Навичка
+Skills	Навички
