@@ -1103,6 +1103,26 @@ Prys</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>4
+Monarchy
+Militaristic
+Mutants
+No Children
+No Elderly People
+Oligarchy</seg>
+      </tuv>
+      <tuv lang="uk" changeid="darkmentat" changedate="20220604T105649Z" creationid="darkmentat" creationdate="20220604T105649Z">
+        <seg>4
+Монархія
+Мілітаризм
+Мутанти
+Бездітність
+Відсутність старців
+Олігархія</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>4 Consider other locations in the
 star system, and add one or two now.
 Maybe a highly populated planet, or a
