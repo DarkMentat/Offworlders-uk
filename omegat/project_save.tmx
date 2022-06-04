@@ -948,6 +948,27 @@ Garrick</seg>
     <tu>
       <tuv lang="en-US">
         <seg>2
+Cyber Prosthetics
+Data Records
+Diamonds
+Exotic Animals
+Farming Equipment
+Fine Art</seg>
+      </tuv>
+      <tuv lang="uk" changeid="darkmentat" changedate="20220604T111720Z" creationid="darkmentat" creationdate="20220604T111720Z">
+        <seg>2
+Кіберпротезування
+Бази даних
+Діаманти
+Екзотичні тварини
+Сільськогосподарське обладнання
+Образотворче мистецтво
+</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>2
 Dark
 Dead
 Desert
@@ -1757,6 +1778,29 @@ game fully fueled.</seg>
       </tuv>
       <tuv lang="uk" changeid="darkmentat" changedate="20220528T195836Z" creationid="darkmentat" creationdate="20220522T090528Z">
         <seg>Зазвичай гравці створюють собі корабель з чистого листа. В ньому є невеликий багажний відсік, його озброєння наносить **к6** ушкоджень, а також він має **15 пунктів корпусу**. У нього **захист-0** та в запасі він має **4 одиниці палива** для зоряних стрибків.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>CARGO
+1
+Biological Samples
+Breathable Air
+Clothes
+Coffee
+Consumer Electronics
+Construction Equipment</seg>
+      </tuv>
+      <tuv lang="uk" changeid="darkmentat" changedate="20220604T111606Z" creationid="darkmentat" creationdate="20220604T111606Z">
+        <seg>ВАНТАЖІ
+1
+Біологічні зразки
+Якісне повітря
+Одяг
+Кава
+Споживацька електроніка
+Будівельне обладнання
+</seg>
       </tuv>
     </tu>
     <tu>
