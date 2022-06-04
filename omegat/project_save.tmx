@@ -1857,8 +1857,8 @@ age, and has **15 Hull**. It has **0 A rmor**
 and **4 Max Drive Fuel**. It begins the
 game fully fueled.</seg>
       </tuv>
-      <tuv lang="uk" changeid="darkmentat" changedate="20220528T195836Z" creationid="darkmentat" creationdate="20220522T090528Z">
-        <seg>Зазвичай гравці створюють собі корабель з чистого листа. В ньому є невеликий багажний відсік, його озброєння наносить **к6** ушкоджень, а також він має **15 пунктів корпусу**. У нього **захист-0** та в запасі він має **4 одиниці палива** для зоряних стрибків.</seg>
+      <tuv lang="uk" changeid="darkmentat" changedate="20220604T125512Z" creationid="darkmentat" creationdate="20220522T090528Z">
+        <seg>Зазвичай гравці створюють собі корабель з чистого листа. В ньому є невеликий багажний відсік, його озброєння наносить **к6** ушкоджень, а також він має **15 пунктів корпусу**. У нього **захист-0** та в запасі він має **4 одиниці палива** для зоряних перельотів.</seg>
       </tuv>
     </tu>
     <tu>
@@ -2974,9 +2974,9 @@ Starship drive fuel 3C Per unit.
 Starship upgrades 50C
 Hull repairs 1C Repairs 2 Hull. Available in any port.</seg>
       </tuv>
-      <tuv lang="uk" changeid="darkmentat" changedate="20220522T180830Z" creationid="darkmentat" creationdate="20220521T212048Z">
+      <tuv lang="uk" changeid="darkmentat" changedate="20220604T125507Z" creationid="darkmentat" creationdate="20220521T212048Z">
         <seg>**СПОРЯДЖЕННЯ ЗОРЕЛЬОТУ**
-Паливо для зоряного стрибка - 3К за одиницю
+Паливо для зоряного перельоту - 3К за одиницю
 Апгрейд зорельоту - 50К
 Ремонт корпусу - 1К за 2 од. корпусу, доступно в будь-якому порту.</seg>
       </tuv>
@@ -3567,10 +3567,10 @@ Medium 2C 1D6+1 Rifles, shotguns, swords.
 Heavy 5C 1D6+2 Plasma cannons, sniper rifles, huge swords.
 Heavy.</seg>
       </tuv>
-      <tuv lang="uk" changeid="darkmentat" changedate="20220602T213700Z" creationid="darkmentat" creationdate="20220521T210932Z">
+      <tuv lang="uk" changeid="darkmentat" changedate="20220604T125338Z" creationid="darkmentat" creationdate="20220521T210932Z">
         <seg>| ЗБРОЯ         | КРЕД. | УШКОДЖЕННЯ          | ПРИМІТКИ                              |
 | ------------- | ----- | ------------------- | ------------------------------------- |
-| Без озброєння | 0К    | менший з 2к6 | Пинки, удари кулаками                 |
+| Без озброєння | 0К    | менший з 2к6        | Пинки, удари кулаками                 |
 | Легка         | 1К    | к6                  | Пістолети, ножі, те, що легко сховати |
 | Середня       | 2К    | к6+1                | Рушниці, дробовики, мечі й катани     |
 | Важка*        | 5К    | к6+2                | Плазмові гармати, снайперські рушниці |</seg>
