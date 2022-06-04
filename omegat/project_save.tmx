@@ -1187,6 +1187,26 @@ Prys</seg>
     <tu>
       <tuv lang="en-US">
         <seg>4
+Medicine
+Military Hardware
+Modular Housing Units
+Nuclear Waste
+Nutrient-Rich Paste
+Organs</seg>
+      </tuv>
+      <tuv lang="uk" changeid="darkmentat" changedate="20220604T112122Z" creationid="darkmentat" creationdate="20220604T112122Z">
+        <seg>4
+Медичні препарати
+Військове обладнання
+Модульні житлові блоки
+Ядерні відходи
+Поживна паста
+Органи </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>4
 Merchant Ship
 Military Fleet
 Nomad Fleet
@@ -1279,6 +1299,26 @@ Science</seg>
     <tu>
       <tuv lang="en-US">
         <seg>5
+Potable Water
+Refugees
+Seeds
+Small Arms
+Solar Panels
+Spices</seg>
+      </tuv>
+      <tuv lang="uk" changeid="darkmentat" changedate="20220604T112215Z" creationid="darkmentat" creationdate="20220604T112215Z">
+        <seg>5
+Питна вода
+Біженці
+Зерно
+Стрілецька зброя
+Сонячні панелі
+Спеції</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>5
 Roobin
 Ridley
 Serrah
@@ -1366,6 +1406,26 @@ Xenophobic</seg>
 Торгові гільдії
 Тиранія
 Ксенофобія</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>6
+Steel
+Te a
+To rp e d o e s
+To y s
+Tre e s
+Unrefined Ore</seg>
+      </tuv>
+      <tuv lang="uk" changeid="darkmentat" changedate="20220604T112244Z" creationid="darkmentat" creationdate="20220604T112244Z">
+        <seg>6
+Сталепрокат
+Чай
+Торпеди
+Іграшки
+Дерева
+Необроблена руда</seg>
       </tuv>
     </tu>
     <tu>
