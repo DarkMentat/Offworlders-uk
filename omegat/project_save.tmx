@@ -946,6 +946,26 @@ Eden</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>2
+Diseased
+Dangerous Fauna
+Feudal Houses
+High Population
+Hypercapitalist
+Illuminati</seg>
+      </tuv>
+      <tuv lang="uk" changeid="darkmentat" changedate="20220604T105137Z" creationid="darkmentat" creationdate="20220604T105137Z">
+        <seg>2
+Захворювання
+Небезпечна фауна
+Феодальні династії
+Перенаселення
+Гіперкапіталізм
+Провіщені</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>2 Next to the star, draw a dot. This is
 the location where the PC’s first job
 took place. Is it a planet? A moon? A
@@ -2804,6 +2824,28 @@ happens from there. When the action</seg>
       </tuv>
       <tuv lang="uk" changeid="darkmentat" changedate="20220522T173559Z" creationid="darkmentat" creationdate="20220519T202211Z">
         <seg>**Виживання:** Вміння знайти їжу, повітря чи притулок, зорієнтуватись в небезпечному середовищі.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>THEMES
+1
+Abandoned
+Anarchists
+Artificial Intelligence
+Anti-Psychic
+Clones
+Corporal Punishment</seg>
+      </tuv>
+      <tuv lang="uk" changeid="darkmentat" changedate="20220604T105025Z" creationid="darkmentat" creationdate="20220604T105025Z">
+        <seg>ТЕМИ
+1
+Покинутість
+Анархізм
+Штучний Інтелект
+Анти-фізичність
+Клонування
+Тортури</seg>
       </tuv>
     </tu>
     <tu>
