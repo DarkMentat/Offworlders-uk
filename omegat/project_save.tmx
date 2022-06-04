@@ -1590,8 +1590,8 @@ is a special trick, stunt, or talent that allows the PC to do something special 
 describes how and when it is applicable. The abilities are divided into four character classes, described in
 Making an Offworlder, on the next page.</seg>
       </tuv>
-      <tuv lang="uk" changeid="darkmentat" changedate="20220528T191034Z" creationid="darkmentat" creationdate="20220519T202651Z">
-        <seg>Персонаж гравця в Краєходцях починає з двума талантами та з часом може отримати більше. Кожен талант описує якийсь особливий трюк, фокус чи здібність, з допомогою якого можна здійснити щось незвичайне чи якось обійти правила. Для кожного таланта є опис як він працює та коли його можна застосувати. Всі вони описані далі в чотирьох класах персонажів в наступному розділі. </seg>
+      <tuv lang="uk" changeid="darkmentat" changedate="20220604T123726Z" creationid="darkmentat" creationdate="20220519T202651Z">
+        <seg>Персонаж гравця в Краєходцях починає з двома талантами та з часом може отримати більше. Кожен талант описує якийсь особливий трюк, фокус чи здібність, за допомогою яких можна здійснити щось незвичайне чи якимось чином обійти правила. Для талантів є опис як вони працюють та коли їх можна застосувати. Всі вони описані далі в чотирьох класах персонажів в наступному розділі.</seg>
       </tuv>
     </tu>
     <tu>
@@ -3090,8 +3090,8 @@ able to use them to do awesome things.</seg>
       <tuv lang="en-US">
         <seg>Some powerful abilities require the player to roll the dice to be used successfully.</seg>
       </tuv>
-      <tuv lang="uk" changeid="darkmentat" changedate="20220519T202726Z" creationid="darkmentat" creationdate="20220519T202726Z">
-        <seg>Деякі особливо потужні таланти потребують, щоб гравець кинув куби для того, щоб успішно їх використати.</seg>
+      <tuv lang="uk" changeid="darkmentat" changedate="20220604T123757Z" creationid="darkmentat" creationdate="20220519T202726Z">
+        <seg>Деякі особливо потужні таланти потребують, щоб гравець кинув куби, щоб успішно їх використати.</seg>
       </tuv>
     </tu>
     <tu>
