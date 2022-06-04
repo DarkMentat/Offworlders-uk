@@ -869,7 +869,7 @@ Then choose either:
 - **Light Armor** worth 1-armor and a
     second weapon of any type.</seg>
       </tuv>
-      <tuv lang="uk" changeid="darkmentat" changedate="20220528T210721Z" creationid="darkmentat" creationdate="20220519T204059Z">
+      <tuv lang="uk" changeid="darkmentat" changedate="20220604T123924Z" creationid="darkmentat" creationdate="20220519T204059Z">
         <seg>- Ви починаєте з **3 припасами**
 - Ви починаєте з однією **легкою зброєю**, опишіть її.
 
@@ -878,7 +878,7 @@ Then choose either:
 
 **АБО**
 
-- **Легка броня** з _захистом-1_ та ще одну зброю будь-якого типу. </seg>
+- Легка броня з _захистом-1_ та ще одну зброю будь-якого типу. </seg>
       </tuv>
     </tu>
     <tu>
@@ -1958,8 +1958,8 @@ Anything that will help everyone start
 getting a picture of your character in
 their imagination.</seg>
       </tuv>
-      <tuv lang="uk" changeid="darkmentat" changedate="20220528T193034Z" creationid="darkmentat" creationdate="20220519T204333Z">
-        <seg>Вигадайте ім'я персонажу та озвучте його іншим гравцям. Також придумайте якусь виразну особливість персонажа та опишіть її. Це може бути щось щодо одягу, чи зовнішнього вигляду, чи виразною звичкою — що завгодно, що допоможе кожному схопити в уяві образ вашого персонажа.</seg>
+      <tuv lang="uk" changeid="darkmentat" changedate="20220604T123955Z" creationid="darkmentat" creationdate="20220519T204333Z">
+        <seg>Вигадайте ім'я персонажу та озвучте його іншим гравцям. Також придумайте якусь виразну особливість персонажа та опишіть її. Це може бути щось щодо одягу, чи зовнішнього вигляду, чи просто виразною звичкою — що завгодно, що допоможе кожному схопити в уяві образ вашого персонажа.</seg>
       </tuv>
     </tu>
     <tu>
@@ -2144,8 +2144,8 @@ and any two special abilities. Play-
 ers should communicate to make
 sure they don’t overlap too much.</seg>
       </tuv>
-      <tuv lang="uk" changeid="darkmentat" changedate="20220522T174354Z" creationid="darkmentat" creationdate="20220519T204555Z">
-        <seg>Досвідчені гравці можуть забажати більшої гнучкості при створенні персонажа. Якщо всі згодні, гравець може проігнорувати описані класи повністю та створити персонажа, просто вибравши два вміння та два будь-яких таланти. В цьому випадку гравцям варто домовитись, щоб їх сильні сторони не надто пересікались.</seg>
+      <tuv lang="uk" changeid="darkmentat" changedate="20220604T124039Z" creationid="darkmentat" creationdate="20220519T204555Z">
+        <seg>Досвідчені гравці можуть забажати більшої гнучкості при створенні персонажа. Якщо всі згодні, гравець може проігнорувати надані класи та створити персонажа, просто вибравши два вміння та два будь-яких таланти. В цьому випадку гравцям варто домовитись, щоб їх сильні сторони не надто перетинались.</seg>
       </tuv>
     </tu>
     <tu>
@@ -3090,8 +3090,8 @@ able to use them to do awesome things.</seg>
       <tuv lang="en-US">
         <seg>Some powerful abilities require the player to roll the dice to be used successfully.</seg>
       </tuv>
-      <tuv lang="uk" changeid="darkmentat" changedate="20220604T123757Z" creationid="darkmentat" creationdate="20220519T202726Z">
-        <seg>Деякі особливо потужні таланти потребують, щоб гравець кинув куби, щоб успішно їх використати.</seg>
+      <tuv lang="uk" changeid="darkmentat" changedate="20220604T123820Z" creationid="darkmentat" creationdate="20220519T202726Z">
+        <seg>Деякі особливо потужні таланти потребують, щоб гравець кинув куби, щоб ними скористатись.</seg>
       </tuv>
     </tu>
     <tu>
