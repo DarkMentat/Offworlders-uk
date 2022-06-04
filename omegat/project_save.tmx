@@ -907,6 +907,27 @@ rest and care, will make a full recovery.</seg>
     <tu>
       <tuv lang="en-US">
         <seg>2
+Cargo Container
+Carrier Strike Group
+Cathedral
+Colony Vessel
+Cryosleep Pod
+Dead Body</seg>
+      </tuv>
+      <tuv lang="uk" changeid="darkmentat" changedate="20220604T110324Z" creationid="darkmentat" creationdate="20220604T110324Z">
+        <seg>2
+Вантажний контейнер
+Ударна авіагрупа
+Собор
+Колонізаційне судно
+Капсула кріосну
+Мертвець
+</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>2
 Corban
 Dajiel
 Dunkenne
