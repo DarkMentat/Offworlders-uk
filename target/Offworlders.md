@@ -602,41 +602,13 @@ biomechanical implants.
 
 #### СУДІТЬ ТАЛАНТИ СПРАВЕДЛИВО
 
-Деякі класові таланти настільки широко описаніSome of the class abilities are quite
-broad in scope, and can even be a little
-vague. This is intentional. When there
-is a question about where and how an
-ability applies, you have final say, but
-it should be a conversation at the table.
-Try to be consistent, but flexible with
-the details. It’s important to challenge
-the players, but don’t try to cheat them
-out of their abilities. They are meant to
-be потужними, and the players should be
-able to use them to do awesome things.
+Деякі класові таланти можуть бути описані дещо широко, деякі туманно. Це навмисно. Коли постає питання про те коли і як використовуються таланти за вами останнє слово, але воно має бути в результаті розмови. Намагайтесь бути консинстентними, але гнучкими щодо деталей. Створюйте виклик гравцям, але не видурюйте у них таланти. Вони мають бути потужними, гравці мають використовувати їх можливості щоб робити неймовірні речі.
 
-### THE DIE OF FATE
+### СМЕРТЬ ДОЛІ
 
-Sometimes a situation will come up
-that needs to be resolved, but you
-don’t want to just decide yourself. For
-example when two NPC’s are fighting
-each other and you don’t know who
-will win, or if the PC’s enter a danger-
-ous system and you want to know if
-pirates come looking for them. In these
-situations, simply roll a D6. A high roll
-indicates a positive result for the PC’s
-and a low roll a negative one. You can
-make this either a binary yes/no or
-use degrees of goodness and badness,
-depending on the situation.
+Часом стається ситуація яка має бути вирішена, але ви не бажаєте її вирішувати самостійно. Для прикладу коли двоє неігрових персонажа боряться між собою і ви не знаєте хто переможе, або якщо персонаж гравця заходить у небезпечну космічну систему і ви хочете зрозуміти чи прийшли по нього пірати. В таких ситуаціях просто кидаєте к6. Високий результат вказує на позитивний результат, а низький на негативний. Ви можете зробити це бінарним так/ні або використовувати градуси шорошості та поганості залежачи від ситуації. 
 
-Use the die of fate when it’s interesting
-to not be in control of what happens,
-and you don’t want to be responsible for
-the answer. But if you decide to use it,
-be sure to follow through on the result.
+Використовуйте куб долі коли вам цікаво не контролювати те що трапиться і ви не хочете бути відповідальним за відповіді. Але вирішивши використати його будьте певні слідувати результатам.
 
 ### СПРАВИ: КАРКАС ВАШОЇ ПІДГОТОВКИ
 
@@ -786,256 +758,258 @@ Xiangliu Starfield
 
 Використовуйте наступні таблиці, щоб придумати ім'я, місце чи ідеї для завдання. Ви можете просто вибрати якийсь цікавий варіант, або ж вибрати випадково, кинувши **2к6** щоб один кубик вказав на номер колонки, а інший на номер рядка. Пункти з цих таблиць можуть слугувати відправною точкою для завдання чи цілої кампанії, або ж просто додати цікавих деталей в опис того, що бачать гравці.
 
-WORLD TYPES
+ТИПИ СВІТІВ 
 1
-Archipelago
-Artificial
-Burning
-Caustic
-Collapsing
-Cracked Open
+Острівний 
+Техногенний
+Згораючий 
+Кислотний
+Зруйнований (Руїна)
+Тріснутий 
 
 2
-Dark
-Dead
-Desert
-Diamond
-Earthlike
-Eden
+Темний
+Мертвий
+Пустинний
+Коштовний
+Землеподібний (Схожий на землю) 
+Рай
 
 3
-Forested
-Frozen
+Покритий лісом
+Заморожений
 Garbage
-Gas Giant
+Газовий Гігант
 Global Metropolis
 High Gravity
 
 4
-Hollow
-Industrial
-Low Gravity
-Mechanical
-Moon
-Phantom
+Пустотний
+Індустріальний
+Низька гравітація
+Механізований
+Супутник
+Фантомна
 
 5
-Jungle
-Oceanic
-Radioactive
-Ringed
-Sentient
-Swamp
+Джунглі
+Океанічна
+Радіоактивна
+Кільцевий
+Самосвідоме
+Болотне
 
 6
-Tem p era te
-Tidally Locked
-To x i c
-Unstable Orbit
-Volcanic
-Wintery
+Помірний
+Синхронне обертання
+Токсичний
+Нестабільна орбіта
+Вулканічна
+Зимна
 
-THEMES
+ТЕМИ
 1
-Abandoned
-Anarchists
-Artificial Intelligence
-Anti-Psychic
-Clones
-Corporal Punishment
+Покинутість
+Анархізм
+Штучний Інтелект
+Анти-фізичність
+Клонування
+Тортури
 
 2
-Diseased
-Dangerous Fauna
-Feudal Houses
-High Population
-Hypercapitalist
-Illuminati
+Захворювання
+Небезпечна фауна
+Феодальні династії
+Перенаселення
+Гіперкапіталізм
+Провіщені
 
 3
-Imperialism
-Kleptocracy
-Low Population
-Lo w Tech
-Managed Democracy
-Martial Law
+Імперіалізм
+Клептократія
+Низька популяція
+Низькотехнологічність
+Керовна демократія
+Військовий стан
 
 4
-Monarchy
-Militaristic
-Mutants
-No Children
-No Elderly People
-Oligarchy
+Монархія
+Мілітаризм
+Мутанти
+Бездітність
+Відсутність старців
+Олігархія
 
 5
-Pacifists
-Piracy
-Post-Apocalyptic
-Poverty
-Quarantined
-Science
+Пацифізм
+Піратство
+Постапокаліпсис
+Злиденність
+Карантин
+Наука
 
 6
-Slavers
-Spies
-Theocracy
-Trade Guilds
-Ty ra n n y
-Xenophobic
+Рабовласництво
+Шпигунство
+Теократія
+Торгові гільдії
+Тиранія
+Ксенофобія
 
-OBJECTS IN SPACE
+В КОСМОСІ НАВКОЛО
 1
-Abandoned Navy Ship
-Alien Wildlife Preserve
-Ancient AI Core
-Arboretum
-Asteroid Field
-Battle in Progress
+Покинутий десантний корабель
+Інопланетний заповідник
+Древнє ядро штучного інтелекту
+Дендрарій
+Поле астероїдів
+Битва в розпалі
+
 
 2
-Cargo Container
-Carrier Strike Group
-Cathedral
-Colony Vessel
-Cryosleep Pod
-Dead Body
+Вантажний контейнер
+Ударна авіагрупа
+Собор
+Колонізаційне судно
+Капсула кріосну
+Мертвець
+
 
 3
-Debris Field
-Derelict Civilian Ship
-Escape Pod
-Factory
-Generation Ship
-Hotel
+Поле з уламків
+Покинутий цивільний корабель
+Рятувальна капсула
+Фабрика
+Корабель поколінь
+Готель
 
 4
-Merchant Ship
-Military Fleet
-Nomad Fleet
-Patrol Frigate
-Science Installation
-Secret Base
+Корабель найманців
+Військовий флот
+Флот кочівників
+Патрульний фрегат
+Наукова установка
+Таємна станція
+
 
 5
-Shipping Center
-Solar Array
-Superweapon
-Trade Convoy
-Listening Post
-Luxury Liner
+Торговий центр
+Сонячні панелі
+Суперзброя
+Торговий конвой
+Пост прослуховування
+Розкішний лайнер
 
 6
-Ore Mine
-Pirate Haven
-Private Station
-Refueling Station
-Transmission Buoy
-Unexploded Ordnance
+Залізорудна копальня
+Піратське сховище
+Приватна станція
+Заправна станція
+Маяк передачі
+Вибухонебезпечні боєприпаси
 
-CARGO
+ВАНТАЖІ
 1
-Biological Samples
-Breathable Air
-Clothes
-Coffee
-Consumer Electronics
-Construction Equipment
+Біологічні зразки
+Якісне повітря
+Одяг
+Кава
+Споживацька електроніка
+Будівельне обладнання
+
 
 2
-Cyber Prosthetics
-Data Records
-Diamonds
-Exotic Animals
-Farming Equipment
-Fine Art
+Кіберпротезування
+Бази даних
+Діаманти
+Екзотичні тварини
+Сільськогосподарське обладнання
+Образотворче мистецтво
+
 
 3
-Fuel
-Gourmet Food
-Ground Vehicles
-Illegal Drugs
-Liquor
-Luxury Housewares
+Паливо
+Вишукана їжа
+Наземний транспорт
+Нелегальні наркотики
+Алкоголь
+Розкішні домашні товари
+
 
 4
-Medicine
-Military Hardware
-Modular Housing Units
-Nuclear Waste
-Nutrient-Rich Paste
-Organs
+Медичні препарати
+Військове обладнання
+Модульні житлові блоки
+Ядерні відходи
+Поживна паста
+Органи 
 
 5
-Potable Water
-Refugees
-Seeds
-Small Arms
-Solar Panels
-Spices
+Питна вода
+Біженці
+Зерно
+Стрілецька зброя
+Сонячні панелі
+Спеції
 
 6
-Steel
-Te a
-To rp e d o e s
-To y s
-Tre e s
-Unrefined Ore
+Сталепрокат
+Чай
+Торпеди
+Іграшки
+Дерева
+Необроблена руда
 
-NAMES
+ІМЕНА
 1
-Albern
-Ananya
-Bodhi
-Brindt
-Charles
-Chelle
+Альберн
+Ананья
+Бодхі
+Брайнд
+Чарльз
+Чілі
 
 2
-Corban
-Dajiel
-Dunkenne
-Forrest
-Benry
-Garrick
+Корбан
+Дажіл
+Дюнкенн
+Форест
+Берні
+Гаррі
 
 3
-Horza
-Ingvall
-Karoleen
-Kerra
-Kion
-Kotai
+Хорза
+Ігнвалл
+Каролін
+Керра
+Кіон
+Котаі
 
 4
-Laramie
-Lora
-Olyffia
-Othersh
-Piqo
-Prys
+Лараміє
+Лорі
+Оліффія
+Озер
+Піго
+Присс
 
 5
-Roobin
-Ridley
-Serrah
-Shail
-Sophia
-Steede
+Робін
+Рідлі
+Сарра
+Шаіл
+Со'фія
+Стіді
 
 6
-Talsorian
-To r r i n
-Varin
-Vasquez
-Wei
-Xiang
+Талсоріан
+Т о р р і н 
+Варін
+Васкез
+Вай
+Ксанг
 
-**_Offworlders_** **is designed to be extremely open to interpretation, remixing,
-and hacking. Negotiating specific uses of abilities, and making smart rul-
-ings about dice rolls at the table is part of the fun. I encourage you to come
-up with new classes, abilities, aliens and weird gear for your game. Talk to
-me on Twitter at @chrisperrywolf, or join the Offworlders Discord server at
-chrispwolf.com/offworlders and show us what you come up with!**
+**_Краєходці_** ** збудовані відритими до інтерпритацій, перемішування та хаків. Переговори щодо специфічного використання талантів та розробка розумних правил щодо кидків кубів є частиною розваги. Я підтримую і заохочую створення нових класів, талантів, прибульців та дивного спорядження для вашої гри. Пишіть мені у твітері @chrisperrywolf, або додавайтесь на дискорд сервер Offworlders Discord в 
+chrispwolf.com/offworlders та покажіть нам з чим прийшли!**
 
 
