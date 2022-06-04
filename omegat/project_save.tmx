@@ -1075,6 +1075,26 @@ gas-mining station.</seg>
     <tu>
       <tuv lang="en-US">
         <seg>5
+Jungle
+Oceanic
+Radioactive
+Ringed
+Sentient
+Swamp</seg>
+      </tuv>
+      <tuv lang="uk" changeid="darkmentat" changedate="20220604T094204Z" creationid="darkmentat" creationdate="20220604T094204Z">
+        <seg>5
+Джунглі
+Океанічна
+Радіоактивна
+Кільцевий
+Самосвідоме
+Болотне</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>5
 Roobin
 Ridley
 Serrah
@@ -1122,6 +1142,26 @@ Xiang</seg>
 Васкез
 Вай
 Ксанг</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>6
+Tem p era te
+Tidally Locked
+To x i c
+Unstable Orbit
+Volcanic
+Wintery</seg>
+      </tuv>
+      <tuv lang="uk" changeid="darkmentat" changedate="20220604T094353Z" creationid="darkmentat" creationdate="20220604T094353Z">
+        <seg>6
+Помірний
+Синхронне обертання
+Токсичний
+Нестабільна орбіта
+Вулканічна
+Зимна</seg>
       </tuv>
     </tu>
     <tu>
