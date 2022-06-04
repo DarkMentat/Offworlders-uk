@@ -1155,6 +1155,26 @@ Swamp</seg>
     <tu>
       <tuv lang="en-US">
         <seg>5
+Pacifists
+Piracy
+Post-Apocalyptic
+Poverty
+Quarantined
+Science</seg>
+      </tuv>
+      <tuv lang="uk" changeid="darkmentat" changedate="20220604T105809Z" creationid="darkmentat" creationdate="20220604T105809Z">
+        <seg>5
+Пацифізм
+Піратство
+Постапокаліпсис
+Злиденність
+Карантин
+Наука</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>5
 Roobin
 Ridley
 Serrah
@@ -1182,6 +1202,26 @@ a location or two to each, if you wish.</seg>
       </tuv>
       <tuv lang="uk" changeid="darkmentat" changedate="20220603T123946Z" creationid="darkmentat" creationdate="20220603T123754Z">
         <seg>5. Чи головна фракція в зоряній системі має владу і над іншими зірками? Якщо так, ці системи має бути досить близько. Додайте їх на карту та дайте їм імена. Також можете додати до них ще пару локацій.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>6
+Slavers
+Spies
+Theocracy
+Trade Guilds
+Ty ra n n y
+Xenophobic</seg>
+      </tuv>
+      <tuv lang="uk" changeid="darkmentat" changedate="20220604T105837Z" creationid="darkmentat" creationdate="20220604T105837Z">
+        <seg>6
+Рабовласництво
+Шпигунство
+Теократія
+Торгові гільдії
+Тиранія
+Ксенофобія</seg>
       </tuv>
     </tu>
     <tu>
@@ -2335,6 +2375,29 @@ interesting.</seg>
       </tuv>
       <tuv lang="uk" changeid="darkmentat" changedate="20220528T182340Z" creationid="darkmentat" creationdate="20220519T194644Z">
         <seg>І завжди має щось відбуватись. Не залежно від результату, кидок кубів має змінювати описану ситуацію. У випадку успіху, персонаж гравця досягає своїх цілей та продовжує рухати гру далі, а при ускладненнях чи провалах ситуація загострюється та стає ще цікавішою.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>OBJECTS IN SPACE
+1
+Abandoned Navy Ship
+Alien Wildlife Preserve
+Ancient AI Core
+Arboretum
+Asteroid Field
+Battle in Progress</seg>
+      </tuv>
+      <tuv lang="uk" changeid="darkmentat" changedate="20220604T110133Z" creationid="darkmentat" creationdate="20220604T110133Z">
+        <seg>В КОСМОСІ НАВКОЛО
+1
+Покинутий десантний корабель
+Інопланетний заповідник
+Древнє ядро штучного інтелекту
+Дендрарій
+Поле астероїдів
+Битва в розпалі
+</seg>
       </tuv>
     </tu>
     <tu>
