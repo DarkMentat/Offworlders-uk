@@ -1061,6 +1061,27 @@ High Gravity</seg>
     <tu>
       <tuv lang="en-US">
         <seg>3
+Fuel
+Gourmet Food
+Ground Vehicles
+Illegal Drugs
+Liquor
+Luxury Housewares</seg>
+      </tuv>
+      <tuv lang="uk" changeid="darkmentat" changedate="20220604T111956Z" creationid="darkmentat" creationdate="20220604T111956Z">
+        <seg>3
+Паливо
+Вишукана їжа
+Наземний транспорт
+Нелегальні наркотики
+Алкоголь
+Розкішні домашні товари
+</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>3
 Horza
 Ingvall
 Karoleen
