@@ -1126,8 +1126,8 @@ ruptible
 Rebel Agent: Shasta
 Rafaella</seg>
       </tuv>
-      <tuv lang="uk" changeid="darkmentat" changedate="20220528T223044Z" creationid="darkmentat" creationdate="20220528T222424Z">
-        <seg>| Офіцери митниці, Делай та Хіро  | 3     | 1     | к6    | ретельні, але корумповані  |</seg>
+      <tuv lang="uk" changeid="darkmentat" changedate="20220604T130710Z" creationid="darkmentat" creationdate="20220604T130710Z">
+        <seg></seg>
       </tuv>
     </tu>
     <tu>
@@ -1473,8 +1473,8 @@ Wintery</seg>
         <seg>6 1 1D6+1 A true believer with no
 sense of humor.</seg>
       </tuv>
-      <tuv lang="uk" changeid="darkmentat" changedate="20220528T223050Z" creationid="darkmentat" creationdate="20220528T222433Z">
-        <seg>| Агент бунтівників Рафаела Шаста | 6     | 1     | к6+1  | фанатик без почуття гумору |</seg>
+      <tuv lang="uk" changeid="darkmentat" changedate="20220604T130714Z" creationid="darkmentat" creationdate="20220604T130714Z">
+        <seg></seg>
       </tuv>
     </tu>
     <tu>
@@ -2569,9 +2569,11 @@ Chelle</seg>
 Customs Officers:
 Delilah &amp; Hiro</seg>
       </tuv>
-      <tuv lang="uk" changeid="darkmentat" changedate="20220528T223036Z" creationid="darkmentat" creationdate="20220528T222205Z">
+      <tuv lang="uk" changeid="darkmentat" changedate="20220604T130644Z" creationid="darkmentat" creationdate="20220528T222205Z">
         <seg>| Персонажі майстра               | здрв. | броня | зброя | деталі                     |
-| ------------------------------- | ----- | ----- | ----- | -------------------------- |</seg>
+| ------------------------------- | ----- | ----- | ----- | -------------------------- |
+| Офіцери митниці, Делай та Хіро  | 3     | 1     | к6    | ретельні, але корумповані  |
+| Агент бунтівників Рафаела Шаста | 6     | 1     | к6+1  | фанатик без почуття гумору |</seg>
       </tuv>
     </tu>
     <tu>
