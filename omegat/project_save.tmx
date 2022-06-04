@@ -1289,6 +1289,26 @@ a location or two to each, if you wish.</seg>
     <tu>
       <tuv lang="en-US">
         <seg>6
+Ore Mine
+Pirate Haven
+Private Station
+Refueling Station
+Transmission Buoy
+Unexploded Ordnance</seg>
+      </tuv>
+      <tuv lang="uk" changeid="darkmentat" changedate="20220604T111401Z" creationid="darkmentat" creationdate="20220604T111401Z">
+        <seg>6
+Залізорудна копальня
+Піратське сховище
+Приватна станція
+Заправна станція
+Маяк передачі
+Вибухонебезпечні боєприпаси</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>6
 Slavers
 Spies
 Theocracy
