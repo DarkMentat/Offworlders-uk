@@ -1000,6 +1000,26 @@ location there too.</seg>
     <tu>
       <tuv lang="en-US">
         <seg>3
+Debris Field
+Derelict Civilian Ship
+Escape Pod
+Factory
+Generation Ship
+Hotel</seg>
+      </tuv>
+      <tuv lang="uk" changeid="darkmentat" changedate="20220604T110423Z" creationid="darkmentat" creationdate="20220604T110423Z">
+        <seg>3
+Поле з уламків
+Покинутий цивільний корабель
+Рятувальна капсула
+Фабрика
+Корабель поколінь
+Готель</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>3
 Forested
 Frozen
 Garbage
@@ -1125,6 +1145,27 @@ Prys</seg>
     <tu>
       <tuv lang="en-US">
         <seg>4
+Merchant Ship
+Military Fleet
+Nomad Fleet
+Patrol Frigate
+Science Installation
+Secret Base</seg>
+      </tuv>
+      <tuv lang="uk" changeid="darkmentat" changedate="20220604T110511Z" creationid="darkmentat" creationdate="20220604T110511Z">
+        <seg>4
+Корабель найманців
+Військовий флот
+Флот кочівників
+Патрульний фрегат
+Наукова установка
+Таємна станція
+</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>4
 Monarchy
 Militaristic
 Mutants
@@ -1211,6 +1252,26 @@ Steede</seg>
 Шаіл
 Со'фія
 Стіді</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>5
+Shipping Center
+Solar Array
+Superweapon
+Trade Convoy
+Listening Post
+Luxury Liner</seg>
+      </tuv>
+      <tuv lang="uk" changeid="darkmentat" changedate="20220604T110635Z" creationid="darkmentat" creationdate="20220604T110635Z">
+        <seg>5
+Торговий центр
+Сонячні панелі
+Суперзброя
+Торговий конвой
+Пост прослуховування
+Розкішний лайнер</seg>
       </tuv>
     </tu>
     <tu>
