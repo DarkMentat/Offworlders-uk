@@ -2481,8 +2481,8 @@ to wait to Roll the Dice to learn their
 fate. If they make it to a MedBay with-
 in a few minutes, they get +1 to the roll.</seg>
       </tuv>
-      <tuv lang="uk" changeid="darkmentat" changedate="20220522T181442Z" creationid="darkmentat" creationdate="20220522T102234Z">
-        <seg>**Медблок:** Просунуте автоматизоване медичне устаткування. Тут можна помістити людину в стазис і з часом вилікувати навіть найбільш важкі поранення. Персонаж, відпочиваючи в медблоці, за ніч може відновити своє здоров'я повністю, а не тільки половину. Якщо у персонажа рівень здоров'я впаде до нуля, він може зачекати з кидком кубів. Якщо його доставлять в медблок протягом декількох хвилин, він отримає бонус +1 до кидка.</seg>
+      <tuv lang="uk" changeid="darkmentat" changedate="20220604T125820Z" creationid="darkmentat" creationdate="20220522T102234Z">
+        <seg>**Медблок:** Просунуте автоматизоване медичне устаткування. Тут можна помістити людину в стазис і з часом вилікувати навіть найважчі поранення. Персонаж, відпочиваючи в медблоці, за ніч може відновити своє здоров'я повністю, а не тільки половину. Якщо у персонажа рівень здоров'я впаде до нуля, він може зачекати з кидком кубів. Якщо його доставлять в медблок протягом декількох хвилин, він отримає бонус +1 до кидка.</seg>
       </tuv>
     </tu>
     <tu>
@@ -2665,8 +2665,8 @@ GM will tell you what.</seg>
 name for their ship. Something like _The
 Desert Rose_ , _Good Grief_ , or _Null Gravitas_.</seg>
       </tuv>
-      <tuv lang="uk" changeid="darkmentat" changedate="20220522T100547Z" creationid="darkmentat" creationdate="20220522T100547Z">
-        <seg>І, звичайно, гравцям варто вибрати ім'я свого корабля. Щось на кшталт "Пустинна троянда", "Кара Господня" чи "Гравіта-Нуль" може підійти.</seg>
+      <tuv lang="uk" changeid="darkmentat" changedate="20220604T125605Z" creationid="darkmentat" creationdate="20220522T100547Z">
+        <seg>І, звичайно ж, гравцям варто вибрати ім'я свого корабля. Щось на кшталт "Пустинна троянда", "Кара Господня" чи "Гравіта-Нуль" може підійти.</seg>
       </tuv>
     </tu>
     <tu>
@@ -3765,8 +3765,8 @@ asterisk (*) may be taken twice, provid-
 ing a cumulative bonus. Otherwise each
 upgrade may only be purchased once:</seg>
       </tuv>
-      <tuv lang="uk" changeid="darkmentat" changedate="20220522T100810Z" creationid="darkmentat" creationdate="20220522T100810Z">
-        <seg>Коли ви створюєте свій корабель, виберіть 2 з наступних варіантів. Апгрейди, що позначені зірочкою можна взяти двічі та їх бонус буде складуватись. В усіх інших випадках один апгрейд можна придбати тільки один раз.</seg>
+      <tuv lang="uk" changeid="darkmentat" changedate="20220604T125719Z" creationid="darkmentat" creationdate="20220522T100810Z">
+        <seg>Коли ви створюєте свій корабель, виберіть 2 з наступних варіантів. Апгрейди, що позначені зірочкою можна взяти двічі та їх бонус буде складатись. В усіх інших випадках один апгрейд можна придбати тільки один раз.</seg>
       </tuv>
     </tu>
     <tu>
