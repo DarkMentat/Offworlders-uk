@@ -737,8 +737,8 @@ reveal yourself.</seg>
 port instantly to a near by location that
 you can see.</seg>
       </tuv>
-      <tuv lang="uk" changeid="darkmentat" changedate="20220521T185835Z" creationid="darkmentat" creationdate="20220521T184824Z">
-        <seg>**Стрибок:** Раз за сцену ви можете миттєво телепортуватись в будь-яку точку неподалік в межах вашого поля зору.</seg>
+      <tuv lang="uk" changeid="IrynaDobro" changedate="20220605T192124Z" creationid="darkmentat" creationdate="20220521T184824Z">
+        <seg>**Стрибок:** Один раз за час однієї ігрової ситуації ви можете миттєво телепортуватись в будь-яку точку неподалік в межах вашого поля зору.</seg>
       </tuv>
     </tu>
     <tu>
@@ -4060,10 +4060,8 @@ process until the job is resolved.</seg>
 well it goes. You’ll roll the dice and add one of your attributes to get a final result, then use that result to
 figure out what happens next.</seg>
       </tuv>
-      <tuv lang="uk" changeid="IrynaDobro" changedate="20220605T191639Z" creationid="darkmentat" creationdate="20220528T170921Z">
-        <seg>Коли персонаж гравця робить щось небезпечне, стикається зі спротивом чи його дії мають непевний результат, тоді пригодяться гральні кубики, щоб дізнатись наскільки добре для гравців підуть справи. Потрібно буде кинути два шестигранника, додати до сумарного результату значення підхожого атрибуту та звірити це число як вказано нижче, щоб визначити напрям розвитку подій.
-
-Коли результат дій персонажа гравця є </seg>
+      <tuv lang="uk" changeid="IrynaDobro" changedate="20220605T191649Z" creationid="darkmentat" creationdate="20220528T170921Z">
+        <seg>Коли персонаж гравця робить щось небезпечне, стикається зі спротивом чи його дії мають непевний результат, тоді пригодяться гральні кубики, щоб дізнатись наскільки добре для гравців підуть справи. Потрібно буде кинути два шестигранника, додати до сумарного результату значення підхожого атрибуту та звірити це число як вказано нижче, щоб визначити напрям розвитку подій. </seg>
       </tuv>
     </tu>
   </body>
