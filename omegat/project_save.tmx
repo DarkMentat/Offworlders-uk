@@ -98,7 +98,8 @@
       <note>Дільце? Завдання? 
 Схиляюсь до завдання
 ДІЛО! Як в клінках
-
+ДІЛО якось занадто русизм
+може місії? тупо в лоб але покатить
 </note>
       <tuv lang="en-US">
         <seg>#### JOBS: A FRAMEWORK FOR YOUR</seg>
@@ -180,8 +181,8 @@
       <tuv lang="en-US">
         <seg>#### THE DIE OF FATE</seg>
       </tuv>
-      <tuv lang="uk" changeid="IrynaDobro" changedate="20220603T151616Z" creationid="darkmentat" creationdate="20220522T163615Z">
-        <seg>### СМЕРТЬ ДОЛІ</seg>
+      <tuv lang="uk" changeid="darkmentat" changedate="20220605T090010Z" creationid="darkmentat" creationdate="20220522T163615Z">
+        <seg>### КИДОК УДАЧІ</seg>
       </tuv>
     </tu>
     <tu>
@@ -3072,6 +3073,8 @@ be able to find it.</seg>
     </tu>
     <tu>
       <note>Видурити. Чи зрозуміло про що мова йдеться з контексту? Я б написала "Створюйте виклик гравцям але не дуріть їх", але є думка що це не підходить бо зровсім не описує про що йдеться
+
++
 </note>
       <tuv lang="en-US">
         <seg>Some of the class abilities are quite
