@@ -1849,8 +1849,6 @@ draw them on the map.</seg>
       </tuv>
     </tu>
     <tu>
-      <note>Hull - корпус, треба переглянути вордінги
-</note>
       <tuv lang="en-US">
         <seg>By default, the ship is a blank slate. It
 has a small cargo hold, does **1D6** dam-
