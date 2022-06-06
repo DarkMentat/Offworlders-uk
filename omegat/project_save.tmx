@@ -666,8 +666,8 @@ it works. The GM has final say on its
 effects and potential side effects or
 drawbacks.</seg>
       </tuv>
-      <tuv lang="uk" changeid="darkmentat" changedate="20220522T174813Z" creationid="darkmentat" creationdate="20220520T214725Z">
-        <seg>**Хімік:** Ви можете потратити 1 з _припасів_, щоб виробити дозу якогось медикаменту, хімікату, отрути чи біоагенту. Дайте їй ім'я, опишіть призначення та обговоріть з майстром як саме вона має працювати. У майстра буде останнє слово щодо того, яким саме буде працювати ця речовина та які можуть бути побічні ефекти чи обмеження.</seg>
+      <tuv lang="uk" changeid="darkmentat" changedate="20220606T114950Z" creationid="darkmentat" creationdate="20220520T214725Z">
+        <seg>**Хімік:** Ви можете потратити **1** з **припасів**, щоб виробити дозу якогось медикаменту, хімікату, отрути чи біоагенту. Дайте їй ім'я, опишіть призначення та обговоріть з майстром як саме вона має працювати. У майстра буде останнє слово щодо того, яким саме буде працювати ця речовина та які можуть бути побічні ефекти чи обмеження.</seg>
       </tuv>
     </tu>
     <tu>
@@ -683,8 +683,8 @@ drawbacks.</seg>
         <seg>**Dead Eye:** You deal +2 damage with
 ranged weapons.</seg>
       </tuv>
-      <tuv lang="uk" changeid="darkmentat" changedate="20220520T211714Z" creationid="darkmentat" creationdate="20220520T211714Z">
-        <seg>**Ціпкий зір:** Ви наносите +2 ушкодження зброєю дальнього бою.</seg>
+      <tuv lang="uk" changeid="darkmentat" changedate="20220606T115059Z" creationid="darkmentat" creationdate="20220520T211714Z">
+        <seg>**Ціпкий зір:** Ви наносите **+2 ушкодження** зброєю дальнього бою.</seg>
       </tuv>
     </tu>
     <tu>
@@ -726,8 +726,8 @@ reveal yourself.</seg>
       <tuv lang="en-US">
         <seg>**Hardy:** Add 4 to your Health.</seg>
       </tuv>
-      <tuv lang="uk" changeid="darkmentat" changedate="20220520T211755Z" creationid="darkmentat" creationdate="20220520T211755Z">
-        <seg>**Загартований:** Додайте додатково 4 до пунктів здоров'я.</seg>
+      <tuv lang="uk" changeid="darkmentat" changedate="20220606T115106Z" creationid="darkmentat" creationdate="20220520T211755Z">
+        <seg>**Загартований:** Додайте додатково **4** до **пунктів здоров'я**.</seg>
       </tuv>
     </tu>
     <tu>
@@ -1632,10 +1632,10 @@ by rolling the dice with Willpower.</seg>
 **Brute:** You deal +2 damage with
 melee weapons.</seg>
       </tuv>
-      <tuv lang="uk" changeid="darkmentat" changedate="20220604T124704Z" creationid="darkmentat" creationdate="20220520T211327Z">
+      <tuv lang="uk" changeid="darkmentat" changedate="20220606T115054Z" creationid="darkmentat" creationdate="20220520T211327Z">
         <seg>_ТАЛАНТИ:_
 
-**Брутальний:** Ви наносите +2 ушкодження зброєю ближнього бою.</seg>
+**Брутальний:** Ви наносите **+2 ушкодження** зброєю ближнього бою.</seg>
       </tuv>
     </tu>
     <tu>
@@ -2442,8 +2442,8 @@ plore the universe.</seg>
 any miss ( 6- ) as a partial success ( 7-9 ), or
 a partial success as a total success ( 10+ ).</seg>
       </tuv>
-      <tuv lang="uk" changeid="darkmentat" changedate="20220604T124643Z" creationid="darkmentat" creationdate="20220520T210342Z">
-        <seg>**Щасливчик:** Раз за зустріч ви можете перетворити один провал (6-) на ускладнення (7-9), чи ускладнення на повний успіх.</seg>
+      <tuv lang="uk" changeid="darkmentat" changedate="20220606T115039Z" creationid="darkmentat" creationdate="20220520T210342Z">
+        <seg>**Щасливчик:** Раз за зустріч ви можете перетворити один провал (**6-**) на ускладнення (**7-9**), чи ускладнення на повний успіх (**10+**).</seg>
       </tuv>
     </tu>
     <tu>
@@ -2492,8 +2492,8 @@ others get a night’s rest in your pres-
 ence, they roll 1D6 and heal that much
 additional Health.</seg>
       </tuv>
-      <tuv lang="uk" changeid="darkmentat" changedate="20220522T174946Z" creationid="darkmentat" creationdate="20220520T215222Z">
-        <seg>**Медик:** Коли ви надаєте першу допомогу, ви додатково лікуєте +2 пункти здоров'я. Коли хтось відпочиває цілу ніч під вашим наглядом, він може кинути к6 та вилікувати ще стільки здоров'я.</seg>
+      <tuv lang="uk" changeid="darkmentat" changedate="20220606T115003Z" creationid="darkmentat" creationdate="20220520T215222Z">
+        <seg>**Медик:** Коли ви надаєте першу допомогу, ви додатково лікуєте **+2 пункти здоров'я**. Коли хтось відпочиває цілу ніч під вашим наглядом, він може кинути к6 та вилікувати ще стільки здоров'я.</seg>
       </tuv>
     </tu>
     <tu>
@@ -3496,8 +3496,8 @@ else to speak up.</seg>
         <seg>Unstoppable: You have +1 armor
 at all times.</seg>
       </tuv>
-      <tuv lang="uk" changeid="darkmentat" changedate="20220520T211955Z" creationid="darkmentat" creationdate="20220520T211955Z">
-        <seg>**Нестримний:** У вас завжди є +1 до броні.</seg>
+      <tuv lang="uk" changeid="darkmentat" changedate="20220606T115123Z" creationid="darkmentat" creationdate="20220520T211955Z">
+        <seg>**Нестримний:** У вас завжди є **+1** до **захисту**.</seg>
       </tuv>
     </tu>
     <tu>
