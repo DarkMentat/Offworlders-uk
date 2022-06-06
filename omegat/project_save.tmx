@@ -2065,9 +2065,9 @@ swer the following three questions, as
 a group. For each question answered
 with a “yes,” every PC gets **1 X P.**</seg>
       </tuv>
-      <tuv lang="uk" changeid="darkmentat" changedate="20220522T182137Z" creationid="darkmentat" creationdate="20220522T122823Z">
+      <tuv lang="uk" changeid="darkmentat" changedate="20220606T120252Z" creationid="darkmentat" creationdate="20220522T122823Z">
         <seg>**ПИТАННЯ В КІНЦІ ЗУСТРІЧІ**
-В кінці кожної ігрової зустрічі, дайте відповідь на наступні питання як група. За кожну відповідь "так" кожен персонаж гравця отримує 1 пункт досвіду.</seg>
+В кінці кожної ігрової зустрічі, дайте відповідь на наступні питання як група. За кожну відповідь "так" кожен персонаж гравця отримує **1 пункт досвіду**.</seg>
       </tuv>
     </tu>
     <tu>
@@ -2752,8 +2752,8 @@ something about their personality. If
 that player answers the question hon-
 estly, they earn 1XP.</seg>
       </tuv>
-      <tuv lang="uk" changeid="darkmentat" changedate="20220522T124011Z" creationid="darkmentat" creationdate="20220522T123833Z">
-        <seg>У свій хід гравець має задати якесь питання щодо персонажа іншого гравця. Він може спитати про минуле персонажа, його життєві ціли чи щось щодо його особистості. При щирій відповіді гравець отримає 1 пункт досвіду.</seg>
+      <tuv lang="uk" changeid="darkmentat" changedate="20220606T120303Z" creationid="darkmentat" creationdate="20220522T123833Z">
+        <seg>У свій хід гравець має задати якесь питання щодо персонажа іншого гравця. Він може спитати про минуле персонажа, його життєві ціли чи щось щодо його особистості. При щирій відповіді гравець отримає **1 пункт досвіду**.</seg>
       </tuv>
     </tu>
     <tu>
@@ -2882,9 +2882,9 @@ Any time a player **Rolls the Dice** and
 the final result is **6** or less, their char-
 acter earns **1 X P.**</seg>
       </tuv>
-      <tuv lang="uk" changeid="darkmentat" changedate="20220528T201632Z" creationid="darkmentat" creationdate="20220522T122725Z">
+      <tuv lang="uk" changeid="darkmentat" changedate="20220606T120246Z" creationid="darkmentat" creationdate="20220522T122725Z">
         <seg>**ПРОВАЛЮЮЧИ КИДКИ**
-Кожного разу, коли гравець кидає куби та в результаті отримує **6 та менше**, його персонаж отримує 1 пункт досвіду.</seg>
+Кожного разу, коли гравець кидає куби та в результаті отримує **6 та менше**, його персонаж отримує **1 пункт досвіду**.</seg>
       </tuv>
     </tu>
     <tu>
