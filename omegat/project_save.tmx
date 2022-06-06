@@ -1816,8 +1816,8 @@ can be repaired at a cost of 1 credit per
 systems or critical areas of the ship may
 cost much more, at the GM’s discretion.</seg>
       </tuv>
-      <tuv lang="uk" changeid="darkmentat" changedate="20220522T122417Z" creationid="darkmentat" creationdate="20220522T122417Z">
-        <seg>В будь-якому підхожому космопорті, ушкодження корпусу можна відновити за ціною в 1 кредит за кожні 2 пункти корпусу. Ушкодження якихось специфічних корабельних систем чи критичних уражень можуть коштувати дорожче за рішенням майстра. </seg>
+      <tuv lang="uk" changeid="darkmentat" changedate="20220606T115956Z" creationid="darkmentat" creationdate="20220522T122417Z">
+        <seg>В будь-якому підхожому космопорті, ушкодження корпусу можна відновити за ціною в 1 кредит за кожні **2 пункти корпусу**. Ушкодження якихось специфічних корабельних систем чи критичних уражень можуть коштувати дорожче за рішенням майстра. </seg>
       </tuv>
     </tu>
     <tu>
@@ -2041,8 +2041,8 @@ happens. It’s their story after all.</seg>
 and is available in any reasonably
 equipped port.</seg>
       </tuv>
-      <tuv lang="uk" changeid="darkmentat" changedate="20220604T130016Z" creationid="darkmentat" creationdate="20220522T122506Z">
-        <seg>Паливо для міжзоряних перельотів коштує по 3 кредити за одиницю, його можна придбати в будь-якому забезпеченому порту.</seg>
+      <tuv lang="uk" changeid="darkmentat" changedate="20220606T115945Z" creationid="darkmentat" creationdate="20220522T122506Z">
+        <seg>**Паливо** для міжзоряних перельотів коштує по 3 кредити за одиницю, його можна придбати в будь-якому забезпеченому порту.</seg>
       </tuv>
     </tu>
     <tu>
@@ -2500,8 +2500,8 @@ additional Health.</seg>
       <tuv lang="en-US">
         <seg>More powerful weapons: +1 damage*</seg>
       </tuv>
-      <tuv lang="uk" changeid="darkmentat" changedate="20220522T181516Z" creationid="darkmentat" creationdate="20220522T102250Z">
-        <seg>**Додаткое озброєння:** +1 до ушкоджень *</seg>
+      <tuv lang="uk" changeid="darkmentat" changedate="20220606T115806Z" creationid="darkmentat" creationdate="20220522T102250Z">
+        <seg>**Додаткое озброєння:** **+1** до **ушкоджень** *</seg>
       </tuv>
     </tu>
     <tu>
@@ -3472,8 +3472,8 @@ it takes. It takes one week and one unit
 of drive fuel to travel between the clos-
 est neighboring star systems.</seg>
       </tuv>
-      <tuv lang="uk" changeid="darkmentat" changedate="20220528T201237Z" creationid="darkmentat" creationdate="20220522T121506Z">
-        <seg>Міжзоряні подорожі тривають значно довше та на них витрачається паливо. Коли ви збираєтесь перейти до іншої зоряної системи, майстер має сказати скільки часу та палива це займе. На переліт до найближчої сусідньої системи потрібно буде мінімум один тиждень та одиниця палива.</seg>
+      <tuv lang="uk" changeid="darkmentat" changedate="20220606T115936Z" creationid="darkmentat" creationdate="20220522T121506Z">
+        <seg>Міжзоряні подорожі тривають значно довше та на них витрачається **паливо**. Коли ви збираєтесь перейти до іншої зоряної системи, майстер має сказати скільки часу та **палива** це займе. На переліт до найближчої сусідньої системи потрібно буде мінімум один тиждень та **1** од. **палива**.</seg>
       </tuv>
     </tu>
     <tu>
@@ -3702,10 +3702,10 @@ damage by **5**. Small arms carried by
 people are incapable of inflicting signif-
 icant damage to a starship’s **Hull**.</seg>
       </tuv>
-      <tuv lang="uk" changeid="darkmentat" changedate="20220528T201218Z" creationid="darkmentat" creationdate="20220522T103300Z">
-        <seg>Коли _корпус_ корабля сягає нуля, він недієздатний та кинутий напризволяще його ворогам. Критичні системи будуть виведені з ладу та становитимуть небезпеку екіпажу. 
+      <tuv lang="uk" changeid="darkmentat" changedate="20220606T115855Z" creationid="darkmentat" creationdate="20220522T103300Z">
+        <seg>Коли **корпус** корабля сягає нуля, він недієздатний та кинутий напризволяще його ворогам. Критичні системи будуть виведені з ладу та становитимуть небезпеку екіпажу.
 
-Якщо персонаж був досить необачний, щоб потрапити під вогонь корабельних гармат, множте сумарні ушкодження на 5. Маленька стрілецька зброє не здатна нанести значних ушкоджень _корпусу_ корабля. </seg>
+Якщо персонаж був досить необачний, щоб потрапити під вогонь корабельних гармат, множте сумарні ушкодження на **5**. Маленька стрілецька зброє не здатна нанести значних ушкоджень **корпусу** корабля. </seg>
       </tuv>
     </tu>
     <tu>
