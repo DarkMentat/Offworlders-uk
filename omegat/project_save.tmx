@@ -2645,8 +2645,8 @@ make your life more complicated.
 They’ll tell you exactly what happens.
 The good news is you earn 1 XP.</seg>
       </tuv>
-      <tuv lang="uk" changeid="darkmentat" changedate="20220604T131113Z" creationid="darkmentat" creationdate="20220516T235758Z">
-        <seg>**ПРИ 6-:** Провал. Ви ймовірно не тільки не добились бажаного, але майстер ще й ускладнить ваше життя якимось чином. Проте є і добрі новини, ви отримаєте 1 пункт досвіду!</seg>
+      <tuv lang="uk" changeid="darkmentat" changedate="20220606T120404Z" creationid="darkmentat" creationdate="20220516T235758Z">
+        <seg>**ПРИ 6-:** Провал. Ви ймовірно не тільки не добились бажаного, але майстер ще й ускладнить ваше життя якимось чином. Проте є і добрі новини, ви отримаєте **1 пункт досвіду**!</seg>
       </tuv>
     </tu>
     <tu>
