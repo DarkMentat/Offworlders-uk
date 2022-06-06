@@ -779,8 +779,8 @@ dangerous situation without regard for
 your safety or the safety of others, get
 **+1** to your next roll.</seg>
       </tuv>
-      <tuv lang="uk" changeid="darkmentat" changedate="20220528T193703Z" creationid="darkmentat" creationdate="20220520T205737Z">
-        <seg>**Шибайголова:** Коли ви кидаєтесь в небезпечну ситуацію, не турбуючись про безпеку для себе чи інших, отримайте бонус **+1** до вашого наступного кидка.</seg>
+      <tuv lang="uk" changeid="darkmentat" changedate="20220606T115510Z" creationid="darkmentat" creationdate="20220520T205737Z">
+        <seg>**Шибайголова:** Коли ви кидаєтесь в небезпечну ситуацію, не турбуючись про безпеку для себе чи інших, отримайте **бонус +1** до вашого наступного кидка.</seg>
       </tuv>
     </tu>
     <tu>
@@ -1536,8 +1536,8 @@ Fuel to get +1 to a single roll to evade,
 outrun, or maneuver while piloting
 the ship.</seg>
       </tuv>
-      <tuv lang="uk" changeid="darkmentat" changedate="20220522T181208Z" creationid="darkmentat" creationdate="20220522T101314Z">
-        <seg>**Форсаж:** Ви можете потратити 1 одиницю палива щоб отримати бонус +1 до будь-якого кидка, пов'язаного з ухиленням, погонею чи іншими маневрами при пілотуванні корабля.</seg>
+      <tuv lang="uk" changeid="darkmentat" changedate="20220606T115709Z" creationid="darkmentat" creationdate="20220522T101314Z">
+        <seg>**Форсаж:** Ви можете потратити **1 од. палива** щоб отримати **бонус +1** до будь-якого кидка, пов'язаного з ухиленням, погонею чи іншими маневрами при пілотуванні корабля.</seg>
       </tuv>
     </tu>
     <tu>
@@ -1686,8 +1686,8 @@ two abilities.</seg>
       <tuv lang="en-US">
         <seg>Additional A rmor: +1 armor*</seg>
       </tuv>
-      <tuv lang="uk" changeid="darkmentat" changedate="20220522T181523Z" creationid="darkmentat" creationdate="20220522T100825Z">
-        <seg>**Додаткова броня:** +1 захисту *</seg>
+      <tuv lang="uk" changeid="darkmentat" changedate="20220606T115651Z" creationid="darkmentat" creationdate="20220522T100825Z">
+        <seg>**Додаткова броня:** **+1** до **захисту** *</seg>
       </tuv>
     </tu>
     <tu>
@@ -1707,8 +1707,8 @@ trip, you can choose either to take half
 the time or use half the amount of fuel.
 Round up.</seg>
       </tuv>
-      <tuv lang="uk" changeid="darkmentat" changedate="20220522T181253Z" creationid="darkmentat" creationdate="20220522T100959Z">
-        <seg>**Просунутий гіпердрайв:** Для кожної міжзоряної подорожі ви можете або потратити вдвічі менше часу, або вдвічі менше палива. Округлення йде вгору.</seg>
+      <tuv lang="uk" changeid="darkmentat" changedate="20220606T115657Z" creationid="darkmentat" creationdate="20220522T100959Z">
+        <seg>**Просунутий гіпердрайв:** Для кожної міжзоряної подорожі ви можете або потратити вдвічі менше часу, або вдвічі менше **палива**. Округлення йде вгору.</seg>
       </tuv>
     </tu>
     <tu>
@@ -2195,8 +2195,8 @@ another character 1D6 of Health.</seg>
       <tuv lang="en-US">
         <seg>Fuel Tanks: Max Drive Fuel +.</seg>
       </tuv>
-      <tuv lang="uk" changeid="darkmentat" changedate="20220522T181211Z" creationid="darkmentat" creationdate="20220522T101343Z">
-        <seg>**Паливні баки:** Максимальний запас стрибкового палива +1.</seg>
+      <tuv lang="uk" changeid="darkmentat" changedate="20220606T115733Z" creationid="darkmentat" creationdate="20220522T101343Z">
+        <seg>**Паливні баки:** Максимальний запас **палива +1**.</seg>
       </tuv>
     </tu>
     <tu>
@@ -2480,8 +2480,8 @@ to wait to Roll the Dice to learn their
 fate. If they make it to a MedBay with-
 in a few minutes, they get +1 to the roll.</seg>
       </tuv>
-      <tuv lang="uk" changeid="darkmentat" changedate="20220604T125820Z" creationid="darkmentat" creationdate="20220522T102234Z">
-        <seg>**Медблок:** Просунуте автоматизоване медичне устаткування. Тут можна помістити людину в стазис і з часом вилікувати навіть найважчі поранення. Персонаж, відпочиваючи в медблоці, за ніч може відновити своє здоров'я повністю, а не тільки половину. Якщо у персонажа рівень здоров'я впаде до нуля, він може зачекати з кидком кубів. Якщо його доставлять в медблок протягом декількох хвилин, він отримає бонус +1 до кидка.</seg>
+      <tuv lang="uk" changeid="darkmentat" changedate="20220606T115757Z" creationid="darkmentat" creationdate="20220522T102234Z">
+        <seg>**Медблок:** Просунуте автоматизоване медичне устаткування. Тут можна помістити людину в стазис і з часом вилікувати навіть найважчі поранення. Персонаж, відпочиваючи в медблоці, за ніч може відновити своє здоров'я повністю, а не тільки половину. Якщо у персонажа рівень здоров'я впаде до нуля, він може зачекати з кидком кубів. Якщо його доставлять в медблок протягом декількох хвилин, він отримає **бонус +1** до кидка.</seg>
       </tuv>
     </tu>
     <tu>
@@ -2977,11 +2977,11 @@ Starship drive fuel 3C Per unit.
 Starship upgrades 50C
 Hull repairs 1C Repairs 2 Hull. Available in any port.</seg>
       </tuv>
-      <tuv lang="uk" changeid="darkmentat" changedate="20220604T125507Z" creationid="darkmentat" creationdate="20220521T212048Z">
+      <tuv lang="uk" changeid="darkmentat" changedate="20220606T115600Z" creationid="darkmentat" creationdate="20220521T212048Z">
         <seg>**СПОРЯДЖЕННЯ ЗОРЕЛЬОТУ**
 Паливо для зоряного перельоту - 3К за одиницю
 Апгрейд зорельоту - 50К
-Ремонт корпусу - 1К за 2 од. корпусу, доступно в будь-якому порту.</seg>
+Ремонт корпусу - 1К за **2 од. корпусу**, доступно в будь-якому порту.</seg>
       </tuv>
     </tu>
     <tu>
@@ -3113,8 +3113,8 @@ attention.
 Heav y may cause other complications
 as well, at the GM’s discretion.</seg>
       </tuv>
-      <tuv lang="uk" changeid="darkmentat" changedate="20220528T195512Z" creationid="darkmentat" creationdate="20220521T205039Z">
-        <seg>Деяка зброя та предмети позначені як "важкі". Це предмети являються завеликими чи громіздкими, тому з ними досить важко рухатись. Персонаж гравця отримує штраф -1 до кидка кубів, якщо він намагається бігти, стрибати чи лазити, тримаючи при собі важкі предмети. Також їх досить складно сховати й вони будуть привертати зайву увагу. Важкі предмети можуть викликати і якість інші ускладнення на розсуд майстра.</seg>
+      <tuv lang="uk" changeid="darkmentat" changedate="20220606T115500Z" creationid="darkmentat" creationdate="20220521T205039Z">
+        <seg>Деяка зброя та предмети позначені як "важкі". Це предмети являються завеликими чи громіздкими, тому з ними досить важко рухатись. Персонаж гравця отримує **штраф -1** до кидка кубів, якщо він намагається бігти, стрибати чи лазити, тримаючи при собі важкі предмети. Також їх досить складно сховати й вони будуть привертати зайву увагу. Важкі предмети можуть викликати і якість інші ускладнення на розсуд майстра.</seg>
       </tuv>
     </tu>
     <tu>
