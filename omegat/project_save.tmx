@@ -514,8 +514,8 @@
       <tuv lang="en-US">
         <seg>###### PORTRAY A DANGEROUS AND EXCITING SCI-FI UNIVERSE</seg>
       </tuv>
-      <tuv lang="uk" changeid="darkmentat" changedate="20220602T214452Z" creationid="IrynaDobro" creationdate="20220520T210131Z">
-        <seg>#### ЗМАЛЬОВУЙ НЕБЕЗПЕЧНИЙ ТА ВРАЖАЮЧИЙ SCI-FI ВСЕСВІТ</seg>
+      <tuv lang="uk" changeid="darkmentat" changedate="20220615T074013Z" creationid="IrynaDobro" creationdate="20220520T210131Z">
+        <seg>#### ЗМАЛЬОВУЙ НЕБЕЗПЕЧНИЙ ТА РАЗЮЧИЙ SCI-FI ВСЕСВІТ</seg>
       </tuv>
     </tu>
     <tu>
@@ -1575,7 +1575,7 @@ A hover tank 200C
 A new, bare-bones starship 500C
 A small space station 5,000C</seg>
       </tuv>
-      <tuv lang="uk" changeid="darkmentat" changedate="20220521T203922Z" creationid="darkmentat" creationdate="20220521T203922Z">
+      <tuv lang="uk" changeid="darkmentat" changedate="20220615T073929Z" creationid="darkmentat" creationdate="20220521T203922Z">
         <seg>Новий космічний скафандр - 3К
 Середня зброя - 2К
 Важке озброєння - 5К
@@ -1585,7 +1585,7 @@ A small space station 5,000C</seg>
 Апгрейд для зорельоту - 50К
 Простий літальний апарат - 75К
 Бойова бронемашина - 200К
-Новенький зорельот прямо з верфей - 500К
+Новенький зореліт прямо з верфей - 500К
 Маленька космічна станція на орбіті - 5,000К</seg>
       </tuv>
     </tu>
