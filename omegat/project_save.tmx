@@ -1557,8 +1557,8 @@ interact with it, asking the GM about
 details, and saying what their charac-
 ters say to each other and the NPC’s.</seg>
       </tuv>
-      <tuv lang="uk" changeid="darkmentat" changedate="20220522T170759Z" creationid="darkmentat" creationdate="20220516T235301Z">
-        <seg>Гра в Краєходцях — це перш за все розмова. Майстер гри описує ситуацію навколо персонажів гравців та наповнює її людьми й деталями. Гравці ж у відповідь описують дії своїх персонажів, можливо уточнюють у майстра деталі та озвучують, що їх персонажі кажуть один одному та персонажам майстра.</seg>
+      <tuv lang="uk" changeid="darkmentat" changedate="20220615T163127Z" creationid="darkmentat" creationdate="20220516T235301Z">
+        <seg>Гра в Краєходцях — це перш за все розмова. Майстер гри описує ситуацію навколо персонажів гравців та наповнює її людьми й деталями. Гравці ж у відповідь описують дії своїх персонажів, можливо уточнюють у майстра деталі та озвучують, що їхні персонажі кажуть один одному та персонажам майстра.</seg>
       </tuv>
     </tu>
     <tu>
@@ -2152,8 +2152,8 @@ and any two special abilities. Play-
 ers should communicate to make
 sure they don’t overlap too much.</seg>
       </tuv>
-      <tuv lang="uk" changeid="darkmentat" changedate="20220604T183838Z" creationid="darkmentat" creationdate="20220519T204555Z">
-        <seg>Досвідчені гравці можуть забажати більшої гнучкості при створенні персонажа. Якщо всі згодні, гравець може проігнорувати надані класи та створити персонажа, просто вибравши дві навички та два будь-яких таланти. В цьому випадку гравцям варто домовитись, щоб їх сильні сторони не надто перетинались.</seg>
+      <tuv lang="uk" changeid="darkmentat" changedate="20220615T163240Z" creationid="darkmentat" creationdate="20220519T204555Z">
+        <seg>Досвідчені гравці можуть забажати більшої гнучкості при створенні персонажа. Якщо всі згодні, гравець може проігнорувати надані класи та створити персонажа, просто вибравши дві навички та два будь-яких таланти. В цьому випадку гравцям варто домовитись, щоб їхні сильні сторони не надто перетинались.</seg>
       </tuv>
     </tu>
     <tu>
@@ -2214,8 +2214,8 @@ another character 1D6 of Health.</seg>
 to manipulate technology, heal their teammates and offer additional
 insight. Play a Geek if you want to be the smartest one in the room.</seg>
       </tuv>
-      <tuv lang="uk" changeid="darkmentat" changedate="20220528T193217Z" creationid="darkmentat" creationdate="20220520T214133Z">
-        <seg>Технарі — це науковці, медики й спеціалісти. Їх таланти дозволяють їм вправно керувати різною технікою, лікувати своїх товаришів та отримувати раптові прозріння. Грайте за технаря, якщо хочете бути найрозумнішим в кімнаті.</seg>
+      <tuv lang="uk" changeid="darkmentat" changedate="20220615T163249Z" creationid="darkmentat" creationdate="20220520T214133Z">
+        <seg>Технарі — це науковці, медики й спеціалісти. Їхні таланти дозволяють їм вправно керувати різною технікою, лікувати своїх товаришів та отримувати раптові прозріння. Грайте за технаря, якщо хочете бути найрозумнішим в кімнаті.</seg>
       </tuv>
     </tu>
     <tu>
@@ -2811,8 +2811,8 @@ dice in dangerous situations.</seg>
 ities revolve around being sneaky, lucky, or ruthless. Play an Outlaw if
 you want to get in and out of trouble.</seg>
       </tuv>
-      <tuv lang="uk" changeid="darkmentat" changedate="20220604T124512Z" creationid="darkmentat" creationdate="20220520T204616Z">
-        <seg>Пройдисвітами є різного роду контрабандисти, шахраї авантюристи. Їх таланти в основному зводяться до того, щоб бути підступними, везучими та холоднокровними. Грайте за пройдисвіта, якщо хочете швидко знаходити проблеми на свою голову та швидко вибиратись з них.</seg>
+      <tuv lang="uk" changeid="darkmentat" changedate="20220615T163258Z" creationid="darkmentat" creationdate="20220520T204616Z">
+        <seg>Пройдисвітами є різного роду контрабандисти, шахраї авантюристи. Їхні таланти в основному зводяться до того, щоб бути підступними, везучими та холоднокровними. Грайте за пройдисвіта, якщо хочете швидко знаходити проблеми на свою голову та швидко вибиратись з них.</seg>
       </tuv>
     </tu>
     <tu>
@@ -2831,8 +2831,8 @@ besides the game master controls one
 Player Character, describing that char-
 acter’s actions and thoughts.</seg>
       </tuv>
-      <tuv lang="uk" changeid="darkmentat" changedate="20220516T235430Z" creationid="darkmentat" creationdate="20220516T235430Z">
-        <seg>**Персонажі гравців:** Головні герої гри. Кожен гравець контролює свого персонажа та описує їх роздуми, слова та дії.</seg>
+      <tuv lang="uk" changeid="darkmentat" changedate="20220615T163217Z" creationid="darkmentat" creationdate="20220516T235430Z">
+        <seg>**Персонажі гравців:** Головні герої гри. Гравці контролюють своїх персонажів та описують їхні роздуми, слова та дії.</seg>
       </tuv>
     </tu>
     <tu>
@@ -2880,8 +2880,8 @@ describe the likely outcome honestly.</seg>
 low them to manipulate their surroundings and read minds.
 Play a Psychic if you want to be strange and powerful.</seg>
       </tuv>
-      <tuv lang="uk" changeid="darkmentat" changedate="20220521T181933Z" creationid="darkmentat" creationdate="20220521T181933Z">
-        <seg>Псіоніки володіють надприродними ментальними здібностями. Їх таланти дозволяють їм впливати на оточення силою думки та вдиратись в чужі голови. Грайте за псіоніка, якщо хочете бути могутнім і загадковим.</seg>
+      <tuv lang="uk" changeid="darkmentat" changedate="20220615T163315Z" creationid="darkmentat" creationdate="20220521T181933Z">
+        <seg>Псіоніки володіють надприродними ментальними здібностями. Їхні таланти дозволяють їм впливати на оточення силою думки та вдиратись в чужі голови. Грайте за псіоніка, якщо хочете бути могутнім і загадковим.</seg>
       </tuv>
     </tu>
     <tu>
@@ -2927,8 +2927,8 @@ player will likely be rolling the dice to avoid the attack or counter it somehow
 turns or rounds. Simply follow the action as it unfolds, shifting focus from character to character naturally and
 resolving their actions.</seg>
       </tuv>
-      <tuv lang="uk" changeid="darkmentat" changedate="20220604T124909Z" creationid="darkmentat" creationdate="20220521T190411Z">
-        <seg>Бойові зіткнення варто розглядати так само, як будь-які інші ризиковані ситуації. Коли гравець нападає на ворога, що готовий захистити себе, майже завжди йому прийдеться кинути для цього куби. Якщо ворог відкриває вогонь по гравцю, гравцю так само прийдеться кинути куби, щоб якимось чином уникнути чи завадити атаці. Тут немає чіткої структури з ходами чи раундами, просто слідуйте за розвитком дій, зміщуючи фокус від персонажа до персонажа та опрацьовуйте їх заявлені дії.</seg>
+      <tuv lang="uk" changeid="darkmentat" changedate="20220615T163320Z" creationid="darkmentat" creationdate="20220521T190411Z">
+        <seg>Бойові зіткнення варто розглядати так само, як будь-які інші ризиковані ситуації. Коли гравець нападає на ворога, що готовий захистити себе, майже завжди йому прийдеться кинути для цього куби. Якщо ворог відкриває вогонь по гравцю, гравцю так само прийдеться кинути куби, щоб якимось чином уникнути чи завадити атаці. Тут немає чіткої структури з ходами чи раундами, просто слідуйте за розвитком дій, зміщуючи фокус від персонажа до персонажа та опрацьовуйте їхні заявлені дії.</seg>
       </tuv>
     </tu>
     <tu>
@@ -3617,8 +3617,8 @@ Cracked Open</seg>
         <seg>Warriors are soldiers and bounty hunters. All their abilities provide an edge
 in combat. Play a Warrior if you want to be straightforward and violent.</seg>
       </tuv>
-      <tuv lang="uk" changeid="darkmentat" changedate="20220521T182654Z" creationid="darkmentat" creationdate="20220520T211215Z">
-        <seg>Це можуть бути різного роду найманці, солдати чи мисливці за головами. Всі їх таланти мають забезпечувати перевагу в бою. Грайте за Вояку, якщо хочете діяти жорстоко та прямолінійно.</seg>
+      <tuv lang="uk" changeid="darkmentat" changedate="20220615T163306Z" creationid="darkmentat" creationdate="20220520T211215Z">
+        <seg>Це можуть бути різного роду найманці, солдати чи мисливці за головами. Всі їхні таланти мають забезпечувати перевагу в бою. Грайте за Вояку, якщо хочете діяти жорстоко та прямолінійно.</seg>
       </tuv>
     </tu>
     <tu>
