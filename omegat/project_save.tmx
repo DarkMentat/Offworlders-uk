@@ -384,8 +384,8 @@
       <tuv lang="en-US">
         <seg>###### CREATING THE SHIP</seg>
       </tuv>
-      <tuv lang="uk" changeid="darkmentat" changedate="20220522T163836Z" creationid="darkmentat" creationdate="20220522T085624Z">
-        <seg>#### СТВОРЕННЯ ЗОРЕЛЬОТУ</seg>
+      <tuv lang="uk" changeid="darkmentat" changedate="20220615T075313Z" creationid="darkmentat" creationdate="20220522T085624Z">
+        <seg>#### СТВОРЕННЯ ЗОРЕЛЬОТА</seg>
       </tuv>
     </tu>
     <tu>
@@ -1575,14 +1575,14 @@ A hover tank 200C
 A new, bare-bones starship 500C
 A small space station 5,000C</seg>
       </tuv>
-      <tuv lang="uk" changeid="darkmentat" changedate="20220615T073929Z" creationid="darkmentat" creationdate="20220521T203922Z">
+      <tuv lang="uk" changeid="darkmentat" changedate="20220615T075252Z" creationid="darkmentat" creationdate="20220521T203922Z">
         <seg>Новий космічний скафандр - 3К
 Середня зброя - 2К
 Важке озброєння - 5К
 Квиток до іншого населеного світу - 7К
 Квиток до сусідньої зоряної системи - 12К
 Середній наземний транспорт - 25К
-Апгрейд для зорельоту - 50К
+Апгрейд для зорельота - 50К
 Простий літальний апарат - 75К
 Бойова бронемашина - 200К
 Новенький зореліт прямо з верфей - 500К
@@ -2986,8 +2986,8 @@ Starship drive fuel 3C Per unit.
 Starship upgrades 50C
 Hull repairs 1C Repairs 2 Hull. Available in any port.</seg>
       </tuv>
-      <tuv lang="uk" changeid="darkmentat" changedate="20220606T115600Z" creationid="darkmentat" creationdate="20220521T212048Z">
-        <seg>**СПОРЯДЖЕННЯ ЗОРЕЛЬОТУ**
+      <tuv lang="uk" changeid="darkmentat" changedate="20220615T075320Z" creationid="darkmentat" creationdate="20220521T212048Z">
+        <seg>**СПОРЯДЖЕННЯ ЗОРЕЛЬОТА**
 Паливо для зоряного перельоту - 3К за одиницю
 Апгрейд зорельоту - 50К
 Ремонт корпусу - 1К за **2 од. корпусу**, доступно в будь-якому порту.</seg>
