@@ -368,8 +368,8 @@
       <tuv lang="en-US">
         <seg>###### ASK QUESTIONS AND USE THE ANSWERS</seg>
       </tuv>
-      <tuv lang="uk" changeid="darkmentat" changedate="20220602T214342Z" creationid="IrynaDobro" creationdate="20220523T225803Z">
-        <seg>#### ЗАДАВАТИ ПИТАННЯ ТА КОРИСТУВАТИСЬ ВІДПОВІДЯМИ</seg>
+      <tuv lang="uk" changeid="darkmentat" changedate="20220615T074400Z" creationid="IrynaDobro" creationdate="20220523T225803Z">
+        <seg>#### СТАВТЕ ПИТАННЯ ТА КОРИСТУЙТЕСЬ ВІДПОВІДЯМИ</seg>
       </tuv>
     </tu>
     <tu>
@@ -1798,8 +1798,8 @@ Their rebel contact is not waiting
 for them at the meeting point out
 on the surface of the asteroid.</seg>
       </tuv>
-      <tuv lang="uk" changeid="darkmentat" changedate="20220528T221450Z" creationid="darkmentat" creationdate="20220528T221450Z">
-        <seg>Як тільки вони прибувають в периметр контролю Службою Безпеки Реголіту, їх човен йде на перехоплення корабля гравців та вимагає зайти на борт щоб оглянути судно. В той же час представника бунтівників немає на місці зустрічі на поверхні астероїда.</seg>
+      <tuv lang="uk" changeid="darkmentat" changedate="20220615T074519Z" creationid="darkmentat" creationdate="20220528T221450Z">
+        <seg>Як тільки вони прибувають в периметр контролю Службою Безпеки Реголіту, їх човен йде на перехоплення корабля гравців та вимагає зайти на борт щоб оглянути судно. Тим часом же представника бунтівників немає на місці зустрічі на поверхні астероїда.</seg>
       </tuv>
     </tu>
     <tu>
@@ -3725,8 +3725,8 @@ wounded, or unconscious, depending
 on the fictional circumstances and the
 desires of the attacker.</seg>
       </tuv>
-      <tuv lang="uk" changeid="darkmentat" changedate="20220615T073848Z" creationid="darkmentat" creationdate="20220521T191603Z">
-        <seg>Коли здоров'я персонажів майстра досягає нуля, вони вибувають з активних дій. Вважайте їх мертвими, серйозно пораненими чи знепритомнілими, залежно від обставин опису та побажань нападника.</seg>
+      <tuv lang="uk" changeid="darkmentat" changedate="20220615T074315Z" creationid="darkmentat" creationdate="20220521T191603Z">
+        <seg>Коли здоров'я персонажів майстра досягає нуля, вони вибувають з активних дій. Вважайте їх мертвими, серйозно пораненими чи непритомними, залежно від обставин опису та побажань нападника.</seg>
       </tuv>
     </tu>
     <tu>
