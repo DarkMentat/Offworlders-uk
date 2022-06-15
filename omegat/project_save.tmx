@@ -2178,8 +2178,8 @@ and characters. Remember that enemies will react intelligently to outwit the
 players, and will be unlikely to charge into a fight head on, or fight to the death
 without a good reason.</seg>
       </tuv>
-      <tuv lang="uk" changeid="darkmentat" changedate="20220602T213137Z" creationid="darkmentat" creationdate="20220602T213137Z">
-        <seg>Не бійтесь експериментувати з вказаними вище характеристиками для нових загроз чи персонажів. Пам'ятайте, що вороги мають розумно реагувати на дії гравців та застосовувати долю хитрості, і дуже малоймовірно щоб вони стрімголов вривались в бійку й бились до останнього без якоїсь підходящої причини.</seg>
+      <tuv lang="uk" changeid="darkmentat" changedate="20220615T074759Z" creationid="darkmentat" creationdate="20220602T213137Z">
+        <seg>Не бійтесь експериментувати з вказаними вище характеристиками для нових загроз чи персонажів. Пам'ятайте, що вороги мають розумно реагувати на дії гравців та застосовувати долю хитрості, і дуже малоймовірно щоб вони стрімголов вривались в бійку й бились до останнього без якоїсь причини.</seg>
       </tuv>
     </tu>
     <tu>
@@ -3317,8 +3317,8 @@ down inside. If they want to get
 paid, the PC’s will have to find a
 way to get them the crate.</seg>
       </tuv>
-      <tuv lang="uk" changeid="darkmentat" changedate="20220528T221753Z" creationid="darkmentat" creationdate="20220528T221753Z">
-        <seg>Штаб-квартира бунтівників в покинутій видобувній станції знаходяться під штурмом і бунтівники зажаті в ній. І якщо гравці хочуть отримати свою оплату, вони мають знайти спосіб доставити їм контейнер.</seg>
+      <tuv lang="uk" changeid="darkmentat" changedate="20220615T074712Z" creationid="darkmentat" creationdate="20220528T221753Z">
+        <seg>Штаб-квартира бунтівників в покинутій видобувній станції знаходяться під штурмом і бунтівники затиснені в ній. І якщо гравці хочуть отримати свою оплату, вони мають знайти спосіб доставити їм контейнер.</seg>
       </tuv>
     </tu>
     <tu>
@@ -3536,8 +3536,8 @@ or just as vibrant details the characters notice in passing.</seg>
       <tuv lang="en-US">
         <seg>Use these attributes to improvise encounters and conflicts with other ships.</seg>
       </tuv>
-      <tuv lang="uk" changeid="darkmentat" changedate="20220602T212640Z" creationid="darkmentat" creationdate="20220602T212640Z">
-        <seg>Використовуйте наступні характеристики під час імпровізації стичок чи перестрілок з іншими кораблями.</seg>
+      <tuv lang="uk" changeid="darkmentat" changedate="20220615T074724Z" creationid="darkmentat" creationdate="20220602T212640Z">
+        <seg>Використовуйте наступні характеристики під час імпровізації сутичок чи перестрілок з іншими кораблями.</seg>
       </tuv>
     </tu>
     <tu>
