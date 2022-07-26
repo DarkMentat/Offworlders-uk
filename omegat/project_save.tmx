@@ -2240,8 +2240,8 @@ physically resilient a PC is. When a PC
 takes damage, it reduces their current
 health.</seg>
       </tuv>
-      <tuv lang="uk" changeid="darkmentat" changedate="20220516T235450Z" creationid="darkmentat" creationdate="20220516T235450Z">
-        <seg>**Здоров'я:** Число, що відображає фізичну стійкість персонажа гравця. Коли персонаж отримує пошкодження, його значення здоров'я зменшується.</seg>
+      <tuv lang="uk" changeid="darkmentat" changedate="20220726T161949Z" creationid="darkmentat" creationdate="20220516T235450Z">
+        <seg>**Здоров'я:** Число, що зображає фізичну стійкість персонажа гравця. Коли персонаж отримує пошкодження, його значення здоров'я зменшується.</seg>
       </tuv>
     </tu>
     <tu>
@@ -3057,8 +3057,8 @@ Skills represent training in specific
 areas of expertise. Each PC begins
 with two skills.</seg>
       </tuv>
-      <tuv lang="uk" changeid="darkmentat" changedate="20220604T183259Z" creationid="darkmentat" creationdate="20220516T235444Z">
-        <seg>**Навички:** Ті вміння, котрими можуть володіти чи не володіти персонажі гравців. Вони відображають кваліфікацію в деяких вузьких областях експертизи. Персонажі гравців починають з двома навичками.</seg>
+      <tuv lang="uk" changeid="darkmentat" changedate="20220726T162105Z" creationid="darkmentat" creationdate="20220516T235444Z">
+        <seg>**Навички:** Ті вміння, котрими можуть володіти чи не володіти персонажі гравців. Вони показують кваліфікацію персонажа в деяких вузьких областях експертизи. Персонажі гравців починають з двома навичками.</seg>
       </tuv>
     </tu>
     <tu>
@@ -4067,8 +4067,8 @@ process until the job is resolved.</seg>
 well it goes. You’ll roll the dice and add one of your attributes to get a final result, then use that result to
 figure out what happens next.</seg>
       </tuv>
-      <tuv lang="uk" changeid="darkmentat" changedate="20220614T202422Z" creationid="darkmentat" creationdate="20220528T170921Z">
-        <seg>Коли персонаж гравця робить щось небезпечне, стикається зі спротивом чи його дії мають непевний результат, тоді знадобляться гральні кубики, щоб дізнатись наскільки добре для гравців підуть справи. Потрібно буде кинути два шестигранники, додати до сумарного результату значення підхожого атрибуту та звірити це число як вказано нижче, щоб визначити напрям розвитку подій. </seg>
+      <tuv lang="uk" changeid="darkmentat" changedate="20220726T162126Z" creationid="darkmentat" creationdate="20220528T170921Z">
+        <seg>Коли персонаж гравця робить щось небезпечне, стикається зі спротивом чи його дії мають непевний результат, тоді знадобляться гральні кубики, щоб дізнатись наскільки добре для гравців підуть справи. Потрібно буде кинути два шестигранники, додати до сумарного результату значення підхожого атрибута та звірити це число як вказано нижче, щоб визначити напрям розвитку подій. </seg>
       </tuv>
     </tu>
   </body>
