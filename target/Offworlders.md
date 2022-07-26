@@ -4,9 +4,9 @@
 
 
 
-Перед вами вільний переклад _Offworlders_, легковагової настольної рольової гри від _Кріса Вульфа_ та _Олівії Гулін_, що поєднує традицію таких ігор як _Traveller_ та _Stars Without Number_ з геймдизайнерською думкою _Powered by the Apocalypse_ _(PbtA)_.
-Блог автора: [chrispwolf.blot.im](https://chrispwolf.blot.im/say-hello-to-offworlders-a-rules-light-spacefaring-rpg/)
-Оригінал на DriveThruRPG: [www.drivethrurpg.com/product/257632/Offworlders](https://www.drivethrurpg.com/product/257632/Offworlders)
+Перед вами вільний переклад _Offworlders_, легковагової настільної рольової гри від _Кріса Вульфа_ та _Олівії Гулін_, що поєднує в собі традицію таких ігор як _Traveller_ та _Stars Without Number_ та геймдизайнерську думку систем _Powered by the Apocalypse_ _(PbtA)_.  
+Блог автора: [chrispwolf.blot.im](https://chrispwolf.blot.im/say-hello-to-offworlders-a-rules-light-spacefaring-rpg/)  
+DriveThruRPG: [drivethrurpg.com/product/257632/Offworlders](https://www.drivethrurpg.com/product/257632/Offworlders)
 
 ## ВІТАННЯ КРАЄХОДЦЯМ
 
@@ -72,7 +72,7 @@ _Offworlders_ is licensed under a Creative Commons Attribution License: https://
 
 **Здоров'я:** Число, що відображає фізичну стійкість персонажа гравця. Коли персонаж отримує пошкодження, його значення здоров'я зменшується.
 
-**Талант:** Спеціальна дія чи трюк, котрі може виконати пероснаж. Кожен персонаж гравця починає з двума талантами.
+**Талант:** Спеціальна дія чи трюк, котрі може виконати персонаж. Кожен персонаж гравця починає з двома талантами.
 
 **Кидок кубів:** Коли персонаж гравця має здійснити щось небезпечне, стикається зі спротивом чи загалом результат його дій непевний, гравець має здійснити кидок кубів, як описано в наступному розділі.
 
