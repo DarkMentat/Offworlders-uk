@@ -650,8 +650,8 @@ starships through asteroid fields, and shooting rifles.</seg>
       <tuv lang="en-US">
         <seg>**Athletics:** Running, climbing, jumping, swimming etc.</seg>
       </tuv>
-      <tuv lang="uk" changeid="darkmentat" changedate="20220521T121904Z" creationid="darkmentat" creationdate="20220519T201516Z">
-        <seg>**Атлетика:** Біг, лазіння, стрибки, плавання, тощо.</seg>
+      <tuv lang="uk" changeid="darkmentat" changedate="20220726T162337Z" creationid="darkmentat" creationdate="20220519T201516Z">
+        <seg>**Атлетика:** Біг, лазіння, стрибки, плавання тощо.</seg>
       </tuv>
     </tu>
     <tu>
@@ -2104,8 +2104,8 @@ has **11 Health.**</seg>
 You either have a skill or you don’t. When you roll the dice and have an applicable skill, you may re-roll one
 of the dice. You must accept the second result.</seg>
       </tuv>
-      <tuv lang="uk" changeid="darkmentat" changedate="20220604T183728Z" creationid="darkmentat" creationdate="20220519T201448Z">
-        <seg>Кожна навичка відображає деяку набуту експертизу. На відмінну від атрибутів, навички не мають числового значення, ви просто або маєте їх, або ні. Коли кидаючи куби у вас є підхожі навички, ви можете перекинути один кубик і використати новий результат.</seg>
+      <tuv lang="uk" changeid="darkmentat" changedate="20220726T162325Z" creationid="darkmentat" creationdate="20220519T201448Z">
+        <seg>Кожна навичка зображає деяку набуту експертизу. На відмінну від атрибутів, навички не мають числового значення, ви просто або маєте їх, або ні. Коли кидаючи куби у вас є підхожі навички, ви можете перекинути один кубик і використати новий результат.</seg>
       </tuv>
     </tu>
     <tu>
@@ -3845,8 +3845,8 @@ abstract amount, representing any items
 you might be carrying. Gear is explained
 in Money, Weapons and Gear, on page 11.</seg>
       </tuv>
-      <tuv lang="uk" changeid="darkmentat" changedate="20220522T085241Z" creationid="darkmentat" creationdate="20220519T203900Z">
-        <seg>Ви починаєте з 3-ма _припасами_. **Припаси** — це абстрактне число, що відображає будь-які предмети, що персонаж може мати з собою. Механіка припасів детальніше описана в розділі _ГРОШІ, ЗБРОЯ ТА СПОРЯДЖЕННЯ_ на сторінці ХХ.</seg>
+      <tuv lang="uk" changeid="darkmentat" changedate="20220726T162458Z" creationid="darkmentat" creationdate="20220519T203900Z">
+        <seg>Ви починаєте з 3-ма _припасами_. **Припаси** — це абстрактне число, що зображає будь-які предмети, що персонаж може мати з собою. Механіка припасів детальніше описана в розділі _ГРОШІ, ЗБРОЯ ТА СПОРЯДЖЕННЯ_ на сторінці ХХ.</seg>
       </tuv>
     </tu>
     <tu>
