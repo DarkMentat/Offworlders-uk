@@ -1545,8 +1545,8 @@ Fuel to get +1 to a single roll to evade,
 outrun, or maneuver while piloting
 the ship.</seg>
       </tuv>
-      <tuv lang="uk" changeid="darkmentat" changedate="20220606T115709Z" creationid="darkmentat" creationdate="20220522T101314Z">
-        <seg>**Форсаж:** Ви можете потратити **1 од. палива** щоб отримати **бонус +1** до будь-якого кидка, пов'язаного з ухиленням, погонею чи іншими маневрами при пілотуванні корабля.</seg>
+      <tuv lang="uk" changeid="darkmentat" changedate="20220726T164155Z" creationid="darkmentat" creationdate="20220522T101314Z">
+        <seg>**Форсаж:** Ви можете потратити **1 од. палива**, щоб отримати **бонус +1** до будь-якого кидка, пов'язаного з ухиленням, погонею чи іншими маневрами при пілотуванні корабля.</seg>
       </tuv>
     </tu>
     <tu>
@@ -1705,8 +1705,8 @@ two abilities.</seg>
 bought in play for 50 Credits each
 while the ship is in port.</seg>
       </tuv>
-      <tuv lang="uk" changeid="darkmentat" changedate="20220528T201132Z" creationid="darkmentat" creationdate="20220522T102404Z">
-        <seg>Будь які додаткові апгрейди можна купити в грі ціною 50 кредитів за кожен в будь-якому порту.</seg>
+      <tuv lang="uk" changeid="darkmentat" changedate="20220726T164214Z" creationid="darkmentat" creationdate="20220522T102404Z">
+        <seg>Будь-які додаткові апгрейди можна купити в грі ціною 50 кредитів за кожен в будь-якому порту.</seg>
       </tuv>
     </tu>
     <tu>
@@ -2765,8 +2765,8 @@ something about their personality. If
 that player answers the question hon-
 estly, they earn 1XP.</seg>
       </tuv>
-      <tuv lang="uk" changeid="darkmentat" changedate="20220606T120303Z" creationid="darkmentat" creationdate="20220522T123833Z">
-        <seg>У свій хід гравець має задати якесь питання щодо персонажа іншого гравця. Він може спитати про минуле персонажа, його життєві ціли чи щось щодо його особистості. При щирій відповіді гравець отримає **1 пункт досвіду**.</seg>
+      <tuv lang="uk" changeid="darkmentat" changedate="20220726T164340Z" creationid="darkmentat" creationdate="20220522T123833Z">
+        <seg>У свій хід гравець має спитати щось про персонажа іншого гравця. Він може спитати про минуле персонажа, його життєві ціли чи щось щодо його особистості. При щирій відповіді гравець отримає **1 пункт досвіду**.</seg>
       </tuv>
     </tu>
     <tu>
@@ -2805,8 +2805,8 @@ own. Players control the ship with their
 own attributes and skills, rolling the
 dice in dangerous situations.</seg>
       </tuv>
-      <tuv lang="uk" changeid="darkmentat" changedate="20220604T184101Z" creationid="darkmentat" creationdate="20220522T102841Z">
-        <seg>Окрім власних показників **ушкодження**, міцності **корпусу** (аналог _здоров'я_) та **захисту**, у корабля немає якихось власних параметрів чи атрибутів. Гравець керує ним, використовуючи атрибути та навички свого персонажу, кидаючи куби у випадку загрози.</seg>
+      <tuv lang="uk" changeid="darkmentat" changedate="20220726T164232Z" creationid="darkmentat" creationdate="20220522T102841Z">
+        <seg>Окрім власних показників **ушкодження**, міцності **корпусу** (аналог _здоров'я_) та **захисту**, у корабля немає якихось власних параметрів чи атрибутів. Гравець керує ним, використовуючи атрибути та навички свого персонажа, кидаючи куби у випадку загрози.</seg>
       </tuv>
     </tu>
     <tu>
@@ -2990,10 +2990,10 @@ Starship drive fuel 3C Per unit.
 Starship upgrades 50C
 Hull repairs 1C Repairs 2 Hull. Available in any port.</seg>
       </tuv>
-      <tuv lang="uk" changeid="darkmentat" changedate="20220615T075320Z" creationid="darkmentat" creationdate="20220521T212048Z">
+      <tuv lang="uk" changeid="darkmentat" changedate="20220726T164106Z" creationid="darkmentat" creationdate="20220521T212048Z">
         <seg>**СПОРЯДЖЕННЯ ЗОРЕЛЬОТА**
 Паливо для зоряного перельоту - 3К за одиницю
-Апгрейд зорельоту - 50К
+Апгрейд зорельота - 50К
 Ремонт корпусу - 1К за **2 од. корпусу**, доступно в будь-якому порту.</seg>
       </tuv>
     </tu>
@@ -3330,8 +3330,8 @@ way to get them the crate.</seg>
         <seg>The ship is capable of flying between planets in a few hours, and of flying faster than light to traverse the
 space between stars in a matter of weeks. It comes with a space suit for each PC.</seg>
       </tuv>
-      <tuv lang="uk" changeid="darkmentat" changedate="20220521T214622Z" creationid="darkmentat" creationdate="20220521T214426Z">
-        <seg>Цей корабель здатен здійснити міжпланетний переліт за декілька годин, а також подорожувати швидше світла щоб добратись до сусідньої зоряної системи за декілька тижнів. На кораблі є по космічному скафандру для кожного персонажа гравця.</seg>
+      <tuv lang="uk" changeid="darkmentat" changedate="20220726T164122Z" creationid="darkmentat" creationdate="20220521T214426Z">
+        <seg>Цей корабель здатен здійснити міжпланетний переліт за декілька годин, а також подорожувати швидше світла, щоб добратись до сусідньої зоряної системи за декілька тижнів. На кораблі є по космічному скафандру для кожного персонажа гравця.</seg>
       </tuv>
     </tu>
     <tu>
@@ -3454,8 +3454,8 @@ Cargo Hold** will get the PC’s lucra-
 tive shipping jobs carrying large and
 unusual cargo.</seg>
       </tuv>
-      <tuv lang="uk" changeid="darkmentat" changedate="20220528T200039Z" creationid="darkmentat" creationdate="20220522T095812Z">
-        <seg>Щоб підготувати собі корабель, гравцям потрібно вибрати два апгрейда. Вони відкривають нові можливості, а також впливають на ті види завдань, за які вони будуть братись. Наприклад, корабель без **розкішних кают пасажирів** не приверне увагу багатих пасажирів. А корабель з **великим багажним відсіком** дозволить персонажам гравців братись за прибуткову роботу з великих та незвичних перевезень.</seg>
+      <tuv lang="uk" changeid="darkmentat" changedate="20220726T164135Z" creationid="darkmentat" creationdate="20220522T095812Z">
+        <seg>Щоб підготувати собі корабель, гравцям потрібно вибрати два апгрейди. Вони відкривають нові можливості, а також впливають на ті види завдань, за які вони будуть братись. Наприклад, корабель без **розкішних кают пасажирів** не приверне увагу багатих пасажирів. А корабель з **великим багажним відсіком** дозволить персонажам гравців братись за прибуткову роботу з великих та незвичних перевезень.</seg>
       </tuv>
     </tu>
     <tu>
