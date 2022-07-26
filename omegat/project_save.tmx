@@ -104,8 +104,8 @@
       <tuv lang="en-US">
         <seg>#### JOBS: A FRAMEWORK FOR YOUR</seg>
       </tuv>
-      <tuv lang="uk" changeid="darkmentat" changedate="20220528T212813Z" creationid="darkmentat" creationdate="20220522T163615Z">
-        <seg>### СПРАВИ: КАРКАС ВАШОЇ ПІДГОТОВКИ</seg>
+      <tuv lang="uk" changeid="darkmentat" changedate="20220726T165516Z" creationid="darkmentat" creationdate="20220522T163615Z">
+        <seg>### ЗАВДАННЯ: КАРКАС ВАШОЇ ПІДГОТОВКИ</seg>
       </tuv>
     </tu>
     <tu>
@@ -152,8 +152,8 @@
       <tuv lang="en-US">
         <seg>#### SESSION</seg>
       </tuv>
-      <tuv lang="uk" changeid="darkmentat" changedate="20220528T212845Z" creationid="darkmentat" creationdate="20220522T163615Z">
-        <seg>### ЗУСТРІЧ</seg>
+      <tuv lang="uk" changeid="darkmentat" changedate="20220726T165557Z" creationid="darkmentat" creationdate="20220522T163615Z">
+        <seg>### ІГРОВА ЗУСТРІЧ</seg>
       </tuv>
     </tu>
     <tu>
@@ -1960,6 +1960,15 @@ complexity:</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Cienfuegos
+Research Station</seg>
+      </tuv>
+      <tuv lang="uk" changeid="darkmentat" changedate="20220726T165322Z" creationid="darkmentat" creationdate="20220726T165322Z">
+        <seg></seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Come up with a name for your charac-
 ter, and share it with the other players.
 Also come up with at least one distinct
@@ -2171,8 +2180,8 @@ too small to be able to take on a faction
 directly, but will encounter them
 through NPCs and jobs.</seg>
       </tuv>
-      <tuv lang="uk" changeid="darkmentat" changedate="20220603T125319Z" creationid="darkmentat" creationdate="20220603T125319Z">
-        <seg>Фракції —це основні впливові сили у всесвіті. Мегакорпорації, зоряні імперії, приватні військові компанії, кримінальні синдикати й тому подібне. Персонажі гравців зазвичай занадто малі в порівнянні з ними, але вони будуть стикатись з їх представниками під час виконання завдань.</seg>
+      <tuv lang="uk" changeid="darkmentat" changedate="20220726T165402Z" creationid="darkmentat" creationdate="20220603T125319Z">
+        <seg>Фракції — це основні впливові сили у всесвіті. Мегакорпорації, зоряні імперії, приватні військові компанії, кримінальні синдикати й тому подібне. Персонажі гравців зазвичай занадто малі в порівнянні з ними, але вони будуть стикатись з їх представниками під час виконання завдань.</seg>
       </tuv>
     </tu>
     <tu>
@@ -2607,8 +2616,8 @@ leaders and members. How is it struc-
 tured, politically? When it goes to war,
 what kind of soldiers does it have?</seg>
       </tuv>
-      <tuv lang="uk" changeid="darkmentat" changedate="20220614T201938Z" creationid="darkmentat" creationdate="20220603T125659Z">
-        <seg>Запишіть фракції на своїй карті та дайте їм конкуруючі цілі. Ви можете почати всього з двох, або ж створити заплутану інтригу з трьома чи чотирма фракціями. При створенні фракції подумайте про їх членів та лідерів. Як вони організовані, якими силами володіють?</seg>
+      <tuv lang="uk" changeid="darkmentat" changedate="20220726T165420Z" creationid="darkmentat" creationdate="20220603T125659Z">
+        <seg>Запишіть фракції на своїй карті та дайте їм конкурентні цілі. Ви можете почати всього з двох, або ж створити заплутану інтригу з трьома чи чотирма фракціями. При створенні фракції подумайте про їх членів та лідерів. Як вони організовані, якими силами володіють?</seg>
       </tuv>
     </tu>
     <tu>
@@ -2952,6 +2961,14 @@ max imum Health , rounded up.</seg>
       </tuv>
       <tuv lang="uk" changeid="darkmentat" changedate="20220528T195021Z" creationid="darkmentat" creationdate="20220521T202150Z">
         <seg>**Відпочинок:** Якщо персонаж отримує якийсь еквівалент повноцінного нічного сну, він відновлює кількість здоров'я, що рівна половині його максимального здоров'я, з округленням вгору.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Rhodes</seg>
+      </tuv>
+      <tuv lang="uk" changeid="darkmentat" changedate="20220726T165325Z" creationid="darkmentat" creationdate="20220726T165325Z">
+        <seg></seg>
       </tuv>
     </tu>
     <tu>
@@ -3432,8 +3449,8 @@ ample timeline takes place, drive fuel
 is likely to become more scarce and
 expensive within the UDW.</seg>
       </tuv>
-      <tuv lang="uk" changeid="darkmentat" changedate="20220615T163636Z" creationid="darkmentat" creationdate="20220603T131911Z">
-        <seg>Таймлайн починається з першої події. Далі кожна подія трапляється між зустрічами або по мірі плину внутрішньо-ігрового часу. Коли персонажі гравців витрачають час на подорожі, таймлайни також розвиваються. Покажіть гравцям як всесвіт змінюється з їхнім розвитком. Наприклад, при настанні події 4 в наведеному таймлайні, паливо для кораблів стане біль дефіцитним та дорогим в межах Коаліції.</seg>
+      <tuv lang="uk" changeid="darkmentat" changedate="20220726T165456Z" creationid="darkmentat" creationdate="20220603T131911Z">
+        <seg>Таймлайн починається з першої події. Далі кожна подія трапляється між зустрічами або по мірі плину внутрішньоігрового часу. Коли персонажі гравців витрачають час на подорожі, таймлайни також розвиваються. Покажіть гравцям як всесвіт змінюється з їхнім розвитком. Наприклад, при настанні події 4 в наведеному таймлайні, паливо для кораблів стане біль дефіцитним та дорогим в межах Коаліції.</seg>
       </tuv>
     </tu>
     <tu>
@@ -3481,6 +3498,14 @@ campaign, follow these steps:</seg>
       </tuv>
       <tuv lang="uk" changeid="darkmentat" changedate="20220603T122720Z" creationid="darkmentat" creationdate="20220603T122720Z">
         <seg>Щоб розпочати створення зоряної мапи для вашої кампанії, слідуйте наступним крокам:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Tosakanth</seg>
+      </tuv>
+      <tuv lang="uk" changeid="darkmentat" changedate="20220726T165328Z" creationid="darkmentat" creationdate="20220726T165328Z">
+        <seg></seg>
       </tuv>
     </tu>
     <tu>
@@ -3764,8 +3789,8 @@ to know where you are going and keep things moving, but be flexible enough so th
 PC’s actions too. Additionally, write down several questions about the job that you are interested in answering
 during play. Lastly, jot down some names, attributes, and any notes for NPC’s the PC’s are likely to encounter.</seg>
       </tuv>
-      <tuv lang="uk" changeid="darkmentat" changedate="20220726T164828Z" creationid="darkmentat" creationdate="20220528T213613Z">
-        <seg>Коли ви розпочинаєте зустріч при грі в Краєходців, вам потрібно підготувати ряд подій, з якими гравці можуть взаємодіяти. Оскільки персонажі гравців являються найманцями й авантюристами й самі шукають проблем на свою голову, ми називаємо це Справою. Справа — це просто перелік подій та фактів, зібраний навколо деякої задачі чи проблеми. Вони мають бути достатньо деталізовані, щоб ви могли знати що відбувається та підтримувати темп, але й мають бути достатньо гнучкими, щоб ви могли легко реагувати та підлаштовуватись під дії гравців. Та під кінець запишіть імена, характеристики та будь-які примітки щодо своїх персонажів, котрих гравці ймовірно зустрінуть.</seg>
+      <tuv lang="uk" changeid="darkmentat" changedate="20220726T165804Z" creationid="darkmentat" creationdate="20220528T213613Z">
+        <seg>Коли ви збираєтесь на гру в Краєходців, вам потрібно підготувати ряд подій, з якими гравці зможуть взаємодіяти. Оскільки персонажі гравців являються найманцями й авантюристами й самі шукають проблем на свою голову, ми називаємо це Завдання. Завдання — це просто перелік подій та фактів, зібраний навколо деякої задачі чи проблеми. Вони мають бути достатньо деталізовані, щоб ви могли знати що відбувається та підтримувати темп, але й мають бути достатньо гнучкими, щоб ви могли легко реагувати та підлаштовуватись під дії гравців. Також запишіть імена, характеристики та будь-які примітки щодо своїх персонажів, котрих гравці ймовірно зустрінуть.</seg>
       </tuv>
     </tu>
     <tu>
@@ -3827,6 +3852,14 @@ their attributes.</seg>
       </tuv>
       <tuv lang="uk" changeid="darkmentat" changedate="20220521T115918Z" creationid="darkmentat" creationdate="20220516T235518Z">
         <seg>**Досвід:** Протягом гри персонажі будуть заробляти пункти досвіду, щоб потратити їх на нові таланти чи щоб покращити атрибути.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Xiangliu Starfield</seg>
+      </tuv>
+      <tuv lang="uk" changeid="darkmentat" changedate="20220726T165337Z" creationid="darkmentat" creationdate="20220726T165337Z">
+        <seg></seg>
       </tuv>
     </tu>
     <tu>
@@ -3983,6 +4016,14 @@ legalcode</seg>
       </tuv>
       <tuv lang="uk" changeid="darkmentat" changedate="20220516T235227Z" creationid="darkmentat" creationdate="20220516T235227Z">
         <seg>_Offworlders_ is licensed under a Creative Commons Attribution License: https://creativecommons.org/licenses/by/3.0/us/</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>_Suvannamaccha_</seg>
+      </tuv>
+      <tuv lang="uk" changeid="darkmentat" changedate="20220726T165333Z" creationid="darkmentat" creationdate="20220726T165333Z">
+        <seg></seg>
       </tuv>
     </tu>
     <tu>
