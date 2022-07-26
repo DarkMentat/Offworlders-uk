@@ -2513,8 +2513,8 @@ additional Health.</seg>
       <tuv lang="en-US">
         <seg>More powerful weapons: +1 damage*</seg>
       </tuv>
-      <tuv lang="uk" changeid="darkmentat" changedate="20220606T115806Z" creationid="darkmentat" creationdate="20220522T102250Z">
-        <seg>**Додаткое озброєння:** **+1** до **ушкоджень** *</seg>
+      <tuv lang="uk" changeid="darkmentat" changedate="20220726T080721Z" creationid="darkmentat" creationdate="20220522T102250Z">
+        <seg>**Додаткове озброєння:** **+1** до **ушкоджень** *</seg>
       </tuv>
     </tu>
     <tu>
