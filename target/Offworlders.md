@@ -1,10 +1,12 @@
 # КРАЄХОДЦІ
 
-#### КРІС ВУЛЬФ
 
-#### ОЛІВІЯ ГУЛІН
 
-#### chrispwolf.com/offworlders
+
+
+Перед вами вільний переклад _Offworlders_, легковагової настольної рольової гри від _Кріса Вульфа_ та _Олівії Гулін_, що поєднує традицію таких ігор як _Traveller_ та _Stars Without Number_ з геймдизайнерською думкою _Powered by the Apocalypse_ _(PbtA)_.
+Блог автора: [chrispwolf.blot.im](https://chrispwolf.blot.im/say-hello-to-offworlders-a-rules-light-spacefaring-rpg/)
+Оригінал на DriveThruRPG: [www.drivethrurpg.com/product/257632/Offworlders](https://www.drivethrurpg.com/product/257632/Offworlders)
 
 ## ВІТАННЯ КРАЄХОДЦЯМ
 
@@ -20,7 +22,7 @@
 
 _Offworlders_ — гра за авторством Кріса Вульфа. Ілюстрації та дизайн книги виконані Олівією Гулін.
 
-На розробку _Offworlders_ надихнула гра _World of Dungeons_ Джона Харпера. Також серед джерел надхнення варто зазначити _Dungeon World_ Сейжа Латорра та Адама Кєбеля, а також _Traveller_ Марка Міллера та _Stars Without Number_ Кевіка Кроуфорда.
+На розробку _Offworlders_ надихнула гра _World of Dungeons_ Джона Харпера. Також серед джерел надхнення варто зазначити _Dungeon World_ Сейжа Латорра та Адама Кєбеля, а також _Traveller_ Марка Міллера та _Stars Without Number_ Кевіна Кроуфорда.
 
 Якщо ви граєте в Offworlders, то поділіться своїми враженнями! Напишіть мені в Twitter: @chrisperry_wolf.
 
