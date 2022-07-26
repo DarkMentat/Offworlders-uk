@@ -1657,10 +1657,10 @@ rerolling one of the dice if you wish. If
 successful, do maximum possible dam-
 age for your weapon, ignoring armor.</seg>
       </tuv>
-      <tuv lang="uk" changeid="darkmentat" changedate="20220604T183927Z" creationid="darkmentat" creationdate="20220520T205425Z">
+      <tuv lang="uk" changeid="darkmentat" changedate="20220726T075808Z" creationid="darkmentat" creationdate="20220520T205425Z">
         <seg>_ТАЛАНТИ:_
 
-**Підступний удар:** Коли ви атакуєте несподівано, ціль не очікує удару чи ви застали її зненацька, вважайте, що у вас є підхожі навички й ви можете перекинути один з випавших кубиків. В випадку успіху ви наносите максимальне для вашої зброї ушкодження, ігноруючи броню.</seg>
+**Підступний удар:** Коли ви атакуєте несподівано, ціль не очікує удару чи ви застали її зненацька, вважайте, що у вас є підхожі навички й ви можете перекинути один з кинутих кубиків. В випадку успіху ви наносите максимальне для вашої зброї ушкодження, ігноруючи броню.</seg>
       </tuv>
     </tu>
     <tu>
@@ -2952,8 +2952,8 @@ max imum Health , rounded up.</seg>
 the relevant attribute. Use the total to
 determine how successful you are.</seg>
       </tuv>
-      <tuv lang="uk" changeid="darkmentat" changedate="20220521T120557Z" creationid="darkmentat" creationdate="20220516T235744Z">
-        <seg>Киньте **2к6**, складіть випавші значення та додайте підхожий атрибут. Сумарний результат визначить наскільки сприятливим буде розвиток ситуації.</seg>
+      <tuv lang="uk" changeid="darkmentat" changedate="20220726T075745Z" creationid="darkmentat" creationdate="20220516T235744Z">
+        <seg>Киньте **2к6**, складіть отримані значення та додайте підхожий атрибут. Сумарний результат визначить наскільки сприятливим буде розвиток ситуації.</seg>
       </tuv>
     </tu>
     <tu>
