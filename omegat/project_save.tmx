@@ -463,8 +463,8 @@ DriveThruRPG: [drivethrurpg.com/product/257632/Offworlders](https://www.drivethr
       <tuv lang="en-US">
         <seg>###### JOB: SPECIAL DELIVERY</seg>
       </tuv>
-      <tuv lang="uk" changeid="darkmentat" changedate="20220528T220430Z" creationid="darkmentat" creationdate="20220522T163615Z">
-        <seg>#### СПРАВА: ОСОБЛИВА ДОСТАВКА</seg>
+      <tuv lang="uk" changeid="darkmentat" changedate="20220726T165929Z" creationid="darkmentat" creationdate="20220522T163615Z">
+        <seg>#### ЗАВДАННЯ: ОСОБЛИВА ДОСТАВКА</seg>
       </tuv>
     </tu>
     <tu>
@@ -2410,8 +2410,8 @@ mysterious contact to deliver a large
 crate, unopened, into the hands of
 a local rebel faction.</seg>
       </tuv>
-      <tuv lang="uk" changeid="darkmentat" changedate="20220602T214926Z" creationid="darkmentat" creationdate="20220528T220844Z">
-        <seg>**ПОДІЇ СПРАВИ:**
+      <tuv lang="uk" changeid="darkmentat" changedate="20220726T165932Z" creationid="darkmentat" creationdate="20220528T220844Z">
+        <seg>**ПОДІЇ ЗАВДАННЯ:**
 Персонажі гравців наближаються до Реголіта — шахтарської колонії побудованій всередині астероїда. Від жаги до наживи вони взялись за роботу від загадкової особи по доставці великого ящика в закритому вигляді в руки місцевої бунтівної фракції.</seg>
       </tuv>
     </tu>
@@ -2529,8 +2529,8 @@ make one timeline after you first make
 your star map, and can add more as
 the universe gets fleshed out.</seg>
       </tuv>
-      <tuv lang="uk" changeid="darkmentat" changedate="20220603T130501Z" creationid="darkmentat" creationdate="20220603T130501Z">
-        <seg>Як _завдання_ являються каркасом для гри на одну зустріч, так таймлайни являються каркасом для тривалої кампанії. Вам варто створити хоча б один таймлайн для новоствореної зоряної мапи й можете додати більше по мірі конкретизації ігрового всесвіту.</seg>
+      <tuv lang="uk" changeid="darkmentat" changedate="20220726T170031Z" creationid="darkmentat" creationdate="20220603T130501Z">
+        <seg>Як **завдання** являються каркасом для гри на одну зустріч, так таймлайни являються каркасом для тривалої кампанії. Вам варто створити хоча б один таймлайн для новоствореної зоряної мапи й можете додати більше по мірі конкретизації ігрового всесвіту.</seg>
       </tuv>
     </tu>
     <tu>
@@ -4094,8 +4094,8 @@ scribe to the players how it manifests,
 and see how they react. Repeat this
 process until the job is resolved.</seg>
       </tuv>
-      <tuv lang="uk" changeid="darkmentat" changedate="20220528T220419Z" creationid="darkmentat" creationdate="20220528T220419Z">
-        <seg>Коли темп гри починає стихати, гляньте на новий пункт вибраної Справи та привнесіть його в гру. Опишіть гравцям як він себе проявляє та дивіться як гравці будуть на це реагувати. Повторюйте цей процес поки Справа не вичерпає себе й не буде завершеною.</seg>
+      <tuv lang="uk" changeid="darkmentat" changedate="20220726T165949Z" creationid="darkmentat" creationdate="20220528T220419Z">
+        <seg>Коли темп гри починає стихати, гляньте на новий пункт вибраної Справи та привнесіть його в гру. Опишіть гравцям як він себе проявляє та дивіться як гравці будуть на це реагувати. Повторюйте цей процес поки Завдання не вичерпає себе й не буде завершеним.</seg>
       </tuv>
     </tu>
 <!-- Alternative translations -->
