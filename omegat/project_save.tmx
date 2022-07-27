@@ -495,8 +495,8 @@ DriveThruRPG: [drivethrurpg.com/product/257632/Offworlders](https://www.drivethr
       <tuv lang="en-US">
         <seg>###### PLAYER CHARACTERS: THE CREW OF THE QUICHE LORRAINE</seg>
       </tuv>
-      <tuv lang="uk" changeid="darkmentat" changedate="20220522T163836Z" creationid="darkmentat" creationdate="20220522T163615Z">
-        <seg>#### PLAYER CHARACTERS: THE CREW OF THE QUICHE LORRAINE</seg>
+      <tuv lang="uk" changeid="darkmentat" changedate="20220727T191307Z" creationid="darkmentat" creationdate="20220522T163615Z">
+        <seg>#### ПРИКЛАД ПЕРСОНАЖІВ ГРАВЦІВ: ЕКІПАЖ КОРАБЛЯ «КІШ ЛОРЕН»</seg>
       </tuv>
     </tu>
     <tu>
@@ -2892,6 +2892,37 @@ Play a Psychic if you want to be strange and powerful.</seg>
       </tuv>
       <tuv lang="uk" changeid="darkmentat" changedate="20220615T163315Z" creationid="darkmentat" creationdate="20220521T181933Z">
         <seg>Псіоніки володіють надприродними ментальними здібностями. Їхні таланти дозволяють їм впливати на оточення силою думки та вдиратись в чужі голови. Грайте за псіоніка, якщо хочете бути могутнім і загадковим.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>RIYA, OUTLAW
+**_Skills_** _Sneak, Survival_
+**_Abilities_** _Cheap Shot, Smuggle_
+**_Strength_** _-_
+**_Agility_** _+_
+**_Intelligence_** _0_
+**_Willpower_** _+_
+**_Health_** _13_
+**_Gear_** _Snubnosed revolver (light), leather
+armor (1-armor),
+butterfly knife (light)_
+**_Credits_** _3_
+**_Appearance_** _Loves jewelry. Wears a rotating
+collection of band t-shirts._</seg>
+      </tuv>
+      <tuv lang="uk" changeid="darkmentat" changedate="20220727T192328Z" creationid="darkmentat" creationdate="20220727T192328Z">
+        <seg>РІЯ, ПРОЙДИСВІТ
+**_Навички_** _Скритність, Виживання_
+**_Таланти_** _Підступний удар, Контрабандист_
+**_Сила_** _+2_
+**_Спритність_** _+1_
+**_Інтелект_** _-1_
+**_Воля_** _0_
+**_Здоров'я_** _15_
+**_Спорядження_** _Короткоствольний револьвер (легка), шкіряна куртка (захист-1), ніж-балісонг (легка)_
+**_Кредити_** _3_
+**_Вигляд_** _Обожнює прикраси. Має велику колекцію футболок різноманітних музичних гуртів._</seg>
       </tuv>
     </tu>
     <tu>
