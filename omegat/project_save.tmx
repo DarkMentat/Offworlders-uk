@@ -2422,6 +2422,35 @@ a local rebel faction.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>KAY, WARRIOR
+**_Skills_** _Athletics, Pilot_
+**_Abilities_** _Brute, Unstoppable_
+**_Strength_** _+_
+**_Agility_** _+_
+**_Intelligence_** _-_
+**_Willpower_** _0_
+**_Health_** _15_
+**_Gear_** _Brass knuckles (light). No additional
+armor._
+**_Credits_** _10_
+**_Appearance_** _Broken nose from repeated breaking_</seg>
+      </tuv>
+      <tuv lang="uk" changeid="darkmentat" changedate="20220727T192623Z" creationid="darkmentat" creationdate="20220727T192623Z">
+        <seg>КАЙ, ВОЯКА
+**_Навички_** _Атлетика, Кермування_
+**_Таланти_** _Брутальний, Нестримний_
+**_Сила_** _+2_
+**_Спритність_** _+1_
+**_Інтелект_** _-1_
+**_Воля_** _0_
+**_Здоров'я_** _15_
+**_Спорядження_** _Кастет, без додаткової броні_
+**_Кредити_** _10_
+**_Вигляд_** _Зламаний ніс дуже багато разів_</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Laser beams glitter in the darkness.
 Pirate Cruisers cut across the rings
 of a gas giant. A derelict vessel offers
