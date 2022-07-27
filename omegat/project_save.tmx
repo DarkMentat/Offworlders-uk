@@ -871,10 +871,10 @@ Then choose either:
 - **Light Armor** worth 1-armor and a
     second weapon of any type.</seg>
       </tuv>
-      <tuv lang="uk" changeid="darkmentat" changedate="20220724T191027Z" creationid="darkmentat" creationdate="20220519T204059Z">
+      <tuv lang="uk" changeid="darkmentat" changedate="20220727T113001Z" creationid="darkmentat" creationdate="20220519T204059Z">
         <seg>Ви починаєте з:
 - **3 кредитами**
-- Однією **легкою зброєю**.
+- Однією **легкою зброєю**, опишіть її.
 
 Далі візьміть на вибір:
 - Додатково **7 кредитів**
@@ -2106,10 +2106,10 @@ has **11 Health.**</seg>
 You either have a skill or you don’t. When you roll the dice and have an applicable skill, you may re-roll one
 of the dice. You must accept the second result.</seg>
       </tuv>
-      <tuv lang="uk" changeid="darkmentat" changedate="20220727T112311Z" creationid="darkmentat" creationdate="20220519T201448Z">
+      <tuv lang="uk" changeid="darkmentat" changedate="20220727T112805Z" creationid="darkmentat" creationdate="20220519T201448Z">
         <seg>Кожна навичка зображає деяку набуту експертизу. На відмінну від атрибутів, навички не мають числового значення, ви просто або маєте їх, або ні. Коли кидаючи куби у вас є підхожі навички, ви можете перекинути один кубик і використати новий результат.
 
-&gt; **Альтернативне правило:** маючи підхожу навичку після кидка гравець може підняти ставки й повністю перекинути кидок. В цьому випадку він має описати, як саме він вдається до більш ризикованих методів, а майстер має підібрати більш вагомі можливі ускладнення.</seg>
+&gt; **Альтернативне правило:** маючи підхожу **навичку**, після кидка гравець може підняти ставки й повністю перекинути кидок. В цьому випадку він має описати, як саме він вдається до більш ризикованих методів, а майстер має підібрати більш вагомі можливі ускладнення.</seg>
       </tuv>
     </tu>
     <tu>
