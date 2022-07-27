@@ -710,8 +710,8 @@ takes on the role of the game world
 and everyone in it who isn’t a Player
 Character.</seg>
       </tuv>
-      <tuv lang="uk" changeid="darkmentat" changedate="20220521T121317Z" creationid="darkmentat" creationdate="20220516T235412Z">
-        <seg>**Майстер гри, або просто майстер:** Учасник гри, що відповідає за ігровий всесвіт та тих персонажів, що не контролюються іншими гравцями, приймає рішення щодо результату дій гравців та реакцію світу на них.</seg>
+      <tuv lang="uk" changeid="darkmentat" changedate="20220727T105926Z" creationid="darkmentat" creationdate="20220516T235412Z">
+        <seg>**Майстер гри, або просто майстер:** Учасник гри, що відповідає за ігровий всесвіт та тих персонажів, що не під контролем гравців, приймає рішення щодо результату дій гравців та реакцію світу на них.</seg>
       </tuv>
     </tu>
     <tu>
