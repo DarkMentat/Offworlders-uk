@@ -37,8 +37,6 @@
       </tuv>
     </tu>
     <tu>
-      <note>Здібності
-</note>
       <tuv lang="en-US">
         <seg>#### ABILITIES</seg>
       </tuv>
@@ -2088,8 +2086,6 @@ with a “yes,” every PC gets **1 X P.**</seg>
       </tuv>
     </tu>
     <tu>
-      <note>Модхак: Не враховувати спритність для розрахунку здоров'я
-</note>
       <tuv lang="en-US">
         <seg>Each PC has maximum Health equal
 to **12** plus their **Streng th** and **A gilit y**
@@ -2098,8 +2094,10 @@ Strength** and **+1 A g ility** has **15 Health**.
 A PC with **0 Strength** and **-1 A g ilit y**
 has **11 Health.**</seg>
       </tuv>
-      <tuv lang="uk" changeid="darkmentat" changedate="20220528T192510Z" creationid="darkmentat" creationdate="20220519T203630Z">
-        <seg>Здоров'я кожного персонажа гравця дорівнює **12** плюс його **Сила** плюс **Спритність**. Наприклад, у персонажа з **Силою +1** та **Спритністю +2** буде **15 Здоров'я**. А для персонажа з **Силою 0** та **Спритністю -1** здоров'я буде **11**.</seg>
+      <tuv lang="uk" changeid="darkmentat" changedate="20220727T112638Z" creationid="darkmentat" creationdate="20220519T203630Z">
+        <seg>Здоров'я кожного персонажа гравця дорівнює **12** плюс його **Сила** плюс **Спритність**. Наприклад, у персонажа з **Силою +1** та **Спритністю +2** буде **15 Здоров'я**. А для персонажа з **Силою 0** та **Спритністю -1** здоров'я буде **11**.
+
+&gt; **Альтернативне правило:** для визначення **здоров'я** ви можете не враховувати **Спритність**, і замість цього брати подвоєне значення **Сили**.</seg>
       </tuv>
     </tu>
     <tu>
@@ -3388,8 +3386,6 @@ tal change in the setting. For example:</seg>
       </tuv>
     </tu>
     <tu>
-      <note>Geek = Технар чи мб Ботанік?
-</note>
       <tuv lang="en-US">
         <seg>There are four classes: **Warrior** , **Out-
 law, Geek** , and **Psychic**. Pick one.</seg>
@@ -4106,8 +4102,6 @@ process until the job is resolved.</seg>
       <prop type="file">Offworlders.md.txt</prop>
       <prop type="prev">#### ROLLING THE DICE</prop>
       <prop type="next">###### 1. DESCRIBE WHAT YOU WANT TO DO, AND HOW YOU DO IT.</prop>
-      <note>є інший варіант перекладу
-</note>
       <tuv lang="en-US">
         <seg>When a player character does something dangerous, uncertain, or contested, use the dice to find out how
 well it goes. You’ll roll the dice and add one of your attributes to get a final result, then use that result to
