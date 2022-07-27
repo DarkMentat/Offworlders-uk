@@ -2293,6 +2293,36 @@ priate bonus or extra effect.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>IMANI, PSYCHIC
+Skills Manipulation, Culture
+Abilities Scanner, Premonition
+Strength -
+Agility 0
+Intelligence +
+Willpower +
+Health 11
+Gear Stun glove (light).
+No additional armor.
+Credits 10
+Appearance Body is covered in
+biomechanical implants.</seg>
+      </tuv>
+      <tuv lang="uk" changeid="darkmentat" changedate="20220727T193303Z" creationid="darkmentat" creationdate="20220727T193303Z">
+        <seg>ІМАНІ, ПСІОНІК
+**_Навички_** _Маніпуляції, Культура_
+**_Таланти_** _Сканер, Передзнання_
+**_Сила_** _-1_
+**_Спритність_** _0_
+**_Інтелект_** _+1_
+**_Воля_** _+2_
+**_Здоров'я_** _11_
+**_Спорядження_** _Шокові перчатки (легкі), без додаткової броні_
+**_Кредити_** _10_
+**_Вигляд_** _Тіло покрито біомеханічними імплантами_</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>If the GM decides that it is risky or
 uncertain enough to warrant a roll, go
 to step 2. Otherwise, the GM will tell
@@ -3275,6 +3305,37 @@ Corporal Punishment</seg>
       </tuv>
       <tuv lang="uk" changeid="darkmentat" changedate="20220603T133306Z" creationid="darkmentat" creationdate="20220603T133306Z">
         <seg>ТАЙМЛАЙН: РОЗЛАД В КОАЛІЦІЇ</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>TRIXIE, GEEK
+Skills Science, Tech
+Abilities Hijack, Chemist
+Strength 0
+Agility +
+Intelligence +
+Willpower -
+Health 13
+Gear Laser pistol (light), small chemical
+grenades (medium), plasteel armor
+(1-armor).
+Credits 3
+Appearance Carries large backpack with tech gear.
+Wears augmented-reality goggles.</seg>
+      </tuv>
+      <tuv lang="uk" changeid="darkmentat" changedate="20220727T192934Z" creationid="darkmentat" creationdate="20220727T192934Z">
+        <seg>ТРІКСІ, ТЕХНАР
+**_Навички_** _Наука, Техніка_
+**_Таланти_** _Перехоплення, Хімік_
+**_Сила_** _0_
+**_Спритність_** _+1_
+**_Інтелект_** _+2_
+**_Воля_** _-1_
+**_Здоров'я_** _13_
+**_Спорядження_** _Лазерний пістолет (легкий), набір хімічних гранат (середнє), пласталева броня (захист-1)_
+**_Кредити_** _3_
+**_Вигляд_** _Завжди має при собі величезний рюкзак різної техніки. Носить гогли доповненої реальності_</seg>
       </tuv>
     </tu>
     <tu>
