@@ -3008,10 +3008,11 @@ Starship drive fuel 3C Per unit.
 Starship upgrades 50C
 Hull repairs 1C Repairs 2 Hull. Available in any port.</seg>
       </tuv>
-      <tuv lang="uk" changeid="darkmentat" changedate="20220726T164106Z" creationid="darkmentat" creationdate="20220521T212048Z">
+      <tuv lang="uk" changeid="darkmentat" changedate="20220727T113735Z" creationid="darkmentat" creationdate="20220521T212048Z">
         <seg>**СПОРЯДЖЕННЯ ЗОРЕЛЬОТА**
-Паливо для зоряного перельоту - 3К за одиницю
-Апгрейд зорельота - 50К
+
+Паливо для зоряного перельоту - 3К за одиницю  
+Апгрейд зорельота - 50К  
 Ремонт корпусу - 1К за **2 од. корпусу**, доступно в будь-якому порту.</seg>
       </tuv>
     </tu>
