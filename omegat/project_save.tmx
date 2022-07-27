@@ -432,13 +432,11 @@ DriveThruRPG: [drivethrurpg.com/product/257632/Offworlders](https://www.drivethr
       </tuv>
     </tu>
     <tu>
-      <note>Ботанік?
-</note>
       <tuv lang="en-US">
         <seg>###### GEEK</seg>
       </tuv>
-      <tuv lang="uk" changeid="darkmentat" changedate="20220522T163836Z" creationid="darkmentat" creationdate="20220520T211405Z">
-        <seg>#### ТЕХНАР</seg>
+      <tuv lang="uk" changeid="darkmentat" changedate="20220727T113042Z" creationid="darkmentat" creationdate="20220520T211405Z">
+        <seg>### ТЕХНАР</seg>
       </tuv>
     </tu>
     <tu>
@@ -485,8 +483,8 @@ DriveThruRPG: [drivethrurpg.com/product/257632/Offworlders](https://www.drivethr
       <tuv lang="en-US">
         <seg>###### OUTLAW</seg>
       </tuv>
-      <tuv lang="uk" changeid="darkmentat" changedate="20220522T163836Z" creationid="darkmentat" creationdate="20220520T203805Z">
-        <seg>#### ПРОЙДИСВІТ</seg>
+      <tuv lang="uk" changeid="darkmentat" changedate="20220727T113102Z" creationid="darkmentat" creationdate="20220520T203805Z">
+        <seg>### ПРОЙДИСВІТ</seg>
       </tuv>
     </tu>
     <tu>
@@ -525,8 +523,8 @@ DriveThruRPG: [drivethrurpg.com/product/257632/Offworlders](https://www.drivethr
       <tuv lang="en-US">
         <seg>###### PSYCHIC</seg>
       </tuv>
-      <tuv lang="uk" changeid="darkmentat" changedate="20220522T163836Z" creationid="darkmentat" creationdate="20220521T181750Z">
-        <seg>#### ПСІОНІК</seg>
+      <tuv lang="uk" changeid="darkmentat" changedate="20220727T113057Z" creationid="darkmentat" creationdate="20220521T181750Z">
+        <seg>### ПСІОНІК</seg>
       </tuv>
     </tu>
     <tu>
@@ -615,8 +613,8 @@ DriveThruRPG: [drivethrurpg.com/product/257632/Offworlders](https://www.drivethr
       <tuv lang="en-US">
         <seg>###### WARRIOR</seg>
       </tuv>
-      <tuv lang="uk" changeid="darkmentat" changedate="20220522T163836Z" creationid="darkmentat" creationdate="20220520T211100Z">
-        <seg>#### ВОЯКА</seg>
+      <tuv lang="uk" changeid="darkmentat" changedate="20220727T113051Z" creationid="darkmentat" creationdate="20220520T211100Z">
+        <seg>### ВОЯКА</seg>
       </tuv>
     </tu>
     <tu>
