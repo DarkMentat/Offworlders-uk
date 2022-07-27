@@ -25,7 +25,7 @@ _Offworlders_ — гра за авторством Кріса Вульфа. Іл
 
 На розробку _Offworlders_ надихнула гра _World of Dungeons_ Джона Харпера. Також серед джерел надхнення варто зазначити _Dungeon World_ Сейжа Латорра та Адама Кєбеля, а також _Traveller_ Марка Міллера та _Stars Without Number_ Кевіна Кроуфорда.
 
-Якщо ви граєте в Offworlders, то поділіться своїми враженнями! Напишіть мені в Twitter: @chrisperry_wolf.
+Якщо ви зіграли в _Offworlders_, то поділіться своїми враженнями! Напишіть мені в Twitter: [@chrisperry_wolf](https://twitter.com/chrisperrywolf).
 
 Плейтестери: Chris Darden, Cameron Farrell, Olivia Gulin, David Kenyon, and Steve Kilian.
 
@@ -42,7 +42,8 @@ _Offworlders_ is licensed under a Creative Commons Attribution License: https://
 - Від двох до чотирьох друзів
 - Декілька шестигранних ігрових кубиків. Досить буде двох, але краще, щоб у кожного гравця було по парі.
 - Олівці та папір
-- По листу персонажа для кожного гравця, а також один лист корабля. Ви можете знайти їх тут: **chrispwolf.com/offworlders**
+
+[- По листу персонажа для кожного гравця, а також один лист корабля. Ви можете знайти їх тут: **chrispwolf.com/offworlders**]: поки цей пункт виключимо, бо ні оригінального, ні перекладених чарників немає
 
 ### РОЗМОВА
 
