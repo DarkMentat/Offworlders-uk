@@ -3268,8 +3268,8 @@ the world. Invite them to start making
 decisions and rolling the dice. See what
 happens from there. When the action</seg>
       </tuv>
-      <tuv lang="uk" changeid="darkmentat" changedate="20220528T220134Z" creationid="darkmentat" creationdate="20220528T220134Z">
-        <seg>Почніть вашу першу ігрову зустріч з деякої стартової події в Справі. Опишіть гравцям де вони знаходяться та що відбувається. Розмістіть перешкоди прямо на їх шляху або покажіть їм можливості для взаємодії зі світом. Запрошуйте їх приймати рішення та кидати куби. І дивіться що відбувається далі.</seg>
+      <tuv lang="uk" changeid="darkmentat" changedate="20220802T215402Z" creationid="darkmentat" creationdate="20220528T220134Z">
+        <seg>Почніть вашу першу ігрову зустріч з деякої стартової події в Завданні. Опишіть гравцям де вони знаходяться та що відбувається. Розмістіть перешкоди прямо на їх шляху або покажіть їм можливості для взаємодії зі світом. Запрошуйте їх приймати рішення та кидати куби. І дивіться що відбувається далі.</seg>
       </tuv>
     </tu>
     <tu>
@@ -4211,8 +4211,8 @@ scribe to the players how it manifests,
 and see how they react. Repeat this
 process until the job is resolved.</seg>
       </tuv>
-      <tuv lang="uk" changeid="darkmentat" changedate="20220726T165949Z" creationid="darkmentat" creationdate="20220528T220419Z">
-        <seg>Коли темп гри починає стихати, гляньте на новий пункт вибраної Справи та привнесіть його в гру. Опишіть гравцям як він себе проявляє та дивіться як гравці будуть на це реагувати. Повторюйте цей процес поки Завдання не вичерпає себе й не буде завершеним.</seg>
+      <tuv lang="uk" changeid="darkmentat" changedate="20220802T215438Z" creationid="darkmentat" creationdate="20220528T220419Z">
+        <seg>Коли темп гри починає стихати, гляньте на новий пункт Завдання та привнесіть його в гру. Опишіть гравцям як він себе проявляє та дивіться як гравці будуть на це реагувати. Повторюйте цей процес поки Завдання не вичерпає себе й не буде завершеним.</seg>
       </tuv>
     </tu>
 <!-- Alternative translations -->
