@@ -920,6 +920,34 @@ Dead Body</seg>
     <tu>
       <tuv lang="en-US">
         <seg>2
+Corban
+Dajiel
+Dunkenne
+Forrest
+Benry
+Garrick</seg>
+      </tuv>
+      <tuv lang="uk" changeid="darkmentat" changedate="20220803T130216Z" creationid="darkmentat" creationdate="20220803T130216Z">
+        <seg></seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>2
+Cyber Prosthetics
+Data Records
+Diamonds
+Exotic Animals
+Farming Equipment
+Fine Art</seg>
+      </tuv>
+      <tuv lang="uk" changeid="darkmentat" changedate="20220803T130152Z" creationid="darkmentat" creationdate="20220803T130152Z">
+        <seg></seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>2
 Dark
 Dead
 Desert
@@ -988,6 +1016,34 @@ High Gravity</seg>
     <tu>
       <tuv lang="en-US">
         <seg>3
+Fuel
+Gourmet Food
+Ground Vehicles
+Illegal Drugs
+Liquor
+Luxury Housewares</seg>
+      </tuv>
+      <tuv lang="uk" changeid="darkmentat" changedate="20220803T130155Z" creationid="darkmentat" creationdate="20220803T130155Z">
+        <seg></seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>3
+Horza
+Ingvall
+Karoleen
+Kerra
+Kion
+Kotai</seg>
+      </tuv>
+      <tuv lang="uk" changeid="darkmentat" changedate="20220803T130219Z" creationid="darkmentat" creationdate="20220803T130219Z">
+        <seg></seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>3
 Imperialism
 Kleptocracy
 Low Population
@@ -1035,6 +1091,34 @@ Moon
 Phantom</seg>
       </tuv>
       <tuv lang="uk" changeid="darkmentat" changedate="20220803T130034Z" creationid="darkmentat" creationdate="20220803T130034Z">
+        <seg></seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>4
+Laramie
+Lora
+Olyffia
+Othersh
+Piqo
+Prys</seg>
+      </tuv>
+      <tuv lang="uk" changeid="darkmentat" changedate="20220803T130222Z" creationid="darkmentat" creationdate="20220803T130222Z">
+        <seg></seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>4
+Medicine
+Military Hardware
+Modular Housing Units
+Nuclear Waste
+Nutrient-Rich Paste
+Organs</seg>
+      </tuv>
+      <tuv lang="uk" changeid="darkmentat" changedate="20220803T130157Z" creationid="darkmentat" creationdate="20220803T130157Z">
         <seg></seg>
       </tuv>
     </tu>
@@ -1107,6 +1191,48 @@ Science</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>5
+Potable Water
+Refugees
+Seeds
+Small Arms
+Solar Panels
+Spices</seg>
+      </tuv>
+      <tuv lang="uk" changeid="darkmentat" changedate="20220803T130200Z" creationid="darkmentat" creationdate="20220803T130200Z">
+        <seg></seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>5
+Roobin
+Ridley
+Serrah
+Shail
+Sophia
+Steede</seg>
+      </tuv>
+      <tuv lang="uk" changeid="darkmentat" changedate="20220803T130225Z" creationid="darkmentat" creationdate="20220803T130225Z">
+        <seg></seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>5
+Shipping Center
+Solar Array
+Superweapon
+Trade Convoy
+Listening Post
+Luxury Liner</seg>
+      </tuv>
+      <tuv lang="uk" changeid="darkmentat" changedate="20220803T130126Z" creationid="darkmentat" creationdate="20220803T130126Z">
+        <seg></seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>5 Does the faction ruling the star also
 rule any other stars? If they do, those
 are probably pretty close by. Add those
@@ -1120,6 +1246,20 @@ a location or two to each, if you wish.</seg>
     <tu>
       <tuv lang="en-US">
         <seg>6
+Ore Mine
+Pirate Haven
+Private Station
+Refueling Station
+Transmission Buoy
+Unexploded Ordnance</seg>
+      </tuv>
+      <tuv lang="uk" changeid="darkmentat" changedate="20220803T130132Z" creationid="darkmentat" creationdate="20220803T130132Z">
+        <seg></seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>6
 Slavers
 Spies
 Theocracy
@@ -1128,6 +1268,34 @@ Ty ra n n y
 Xenophobic</seg>
       </tuv>
       <tuv lang="uk" changeid="darkmentat" changedate="20220803T130103Z" creationid="darkmentat" creationdate="20220803T130103Z">
+        <seg></seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>6
+Steel
+Te a
+To rp e d o e s
+To y s
+Tre e s
+Unrefined Ore</seg>
+      </tuv>
+      <tuv lang="uk" changeid="darkmentat" changedate="20220803T130202Z" creationid="darkmentat" creationdate="20220803T130202Z">
+        <seg></seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>6
+Talsorian
+To r r i n
+Varin
+Vasquez
+Wei
+Xiang</seg>
+      </tuv>
+      <tuv lang="uk" changeid="darkmentat" changedate="20220803T130228Z" creationid="darkmentat" creationdate="20220803T130228Z">
         <seg></seg>
       </tuv>
     </tu>
@@ -1539,6 +1707,29 @@ game fully fueled.</seg>
       </tuv>
       <tuv lang="uk" changeid="darkmentat" changedate="20220604T125512Z" creationid="darkmentat" creationdate="20220522T090528Z">
         <seg>Зазвичай гравці створюють собі корабель з чистого листа. В ньому є невеликий багажний відсік, його озброєння наносить **к6** ушкоджень, а також він має **15 пунктів корпусу**. У нього **захист-0** та в запасі він має **4 одиниці палива** для зоряних перельотів.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>CARGO
+1
+Biological Samples
+Breathable Air
+Clothes
+Coffee
+Consumer Electronics
+Construction Equipment</seg>
+      </tuv>
+      <tuv lang="uk" changeid="darkmentat" changedate="20220803T130144Z" creationid="darkmentat" creationdate="20220803T130144Z">
+        <seg>### Вантаж
+| к6 | 1.  | 2.  | 3. | 4.  | 5.  | 6.  |
+| :---: | :---: | :---: | :---: | :---: | :---: | :---: |
+|1.|Біологічні зразки|Якісне повітря|Одяг|Кава|Споживацька електроніка|Будівельне обладнання|
+|2.|Кібер- протезування|Бази даних|Діаманти|Екзотичні тварини|Сільсько- господарське обладнання|Мистецтво|
+|3.|Паливо|Вишукана їжа|Наземний транспорт|Нелегальні наркотики|Алкоголь|Розкішні побутові товари|
+|4.|Медичні препарати|Військове обладнання|Модульні житлові блоки|Ядерні відходи|Поживна паста|Органи|
+|5.|Питна вода|Біженці|Зерно|Стрілецька зброя|Сонячні панелі|Спеції|
+|6.|Сталепрокат|Чай|Торпеди|Іграшки|Деревина|Необроблена руда|</seg>
       </tuv>
     </tu>
     <tu>
@@ -2266,6 +2457,29 @@ on one another:</seg>
       </tuv>
       <tuv lang="uk" changeid="darkmentat" changedate="20220615T163459Z" creationid="IrynaDobro" creationdate="20220530T210342Z">
         <seg>Значна частина вашої роботи полягатиме в інтерпретації результатів кидків гравців та перетворення їх на цікаві ігрові наслідки. Ваші гравці регулярно отримуватимуть часткові успіхи, і вам потрібно буде визначити на ходу ускладнення чи ціну для гравців. Саме тому крок 3 в розділі _КИДАЄМО КУБИ_ є таким важливим. Нехай кожен вільно висловлюється щодо можливого розвитку ситуації перед кидком, це допоможе грі йти плавніше. І коли ваші гравці потрапляють у зону 7-9, запропонуйте їм важкий вибір або відніміть у них їхні ресурси (_здоров'я_, _припаси_ і т.д.). Нехай наслідки кидків йдуть лавиноподібно та нашаровуються один за одним: </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>NAMES
+1
+Albern
+Ananya
+Bodhi
+Brindt
+Charles
+Chelle</seg>
+      </tuv>
+      <tuv lang="uk" changeid="darkmentat" changedate="20220803T130213Z" creationid="darkmentat" creationdate="20220803T130213Z">
+        <seg>### Імена
+| к6  | 1.        | 2.      | 3.      | 4.     | 5.     | 6.    |
+| :-: | :-------: | :-----: | :-----: | :----: | :----: | :---: |
+| 1.  | Альберн   | Ананья  | Бодхі   | Брайнд | Чарльз | Чілі  |
+| 2.  | Корбан    | Дажіл   | Дюнкенн | Форест | Берні  | Гаррі |
+| 3.  | Хорза     | Ігнвалл | Каролін | Керра  | Кіон   | Котаі |
+| 4.  | Лараміє   | Лорі    | Оліффія | Озер   | Піго   | Присс |
+| 5.  | Робін     | Рідлі   | Сарра   | Шаіл   | Софія  | Стіді |
+| 6.  | Талсоріан | Торрін  | Варін   | Васкез | Вай    | Ксанг |</seg>
       </tuv>
     </tu>
     <tu>
