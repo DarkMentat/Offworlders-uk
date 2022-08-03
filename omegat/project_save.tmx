@@ -112,8 +112,8 @@
       <tuv lang="en-US">
         <seg>#### MONEY, WEAPONS, AND GEAR</seg>
       </tuv>
-      <tuv lang="uk" changeid="darkmentat" changedate="20220522T163615Z" creationid="darkmentat" creationdate="20220521T202203Z">
-        <seg>### ГРОШІ, ЗБРОЯ ТА СПОРЯДЖЕННЯ</seg>
+      <tuv lang="uk" changeid="darkmentat" changedate="20220803T125222Z" creationid="darkmentat" creationdate="20220521T202203Z">
+        <seg>### Гроші, зброя та спорядження</seg>
       </tuv>
     </tu>
     <tu>
@@ -184,8 +184,8 @@
       <tuv lang="en-US">
         <seg>#### THE SHIP</seg>
       </tuv>
-      <tuv lang="uk" changeid="darkmentat" changedate="20220522T163615Z" creationid="darkmentat" creationdate="20220521T212058Z">
-        <seg>### ЗОРЕЛІТ</seg>
+      <tuv lang="uk" changeid="darkmentat" changedate="20220803T125337Z" creationid="darkmentat" creationdate="20220521T212058Z">
+        <seg>### Зореліт</seg>
       </tuv>
     </tu>
     <tu>
@@ -370,16 +370,16 @@ DriveThruRPG: [drivethrurpg.com/product/257632/Offworlders](https://www.drivethr
       <tuv lang="en-US">
         <seg>###### CONTROLLING THE SHIP</seg>
       </tuv>
-      <tuv lang="uk" changeid="darkmentat" changedate="20220522T163836Z" creationid="darkmentat" creationdate="20220522T102718Z">
-        <seg>#### УПРАВЛІННЯ ЗОРЕЛЬОТОМ</seg>
+      <tuv lang="uk" changeid="darkmentat" changedate="20220803T125500Z" creationid="darkmentat" creationdate="20220522T102718Z">
+        <seg>#### Управління зорельотом</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="en-US">
         <seg>###### CREATING THE SHIP</seg>
       </tuv>
-      <tuv lang="uk" changeid="darkmentat" changedate="20220615T075313Z" creationid="darkmentat" creationdate="20220522T085624Z">
-        <seg>#### СТВОРЕННЯ ЗОРЕЛЬОТА</seg>
+      <tuv lang="uk" changeid="darkmentat" changedate="20220803T125344Z" creationid="darkmentat" creationdate="20220522T085624Z">
+        <seg>#### Створення зорельота</seg>
       </tuv>
     </tu>
     <tu>
@@ -426,8 +426,8 @@ DriveThruRPG: [drivethrurpg.com/product/257632/Offworlders](https://www.drivethr
       <tuv lang="en-US">
         <seg>###### GEAR</seg>
       </tuv>
-      <tuv lang="uk" changeid="darkmentat" changedate="20220522T163836Z" creationid="darkmentat" creationdate="20220521T205045Z">
-        <seg>#### СПОРЯДЖЕННЯ</seg>
+      <tuv lang="uk" changeid="darkmentat" changedate="20220803T125258Z" creationid="darkmentat" creationdate="20220521T205045Z">
+        <seg>#### Спорядження</seg>
       </tuv>
     </tu>
     <tu>
@@ -450,8 +450,8 @@ DriveThruRPG: [drivethrurpg.com/product/257632/Offworlders](https://www.drivethr
       <tuv lang="en-US">
         <seg>###### HEAVY ITEMS</seg>
       </tuv>
-      <tuv lang="uk" changeid="darkmentat" changedate="20220522T163836Z" creationid="darkmentat" creationdate="20220521T204638Z">
-        <seg>#### ВАЖКІ ПРЕДМЕТИ</seg>
+      <tuv lang="uk" changeid="darkmentat" changedate="20220803T125252Z" creationid="darkmentat" creationdate="20220521T204638Z">
+        <seg>#### Важкі предмети</seg>
       </tuv>
     </tu>
     <tu>
@@ -466,16 +466,16 @@ DriveThruRPG: [drivethrurpg.com/product/257632/Offworlders](https://www.drivethr
       <tuv lang="en-US">
         <seg>###### MAINTENANCE</seg>
       </tuv>
-      <tuv lang="uk" changeid="darkmentat" changedate="20220522T163836Z" creationid="darkmentat" creationdate="20220522T122230Z">
-        <seg>#### ТЕХОБСЛУГОВУВАННЯ</seg>
+      <tuv lang="uk" changeid="darkmentat" changedate="20220803T125511Z" creationid="darkmentat" creationdate="20220522T122230Z">
+        <seg>#### Техобслуговування</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="en-US">
         <seg>###### MORE EXPENSIVE ITEMS</seg>
       </tuv>
-      <tuv lang="uk" changeid="darkmentat" changedate="20220522T163836Z" creationid="darkmentat" creationdate="20220521T203554Z">
-        <seg>#### ДЕЩО ДОРОЖЧІ РЕЧІ</seg>
+      <tuv lang="uk" changeid="darkmentat" changedate="20220803T125237Z" creationid="darkmentat" creationdate="20220521T203554Z">
+        <seg>#### Дещо дорожчі речі</seg>
       </tuv>
     </tu>
     <tu>
@@ -546,8 +546,8 @@ DriveThruRPG: [drivethrurpg.com/product/257632/Offworlders](https://www.drivethr
       <tuv lang="en-US">
         <seg>###### SHIP UPGRADES</seg>
       </tuv>
-      <tuv lang="uk" changeid="darkmentat" changedate="20220602T214512Z" creationid="darkmentat" creationdate="20220522T100605Z">
-        <seg>#### АПГРЕЙДИ КОРАБЛЯ</seg>
+      <tuv lang="uk" changeid="darkmentat" changedate="20220803T125352Z" creationid="darkmentat" creationdate="20220522T100605Z">
+        <seg>#### Апгрейди корабля</seg>
       </tuv>
     </tu>
     <tu>
@@ -562,8 +562,8 @@ DriveThruRPG: [drivethrurpg.com/product/257632/Offworlders](https://www.drivethr
       <tuv lang="en-US">
         <seg>###### SUPPLY</seg>
       </tuv>
-      <tuv lang="uk" changeid="darkmentat" changedate="20220522T163836Z" creationid="darkmentat" creationdate="20220521T203927Z">
-        <seg>#### ПРИПАСИ</seg>
+      <tuv lang="uk" changeid="darkmentat" changedate="20220803T125244Z" creationid="darkmentat" creationdate="20220521T203927Z">
+        <seg>#### Припаси</seg>
       </tuv>
     </tu>
     <tu>
@@ -586,8 +586,8 @@ DriveThruRPG: [drivethrurpg.com/product/257632/Offworlders](https://www.drivethr
       <tuv lang="en-US">
         <seg>###### THINGS WORTH ONE CREDIT</seg>
       </tuv>
-      <tuv lang="uk" changeid="darkmentat" changedate="20220522T163836Z" creationid="darkmentat" creationdate="20220521T203313Z">
-        <seg>#### РЕЧІ ЩО КОШТУЮТЬ ОДИН КРЕДИТ</seg>
+      <tuv lang="uk" changeid="darkmentat" changedate="20220803T125229Z" creationid="darkmentat" creationdate="20220521T203313Z">
+        <seg>#### Речі що коштують один кредит</seg>
       </tuv>
     </tu>
     <tu>
@@ -604,8 +604,8 @@ DriveThruRPG: [drivethrurpg.com/product/257632/Offworlders](https://www.drivethr
       <tuv lang="en-US">
         <seg>###### TRAVEL</seg>
       </tuv>
-      <tuv lang="uk" changeid="darkmentat" changedate="20220522T163836Z" creationid="darkmentat" creationdate="20220522T105131Z">
-        <seg>#### ПОДОРОЖІ</seg>
+      <tuv lang="uk" changeid="darkmentat" changedate="20220803T125506Z" creationid="darkmentat" creationdate="20220522T105131Z">
+        <seg>#### Подорожі</seg>
       </tuv>
     </tu>
     <tu>
@@ -3097,8 +3097,8 @@ Starship drive fuel 3C Per unit.
 Starship upgrades 50C
 Hull repairs 1C Repairs 2 Hull. Available in any port.</seg>
       </tuv>
-      <tuv lang="uk" changeid="darkmentat" changedate="20220727T222424Z" creationid="darkmentat" creationdate="20220521T212048Z">
-        <seg>#### СПОРЯДЖЕННЯ ЗОРЕЛЬОТА
+      <tuv lang="uk" changeid="darkmentat" changedate="20220803T125308Z" creationid="darkmentat" creationdate="20220521T212048Z">
+        <seg>#### Спорядження зорельота
 
 Паливо для зоряного перельоту - 3К за одиницю  
 Апгрейд зорельота - 50К  
