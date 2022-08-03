@@ -40,8 +40,8 @@
       <tuv lang="en-US">
         <seg>#### ABILITIES</seg>
       </tuv>
-      <tuv lang="uk" changeid="darkmentat" changedate="20220522T163615Z" creationid="darkmentat" creationdate="20220519T202251Z">
-        <seg>### ТАЛАНТИ</seg>
+      <tuv lang="uk" changeid="darkmentat" changedate="20220803T124930Z" creationid="darkmentat" creationdate="20220519T202251Z">
+        <seg>### Таланти</seg>
       </tuv>
     </tu>
     <tu>
@@ -80,8 +80,8 @@
       <tuv lang="en-US">
         <seg>#### FIGHTING &amp; DAMAGE</seg>
       </tuv>
-      <tuv lang="uk" changeid="darkmentat" changedate="20220522T175622Z" creationid="darkmentat" creationdate="20220521T190014Z">
-        <seg>### БІЙ ТА УШКОДЖЕННЯ</seg>
+      <tuv lang="uk" changeid="darkmentat" changedate="20220803T125145Z" creationid="darkmentat" creationdate="20220521T190014Z">
+        <seg>### Бій та ушкодження</seg>
       </tuv>
     </tu>
     <tu>
@@ -104,8 +104,8 @@
       <tuv lang="en-US">
         <seg>#### MAKING AN OFFWORLDER</seg>
       </tuv>
-      <tuv lang="uk" changeid="darkmentat" changedate="20220522T163615Z" creationid="darkmentat" creationdate="20220519T202729Z">
-        <seg>### СТВОРЕННЯ КРАЄХОДЦЯ </seg>
+      <tuv lang="uk" changeid="darkmentat" changedate="20220803T124940Z" creationid="darkmentat" creationdate="20220519T202729Z">
+        <seg>### Створення краєходця</seg>
       </tuv>
     </tu>
     <tu>
@@ -152,8 +152,8 @@
       <tuv lang="en-US">
         <seg>#### SKILLS</seg>
       </tuv>
-      <tuv lang="uk" changeid="darkmentat" changedate="20220604T183709Z" creationid="darkmentat" creationdate="20220519T201217Z">
-        <seg>### НАВИЧКИ</seg>
+      <tuv lang="uk" changeid="darkmentat" changedate="20220803T124920Z" creationid="darkmentat" creationdate="20220519T201217Z">
+        <seg>### Навички</seg>
       </tuv>
     </tu>
     <tu>
@@ -258,8 +258,8 @@ DriveThruRPG: [drivethrurpg.com/product/257632/Offworlders](https://www.drivethr
       <tuv lang="en-US">
         <seg>###### 1.PICK A CLASS</seg>
       </tuv>
-      <tuv lang="uk" changeid="darkmentat" changedate="20220522T163836Z" creationid="darkmentat" creationdate="20220519T202813Z">
-        <seg>#### 1. ВИБЕРІТЬ КЛАС</seg>
+      <tuv lang="uk" changeid="darkmentat" changedate="20220803T124946Z" creationid="darkmentat" creationdate="20220519T202813Z">
+        <seg>#### 1. Виберіть клас</seg>
       </tuv>
     </tu>
     <tu>
@@ -274,8 +274,8 @@ DriveThruRPG: [drivethrurpg.com/product/257632/Offworlders](https://www.drivethr
       <tuv lang="en-US">
         <seg>###### 2.CHOOSE YOUR SKILLS</seg>
       </tuv>
-      <tuv lang="uk" changeid="darkmentat" changedate="20220604T183752Z" creationid="darkmentat" creationdate="20220519T203015Z">
-        <seg>#### 2. ВИБЕРІТЬ СВОЇ НАВИЧКИ</seg>
+      <tuv lang="uk" changeid="darkmentat" changedate="20220803T124954Z" creationid="darkmentat" creationdate="20220519T203015Z">
+        <seg>#### 2. Виберіть свої навички</seg>
       </tuv>
     </tu>
     <tu>
@@ -290,8 +290,8 @@ DriveThruRPG: [drivethrurpg.com/product/257632/Offworlders](https://www.drivethr
       <tuv lang="en-US">
         <seg>###### 3.ASSIGN YOUR ATTRIBUTES</seg>
       </tuv>
-      <tuv lang="uk" changeid="darkmentat" changedate="20220522T163836Z" creationid="darkmentat" creationdate="20220519T203046Z">
-        <seg>#### 3. РОЗПОДІЛІТЬ АТРИБУТИ</seg>
+      <tuv lang="uk" changeid="darkmentat" changedate="20220803T125002Z" creationid="darkmentat" creationdate="20220519T203046Z">
+        <seg>#### 3. Розподіліть атрибути</seg>
       </tuv>
     </tu>
     <tu>
@@ -306,24 +306,24 @@ DriveThruRPG: [drivethrurpg.com/product/257632/Offworlders](https://www.drivethr
       <tuv lang="en-US">
         <seg>###### 4.RECORD YOUR HEALTH</seg>
       </tuv>
-      <tuv lang="uk" changeid="darkmentat" changedate="20220522T163836Z" creationid="darkmentat" creationdate="20220519T203357Z">
-        <seg>#### 4. ЗАПИШІТЬ ВАШЕ ЗДОРОВ'Я</seg>
+      <tuv lang="uk" changeid="darkmentat" changedate="20220803T125008Z" creationid="darkmentat" creationdate="20220519T203357Z">
+        <seg>#### 4. Запишіть ваше здоров'я</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="en-US">
         <seg>###### 5.GET YOUR GEAR</seg>
       </tuv>
-      <tuv lang="uk" changeid="darkmentat" changedate="20220522T163836Z" creationid="darkmentat" creationdate="20220519T203659Z">
-        <seg>#### 5. ВИБЕРІТЬ СПОРЯДЖЕННЯ</seg>
+      <tuv lang="uk" changeid="darkmentat" changedate="20220803T125015Z" creationid="darkmentat" creationdate="20220519T203659Z">
+        <seg>#### 5. Виберіть спорядження</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="en-US">
         <seg>###### 6. NAME AND DESCRIBE YOUR CHARACTER</seg>
       </tuv>
-      <tuv lang="uk" changeid="darkmentat" changedate="20220522T163836Z" creationid="darkmentat" creationdate="20220519T204120Z">
-        <seg>#### 6. ДАЙТЕ ІМ'Я ПЕРСОНАЖУ ТА ОПИШІТЬ ЙОГО</seg>
+      <tuv lang="uk" changeid="darkmentat" changedate="20220803T125025Z" creationid="darkmentat" creationdate="20220519T204120Z">
+        <seg>#### 6. Дайте ім'я персонажу та опишіть його</seg>
       </tuv>
     </tu>
     <tu>
@@ -338,8 +338,8 @@ DriveThruRPG: [drivethrurpg.com/product/257632/Offworlders](https://www.drivethr
       <tuv lang="en-US">
         <seg>###### ALIENS</seg>
       </tuv>
-      <tuv lang="uk" changeid="darkmentat" changedate="20220522T163836Z" creationid="darkmentat" creationdate="20220519T204615Z">
-        <seg>#### ПРИБУЛЬЦІ</seg>
+      <tuv lang="uk" changeid="darkmentat" changedate="20220803T125039Z" creationid="darkmentat" creationdate="20220519T204615Z">
+        <seg>#### Прибульці</seg>
       </tuv>
     </tu>
     <tu>
@@ -354,8 +354,8 @@ DriveThruRPG: [drivethrurpg.com/product/257632/Offworlders](https://www.drivethr
       <tuv lang="en-US">
         <seg>###### ARMOR</seg>
       </tuv>
-      <tuv lang="uk" changeid="darkmentat" changedate="20220522T163836Z" creationid="darkmentat" creationdate="20220521T200707Z">
-        <seg>#### БРОНЯ</seg>
+      <tuv lang="uk" changeid="darkmentat" changedate="20220803T125207Z" creationid="darkmentat" creationdate="20220521T200707Z">
+        <seg>#### Броня</seg>
       </tuv>
     </tu>
     <tu>
@@ -394,8 +394,8 @@ DriveThruRPG: [drivethrurpg.com/product/257632/Offworlders](https://www.drivethr
       <tuv lang="en-US">
         <seg>###### CUSTOMIZING CLASSES</seg>
       </tuv>
-      <tuv lang="uk" changeid="darkmentat" changedate="20220522T163836Z" creationid="darkmentat" creationdate="20220519T204407Z">
-        <seg>#### МОДИФІКАЦІЯ КЛАСІВ</seg>
+      <tuv lang="uk" changeid="darkmentat" changedate="20220803T125032Z" creationid="darkmentat" creationdate="20220519T204407Z">
+        <seg>#### Модифікація класів</seg>
       </tuv>
     </tu>
     <tu>
@@ -434,16 +434,16 @@ DriveThruRPG: [drivethrurpg.com/product/257632/Offworlders](https://www.drivethr
       <tuv lang="en-US">
         <seg>###### GEEK</seg>
       </tuv>
-      <tuv lang="uk" changeid="darkmentat" changedate="20220727T113042Z" creationid="darkmentat" creationdate="20220520T211405Z">
-        <seg>### ТЕХНАР</seg>
+      <tuv lang="uk" changeid="darkmentat" changedate="20220803T125108Z" creationid="darkmentat" creationdate="20220520T211405Z">
+        <seg>### Технар</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="en-US">
         <seg>###### HEALTH &amp; DYING</seg>
       </tuv>
-      <tuv lang="uk" changeid="darkmentat" changedate="20220522T163836Z" creationid="darkmentat" creationdate="20220521T191326Z">
-        <seg>#### ЗДОРОВ'Я ТА СМЕРТЬ</seg>
+      <tuv lang="uk" changeid="darkmentat" changedate="20220803T125153Z" creationid="darkmentat" creationdate="20220521T191326Z">
+        <seg>#### Здоров'я та смерть</seg>
       </tuv>
     </tu>
     <tu>
@@ -482,8 +482,8 @@ DriveThruRPG: [drivethrurpg.com/product/257632/Offworlders](https://www.drivethr
       <tuv lang="en-US">
         <seg>###### OUTLAW</seg>
       </tuv>
-      <tuv lang="uk" changeid="darkmentat" changedate="20220727T113102Z" creationid="darkmentat" creationdate="20220520T203805Z">
-        <seg>### ПРОЙДИСВІТ</seg>
+      <tuv lang="uk" changeid="darkmentat" changedate="20220803T125119Z" creationid="darkmentat" creationdate="20220520T203805Z">
+        <seg>### Пройдисвіт</seg>
       </tuv>
     </tu>
     <tu>
@@ -498,8 +498,8 @@ DriveThruRPG: [drivethrurpg.com/product/257632/Offworlders](https://www.drivethr
       <tuv lang="en-US">
         <seg>###### PLAYER CHARACTERS: THE CREW OF THE QUICHE LORRAINE</seg>
       </tuv>
-      <tuv lang="uk" changeid="darkmentat" changedate="20220727T193414Z" creationid="darkmentat" creationdate="20220522T163615Z">
-        <seg>### ПРИКЛАД ПЕРСОНАЖІВ ГРАВЦІВ: ЕКІПАЖ КОРАБЛЯ «КІШ ЛОРЕН»</seg>
+      <tuv lang="uk" changeid="darkmentat" changedate="20220803T125047Z" creationid="darkmentat" creationdate="20220522T163615Z">
+        <seg>### Приклад персонажів гравців: екіпаж корабля «Кіш Лорен»</seg>
       </tuv>
     </tu>
     <tu>
@@ -522,16 +522,16 @@ DriveThruRPG: [drivethrurpg.com/product/257632/Offworlders](https://www.drivethr
       <tuv lang="en-US">
         <seg>###### PSYCHIC</seg>
       </tuv>
-      <tuv lang="uk" changeid="darkmentat" changedate="20220727T113057Z" creationid="darkmentat" creationdate="20220521T181750Z">
-        <seg>### ПСІОНІК</seg>
+      <tuv lang="uk" changeid="darkmentat" changedate="20220803T125135Z" creationid="darkmentat" creationdate="20220521T181750Z">
+        <seg>### Псіонік</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="en-US">
         <seg>###### RECOVERING HEALTH</seg>
       </tuv>
-      <tuv lang="uk" changeid="darkmentat" changedate="20220522T180253Z" creationid="darkmentat" creationdate="20220521T201903Z">
-        <seg>#### ВІДНОВЛЕННЯ ЗДОРОВ'Я</seg>
+      <tuv lang="uk" changeid="darkmentat" changedate="20220803T125215Z" creationid="darkmentat" creationdate="20220521T201903Z">
+        <seg>#### Відновлення здоров'я</seg>
       </tuv>
     </tu>
     <tu>
@@ -612,8 +612,8 @@ DriveThruRPG: [drivethrurpg.com/product/257632/Offworlders](https://www.drivethr
       <tuv lang="en-US">
         <seg>###### WARRIOR</seg>
       </tuv>
-      <tuv lang="uk" changeid="darkmentat" changedate="20220727T113051Z" creationid="darkmentat" creationdate="20220520T211100Z">
-        <seg>### ВОЯКА</seg>
+      <tuv lang="uk" changeid="darkmentat" changedate="20220803T125126Z" creationid="darkmentat" creationdate="20220520T211100Z">
+        <seg>### Вояка</seg>
       </tuv>
     </tu>
     <tu>
