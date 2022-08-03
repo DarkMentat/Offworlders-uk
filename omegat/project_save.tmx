@@ -16,8 +16,8 @@
       <tuv lang="en-US">
         <seg>### PLAYING THE GAME</seg>
       </tuv>
-      <tuv lang="uk" changeid="darkmentat" changedate="20220522T163615Z" creationid="darkmentat" creationdate="20220516T235232Z">
-        <seg>## ПРАВИЛА ГРИ</seg>
+      <tuv lang="uk" changeid="darkmentat" changedate="20220803T124644Z" creationid="darkmentat" creationdate="20220516T235232Z">
+        <seg>## Правила гри</seg>
       </tuv>
     </tu>
     <tu>
@@ -32,8 +32,8 @@
       <tuv lang="en-US">
         <seg>### WELCOME TO OFFWORLDERS</seg>
       </tuv>
-      <tuv lang="uk" changeid="darkmentat" changedate="20220522T163615Z" creationid="darkmentat" creationdate="20220516T235042Z">
-        <seg>## ВІТАННЯ КРАЄХОДЦЯМ</seg>
+      <tuv lang="uk" changeid="darkmentat" changedate="20220803T124618Z" creationid="darkmentat" creationdate="20220516T235042Z">
+        <seg>## Вітання краєходцям</seg>
       </tuv>
     </tu>
     <tu>
@@ -48,16 +48,16 @@
       <tuv lang="en-US">
         <seg>#### ATTRIBUTES</seg>
       </tuv>
-      <tuv lang="uk" changeid="darkmentat" changedate="20220522T163615Z" creationid="darkmentat" creationdate="20220519T194651Z">
-        <seg>### АТРИБУТИ</seg>
+      <tuv lang="uk" changeid="darkmentat" changedate="20220803T124911Z" creationid="darkmentat" creationdate="20220519T194651Z">
+        <seg>### Атрибути</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="en-US">
         <seg>#### BASIC TERMS</seg>
       </tuv>
-      <tuv lang="uk" changeid="darkmentat" changedate="20220522T163615Z" creationid="darkmentat" creationdate="20220516T235347Z">
-        <seg>### ОСНОВНІ ТЕРМІНИ</seg>
+      <tuv lang="uk" changeid="darkmentat" changedate="20220803T124820Z" creationid="darkmentat" creationdate="20220516T235347Z">
+        <seg>### Основні терміни</seg>
       </tuv>
     </tu>
     <tu>
@@ -136,8 +136,8 @@
       <tuv lang="en-US">
         <seg>#### ROLLING THE DICE</seg>
       </tuv>
-      <tuv lang="uk" changeid="darkmentat" changedate="20220522T163615Z" creationid="darkmentat" creationdate="20220516T235525Z">
-        <seg>### КИДАЄМО КУБИ</seg>
+      <tuv lang="uk" changeid="darkmentat" changedate="20220803T124830Z" creationid="darkmentat" creationdate="20220516T235525Z">
+        <seg>### Кидаємо куби</seg>
       </tuv>
     </tu>
     <tu>
@@ -160,8 +160,8 @@
       <tuv lang="en-US">
         <seg>#### THE CONVERSATION</seg>
       </tuv>
-      <tuv lang="uk" changeid="darkmentat" changedate="20220522T163615Z" creationid="darkmentat" creationdate="20220516T235256Z">
-        <seg>### РОЗМОВА</seg>
+      <tuv lang="uk" changeid="darkmentat" changedate="20220803T124811Z" creationid="darkmentat" creationdate="20220516T235256Z">
+        <seg>### Розмова</seg>
       </tuv>
     </tu>
     <tu>
@@ -200,8 +200,8 @@
       <tuv lang="en-US">
         <seg>#### WHAT YOU NEED</seg>
       </tuv>
-      <tuv lang="uk" changeid="darkmentat" changedate="20220522T163615Z" creationid="darkmentat" creationdate="20220516T235236Z">
-        <seg>### ЩО НЕОБХІДНО ДЛЯ ГРИ</seg>
+      <tuv lang="uk" changeid="darkmentat" changedate="20220803T124802Z" creationid="darkmentat" creationdate="20220516T235236Z">
+        <seg>### Що необхідно для гри</seg>
       </tuv>
     </tu>
     <tu>
@@ -250,8 +250,8 @@ DriveThruRPG: [drivethrurpg.com/product/257632/Offworlders](https://www.drivethr
       <tuv lang="en-US">
         <seg>###### 1. DESCRIBE WHAT YOU WANT TO DO, AND HOW YOU DO IT.</seg>
       </tuv>
-      <tuv lang="uk" changeid="darkmentat" changedate="20220522T163836Z" creationid="darkmentat" creationdate="20220516T235657Z">
-        <seg>#### 1. ОПИШІТЬ ЩО ВИ ХОЧЕТЕ ДОСЯГТИ І ЯКИМ ЧИНОМ</seg>
+      <tuv lang="uk" changeid="darkmentat" changedate="20220803T124838Z" creationid="darkmentat" creationdate="20220516T235657Z">
+        <seg>#### 1. Опишіть, що ви хочете досягти і яким чином</seg>
       </tuv>
     </tu>
     <tu>
@@ -266,8 +266,8 @@ DriveThruRPG: [drivethrurpg.com/product/257632/Offworlders](https://www.drivethr
       <tuv lang="en-US">
         <seg>###### 2. PICK THE MOST APPROPRIATE OF THE FOUR ATTRIBUTES.</seg>
       </tuv>
-      <tuv lang="uk" changeid="darkmentat" changedate="20220522T163836Z" creationid="darkmentat" creationdate="20220516T235705Z">
-        <seg>#### 2. ВИБЕРІТЬ НАЙБІЛЬШ ПІДХОЖИЙ З ЧОТИРЬОХ АТРИБУТІВ</seg>
+      <tuv lang="uk" changeid="darkmentat" changedate="20220803T124848Z" creationid="darkmentat" creationdate="20220516T235705Z">
+        <seg>#### 2. Виберіть найбільш підхожий з чотирьох атрибутів</seg>
       </tuv>
     </tu>
     <tu>
@@ -282,8 +282,8 @@ DriveThruRPG: [drivethrurpg.com/product/257632/Offworlders](https://www.drivethr
       <tuv lang="en-US">
         <seg>###### 3. TALK ABOUT THE POTENTIAL OUTCOMES.</seg>
       </tuv>
-      <tuv lang="uk" changeid="darkmentat" changedate="20220522T163836Z" creationid="darkmentat" creationdate="20220516T235732Z">
-        <seg>#### 3. ОГОВОРІТЬ МОЖЛИВІ НАСЛІДКИ</seg>
+      <tuv lang="uk" changeid="darkmentat" changedate="20220803T124854Z" creationid="darkmentat" creationdate="20220516T235732Z">
+        <seg>#### 3. Оговоріть можливі наслідки</seg>
       </tuv>
     </tu>
     <tu>
@@ -298,8 +298,8 @@ DriveThruRPG: [drivethrurpg.com/product/257632/Offworlders](https://www.drivethr
       <tuv lang="en-US">
         <seg>###### 4. ROLL THE DICE!</seg>
       </tuv>
-      <tuv lang="uk" changeid="darkmentat" changedate="20220522T163836Z" creationid="darkmentat" creationdate="20220516T235741Z">
-        <seg>#### 4. КИДАЙТЕ КУБИ!</seg>
+      <tuv lang="uk" changeid="darkmentat" changedate="20220803T124902Z" creationid="darkmentat" creationdate="20220516T235741Z">
+        <seg>#### 4. Кидайте куби!</seg>
       </tuv>
     </tu>
     <tu>
@@ -386,8 +386,8 @@ DriveThruRPG: [drivethrurpg.com/product/257632/Offworlders](https://www.drivethr
       <tuv lang="en-US">
         <seg>###### CREDIT DUE</seg>
       </tuv>
-      <tuv lang="uk" changeid="darkmentat" changedate="20220522T163836Z" creationid="darkmentat" creationdate="20220516T235154Z">
-        <seg>#### ПОДЯКА</seg>
+      <tuv lang="uk" changeid="darkmentat" changedate="20220803T124632Z" creationid="darkmentat" creationdate="20220516T235154Z">
+        <seg>#### Подяка</seg>
       </tuv>
     </tu>
     <tu>
