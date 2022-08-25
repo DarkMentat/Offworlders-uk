@@ -88,8 +88,8 @@
       <tuv lang="en-US">
         <seg>#### INSPIRATIONAL TABLES</seg>
       </tuv>
-      <tuv lang="uk" changeid="darkmentat" changedate="20220803T125901Z" creationid="darkmentat" creationdate="20220522T163615Z">
-        <seg>## Таблички надхнення</seg>
+      <tuv lang="uk" changeid="darkmentat" changedate="20220825T054126Z" creationid="darkmentat" creationdate="20220522T163615Z">
+        <seg>## Таблички натхнення</seg>
       </tuv>
     </tu>
     <tu>
@@ -2514,8 +2514,8 @@ leaders and members. How is it struc-
 tured, politically? When it goes to war,
 what kind of soldiers does it have?</seg>
       </tuv>
-      <tuv lang="uk" changeid="darkmentat" changedate="20220825T053832Z" creationid="darkmentat" creationdate="20220603T125659Z">
-        <seg>Запишіть фракції на своїй карті та дайте їм конкурентні цілі. Ви можете почати всього з двох, або ж створити заплутану інтригу з трьома чи чотирма фракціями. При створенні фракції подумайте про їх членів та лідерів. Як вони організовані політично? Яких солдатів вони відправлять у випадку війни?</seg>
+      <tuv lang="uk" changeid="darkmentat" changedate="20220825T054019Z" creationid="darkmentat" creationdate="20220603T125659Z">
+        <seg>Запишіть фракції на своїй карті та дайте їм конкурентні цілі. Ви можете почати всього з двох, або ж створити заплутану інтригу з трьома чи чотирма фракціями. При створенні фракції подумайте про їх членів та лідерів. Як вони організовані політично? Що в них за солдати на випадок війни?</seg>
       </tuv>
     </tu>
     <tu>
@@ -3405,8 +3405,8 @@ ample timeline takes place, drive fuel
 is likely to become more scarce and
 expensive within the UDW.</seg>
       </tuv>
-      <tuv lang="uk" changeid="darkmentat" changedate="20220726T165456Z" creationid="darkmentat" creationdate="20220603T131911Z">
-        <seg>Таймлайн починається з першої події. Далі кожна подія трапляється між зустрічами або по мірі плину внутрішньоігрового часу. Коли персонажі гравців витрачають час на подорожі, таймлайни також розвиваються. Покажіть гравцям як всесвіт змінюється з їхнім розвитком. Наприклад, при настанні події 4 в наведеному таймлайні, паливо для кораблів стане біль дефіцитним та дорогим в межах Коаліції.</seg>
+      <tuv lang="uk" changeid="darkmentat" changedate="20220825T054052Z" creationid="darkmentat" creationdate="20220603T131911Z">
+        <seg>Таймлайн починається з першої події. Далі кожна подія трапляється між зустрічами або по мірі плину внутрішньоігрового часу. Коли персонажі гравців витрачають час на подорожі, таймлайни також розвиваються. Покажіть гравцям як всесвіт змінюється, поки вони подорожують. Наприклад, при настанні події 4 в наведеному таймлайні, паливо для кораблів стане біль дефіцитним та дорогим в межах Коаліції.</seg>
       </tuv>
     </tu>
     <tu>
@@ -3873,8 +3873,8 @@ own goals, you can use the job format
 to plan out relevant challenges on a
 session-by-session basis.</seg>
       </tuv>
-      <tuv lang="uk" changeid="darkmentat" changedate="20220726T170332Z" creationid="darkmentat" creationdate="20220603T133252Z">
-        <seg>Ваші гравці можуть придумати собі власні цілі й інтереси по ходу кампанії. Підтримайте їх в цьому! Прислуховуйтесь до їхніх ідей щодо завдань, локацій чи персонажів. По мірі розвитку всесвіту, ви можете користуватись табличками надхнення нижче, щоб прийти до нових ідей. Завдання не має бути буквальною роботою від роботодавця заради зарплати. Якщо гравці придумали свої власні цілі, ви можете використовувати формат підготовки завдань, щоб вчасно підготувати для них виклики від зустрічі до зустрічі.</seg>
+      <tuv lang="uk" changeid="darkmentat" changedate="20220825T054123Z" creationid="darkmentat" creationdate="20220603T133252Z">
+        <seg>Ваші гравці можуть придумати собі власні цілі й інтереси по ходу кампанії. Підтримайте їх в цьому! Прислуховуйтесь до їхніх ідей щодо завдань, локацій чи персонажів. По мірі розвитку всесвіту, ви можете користуватись табличками натхнення нижче, щоб прийти до нових ідей. Завдання не має бути буквальною роботою від роботодавця заради зарплати. Якщо гравці придумали свої власні цілі, ви можете використовувати формат підготовки завдань, щоб вчасно підготувати для них виклики від зустрічі до зустрічі.</seg>
       </tuv>
     </tu>
     <tu>
@@ -3910,8 +3910,8 @@ opportunities for jobs. When the PC’s
 are doing a job, they are likely to inter-
 act with agents of at least one faction.</seg>
       </tuv>
-      <tuv lang="uk" changeid="darkmentat" changedate="20220603T125901Z" creationid="darkmentat" creationdate="20220603T125901Z">
-        <seg>Фракції будуть основними рушійними силами в ваших таймлайнах, і це буде створювати потенційні завдання й можливості для гравців. Під час виконання завдань, персонажі гравців ймовірно можуть зіткнутись з представниками як мінімум однієї фракції.</seg>
+      <tuv lang="uk" changeid="darkmentat" changedate="20220825T053956Z" creationid="darkmentat" creationdate="20220603T125901Z">
+        <seg>Фракції будуть основними рушійними силами в ваших таймлайнах, і це буде створювати потенційні завдання й можливості для гравців. Під час виконання завдань, персонажі гравців ймовірно взаємодіятимуть з представниками як принаймні однієї фракції.</seg>
       </tuv>
     </tu>
     <tu>
@@ -3961,8 +3961,8 @@ World_ by Sage Latorra and Adam Koebel, as well
 as _Traveller_ by Marc Miller and _Stars Without Num-
 ber_ by Kevin Crawford.</seg>
       </tuv>
-      <tuv lang="uk" changeid="darkmentat" changedate="20220724T213712Z" creationid="darkmentat" creationdate="20220516T235205Z">
-        <seg>На розробку _Offworlders_ надихнула гра _World of Dungeons_ Джона Харпера. Також серед джерел надхнення варто зазначити _Dungeon World_ Сейжа Латорра та Адама Кєбеля, а також _Traveller_ Марка Міллера та _Stars Without Number_ Кевіна Кроуфорда.</seg>
+      <tuv lang="uk" changeid="darkmentat" changedate="20220825T054115Z" creationid="darkmentat" creationdate="20220516T235205Z">
+        <seg>На розробку _Offworlders_ надихнула гра _World of Dungeons_ Джона Харпера. Також серед джерел натхнення варто зазначити _Dungeon World_ Сейжа Латорра та Адама Кєбеля, а також _Traveller_ Марка Міллера та _Stars Without Number_ Кевіна Кроуфорда.</seg>
       </tuv>
     </tu>
     <tu>
